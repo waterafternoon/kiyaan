@@ -5,8 +5,11 @@ Running bowlparser.py requires a few things beforehand.
 1. Download python 3. Don't download Python 2.
 
 2. Have Windows. 
+
 	2a.If you're considering running this on any apple product, do the following:
+
 	2b.trade it in for a pc, you spoiled little princess.
+
 	2c.seriously though Jason or Srivaths or someone i don't know, the script should still work.
 	
 3.Open up your terminal or command prompt. On windows, it's cmd.exe
@@ -28,15 +31,21 @@ Running bowlparser.py requires a few things beforehand.
 
 the number of tossups?
 	change q1q =
+
 the number of bonus-questions?
 	change q2q =
+
 the number of lightning CATEGORIES?
 	change q3q =
+
 the number of tiered questions?
 	change q4q =
+
 the amount of packets produced?
 	change packetsneeded = 
+
 the level of the packets?
 	change desireddifficulty = 
+
 the fileprefix to something other than Stockholm?
 	change packetnameheader = 
