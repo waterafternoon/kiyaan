@@ -249,7 +249,7 @@ def assign_numbers(packetquestions):
 	for x in packetquestions:
 		numberedquestions.append(str(questionnumber) + ". " + x)
 		questionnumber = questionnumber +1
-		if questionnumber => 24601: print("http://i2.kym-cdn.com/photos/images/original/000/878/073/2a2.gif")
+		if questionnumber >= 24601: print("http://i2.kym-cdn.com/photos/images/original/000/878/073/2a2.gif")
 	return numberedquestions
 	
 numberofpackets = packetsneeded#input("How many packets do you need?")
@@ -258,10 +258,22 @@ packetnameheader = packetnameheader
 	
 nop = numberofpackets
 samtossups = random.sample(alltossups,q1q*nop)
-sambonus = random.sample(allbonus,q2q*nop)
-samlightning = random.sample(alllightning,q3q*nop)
-samtiered = random.sample(alltiered,q4q*nop)
 
+print("there are "+str(len(alltossups)) + "tossups")
+#appendtest(samtossups)
+
+sambonus = random.sample(allbonus,q2q*nop)
+print("there are "+str(len(allbonus)) + "bonuses")
+#print(sambonus)
+
+samlightning = random.sample(alllightning,q3q*nop)
+print("there are "+str(len(alllightning)) + "lightning categories")
+#print(samlightning)
+
+samtiered = random.sample(alltiered,q4q*nop)
+print("there are "+str(len(alltiered)) + "tiered questions")
+
+#appendtest(samtiered)
 	
 for x in range(numberofpackets):
 	filename = packetnameheader + str(x) + ".txt"
@@ -272,7 +284,7 @@ for x in range(numberofpackets):
 	packettossups = samtossups[((x*q1q)+fc):((x+1)*q1q+sc)]
 	packetbonus = sambonus[((x*q2q)+fc):((x+1)*q2q+sc)]
 	packetlightning = samlightning[((x*q3q)+fc):((x+1)*q3q+sc)]
-	packettiered = samtiered[((x*q3q)+fc):((x+1)*q4q+sc)]
+	packettiered = samtiered[((x*q4q)+fc):((x+1)*q4q+sc)]
 	#it's not that complicated. the constants i added, fc and sc, were there because I don't understand lists.
 	#feel free to take them out later, future me or some poor history bowl buddy that has to comb through my terrible code.
 	
