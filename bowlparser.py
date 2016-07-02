@@ -216,6 +216,16 @@ def appendtest(testlist):
 		filehandle.write("%s\n\r" % item)
 	#i have to admit, i copy-pasted the above two lines of code from stackoverflow. I don't know how this works.
 	filehandle.close()	
+	print("appendtest is being accessed")
+
+def listtofile(filename,list):
+	tfln = ".\\bowltest\\"+filename+".txt"
+	filehandle=open(tfln,"w+")
+	for item in testlist:
+		filehandle.write("%s\n\r" % item)
+	#i have to admit, i copy-pasted the above two lines of code from stackoverflow. I don't know how this works.
+	filehandle.close()	
+	print("listtofile is being accessed")
 	
 for filepath in packlist:
 	x=x+1
@@ -273,7 +283,7 @@ print("there are "+str(len(alllightning)) + "lightning categories")
 samtiered = random.sample(alltiered,q4q*nop)
 print("there are "+str(len(alltiered)) + "tiered questions")
 
-#appendtest(samtiered)
+appendtest(alltiered)
 	
 for x in range(numberofpackets):
 	filename = packetnameheader + str(x) + ".txt"
