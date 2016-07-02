@@ -1,0 +1,481 @@
+NASAT 2014    ROUND 4 TOSSUPS  
+1. One place of this name was home to a nymph named Adrasteia and her sister. The Curetes  
+danced and made loud warlike noises in one location of this name. A golden cloud atop a place  
+of this name hides Hera's seduction of Zeus midway through the  Iliad ; that place of this name  
+contains the headwaters of the Scamander river and the spot where a god disguised as an eagle  
+abducted Ganymede. A cave in a more southerly place of this name was home to the goat  
+Amalthea and a horn of plenty, which fed a hidden child of Rhea. For 10 points, give this name  
+shared by a mountain near Troy and the mountain on Crete where baby Zeus was raised.  
+ANSWER: Mount  Ida  [accept Cretan  Ida ; accept Phrygian  Ida ; accept any answer indicating a  
+cave on Mount  Ida  until \"cloud\" is read; prompt on  Crete  until \"seduction\" is read]  
+2. This event was exposed by a Kentucky newspaper called the  Western World . Its leaders used  
+as a headquarters an island on the Ohio River owned by Harman Blennerhassett. This scheme’s  
+leader obtained funding from Carlos Martinez de Irujo y Tacon, a Spanish minister. While its  
+leader had early charges dismissed thanks to lawyer Henry Clay, that man eventually faced  
+federal charges in a trial supervised by Chief Justice John Marshall. This plot was exposed by  
+General James Wilkinson, who sent a letter to President Thomas Jefferson revealing the perfidy  
+of his former Vice President. For 10 points, name this 19th century conspiracy to create an  
+independent nation in the American Southwest, a scheme led by the killer of Alexander  
+Hamilton.  
+ANSWER: The Aaron  Burr  plot  
+3. Two sets of these images by this artist were accompanied by Neo-Latin verses penned by  
+Benedict Chelidonius. One of these artworks, which amusingly contains a waterspout with a  
+rooster on the handle, a flute player, and a beer drinker, is titled  The Men's Bath House.  The  
+creator of these artworks sued Marcantonio Raimondi for ripping them off and using the artist's  
+signature. Most of these artworks by this artist appear in series such as the  Great Passion  and the  
+Little Passion.  A bow and empty scales are carried by Pestilence and Famine in the most famous  
+of them. For 10 points, name these images, such as  The Four Horsemen of the Apocalypse,  that  
+were carved onto plant tissue by the Renaissance German artist of  Melancolia I.   
+ANSWER: Albrecht  Dürer's woodcut s [prompt on  woodcut s; prompt on Dürer's  prints ]  
+4. This philosopher describes memory as the result of successive abstractions from the \"rinds\" of  
+a perceived object. A school of thought based on this man's ideas was attacked in  On the Unity of  
+Intellect  by Thomas Aquinas. Siger of Brabant was a proponent of the \"monopsychist\" school  
+based on this man's thought, which advocated \"double truth.\" This man's most famous work  
+begins with four proofs of the pre-existence of the world. This philosopher wrote Middle and  
+Long Commentaries on Plato's  Republic  and many of Aristotle's treatises, for which he was  
+dubbed \"The Commentator.\" He responded to al-Ghazali's  The Incoherence of the Philosophers  
+in his  The Incoherence of the Incoherence . For 10 points, name this Islamic philosopher from  
+Cordoba.  
+ANSWER:  Averroes  [or  Ibn Rushd ] 
+NASAT 2014    ROUND 4 TOSSUPS  
+5. Charles McEwen Hyde wrote that the most notable resident of this island was \"a coarse dirty  
+man,\" which prompted a literary rebuttal from Robert Louis Stevenson. Jack London wrote that  
+this island was an \"accident of fate,\" but that he did not need to wear \"long gauntleted gloves\"  
+while visiting this island. It is the only site in the United States where two Roman Catholic saints  
+resided for a significant period of time. A historical park on this island contains a facility whose  
+residents were advocated for by local celebrity Don Ho. This island's colony of Kalaupapa was  
+where the saints Marianne Cope and Father Damien attended the ill for many years. For 10  
+points, name this Hawaiian island best known for once having a leper colony located on it.  
+ANSWER:  Molokai   
+6. A female addressee in this poem is told, \"Nay, smile not at my sullen brow, Alas! I cannot  
+smile again.\" Alphonse de Lamartine, dissatisfied with this poem's conclusion, published a \"last  
+stanza\" for it. This poem describes a place with \"society, where none intrudes,\" which incites the  
+speaker to rhapsodize, \"I love not Man the less, but Nature more,\" in its \"Apostrophe to the  
+Ocean.\" This poem's author, who is essentially indistinguishable from the title character,  
+provides a description of a Spanish bullfight and being shipwrecked in Albania, and its fourth  
+canto describes tours through Ferrara, Florence, and Rome. For 10 points, name this long  
+narrative poem ostensibly about a young noble's travels through Europe, written by Lord Byron.  
+ANSWER:  Childe Harold's Pilgrimage   
+7. This was the name of a city that rose to power by dominating trade along the Klyazma River  
+after its prince Andrew the Pious burnt down Kiev. A grand prince of this name, who recounted  
+killing 200 princes of the Cumans in his  Testament , adapted his epithet from his grandfather  
+Constantine IX Monomachus. The father of Boris and Gleb, who bore this name, ordered a mass  
+baptism in the Dnieper River to inaugurate the Christianization of Kievan Rus. A more notable  
+ruler with this first name jailed the president of Yukos, Mikhail Khodorkovsky, during a  
+protracted struggle with Russia's \"oligarchs.\" For 10 points, give the first name of the current  
+president of Russia.  
+ANSWER:  Vladimir  [or  Vladimir  II Monomakh; or  Vladimir  I; or  Vladimir -Suzdal; or  
+Vladimir  Putin]  
+8. In a Butcher tableau, this method is diagrammed with zeroes in the top row and a one in the  
+bottom right. The first step of the Adams-Bashforth methods use this procedure. Huen's method  
+is a variant on this procedure though his method's error scales with the interval cubed while this  
+one scales with the interval squared. Implicit versions of this method and its variations are used  
+for stiff equations. It is a first-order Runge-Kutta method. It corresponds to truncating the  
+function's Taylor series to two terms, so the function evaluated at x plus delta x is equal to its  
+value at x, plus delta x times the derivative at x. For 10 points, name this method of numerically  
+approximating ODE solutions by approximating the function as linear over small intervals, that  
+is named for a Swiss mathematician.  
+ANSWER:  Euler 's method [prompt on  Runge-Kutta  methods until it is read] 
+NASAT 2014    ROUND 4 TOSSUPS  
+9. Hirofumi Uzawa proved that for a specific model of this phenomenon to hold, technology  
+must be Harrod neutral, or labor augmenting. The AK model of it violates one of the \"stylized  
+facts\" summarized by Nicholas Kaldor. Oded Galor's unified theory of this phenomenon seeks to  
+explain how humans escaped the Malthusian trap. Thomas Piketty argued the return to capital is  
+almost always greater than the rate of this phenomenon in  Capital in the 21st Century,  leading to  
+stored wealth increasing relative to national income. The savings rate is taken as fixed in an  
+exogenous model of this, and that model also predicts eventual convergence of this  
+phenomenon's rate. For 10 points, name this phenomenon modeled by Robert Solow, the  
+increasing economic output over time.  
+ANSWER: economic  growth   
+10. The eastern portion of this building includes limewood paneling incorporating a rocket, as  
+well as the names of 28,000 deceased American soldiers. A continuous peristyle lies below the  
+Stone Gallery surrounding this building's dome. Above the keystones of this building's interior  
+arches is the \"Whispering Gallery,\" which produces unusual acoustics. Herbert Mason's  
+photograph demonstrating that this building \"Survives\" became a symbol of resilience during the  
+Blitz. Tombs in this building include John Donne's and that of the architect himself, above which  
+is written in Latin \"Reader, if you seek his monument, look around you.\" For 10 points, name  
+this cathedral that was redesigned after the Great Fire of London by Sir Christopher Wren.  
+ANSWER:  St. Paul's  Cathedral [or Cathedral Church of  St. Paul  the Apostle]  
+11.  At the end of this war, deserters unsuccessfully tried to find refuge in the temple of Eshmun  
+in the citadel of Byrsa. The winning commander quoted Homer by saying “A day will come  
+when sacred Troy shall perish” while watching the slaughter that ended this war. At its  
+conclusion, Hasdrubal prayed for mercy, while his wife threw herself into a fire. After this war, a  
+city was legendarily sown with salt by the conquering forces of Scipio Aemilianus, who then  
+took over such cities as Mauretania. It was instigated partly because Cato the Elder continually  
+proclaimed a certain city must be destroyed. For 10 points, name this war which ended with the  
+complete destruction of Carthage by Rome.  
+ANSWER:  Third Punic  War [or  Tercium  Bellum  Punicum ]  
+12. The orphan drug tetrabenazine can be used to control this disorder, which can be  
+pathologically classified using the Vonsattel grading system. Nancy Wexler discovered the cause  
+of this disease by linkage analysis. The protein mutated in this disorder is SUMOylated by the  
+Rhes protein and binds to HIP1 to mediate clathrin-driven endocytosis. This disease is  
+characterized by selective loss of GABAergic neurons in the striatum. This disease is caused by  
+an expansion of CAG repeats on chromosome four and is inherited in an autosomal dominant  
+fashion. For 10 points, name this neurological genetic disease which usually manifests by age 40  
+and causes jerky, uncontrolled movements.  
+ANSWER:  Huntington 's disease 
+NASAT 2014    ROUND 4 TOSSUPS  
+13. The processes that gave rise to the Laramide orogeny can be studied using this present-day  
+plate because it is unusually undergoing flat-slab, or shallow angle, subduction. A very unusual  
+triple junction arises due to the fact that this plate is diverging from the Antarctic plate, forming a  
+mid-ocean ridge that is being subducted. This plate's northern border with the Cocos plate, with  
+which it is part of a triple junction, includes a mysterious \"gore\" in which the Galápagos Islands  
+lie. Its subduction is responsible for the Andean orogeny. For 10 points, name this eastern Pacific  
+plate that is being subducted by the South American plate and is named for a region in Peru.  
+ANSWER:  Nazca  plate  
+14. This city’s namesake “great gun,” a gigantic cannon, was melted down to raise money by the  
+modernizing Lord William Bentinck. Jean Baptiste Tavernier visited this city in 1665, spreading  
+the rumor that there was a mythical “black” structure across the Yamuna River. The most famous  
+structure here was created after the birth of Gauhara Begum. Founded by Sikandar Lodi, it was  
+where Aurangzeb placed his father in house arrest. This city is the home of the Sikandra, the  
+tomb of Akbar the Great. It is also home to the Red Fort and a mausoleum dedicated to Mumtaz  
+Mahal, the wife of Shah Jahan. For 10 points, name this city in India where the Taj Mahal is.  
+ANSWER:  Agra   
+15. A closed-cycle, regenerative form of this device that has an ideal theoretical efficiency uses a  
+compressor piston and a displacer, as well as an inert gas, and is based on the Stirling cycle.  
+Another type of this device uses phase separation between a concentrated helium-3-rich phase  
+floating on top of a dilute helium-4-rich phase for operation. The coefficient of performance for  
+these devices is equal to Q-sub-C over quant. Q-sub-H plus Q-sub-C. Szilard and Einstein  
+designed an absorption type of these devices with no moving parts. Most modern types of these  
+devices use a vapor-compression cycle and a circulating fluid, being essentially a heat pump that  
+transfer heats from objects to the surrounding. For 10 points, name these devices that keep their  
+contents cool.  
+ANSWER: cryo refrigerator  [or cryogenic  freezer ; or  air conditioner ; or cryo cooler  until  
+\"cool\" is read; or obvious equivalents; prompt on heat  pump  or heat  engine ]  
+16. A piece in this style is based on a cycle of eleven chords and features a secondary rhythm  
+kept by the human breath of the voices and winds. One of the first pieces in this style requires its  
+performer, \"traditionally...a beautiful girl,\" to arbitrarily play fifty-three phrases of repeated  
+eighth notes. As music critic for  The Spectator,  Michael Nyman coined the name for this style.  
+Henryk Gorecki and tintinnabulation-enthusiast Arvo Part are the foremost exponents of its  
+\"holy\" or \"sacred\" type. This style, which was first used by La Monte Young, is better  
+exemplified by  Music for 18 Musicians  and  In C  by Steve Reich and Terry Riley. For 10 points,  
+name this simple, repetitive musical style favored by John Adams and Philip Glass.  
+ANSWER:  minimal ism [or  minimal  music] 
+NASAT 2014    ROUND 4 TOSSUPS  
+17. A character in this play tells a story about someone being kicked in the head by a red mare  
+but who resists dying for some time afterwards. In its final scene, Shawn is hit by a female  
+character, who rejects his offer to have Father Reilly marry them. In this play, the main character  
+wins a donkey race using the slowest animal, impressing such women as the barmaid Pegeen.  
+The protagonist tells the denizens of Flaherty’s tavern that he has murdered his father, which at  
+first brings him praise and then scorn. During its 1907 premiere, this play caused riots at  
+Dublin’s Abbey Theatre. For 10 points, name this John Millington Synge play about Christy  
+Mahon.  
+ANSWER:  The  Playboy of the Western World   
+18. This is the occupation held by a man who sends servants to the house of Simon the tanner in  
+Joppa. A man in this position states \"I do not deserve to have you come under my roof\" and  
+explains that he says \"Do this\" to his obedient servant. In Matthew 8, Jesus heals the servant of  
+one of these men in Capernaum, saying there is no one in Israel with such great faith as that man.  
+After seeing a vision of a sheet being lowered from Heaven containing \"unclean\" animals, Peter  
+meets one of these men named Cornelius, which symbolically opens up the Gospel to the  
+Gentiles. According to the Gospel of a Mark, a man in this position says \"Surely this man was  
+the son of God!\" after seeing how Jesus died. For 10 points, name this occupation which is held  
+by various Roman military men in the New Testament.  
+ANSWER:  centurion  [or  centurio ; or  hekatonarch ; prompt on  soldier  or  officer ]  
+19. The title woman of a poem by this author asks, \"Is this what you call making me  
+comfortable?\" as she is lifted into an ambulance, after which she says, “What are all those fuzzy  
+looking things out there? Trees? Well, I’m tired of them.” This poet of \"The Last Words of My  
+English Grandmother\" was parodied in a Kenneth Koch poem describing the chopping down of a  
+house titled “Variations on a Theme by” this author. His poem set “by the road to the contagious  
+hospital” opens the collection  Spring and All,  and he described fruit that was “delicious so sweet  
+and so cold” in his poem “This Is Just to Say.” For 10 points, name this poet who wrote, “so  
+much depends upon a red wheel barrow.”  
+ANSWER: William Carlos  Williams   
+20. This man wrote an original Greek-style tragedy which opens as the ghost of Tantalus speaks  
+to a Fury and involves the title member of the house of Atreus eating his children. He also wrote  
+a satire in which Heracles defends a stuttering man in a trial before the gods, though that emperor  
+is sentenced to play dice forever with a bottomless cup. This author of  Thyestes  and  The  
+Pumpkinification of Claudius  killed himself in the same year as Petronius and Lucan, after his  
+student accused him of a role in the Pisonian conspiracy against the emperor's life. For 10 points,  
+name this Stoic philosopher who served as tutor and literary advisor to the emperor Nero.  
+ANSWER:  Seneca  the Younger [or Lucius Annaeus  Seneca  the Younger] 
+NASAT 2014    ROUND 4 TOSSUPS  
+21. A prominent philosopher and statesman of this ethnicity, J. V. Snellman, often had his  
+nationalistic work shut down. The Bible was translated into this ethnicity's language by the  
+Lutheran bishop Mikael Agricola. The February Manifesto weakened the power of this ethnic  
+group, whose land was occupied in the \"Lesser Wrath,\" or  Pikkuviha , following the War of the  
+Hats. In 1809, this ethnic group was placed under a \"Grand Duchy,\" whose first capital was  
+Turku, under Tsar Alexander I of Russia. For 10 points, name these people whose nationalist  
+sentiment grew after Elias Lonnrot collected its folk tales into the epic poem  Kalevala .  
+ANSWER:  Finn s [or  Finn ish people; or  Finland ers; or  Suomi ]  
+22. Sir Joseph Dalton Hooker at first claimed himself the victor in this event, rather than its most  
+notable participant. A participant in this argument asked whether, \"if a lantern were offered to  
+[him], [he] should refuse it because it shed an imperfect light.\" A lady, identified as Lady  
+Brewster, fainted in shock after that participant made the statement that he would be \"ashamed to  
+be connected with a man who used great gifts to obscure the truth\" in response to a question  
+about whether it was \"from [his] grandfather's or grandmother's side that [he] claim[ed] descent  
+from apes.\" For 10 points, name this 1860 debate between \"Soapy Sam\" and \"Darwin's Bulldog\"  
+over a theory of natural selection.  
+ANSWER:  Wilberforce-Huxley  debate [or  Huxley-Wilberforce  debate; or 1860  Oxford  
+debate on  evolution ; prompt on answers mentioning only one of  Wilberforce  or  Huxley ;  
+prompt on answers indicating a debate over  evolution ]  
+23. A chapter titled for this character notes that, \"All that most maddens and torments; all that  
+stirs up the lees of things\" were \"practically assailable\" in him. This character is the cause of  
+\"Rachel, weeping for her lost children, because they were not,\" in another chapter. This character  
+is the hearse \"not made by mortal hands.\" Dr. Bunger and his superior argue about their  
+encounter with this character. Macey is killed by this character, according to Gabriel, who claims  
+that this character is the \"Shaker God incarnated.\" This character only appears in three chapters  
+titled \"The Chase.\" For 10 points, name this character who kills most of the crew of the  Pequod,  
+a white whale created by Herman Melville.  
+ANSWER:  Moby-Dick 
+NASAT 2014    ROUND 4 BONUSES  
+1. The title character of this play married a woman named Anna, who converted from Judaism to  
+marry him. For 10 points each:  
+[10] Name this 1887 play, whose title character is a government bureaucrat whose wife is dying  
+of tuberculosis. It ends abruptly when the title character shoots himself.  
+ANSWER:  Ivanov   
+[10]  Ivanov  was written by this Russian author, who also wrote such plays as  The Seagull  and  
+The Cherry Orchard.   
+ANSWER: Anton  Chekhov   
+[10] This Chekhov character, an aspiring writer, shoots himself at the conclusion of  The Seagull.   
+ANSWER:  Konstantin  Treplev [or Konstantin  Treplev ]  
+2. This effect was first observed when changing the lighting levels in a factory boosted  
+production. For 10 points each:  
+[10] Name this effect which occurs when adjustments in the environment cause workers to  
+change or improve their behaviors, possibly because they are being watched by psychology  
+researchers.  
+ANSWER:  Hawthorne  effect [prompt on  observer  effect]  
+[10] The Hawthorne effect is important in this field of psychology, which deals with issues at the  
+workplace. Psychologists that work in human resources department typically have experience in  
+this field of psychology.  
+ANSWER:  industrial/organizational  psychology [or  I/O  psychology; or  occupational  
+psychology; prompt on  work  psychology; prompt on partial answer]  
+[10] I/O psychologists often have to deal with this phenomenon with employees, which can be  
+mediated through coping mechanisms. If this psychological phenomenon is severe enough, it can  
+manifest with physical symptoms; it is measured on the Holmes and Rahe scale.  
+ANSWER:  stress   
+3. This substance is synthesized at rosette terminal complexes, and it consists of D-glucose units  
+condensing to form beta-1,4 glycosidic bonds. For 10 points each:  
+[10] Name this indigestible polysaccharide that forms the cell walls of plants.  
+ANSWER:  cellulose   
+[10] Cellulose is often used as a stationary phase in this form of chromatography, which is better  
+at separating non-volatile mixtures than paper chromatography.  
+ANSWER:  thin-layer  chromatography [or  TL C]  
+[10] In paper, slide, membrane forms, this derivative of cellulose is commonly used to  
+immobilize nucleic acids in Northern and Southern blots, and proteins in Western blots.  
+ANSWER:  nitrocellulose  [or  cellulose nitrate ; or  flash paper ; or  flash cotton ; or  guncotton ;  
+or  flash string ] 
+NASAT 2014    ROUND 4 BONUSES  
+4. This character was re-interpreted in the person of Antoinette Cosway in Jean Rhys's post- 
+colonial novel  Wide Sargasso Sea.  For 10 points each:  
+[10] Name this woman who met and quickly married her husband in Jamaica. Usually confined  
+to an attic, her mad acts escalate until she burns down Thornfield Hall.  
+ANSWER:  Bertha  Mason [or Bertha  Mason ; or  Bertha  Rochester; prompt on  Rochester ]  
+[10] This governess, a former resident of the Lowood school, cannot marry Edward Rochester as  
+long as Bertha Mason is alive.  
+ANSWER:  Jane  Eyre [or Jane  Eyre ]  
+[10] This cousin of Jane Eyre, a resident of Gateshead, treats Jane poorly as a child, though they  
+make up later in life. This girl's much more religious sister Eliza prevents her from eloping.  
+ANSWER:  Georgiana  Reed [prompt on  Reed ]  
+5. Name these techniques in optimization, for 10 points each.  
+[10] When optimizing subject to equality constraints, one popular method is to set the gradient of  
+the function in question equal to one of these constants times the objective function. These  
+constants are usually written as lambda and are named for a French mathematician.  
+ANSWER:  Lagrange multiplier s [do not accept \"Lagrangians\"]  
+[10] A necessary condition for the existence of the Lagrange multipliers is that the gradient of  
+the constraint curve at the extremum must not equal this number. If the Wronskian determinant is  
+not this value, then solutions of a diff. EQ. are linearly independent.  
+ANSWER:  zero   
+[10] The simplex method is used in this field of optimization. In this field, the equations being  
+optimized are polynomials of degree one constrained by several inequalities.  
+ANSWER:  linear programming   
+6. These writings, which include eighteen folios on the flights of birds and a hyper-realistic map  
+of Imola, are divided into codices named for Trivulzianus, Urbinas, Madrid, Leicester, and  
+Arundel. For 10 points each:  
+[10] Identify these extensive writings that include a scientific study of light on a sphere, a sketch  
+of a giant crossbow, and a schematic for a manned helicopter.  
+ANSWER: Leonardo  da Vinci's notebook s [or  da Vinci's manuscript s; or  da Vinci's note s; or  
+da Vinci's sketch es; prompt on  da Vinci's writing s or answers that don't mention notes or  
+manuscripts]  
+[10] Notes by da Vinci accompany this drawing of his, a superimposition of a man in two  
+positions with his limbs inscribed in a square and a circle. It is named for a Roman architect.  
+ANSWER:  Vitruvian Man  [or  Canon of Proportions ; or  Proportions of Man ; or  Le  
+Proporzioni del Corpo Umano Secondo Vitruvio ]  
+[10] Da Vinci's research into the canon of proportions, of which the  Vitruvian Man  was a  
+snapshot, culminated in this pulley-and-cable powered creation for a pageant held by Ludovico  
+Sforza, Duke of Milan.  
+ANSWER: Leonardo's  robot  [or  robotic knight ; or  mechanical knight ; or  automaton ] 
+NASAT 2014    ROUND 4 BONUSES  
+7. This man's  Symphony No. 2  was written in honor of the twenty-fifth anniversary of the  
+Russian Revolution. For 10 points each:  
+[10] Name this composer of the symphonic suite  Masquerade  as well as the ballets  Spartacus  
+and  Gayane.   
+ANSWER: Aram  Khachaturian   
+[10]  Gayane  is best known for containing this playful piece, consisting of a xylophone solo  
+against a string backdrop and occasional trombone slides, that is based on an Armenian folk  
+song.  
+ANSWER: \" Sabre Dance \" [or \" Suserov Par \"; or \" Tanets s Sablyami \"]  
+[10] Along with Shostakovich and Myaskovsky, Khachaturian was targeted in the 1948 Zhdanov  
+decree, accusing the aforementioned composers of adhering to this non-Stalinist-approved  
+musical philosophy, in which the structure of pieces determine their meaning.  
+ANSWER:  formalism  [or word forms]  
+8. During complex organic synthesis, this property can be preserved by using auxiliaries. For 10  
+points each:  
+[10] Identify this property of a molecule which prevents it from becoming superimposable on its  
+mirror image. This property leads to the formation of enantiomers and diastereomers.  
+ANSWER:  chiral ity  
+[10] In the Cahn-Ingold-Prelog nomenclature, a chiral center is labelled with one of two letters.  
+Name either.  
+ANSWER:  or    R  S 
+[10] A particularly interesting issue in chiral synthesis is the creation of chiral carbons with this  
+property. A carbon is described by this term if it is bonded to four other carbon atoms, and when  
+discussing protein structure, this level of structure corresponds to multiple protein subunits  
+binding together.  
+ANSWER:  quaternary   
+9. Characters created by this playwright include Troy Maxson, a retired baseball player who did  
+time in jail for murder, and Berniece, who refuses to sell a valuable musical instrument. For 10  
+points each:  
+[10] Name this playwright whose  The Piano Lesson  and  Fences  are two entries in his ten-play  
+\"Pittsburgh Cycle,\" depicting black life in each decade of the 20th century.  
+ANSWER: August  Wilson   
+[10] Unlike the rest of the cycle, August Wilson set  Ma Rainey's Black Bottom  among blues  
+singers in this city further west. Its \"Sexual Perversity\" was chronicled by David Mamet.  
+ANSWER:  Chicago   
+[10] This white family owned the black Charles family in the backstory to Wilson's  The Piano  
+Lesson.  Selling the piano would allow the Charles family to buy the land from this family, one of  
+whose members appears as a ghost to play the piano.  
+ANSWER:  Sutter  family 
+NASAT 2014    ROUND 4 BONUSES  
+10. This musician reflected on his staggering eight marriages in his autobiography  The Trouble  
+with Cinderella.  For 10 points each:  
+[10] Identify this jazz clarinetist who played in combos he called the Gramercy Five. His big  
+band recorded a popular version of Cole Porter's \"Begin the Beguine.\"  
+ANSWER: Artie  Shaw  [or Arthur Jacob  Arshawsky ]  
+[10] Shaw's Gramercy Five included Roy Eldridge, who was famed for his use of high registers  
+and general virtuosity on this instrument. This instrument was also played by Wynton Marsalis  
+and Miles Davis.  
+ANSWER:  trumpet   
+[10] Eldridge is often treated as a bridge between the styles of Gillespie and this earlier musician,  
+a man who recorded \"Heebie Jeebies\" and went by the nicknames Satchmo and Pops.  
+ANSWER: Louis  Armstrong   
+11. In 1897, this man became secretary of state of the Imperial Navy Department. For 10 points  
+each:  
+[10] Name this German grand admiral who was the chief architect of the German Navy's buildup  
+in the years before World War I.  
+ANSWER: Alfred von  Tirpitz   
+[10] During World War I, Tirpitz advocated the policy of unrestricted submarine warfare, which  
+culminated in the 1915 sinking of this British ocean liner, resulting in the death of 1,198 of its  
+passengers.  
+ANSWER: RMS  Lusitania   
+[10] In this major naval battle of World War I, Admiral John Jellicoe won a tactical victory over  
+the German navy.  
+ANSWER: Battle of  Jutland  [or Battle of the  Skaggerak ]  
+12. Adam Smith critiqued this ideology, which was summarized in Philipp von Hörnigk's treatise  
+Austria Over All If She Only Will . For 10 points each:  
+[10] Name this dominant economic theory in early modern Europe, which advocated high tariffs,  
+an export-heavy or \"favorable\" balance of trade, and the import of gold and silver bullion.  
+ANSWER:  mercantilism  [or the  mercantile  system]  
+[10] This finance minister to Louis XIV of France advanced mercantilist policies after Nicolas  
+Fouquet fell from grace.  
+ANSWER: Jean-Baptiste  Colbert   
+[10] The implementer of mercantilism in Sweden, Queen Christina, scandalized Europe by  
+abdicating in tandem with performing this action, which led her to move South.  
+ANSWER:  converting to Catholicism  [or equivalents] 
+NASAT 2014    ROUND 4 BONUSES  
+13. This man helped draft California's state constitution in his role as military secretary of state,  
+and he translated Jomini's  History of Napoleon,  which was read by pretty much every Civil War  
+general. For 10 points each:  
+[10] Name this general, nicknamed \"Old Brains,\" an inept General-in-Chief who allowed PGT  
+Beauregard to withdraw at the Battle of Corinth.  
+ANSWER: Henry Wager  Halleck   
+[10] Halleck was deemed \"the most hopelessly stupid of all men in high position\" by this  
+commander of the Army of the Potomac, who was also General-in-Chief. He lost the 1864  
+presidential election.  
+ANSWER: George Brinton  McClellan   
+[10] For four months between the terms of McClellan and Halleck, this man served as direct  
+commander of all Union armies. He first saw battle as a volunteer in the Illinois Militia during  
+the Black Hawk War.  
+ANSWER: Abraham  Lincoln   
+14. In 2014, a chemical leak in this state contaminated the Elk River, a tributary of the Kanawha,  
+and forced residents of Charleston to import bottled water. For 10 points each:  
+[10] Name this Appalachian mountain state.  
+ANSWER:  West Virginia   
+[10] This type of mining has drastically altered West Virginia's landscape in the past half- 
+century. This method uses dynamite to expose coal, blowing off large amounts of land which are  
+then filled into valleys.  
+ANSWER:  mountaintop removal  mining [prompt on  surface  mining]  
+[10] This fast-growing vine with threefold leaflets, an invasive species from China, is spreading  
+in West Virginia as it is across the American South. It can smother entire trees.  
+ANSWER:  kudzu  [or  Pueraria montana ]  
+15. This activity is performed by those who perform an \"aliyah,\" and it is traditional that the first  
+person called to do this be a Cohen. For 10 points each:  
+[10] Identify this central activity of the Saturday morning service in a Jewish congregation.  
+ANSWER:  reading  from the  Torah   
+[10] In modern synagogues, this raised area at the front of the congregation is home to the ark  
+where the Torah is stored and the podium from which it is read.  
+ANSWER: the  bimah   
+[10] On Shabbat, the Torah service comes between  shacharit  and this segment of the service,  
+whose Hebrew name means \"additional.\" It often ends with the Aleinu and Adon Olam prayers.  
+ANSWER:  Musaf  service  
+16. This man was sent to London on an education scholarship by the Umuofia Progressive  
+Union, and returned to Lagos after getting a degree in English. For 10 points each:  
+[10] Name this man, a fictional Nigerian who is arrested on bribery charges after he persuades  
+his lover Clara Okeke to get an abortion.  
+ANSWER:  Obi  Okonkwo [prompt on  Okonkwo ]  
+[10] This Nigerian author of  No Longer at Ease  wrote about Obi's grandfather Okonkwo in  
+Things Fall Apart.   
+ANSWER: Chinua  Achebe 
+NASAT 2014    ROUND 4 BONUSES  
+[10] In this other postcolonial novel by Sudanese author Tayeb Salih, Mustafa Sa'eed recounts  
+how his Western education in London led into racially-charged seductions of white women.  
+ANSWER:  Season of Migration to the North  [or   Mawsim al-Hi’ra’il ash-Sham’l ]  
+17. Tuned mass dampers are a way of cutting down on this effect, and this effect being driven by  
+a vortex street was responsible for the Tacoma Narrows Bridge disaster. For 10 points each:  
+[10] Name this phenomenon that occurs when a system is driven periodically at its natural  
+frequency. It occurs at normal modes.  
+ANSWER:  resonance   
+[10] Resonance typically occurs when this parameter is significantly less than one. It is typically  
+represented by zeta.  
+ANSWER:  damping  ratio [or  damping  parameter]  
+[10] When zeta is much less than one, this technique is used to define the rate at which the  
+amplitude of a system decreases. It involves taking the namesake operation on the ratio of two  
+successive amplitudes.  
+ANSWER: natural  log arithm  decrement   
+18. In 1644, the Manchus held sacrifices here to usher in the reign of the Shunzhi Emperor. For  
+10 points each:  
+[10] Name this temple complex in Beijing, centered on the circular hall with three blue gabled  
+roofs. Emperors would perform annual sacrifices on a three-tiered marble platform here called  
+the Circular Mound Altar.  
+ANSWER:  Temple of Heaven  [or  Altar of Heaven ; or  Tiantan ]  
+[10] The Temple of Heaven was constructed by this dynasty’s Yongle Emperor. This dynasty  
+was defeated by the Manchus.  
+ANSWER:  Ming  dynasty  
+[10] The Ming also built thirteen of these buildings in a valley northwest of Beijing. These  
+buildings were entered through “spirit ways” lined by statues of creatures like the  bixi  tortoise.  
+They were desecrated during the Cultural Revolution.  
+ANSWER:  tomb s [or  ling ; or  mausoleum s; or other words that mean tomb]  
+19. Answer some question about everyone’s favorite giant hundred-headed snake, Shesha, for 10  
+points each:  
+[10] Shesha is the mount of this member of the Hindu Trimurti, the preserver of said group. This  
+god has several avatars, including Krishna and Rama.  
+ANSWER:  Vishnu   
+[10] Among the incarnations of Sesha are this loyal brother of Rama, who leaves his wife Urmila  
+to join his brother in exile. Among his exploits are cutting off the demon Surpanakha’s nose.  
+ANSWER:  Lakshman a  
+[10] Another avatar of Shesha was this brother and companion of Krishna, who unlike Krishna  
+was born fair. He also taught the Pandava Bhima how to fight with a mace.  
+ANSWER:  Balaram a 
+NASAT 2014    ROUND 4 BONUSES  
+20. This man posted the video \"Creationism is Not Appropriate for Children.\" For 10 points  
+each:  
+[10] Name this man, who was then invited to debate Creation Museum founder and Answers in  
+Genesis leader Ken Ham about creationism and evolution in a February 4, 2014 debate. This  
+former television personality has also urged for more work fighting climate change.  
+ANSWER: William \"Bill\"  Nye   
+[10] The Ham/Nye debate spurred fundraising for Ham's latest project, which plans to construct  
+this object in Grant County, Kentucky.  
+ANSWER: A replica of Noah’s  Ark  [or  Ark Encounter ; prompt on  theme park ]  
+[10] Nye recently vigorously debated climate change with S.E. Cupp on  Crossfire.  Cupp asserts  
+membership in this branch of Republicans that supports equal rights for homosexuals.  
+ANSWER:  Log Cabin  Republicans  
+21. A trap is used while using this laboratory instrument to prevent bumping. For 10 points each:  
+[10] Identify this device which quickly removes solvent from a compound through a  
+combination of a heat bath, a vacuum pump, and a motor that spins the flask containing your  
+product.  
+ANSWER:  rotary evaporator  [or  rotovap ; or  rotavap ]  
+[10] Along with evaporation, this is the second kind of liquid vaporization into a gas. This phase  
+transition occurs for water at 100 Celsius.  
+ANSWER:  boiling   
+[10] This part of a rotovap cools gases back into liquid form and allows them to drop into a  
+waste container. This same device is used in a reflux to prevent gases from escaping at the top of  
+the apparatus.  
+ANSWER: reflux  condenser 

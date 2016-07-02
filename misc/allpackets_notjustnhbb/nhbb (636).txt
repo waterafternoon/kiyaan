@@ -1,0 +1,909 @@
+Colonia 2014 
+Round 2 
+First Period, 20 Tossups 
+1. This barbarian's destruction of the Burgundian city of Worms is recounted in an epic partly set at his 
+court, the  
+Nibelungenlied 
+ (NEE-bel-OON-gen-leed). This brother of Bleda was defeated when the Visigoth 
+Theodoric I and the Roman general Flavius Aetius teamed up at the Battle of Chalons (shuh-LAHN). He 
+was convinced to leave Italy after meeting Pope Leo I at Mantua, and was known as the \"Scourge of God.\" 
+Name this great leader of the Huns. 
+ANSWER:  
+Attila 
+ the Hun 
+186--105-02101 
+2. Invariants named for these constructs are true after every time they are executed. A type of them whose 
+name is prefixed with \"do\" checks the termination condition at the end, rather than the beginning. One can 
+go to the beginning of one of them with the \"continue\" command, or leave one entirely with the \"break\" 
+command. These constructs come in \"while\" and \"for\" types. Name these repeating pieces of code, an 
+\"infinite\" one of which will cause a program to run forever. 
+ANSWER:  
+loop 
+s [or specific answers, such as  
+for loop 
+s or  
+while loop 
+s] 
+132--105-02102 
+3. An author from this country wrote about a man who writes diary entries to his alternate personality. A 
+theater troupe rehearsing  
+The Rules of the Game 
+ is interrupted in a play from here called  
+Six Characters in 
+Search of an Author. 
+ Another author from here wrote about William of Baskerville's investigation of a 
+series of murders in a medieval abbey in  
+The Name of the Rose. 
+ Name this country home to Luigi 
+Pirandello (peer-un-DELL-oh) and Umberto Eco (EK-koh). 
+ANSWER:  
+Italy 
+121--105-02103 
+4. This man depicted his patron speaking and moving in his portrait bust of Scipione Borghese. He 
+redecorated the Sant'Angelo Bridge and built the Scala Regia and baldachin as the architect for St. Peter's 
+Cathedral. In one of his sculptures, an obelisk towers over the Danube, Ganges, Rio de la Plata, and Nile. 
+He also sculpted a nun being pierced by a spear held by an angel. Name this Italian sculptor of the  
+Fountain 
+of the Four Rivers 
+ and the  
+The Ecstasy of Saint Theresa 
+. 
+ANSWER: Gian Lorenzo  
+Bernini 
+030--105-02104 
+5. This philosopher's ideas were supported after his death by Mencius and attacked by Mozi. This man's 
+philosophy included the idea that parent and child and ruler and minister were two of the five basic 
+relationships. This philosopher's concept of goodness, called ren, included showing respect for elders and 
+engaging in filial piety. Name this Chinese philosopher who worked on the Five Classics and whose 
+sayings were collected in the  
+Analects 
+. 
+ANSWER:  
+Confucius 
+ [or  
+Kongfuzi 
+; or  
+Kongzi 
+; or  
+Kongqiu 
+] 
+023--105-02105 
+Colonia 2014     2     Page  1 of 18 
+6. A king of this name reigned for forty-five days before being killed by one of his father's concubines in a 
+drunken stupor. Another king of this name attempted to build the Hall of a Hundred Columns and ordered 
+the construction of the Gate of All Nations, and was ultimately betrayed by his minister Artabanus 
+(art-uh-BAA-nus). That king of this name led his forces to defeat in the Battle of Plataea (pluh-TAY-uh) 
+after building a pontoon bridge. Give this name of a Persian emperor who led his troops at Thermopylae 
+(thur-MAH-puh-lye). 
+ANSWER:  
+Xerxes 
+ (ZERK-seez) 
+030--105-02106 
+7. Eustace of Boulogne tried to convince a commander during this battle to retreat right before Eustace was 
+severely wounded. The victors of this battle pursued the other side into the Malfosse. During this battle, a 
+defensive position was taken by the eventual losing side on Senlac Hill. The winning commander of this 
+battle used fake retreats to draw soldiers out, and the losing commander may be depicted dying from an 
+arrow to the eye on the Bayeux Tapestry. Name this battle lost by Harold Godwinson to the Normans under 
+William the Conqueror in 1066. 
+ANSWER: Battle of  
+Hastings 
+023--105-02107 
+8. Periodic diffraction gratings were found to alter this phenomenon by Smith and Purcell, whose research 
+led to the development of free electron lasers. The IceTop array at the IceCube Observatory uses this 
+phenomenon to detect neutrinos. Analogous to a sonic boom, it causes the emission of a characteristic blue 
+glow, which is often seen in nuclear reactors. It results when a charged particle travels through a medium 
+faster than the speed of light in the medium. Identify this phenomenon named for a Russian physicist. 
+ANSWER: Vavilov- 
+Cherenkov radiation 
+ [or Vavilov- 
+Cherenkov effect 
+] 
+079--105-02108 
+9. This type of literature was addressed to “Miss Nobody” and was written by Frances Burney. A famous 
+author of this type of book was the Chief Secretary to the Admiralty under Charles II. Samuel Pepys 
+(Peeps) wrote one of these in the 1600’s, describing things like the Great Fire of London. After World War 
+II, Otto Frank edited his daughter’s type of this book describing life hiding from the Nazis. Name this 
+literary genre in which the author writes about his or her daily activities. 
+ANSWER:  
+diary 
+ [or  
+journal 
+] 
+052--105-02109 
+10. Scott Sakaluk studied the chase-away form of this process, whose runaway form was proposed by 
+Fisher, and confirmed by Kirkpatrick and Lande, when high genetic covariance was present. Bateman's 
+principle states that it is dependent on gamete investment. Bowerbirds build elaborate structures in this 
+process, which is prevalent in polygynous (pall-IDGE-in-iss) societies. Male-male competition and female 
+choice are the two main forms of this process. Name this process in which organisms compete for and 
+choose mates, which can be thought of as a special case of natural selection. 
+ANSWER:  
+sexual 
+ selection [prompt on natural  
+selection 
+] 
+124--105-02110 
+11. In the first of his  
+Plays Pleasant 
+, this author wrote about the Swiss man Bluntschli, who seeks refuge in 
+the home of Bulgarian war hero during the Serbo-Bulgarian War. This author created a Greek scholar 
+named Adolphe Cusins who inherits a munitions company from Andrew Undershaft. In his best-known 
+play, Colonel Pickering bets Henry Higgins that Eliza cannot become a woman of manners. Name this Irish 
+dramatist of  
+Arms and the Man Major Barbara 
+,  , and  
+Pygmalion 
+. 
+ANSWER: George Bernard  
+Shaw 
+190--105-02111 
+Colonia 2014     2     Page  2 of 18 
+12. The blind King John of Bohemia fought in this conflict, and John's motto was adopted by the winner of 
+this war's Battle of Najera (nah-HER-uh). One side in this conflict lost most of its fleet in the Battle of 
+Sluys (SLOYZ), and the Black Prince won at Poitiers (PWAH-tee-eh) in this war. It began with Edward 
+III's claim on a throne occupied by the House of Valois (val-WAH). Name this war during which Joan of 
+Arc was burned at the stake, which was waged for roughly a century. 
+ANSWER:  
+Hundred Years 
+ War [or  
+Guerre de Cent Ans 
+] 
+141--105-02112 
+13. After playing “Diminuendo and Crescendo in Blue” at the 1956 Newport Jazz Festival, this man 
+returned to prominence. For a Carnegie Hall performance, this man wrote the jazz symphony  
+Black, Brown, 
+and Beige 
+. This man’s orchestra popularized such songs as “Mood Indigo.” His signature tune was “Take 
+the ‘A’ Train” and he composed “It Don’t Mean a Thing (If It Ain’t Got That Swing).” Name this jazz 
+musician nicknamed “Duke.” 
+ANSWER: Edward Kennedy “Duke”  
+Ellington 
+052--105-02113 
+14. A failed conspiracy to overthrow this man was orchestrated by the Marquis of Cinq-Mars. His rival 
+Marie de Medici was exiled to Compiegne (comp-YEN) in the \"Day of the Dupes.\" After his death in 1642, 
+he was succeeded by Jules Mazarin. He was criticized for allying with Protestant countries during the 
+Thirty Years War. Identify this powerful cleric who served as Chief Minister of France under Louis XIII. 
+ANSWER: Cardinal  
+Richelieu 
+ [or Armand Jean du  
+Plessis 
+] 
+145--105-02114 
+15. The McLaren Vale and Barossa Valley of this country are known for their shiraz wines. This country 
+was the site of mines in the Golden Mile of its western city of Kalgoorlie. Polish explorer Pawel Strzelecki 
+(struh-LECK-ee) was the first man to climb this country's highest peak, Mount Kosciuszko. This country's 
+city Alice Springs is the nearest to the rock formation known as either Uluru or Ayers Rock. Name this 
+country that is the only one to also be a continent and whose western half is mostly made up of the 
+Outback, which is the home of many kangaroos. 
+ANSWER: Commonwealth of  
+Australia 
+023--105-02115 
+16. One of these two divine characters sent a giant crab named Carcinus (car-KEEN-us) to attack the feet of 
+the other. The Milky Way originated from the breast of one of these two characters after she angrily 
+stopped suckling the other. One of these mythical beings tried to prevent the other's birth by tying up 
+Alcmene's (alk-MEE-neez) legs. When that failed, she dispatched two snakes to kill the other of these 
+characters. Name both the cow-eyed Greek goddess and the strongman she forced to perform twelve labors. 
+ANSWER:  
+Hera 
+ and  
+Heracles 
+ [or  
+Juno 
+ and  
+Hercules 
+; or  
+Hera 
+ and  
+Hercules 
+; or  
+Juno and Heracles 
+; any 
+combination of acceptable answers may be given in either order, but do not accept or prompt if only one 
+answer is given] 
+079--105-02116 
+17. The enzyme named after these things is absent in Cri du chat (CREE do sha) syndrome and was 
+discovered in  
+Tetrahymena 
+. That enzyme, hTERT, adds TTAGGG to the ends of these things in humans, 
+similar to what occurs in cancer cells. These things are subject to the end replication problem, and when 
+very short, they lead to cellular senescence (suh-NESS-unce). The discovery of these things by Elizabeth 
+Blackburn explained Leonard Hayflick's theory that cells could only divide a finite number of times. 
+Identify these series of repeating nucleotides at the ends of chromosomes. 
+ANSWER:  
+telomere 
+s 
+233--105-02117 
+Colonia 2014     2     Page  3 of 18 
+18. Johannes Brahms's third piece in this genre repeatedly references the \"fate\" motif of Beethoven's Fifth 
+Symphony. Frederic Chopin wrote a piece in this genre whose third movement is a famous funeral march. 
+Ludwig van Beethoven's pieces in this genre include the difficult \"Appassionata\" and one titled \"quasi una 
+fantasia\" nicknamed for the moonlight on Lake Lucerne. Name these pieces for a solo keyboard instrument 
+traditionally contrasted with rhythm-dominated toccatas. 
+ANSWER:  
+piano sonata 
+s [prompt on  
+sonata 
+s] 
+080--105-02118 
+19. This effect explains the results of the Rossi-Hall experiment, which measured muons reaching the 
+surface of the Earth. By using the transverse Doppler Effect, the Ives-Stilwell experiment confirmed the 
+existence of this effect, which is directly proportional to the Lorentz factor. This effect is the cause of a 
+paradox in which a twin in a near-light speed rocket ship can leave and return to Earth younger than a twin 
+who never left Earth. Name this consequence of special relativity that results in clocks \"slowing\" down at 
+relativistic velocities. 
+ANSWER:  
+time dilation 
+ [prompt on special  
+relativity 
+ until it is read] 
+149--105-02119 
+20. This god's son Vali was turned into a wolf that kills Narfi, another son of this god. A goat was used by 
+this god in order to make Skadi laugh. Heimdall and this god are fated to kill one another during Ragnarok. 
+Frigg told this god that only mistletoe could harm her son Balder. This god's wife Sigyn (SIG-in) stays by 
+his side to catch venom that drips towards his face, which was his punishment from the Aesir (EY-seer). 
+Name this shape-shifting Norse god known for being an untrustworthy trickster. 
+ANSWER:  
+Loki 
+023--105-02120 
+Colonia 2014     2     Page  4 of 18 
+Colonia 2014 
+Round 2 
+Second Period, 10 Tossups and 4 Bonuses 
+1. A seventy-four-minute Wilhelm Furtwangler recording of this symphony is sometimes cited as the 
+specific reason why CDs have a seventy-four-minute playing time. Leonard Bernstein conducted a version 
+of it at the Brandenburg Gate to celebrate the fall of the Berlin Wall. This symphony ends with lyrics 
+referencing a \"beautiful spark of divinity\" and \"daughter from Elysium,\" performed by vocalists singing 
+words taken from Friedrich Schiller's poem \"Ode to Joy.\" Name this final complete symphony of Ludwig 
+van Beethoven. 
+ANSWER:  
+Choral 
+ symphony [or  
+Beethoven's Ninth 
+ Symphony; Beethoven is not needed after being 
+mentioned; do not accept or prompt on \"Ode to Joy\"] 
+052--105-02121 
+2. This character notes that his friend “jests at scars that never felt a wound” and wishes he was a glove 
+upon his lover’s hand. This character is the addressee of a speech about the fairy’s midwife, Queen Mab. 
+Friar John is detained from giving this character a note, which causes him to kill Paris and take an 
+apothecary’s poison while in his lover’s “crypt”. Name this friend of Benvolio and Mercutio, a Montague 
+“star-cross’d” lover of Juliet. 
+ANSWER:  
+Romeo 
+ Montague 
+190--105-02122 
+3. One novel by this author climaxes when a falling bookcase kills Leonard Bast, who had previously had 
+an affair with Helen Schlegel. In another of this author's novels, Lucy Honeychurch returns to Florence 
+with George Emerson after deciding not to marry the richer Cecil Vyse. This author of  
+Howard's End 
+created Adela Quested, an Englishwoman who accuses the Indian Dr. Aziz of raping her in the Marabar 
+Caves. Name this English author of  
+A Room with a View 
+ and  
+A Passage to India 
+. 
+ANSWER: Edward Morgan  
+Forster 
+080--105-02123 
+4. In one of this man's operas, a character steals the baby of Count di Luna, and the most famous song is 
+performed by Azucena (ohd-zoo-CHAIN-uh) and the other gypsies. In another of this composer's operas, 
+the title jester discovers that his daughter has been killed shortly after he hears a duke singing about fickle 
+women. This man composed arias such as the \"Anvil Chorus\" and \"La donna e mobile,\" and an opera about 
+an Ethiopian princess. Name this Italian composer of  
+Il trovatore 
+ (TROH-vuh-TOR-ey),  
+Rigoletto 
+, and  
+Aida 
+ (eye-EE-duh). 
+ANSWER: Giuseppe  
+Verdi 
+052--105-02124 
+5. In rituals involving these items, the phrase \"l'had'lik neir\" (luh-HOD lick-NAIR) is used. A ritual 
+involving two of these items uses one of them to fulfill the commandment \"remember\" and the other to 
+fulfill the commandment \"observe.\" A hand is waved over these items and then used to cover the eyes by a 
+woman who uses them at the start of Shabbat. In another Jewish holiday, these items include the 
+\"shamash,\" and an additional one is used on each of eight days. Identify these items which are placed in a 
+menorah on Hannukah and lit. 
+ANSWER:  
+candle 
+s 
+019--105-02125 
+Colonia 2014     2     Page  5 of 18 
+6. This object is judged to be “more loathsome” even though its owner tries “the denial of self.” This 
+object is created by Basil Hallward, who is murdered by his patron. It is last seen displaying “exquisite 
+youth and beauty” as a “withered” and “wrinkled” man lies nearby with a knife in his heart. That occurs 
+after this object is stabbed after developing an aged appearance as its subject sins and remains youthful. 
+Name this piece of artwork that is the title object in an Oscar Wilde novel. 
+ANSWER:  
+picture of Dorian Gray 
+ [accept synonyms for “picture” like “portrait”] 
+052--105-02126 
+7. In this story, one character praises his wife for her beef stew while she daydreams about the fancy life. 
+Another character in this story is elated at first after receiving an invitation to a ball held by the Ministry of 
+Education. The protagonist of this story visits Madame Forestier (for-EST-ee-ay) in order to borrow the 
+title object. Name this short story in which Mathilde replaces the title piece of fake jewelry, written by Guy 
+de Maupassant (GEE duh MOH-puh-sahnt). 
+ANSWER: \"The  
+Necklace 
+\" [or \"La  
+Parure 
+\"] 
+227--105-02127 
+8. This MLB team's ballpark has stands in left field called the Crawford Boxes. During the 1990s and early 
+2000s, this team's lineup included the \"Killer Bs,\" comprised of Derek Bell, Lance Berkman, Craig Biggio, 
+and Jeff Bagwell. Tal's Hill and a train on a track above left field are features of this team's Minute Maid 
+Park. In 2013, this team drafted Mark Appel first overall and moved into the American League. Name this 
+MLB team that plays the Lone Star Series against its in-state rival Texas Rangers. 
+ANSWER:  
+Houston 
+ Astros [or Houston  
+Astros 
+] 
+023--105-02128 
+9. This thinker posited that material, formal, efficient, and final causes were present in all things. He 
+claimed that the only non-material form was the \"Prime Mover.\" This man suggested that \"eudaemonia\" 
+could be found by pursuing moderation in a manual named after his son, the  
+Nichomachean Ethics. 
+ Name 
+this tutor of Alexander the Great and most influential philosopher of Classical Greece, who wrote the  
+Politics 
+ and  
+Poetics. 
+ANSWER:  
+Aristotle 
+019--105-02129 
+10. This politician's 1971 election bid was grounded in a slogan for \"eliminating poverty.\" She put her son 
+in charge of an aggressive family planning program which controversially included sterilization quotas. She 
+died en route to an interview with Peter Ustinov. Her authorization of Operation Blue Star, which was an 
+attack on the Golden Temple of Amritsar, ultimately led to her assassination by her own Sikh bodyguards, 
+after which she was succeeded by her son Rajiv. Identify this daughter of Jawaharlal (jah-WAH-hur-lol) 
+Nehru and first female prime minister of India. 
+ANSWER:  ndira Priyadarshini  
+I Gandhi 
+ [prompt on  
+Gandhi 
+] 
+189--105-02130 
+Colonia 2014     2     Page  6 of 18 
+1. Tell me about crises in world history. 
+[5] What event during the Carter administration that lasted for 444 days and included fifty-two Americans 
+being held against their will in Tehran? 
+ANSWER:  
+Iran hostage 
+ crisis 
+[10] What Asian country captured the U.S. research ship the  
+Pueblo 
+ in 1968? 
+ANSWER:  
+North Korea 
+ [or  
+Democratic People's Republic of Korea 
+] 
+[15] In 2008, the terrorist group Lashkar e-Taiba committed a series of twelve bombing and shooting acts 
+in what city in India? 
+ANSWER:  
+Mumbai 
+ [or  
+Bombay 
+] 
+[20] David Lloyd George\'s government fell after what 1922 crisis in which Turkey threatened to go to war 
+with French and British ships in the Bosporus? 
+ANSWER:  
+Chanak 
+ Crisis 
+023--105-02101 
+2. Give these terms from evolutionary biology. 
+[5] Name the process by which mutation frequencies in a population change randomly, rather than due to 
+selection. 
+ANSWER: genetic  
+drift 
+[10] Name the effect in which a small population breaking off from a larger one results in a loss of 
+diversity. 
+ANSWER:  
+founder 
+ effect 
+[15] What \"trees\" show the evolutionary relationships between species or other taxons? 
+ANSWER:  
+phylogenetic 
+ tree_s 
+[20] What is the process of classifying species based on their evolutionary relationships, rather than using 
+physical similarities as in Linnean classification? 
+ANSWER:  
+cladistics 
+066--105-02102 
+3. Name these literary women. 
+[5] What Canadian wrote  
+The Handmaid's Tale 
+ and other feminist fiction? 
+ANSWER: Margaret  
+Atwood 
+[10] What is the common first name of Tom Buchanan's wife, who is Jay Gatsby's love interest, and a Ms. 
+Miller who dies in a Henry James novel? 
+ANSWER:  
+Daisy 
+[15] What beloved sister in  
+Little Women 
+ dies young due to scarlet fever? 
+ANSWER:  
+Beth 
+ March [or  
+Elizabeth 
+] 
+[20] What author created such fictional female characters as Topsy and Evangeline St. Clare? 
+ANSWER: Harriet Beecher  
+Stowe 
+ [or  
+Beecher 
+] 
+020--105-02103 
+Colonia 2014     2     Page  7 of 18 
+4. Name these rivers. 
+[5] The \"White\" and \"Blue\" meet at Khartoum to form what African river, the longest in the world? 
+ANSWER:  
+Nile 
+ [or White  
+Nile 
+; or Blue  
+Nile 
+] 
+[10] What longest river in Canada rises out of the Great Slave Lake and flows northward into the Beaufort 
+Sea? 
+ANSWER:  
+Mackenzie 
+ River 
+[15] What river flows through Lake Geneva on its way southward to the Mediterranean Sea? 
+ANSWER:  
+Rhone 
+ River 
+[20] What strangely named river flows through the Texas panhandle and traverses all of Oklahoma 
+lengthwise as the longest tributary of the Arkansas? 
+ANSWER: South  
+Canadian 
+ River 
+052--105-02104 
+Colonia 2014     2     Page  8 of 18 
+Colonia 2014 
+Round 2 
+Letter T 
+Letter S 
+Letter H 
+Colonia 2014     2     Page  9 of 18 
+Letter T 
+[10] What author created the mischievous youth Tom Sawyer? 
+ANSWER: Mark  
+Twain 
+ [or Samuel Langhorne  
+Clemens 
+] 
+[10] What magazine founded in 1923 gives out of the Person of the Year award? 
+ANSWER:  
+Time 
+[10] What transition metal element found in the Earth’s crust has the symbol Ti? 
+ANSWER:  
+titanium 
+[10] What Italian painter was known by a nickname meaning “little dyer”? 
+ANSWER:  
+Tintoretto 
+ [or Jacopo  
+Comin 
+; or Jacopo  
+Robusti 
+] 
+[10] What Verdi opera is about a courtesan named Violetta Valery? 
+ANSWER:  
+La  traviata 
+[10] What animal did William Blake say was “burning bright in the forests of the night” in a poem? 
+ANSWER:  
+tiger 
+[10] What city, near modern-day Mexico City, was the capital of the Aztec empire? 
+ANSWER:  
+Tenochtitlan 
+[10] What DNA sequences can change their position in the genome and are known as jumping genes? 
+ANSWER:  
+transposons 
+ [or  
+transposable elements 
+; or  
+TE 
+] 
+[10] What New Testament apostle was noted for his “doubting” of the resurrection of Jesus? 
+ANSWER:  
+Thomas 
+ [or  
+Didymus 
+] 
+[10] What Greek hero killed bandits like Sciron and Procrustes? 
+ANSWER:  
+Theseus 
+052--105-0210-3 
+Colonia 2014     2     Page  10 of 18 
+Letter S 
+[10] What world leader used Sergei Kirov's assassination as the pretext for his Great Purge? 
+ANSWER: Joseph  
+Stalin 
+ [or Iosif Vissarionovich  
+Stalin 
+; or Ioseb Besarionis Dze  
+Jugashvili 
+] 
+[10] The east coast of what island is home to the active volcano Mt. Etna? 
+ANSWER:  
+Sicily 
+[10] What Miles Davis album includes a jazz arrangement of the \"Concierto de Aranjuez?\" 
+ANSWER:  
+Sketches of Spain 
+[10] What transition metal has the atomic symbol Ag? 
+ANSWER:  
+silver 
+[10] What term denotes the weekly day of rest in Judaism and Christianity? 
+ANSWER:  
+sabbath 
+ [or  
+shabbat 
+] 
+[10] What composition by Hector Berlioz includes movements named \"March to the Scaffold\" and \"Dream 
+of a Witches' Sabbath?\" 
+ANSWER:  
+Symphonie Fantastique : Episode de la vie d'un artiste ... en cinq parties 
+ [or  
+Fantastic 
+Symphony : An Episode in the Life of an Artist, in Five Parts 
+] 
+[10] What \"Magnificent\" sultan ruled the Ottoman Empire during its zenith in the 16th century? 
+ANSWER:  
+Suleiman 
+[10] What poetic form has \"Petrarchan\" and \"Shakespearean\" varieties? 
+ANSWER:  
+sonnet 
+[10] What nonessential organ replenishes the body's supply of red blood cells? 
+ANSWER:  
+spleen 
+[10] In Catholicism, the process of canonization is required for one to be recognized as what sort of person? 
+ANSWER:  
+saint 
+020--105-0210-3 
+Colonia 2014     2     Page  11 of 18 
+Letter H 
+[10] What Roman Emperor suppressed the Bar Kokhba Revolt and built a wall at the limit of Roman 
+territory in Britain? 
+ANSWER:  
+Hadrian 
+ [or Publius Aelius  
+Hadrianus 
+ Augustus] 
+[10] What group of poems by John Donne includes one titled “Death be not Proud”? 
+ANSWER:  
+Holy Sonnets 
+[10] What principle states that, if there is a lack of evolutionary pressure, a species’ phenotypic and 
+genotypic frequencies will remain constant? 
+ANSWER:  
+Hardy-Weinberg 
+ principle [or  
+Hardy-Weinberg 
+ Equilibrium] 
+[10] What is the term for the actions and sayings of Mohammad that are collected independently of the 
+Koran? 
+ANSWER:  
+Hadith 
+s 
+[10] What anthropologist showed that it was possible for early humans to have travelled across the Pacific 
+to South America by sailing on the raft Kon-Tiki? 
+ANSWER: Thor  
+Heyerdahl 
+[10] What landscape painter painted a boat in  
+Breezing Up 
+ and showed a man fighting to keep on course in  
+The Gulf Stream 
+? 
+ANSWER: Winslow  
+Homer 
+[10] What current Attorney General announced a program to cut back on long prison terms for low-level 
+drug offenders? 
+ANSWER: Eric  
+Holder 
+, Jr. 
+[10] What Caribbean nation was ruled by two dictators, members of the Duvalier family? 
+ANSWER:  
+Haiti 
+[10] What British author satirized house parties in a novel about the Wimbush family,  
+Crome Yellow 
+, and 
+wrote about John the Savage in  
+Brave New World 
+? 
+ANSWER: Aldous Leonard  
+Huxley 
+[10] The ATLAS and CMS experiments have discovered what elementary particle, which gives other 
+particles mass? 
+ANSWER:  
+Higgs 
+ Boson 
+187--105-0210-3 
+Colonia 2014     2     Page  12 of 18 
+Colonia 2014     2     Page  13 of 18 
+Colonia 2014 
+Round 2 
+20 20-Point Tossups 
+1. A specialized type of this organelle found in plants is the site of the glyoxylate (glai-OCK-sul-ate) cycle. 
+Acatalasia (UH-cat-uh-LAHZ-ee-uh) results when this organelle lacks a key enzyme. Most disorders 
+involving this organelle, such as infantile Refsum disease, result from mutations in PEX genes. A sharp 
+reduction in the number of this organelle is observed in patients with Zellweger syndrome. This organelle 
+contains the enzyme catalase (CAT-uh-layz). For 20 points, name this organelle that decomposes its 
+namesake compound into oxygen and water. 
+ANSWER:  
+peroxisome 
+127--105-02101 
+2. In Jean-Antoine Watteau's painting  
+Pierrot, 
+ a man of this profession can be seen with a donkey. A 
+member of this profession, Franklin West, is taking notes in a painting that depicts a woman shielding her 
+eyes. A melancholy man rests his face on his hand in Van Gogh's portrait of one of these men, Paul Gachet 
+(guh-SHAY). In another painting, a man from this profession holds a needle near the corpse of the executed 
+robber Aris Kindt. For 20 points, name this profession of Rembrandt's subject Nicolaes Tulp and Samuel 
+Gross, who was depicted in a painting by Thomas Eakins. 
+ANSWER:  
+doctor 
+ [or equivalents, such as  
+physician 
+] 
+030--105-02102 
+3. This artist used a cast of the  
+Apollo Belvedere 
+ as the basis for the folded arms of a Scotsman on an icy 
+pond. This artist painted  
+The Skater 
+ while he was still Benjamin West's protege. One of his paintings 
+includes an ornamented table leg shaped like the Roman fasces (FAH-shayz), and captures its 
+puffy-cheeked subject just after he had put his false teeth in. His most famous painting is an unfinished 
+canvas known as the  
+Athenaeum 
+ (AA-thuh-NAY-um). For 20 points, name this artist who painted the  
+Lansdowne 
+ and one-dollar bill likenesses of George Washington. 
+ANSWER: Gilbert Charles  
+Stuart 
+020--105-02103 
+4. A method of root-finding named for this word is identical to Newton's method, but is used when no 
+analytical derivative exists for the function. When two of these lines are drawn from a single point to a 
+circle, then the length of the segment times the length of the external segment is constant. The derivative of 
+this function of x equals this function of x times the tangent of x. For 20 points, give this word that refers to 
+any line that passes through a curve twice. 
+ANSWER:  
+secant 
+190--105-02104 
+5. This artist's \"nuclear mysticism\" period includes his version of the Crucifixion, which depicts Jesus on a 
+hypercube crucifix. This artist included twenty-eight depictions of the Venus de Milo in  
+Hallucinogenic 
+Toreador. 
+ This man collaborated with Luis Bunuel on the film  
+An Andalusian Dog. 
+ For 20 points, name 
+this artist who created a painting in which ants cover the face of one of several melting clocks. 
+ANSWER: Salvador Domingo Felipe Jacinto  
+Dali 
+ i Domenech, 1st Marques de Dali de Pubol 
+186--105-02105 
+Colonia 2014     2     Page  14 of 18 
+6. This state has the largest sea cave in the United States, which has a two-hundred-foot elevator down to 
+its lookout to watch Steller sea lions. This state is the westernmost of the two states that do not allow most 
+drivers to pump their own gas. A 125-foot column inspired by Trajan's column is located in this state's city 
+of Astoria. The Phantom Ship and Old Man of the Lake are both located in this state, where a caldera filled 
+with water, creating Crater Lake. For 20 points, name this state in the Pacific Northwest where the 
+Willamette Valley is located. 
+ANSWER:  
+Oregon 
+023--105-02106 
+7. Apomixis (EY-poh-MIKE-sis), also known as a clonal version of this process, can occur in species that 
+utilize the ZW sex-determination system. Automixis (AWE-toh-MIKE-sis) occurs when the eggs in this 
+process do undergo meiosis. This process occurs naturally in invertebrates such as aphids, rotifers and 
+nematodes (NEE-muh-tohdz). This form of reproduction has been observed in vertebrate species such as 
+hammerhead sharks and Komodo dragons. For 20 points, identify this form of asexual reproduction, named 
+from the Greek for \"virgin birth,\" in which an unfertilized egg becomes a new organism. 
+ANSWER:  
+parthenogenesis 
+ [prompt on asexual  
+reproduction 
+] 
+084--105-02107 
+8. The Tempo program is used to find and model these objects, which are sometimes surrounded by a 
+plerion. An example of these objects in Virgo is surrounded by the first discovered extrasolar planets. A 
+binary example of them was used to indirectly prove the existence of gravitational waves by Hulse and 
+Taylor. Burnell and Hewish named the first discovered one LGM-1 and noted that its emissions were 
+periodic. For 20 points, name these highly magnetized rotating stars that periodically emit radiation. 
+ANSWER:  
+pulsar 
+s [or  
+pulsating star 
+s; prompt on neutron  
+star 
+s] 
+048--105-02108 
+9. The Grandfather geyser field is located in this region. The Very Large Telescope is located in the Paranal 
+(pah-rah-NAHL) Observatory in this region. The few mammal species native to this area include a variety 
+of grey fox, Darwin's leaf-eared mice, and the viscacha (vees-CAH-chuh). Owing to El Nino, the southern 
+portion of this desert annually flowers between September and November. This desert is rich in copper and 
+nitrate deposits, the latter of which sparked the War of the Pacific. For 20 points, name this driest hot desert 
+in the world, located to the west of the Andes. 
+ANSWER:  
+Atacama 
+ Desert 
+020--105-02109 
+10. This city besieged Saguntum to break a peace. A politician who hated this city showed its proximity by 
+spreading fresh figs on the Senate floor, and added to the end of every speech that it \"must be destroyed.\" 
+This city, founded by Phoenician traders, lost at Zama to Scipio Africanus after the failure of elephants 
+under a general from its prominent Barca family. For 20 points, name this loser of the Punic Wars to Rome 
+that had forces commanded by Hannibal. 
+ANSWER:  
+Carthage 
+ [or  
+Carthago 
+; or  
+Kart-hadasht 
+] 
+104--105-02110 
+11. Materials with this property exhibit a phenomenon in which heat is transferred by waves called second 
+sound, resulting in a material with this property having the highest known thermal conductivity. In 2004, a 
+team at Penn State first witnessed this property in a solid, which at first was thought to be a Bose-Einstein 
+condensate. Materials with it can form a thin Rollin film and creep out of a container. This property is 
+observed below a sharp discontinuity at 2.17 Kelvin, the lambda point. For 20 points, name this property 
+observed when viscosity goes to zero at low temperatures. 
+ANSWER:  
+superfluid 
+ity 
+064--105-02111 
+Colonia 2014     2     Page  15 of 18 
+12. In one novel from this country, a man escapes his family living in a big city to begin an affair with the 
+denizen of a hot springs town. Another author from this country described the arson of one of its landmarks 
+in  
+The Temple of the Golden Pavilion, 
+ and killed himself on television after staging a failed right-wing 
+coup. A story from this country describes a girl's attempt to fold a thousand paper cranes to cure her 
+leukemia. For 20 points, name this Asian nation. 
+ANSWER:  
+Japan 
+ [or  
+Nippon 
+-koku; or  
+Nihon 
+-koku] 
+020--105-02112 
+13. A difference of opinion exists between using \"qabd\" (KAH-bid) or \"sadl\" (SAH-dil) positioning during 
+one portion of this action. This action is immediately preceded by an optional \"iqama\" (EE-kah-mah), and 
+one ends it by performing \"tasleem\" on at least one side of the body. Examples of this action include \"fajr\" 
+(FAH-jur), which is performed after \"suhoor\" and before sunrise during Ramadan. Each \"rak'ah\" of this 
+action begins with a declaration of \"Allahu Akbar.\" For 20 points, identify this second pillar of Islam. 
+ANSWER: daily  
+prayer 
+ [or word forms; or  
+salaah 
+; or  
+salaat 
+; or  
+dhuhr 
+ until \"fajr\" is read; or  
+asr 
+ until 
+\"fajr\" is read; or  
+maghrib 
+ until \"fajr\" is read; or  
+isha 
+ until \"fajr\" is read; or  
+fajr 
+ until it is read] 
+189--105-02113 
+14. Crossdating these things is commonly done with a skeleton plot. Portions of these structures that occur 
+early in a season are typically lighter than portions later in a season, allowing for visual identification of 
+their boundaries. These things are the primary object of interest in the field of dendrochronology. Because 
+the width of these things varies mostly as a result of precipitation, they can be used to construct past 
+precipitation records. For 20 points, identify these patterns visible in a cross-section. 
+ANSWER: tree growth  
+ring 
+s 
+066--105-02114 
+15. This concept is the first word in the title of a Sigmund Freud book that explains why the homosexual 
+Dora feels revolted by Herr K. The \"latent\" form of this concept results from exposure to the conditioned 
+stimulus before beginning a classical conditioning experiment. Clark Hull theorized a \"reactive\" form of 
+this concept. If an animal learns that the presence of a conditioned stimulus signifies the lack of the 
+unconditioned stimulus, this form of conditioning is said to have occurred. For 20 points, name this 
+suppression of behavior that is contrasted in conditioning with excitation. 
+ANSWER:  
+inhibition 
+s [or  
+inhibitory 
+] 
+003--105-02115 
+16. This character insults a \"miserable, tub-trading\" group of people as \"sniveling cowards with their 
+longbows and black arrows.\" This character was wounded by Girion, a ruler of Dale, whom he then killed. 
+Another character talks to this creature and calls him \"the Stupendous\" and \"the Unassessably Wealthy.\" At 
+the end of a 2013 film, this creature, voiced by Benedict Cumberbatch, leaves Lonely Mountain and heads 
+toward Lake Town. For 20 points, name this dragon from  
+The Hobbit 
+ series. 
+ANSWER:  
+Smaug 
+023--105-02116 
+17. This composer's Symphony Number 4 in D minor opens with a fast movement marked  
+Lebhaft 
+(LAYB-hoft). This composer was confined to an asylum after throwing himself into the Rhine in a failed 
+suicide attempt brought on by syphilis. This composer included \"Traumerei\" (TROW-mer-ai) in a set of 
+piano pieces called \"Scenes from Childhood.\" This composer's first symphony is nicknamed the \"Rhenish.\" 
+For 20 points, name this German composer who wrote a number of famous pieces for his wife, Clara 
+Wieck. 
+ANSWER: Robert  
+Schumann 
+080--105-02117 
+Colonia 2014     2     Page  16 of 18 
+18. This thinker believed that sympathy works by turning \"ideas\" of another person’s passion into what he 
+called \"impressions\" in the mind. Summaries of this man’s work ended the \"dogmatic slumber\" of 
+Immanuel Kant. He allowed induction only in the ase of a \"missing shade of blue\" in a book drawing on his 
+earlier  
+Treatise of Human Nature. 
+ For 20 points, name this Enlightenment empiricist skeptic who wrote an  
+Enquiry Concerning Human Understanding 
+ in his native Scotland. 
+ANSWER: David  
+Hume 
+104--105-02118 
+19. The derivative with respect to particle number of a quantity named for this scientist gives the chemical 
+potential. A law named for this scientist states that the number of constituents minus the number of phases 
+plus two equals the degrees of freedom. For spontaneous reactions, the change in his namesake quantity is 
+negative; that namesake quantity is calculated as enthalpy minus quantity temperature times entropy. For 
+20 points, identify this American chemist who lends his name to a type of free energy. 
+ANSWER: Josiah Willard  
+Gibbs 
+127--105-02119 
+20. This goddess pulled a handful of hair out of the chest of Brontes after he placed her on his knee. This 
+goddess killed the giants Otus and Ephialtes by tricking them into throwing a spear at each other. This 
+goddess sent a boar to rampage through Calydon. Actaeon was transformed into a stag after he witnessed 
+her bathing in a stream, and Leto gave birth to this goddess on Delos with her brother. For 20 points, name 
+this Greco-Roman goddess of the hunt. 
+ANSWER:  
+Artemis 
+ [or  
+Diana 
+] 
+227--105-02120 
+Colonia 2014     2     Page  17 of 18 
+Colonia 2014 
+Round 2 
+Tiebreakers 
+1. A specialized type of this organelle found in plants is the site of the glyoxylate (glai-OCK-sul-ate) cycle. 
+Acatalasia (UH-cat-uh-LAHZ-ee-uh) results when this organelle lacks a key enzyme. Most disorders 
+involving this organelle, such as infantile Refsum disease, result from mutations in PEX genes. A sharp 
+reduction in the number of this organelle is observed in patients with Zellweger syndrome. This organelle 
+contains the enzyme catalase (CAT-uh-layz). For 20 points, name this organelle that decomposes its 
+namesake compound into oxygen and water. 
+ANSWER:  
+peroxisome 
+127--105-02131 
+2. In Jean-Antoine Watteau's painting  
+Pierrot, 
+ a man of this profession can be seen with a donkey. A 
+member of this profession, Franklin West, is taking notes in a painting that depicts a woman shielding her 
+eyes. A melancholy man rests his face on his hand in Van Gogh's portrait of one of these men, Paul Gachet 
+(guh-SHAY). In another painting, a man from this profession holds a needle near the corpse of the executed 
+robber Aris Kindt. For 20 points, name this profession of Rembrandt's subject Nicolaes Tulp and Samuel 
+Gross, who was depicted in a painting by Thomas Eakins. 
+ANSWER:  
+doctor 
+ [or equivalents, such as  
+physician 
+] 
+030--105-02132 
+3. This artist used a cast of the  
+Apollo Belvedere 
+ as the basis for the folded arms of a Scotsman on an icy 
+pond. This artist painted  
+The Skater 
+ while he was still Benjamin West's protege. One of his paintings 
+includes an ornamented table leg shaped like the Roman fasces (FAH-shayz), and captures its 
+puffy-cheeked subject just after he had put his false teeth in. His most famous painting is an unfinished 
+canvas known as the  
+Athenaeum 
+ (AA-thuh-NAY-um). For 20 points, name this artist who painted the  
+Lansdowne 
+ and one-dollar bill likenesses of George Washington. 
+ANSWER: Gilbert Charles  
+Stuart 
+020--105-02133 
+Powered by TCPDF (www.tcpdf.org) 
+Colonia 2014     2     Page  18 of 18 

@@ -1,0 +1,795 @@
+NASAT 2013 
+Round 6 
+Tossups 
+1. A magnetometer named for this quantity is used to measure magnetic anisotropy. For an electric dipole 
+in an electric field, this quantity can be calculated as the product of electric field, charge, displacement, and 
+sine of theta. That formula is equivalent to the cross product of electric dipole moment and electric field. 
+Integrating this quantity with respect to angular displacement calculates its associated work. Although it is 
+not force, this quantity must total zero at any given point in a physical system for the system to be in 
+equilibrium. This quantity is defined as the cross product of the position vector and force. For 10 points, 
+name this rotational analogue of force that describes twisting. 
+ANSWER:  
+torque 
+014-13-83-06101 
+2. One poem about people killed in one of these events states, \"O lang, lang may the ladies stand wi' their 
+gold kems in their hair, waiting for their ain dear lords, for they'll see them na mair.\" Another poem about 
+people killed in one of these events states, \"Hope had grown grey hairs, Hope had mourning on...Hope was 
+twelve hours gone.\" One of these events kills the title character of the ballad \"Sir Patrick Spens.\" A poem 
+about a victim of one of these requests, \"Look homeward Angel now, and melt with ruth,\" before 
+instructing shepherds to \"weep no more.\" Five nuns fleeing Germany die in one of these events in a 
+Hopkins poem, and one of these events killed Edward King. For 10 points, name this kind of accident that 
+inspired Milton's \"Lycidas.\" 
+ANSWER:  
+shipwreck 
+s [or obvious equivalents; prompt on  
+drown 
+ing] 
+020-13-83-06102 
+3. McKay and Shaw's theory of this phenomenon held that it was most common in the second of Burgess's 
+five \"concentric zones.\" This phenomenon was also explained through the \"differential association\" theory 
+of Edwin Sutherland. In Italian School theories, it is thought to be a result of inheritance, as explained in 
+the \"atavistic\" theories of Cesare Lombroso. Robert Merton's \"strain theory\" holds that this is a natural 
+product of  
+anomie 
+. Wilson and Kelling's \"broken windows theory\" provides a way to reduce this 
+phenomenon, which Cesare Beccaria wrote about along with punishment. For 10 points, name this 
+phenomenon in which individuals decide to disobey the laws of society. 
+ANSWER:  
+crime 
+ [prompt on  
+deviance 
+] 
+080-13-83-06103 
+4. Allen Ginsberg and Lawrence Ferlinghetti translated poems such as “The Individual's Soliloquy” by one 
+of this country's “anti-poets.” That man, Nicanor Parra, praised Alonso de Ercilla's epic poem about this 
+country,  
+La Araucana. 
+ The lines, \"no hand will reach into the obscure death to argue with me over your 
+handful of bones,\" end the first poem of a collection by a poet from this country inspired by the suicide of 
+Romelio Ureta. This country was home to the poet of  
+Sonnets of Death 
+ and  
+Desolación. 
+ For 10 points, 
+name this country home to Gabriela Mistral, as well as Pablo Neruda. 
+ANSWER:  
+Chile 
+121-13-83-06104 
+NASAT 2013     6     Page  1 of 12 
+5. In the active high input implementation of the enabled SR latch, the enable bit is fed into this type of 
+gate. In 3-CNF, this operation connects the groupings of no more than three variables. In a half adder, the 
+carry out bit is produced by this operation. Minterms, which can be obtained from Karnaugh maps, consist 
+of a set of variables to which this operation is applied. This operation holds over both P implies Q and NOT 
+Q implies NOT P according to  
+modus tollens. 
+ This Boolean operation corresponds to multiplication and 
+yields true if all conditions are true and false if any condition is false. For 10 points, name this connective 
+operation in mathematical reasoning which is contrasted with OR. 
+ANSWER:  
+AND 
+ [or  
+conjuction 
+; or  
+product 
+ before \"multiplication\" is read] 
+014-13-83-06105 
+6. While questing for this object, a god was asked for the red rings on his fingers by its owner's greedy 
+sister; that god won this object after his red eyes and ravenous hunger were attributed to eight sleepless 
+nights in anticipation of sex. This object is used daily to revive animals whose names translate as 
+“teeth-barer” and “teeth-grinder.” It was once stolen by Thrym, prompting its owner to cross-dress in order 
+to retrieve it. This object was created with a shorter handle than expected after Brokkr was bitten on the 
+eyelid by a god who transformed himself into a fly. It will be inherited by its user’s sons, Magni and Modi. 
+This weapon will slay the Midgard Serpent at Ragnarok. For 10 points, name this hammer of Thor. 
+ANSWER:  
+Mjolnir 
+ [or  
+Thor’s hammer 
+ until mentioned] 
+052-13-83-06106 
+7. This protein is imaged using conjugated phalloidin. Discovery of its complex with DNase I helped 
+determine its crystal structure. Microbes such as Vaccinia and Shigella can use this protein for motility 
+within host cells, although bacteria often have MreB, an analogue of this protein. Gelsolin and cofilin help 
+organize the assembly of this protein. This protein forms the light filaments of muscles, but it can be found 
+in almost all cells, where it forms part of the cytoskeleton. Types of this protein include G and F, depending 
+on whether it has been polymerized or not. For 10 points, name this protein that undergoes interactions with 
+myosin to cause muscle contraction. 
+ANSWER:  
+actin 
+ [accept  
+thin filament 
+s until mention] 
+140-13-83-06107 
+8. For six centuries, this nation was operated by a council called the \"hlutdaw,\" which was staffed by 
+\"wungyi,\" or \"bearers of great burden.\" Its Alaungpaya Dynasty suppressed the Bago, but was eliminated in 
+1885 after this country's third war against the British. The founder of this nation was Anawrahta, who 
+converted to Theravada Buddhism and had a capital at Pagan. India is connectedy by the Stilwell Road to 
+this country's road, which was a crucial Chinese supply route in World War II. This country was led for 
+almost thirty years by the socialist Ne Win after the 1947 assassination of Aung San. For 10 points, name 
+this Southeast Asian nation whose State Law and Order Restoration Council changed its name in 1989. 
+ANSWER: Union of  
+Burma 
+ [or Union of  
+Myanma 
+r; or Pyidaungzu  
+Myanma 
+ Naingngandaw] 
+015-13-83-06108 
+9. A Telemann suite in this key for flute and strings includes a movement called  
+Air a l'Italien 
+ and 
+concludes with six French dances. The \"Larghetto\" transitions without pause into the \"Rondo\" in Johann 
+Nepomuk Hummel's second piano concerto, which is in this key. A symphony in this key concludes its first 
+movement by restating the \"Alma theme\" and includes three \"hammer blows of fate\" in its final movement; 
+that is Mahler's  
+Tragic Symphony. Rhapsody on a Theme by Paganini 
+   is in this key because Paganini 
+composed his 24th caprice in it. It is the key of Beethoven's  
+Fur Elise 
+ and Grieg's  
+Piano Concerto. 
+ For 10 
+points, name this relative minor of C major, whose key signature contains no sharps or flats. 
+ANSWER:  
+A minor 
+ [do not accept or prompt on \"A\"] 
+080-13-83-06109 
+NASAT 2013     6     Page  2 of 12 
+10. The first English-language periodicals, known as corantos, brought news from this war. Pompeius 
+Planta's murder sparked a theater of this war fought for control of several Alpine passes known as the 
+Confusion of the Leagues. Another offshoot of this war, caused by the deaths of two heirless dukes of 
+Gonzaga, was the War of Mantuan Succession. A commander in this war used the contributions system to 
+force civilians to finance his army. The Winter King fled after a defeat in this war at the Battle of White 
+Mountain. This war's Bohemian Revolt and Danish phase were followed by Gustavus Adolphus bringing 
+Sweden onto the scene. For 10 points, name this religious war that began with the Defenestration of Prague 
+and ended with the Peace of Westphalia. 
+ANSWER:  
+Thirty Years' 
+ Wars 
+020-13-83-06110 
+11. In this country, the Gandaki River forms a basin within which Dhualagiri rises. The Pahari people live 
+primarily in this country's Hill Region. A popular tourist destination here is Lumbini, purportedly the site of 
+a notable birth in 563 BCE. Its namesake language was once called Khaskura and Gorkhali. The Rana 
+dynasty constructed the Singha Durbar in its capital, which lies on the Bagmati River. This country is 
+located south of Tibet, and its border with China is the site of Lhotse and Mount Everest. For 10 points, 
+name this landlocked Himalayan country between India and China. 
+ANSWER: Federal Democratic Republic of  
+Nepal 
+192-13-83-06111 
+12. At one point in this film, a group of women dressed as soldiers help load a cannon before they all wave 
+their hats together. One man in this film places his umbrella into the ground, upon which it promptly turns 
+into a giant mushroom. Thomas Edison made secret copies of this film, earning a fortune off of it while its 
+European director went bankrupt. Its most iconic scene features an object shaped like a face slowly getting 
+closer to the viewer until a bullet-shaped vessel hits its eye. This film begins at a conference where a group 
+of skeptical astronomers eventually approve the title event. For 10 points, name this science-fiction film 
+directed by Georges Melies, a pioneering film in the genre about an expedition to Earth's only satellite. 
+ANSWER:  
+A  Trip to the Moon 
+ [or  
+Voyage to the Moon 
+ or  
+Le  Voyage dans la Lune 
+] 
+192-13-83-06112 
+13. The relative abundance of different types of this substance is affected by the CCD. A prominent 
+example of this substance in the deep ocean is red from oxidized iron. The inclusion of this substance 
+defines turbidity currents. In the neritic zone, ice rafting is a significant contributor to this substance. 
+Manganese nodules are a small but significant portion of this substance. This substance can be classified as 
+hydrogenous, lithogenous or biogenous; the latter constitutes the majority of it and is usually derived from 
+radiolarans, foraminifera, coccolithophores, and diatoms. For 10 points, identify this substance that 
+undergoes lithification to form a namesake type of rock. 
+ANSWER: marine  
+sediment 
+ [or  
+ooze 
+; or reasonable equivalents; prompt on abyssal  
+clay 
+; do not accept or 
+prompt on \"earth\"] 
+066-13-83-06113 
+14. This group was purchased in 1939 by veterinarian James Colescott and obstetrician Samuel Green. It 
+fought the Lumbee Indians at the 1958 Battle of Hayes Pond, and information about it was leaked to the  
+Superman 
+ radio program by undercover investigator Stetson Kennedy. The murder and rape of Madge 
+Oberholtzer led to a trial in Indiana for one of its leaders, D.C. Stephenson. The 1924 Democratic National 
+Convention was deadlocked over whether or not to denounce this group. Both Hugo Black and Robert Byrd 
+were members as young men. This group rose in popularity in 1915 after the release of the film  
+The Birth 
+of a Nation 
+. For 10 points, name this white supremacist group whose members burned crosses. 
+ANSWER:  
+Ku Klux Klan 
+ [or  
+KKK 
+] 
+052-13-83-06114 
+NASAT 2013     6     Page  3 of 12 
+15. James A. Michener donated a complete version of this series to the Honolulu Academy of Arts. A man 
+paints the interior of a barrel in one entry from this series, which also depicts a grove of circular pine trees 
+and several workers at a water mill. This series includes  
+South Wind, Clear Sky 
+, which is colloquially 
+known as the \"Red\" version of the title object. Ten predominantly black-line artworks were later added to 
+this series. Three boats are thrashed in the rapids in the first image from this series, which shows many 
+claw-like extensions of a white foam crest. For 10 points, name this series that includes  
+The Great Wave off 
+Kanagawa 
+, a set of ukiyo-e woodblocks by Hokusai featuring a Japanese landmark. 
+ANSWER:  
+Thirty-Six Views of Mount Fuji 
+ [or  
+Fugaku Sajurokkei 
+] 
+192-13-83-06115 
+16. In one text, this man claims he \"took up the markers fixed in many places.\" The doulos population 
+expanded following one of his measures, as labor previously done by hektemoroi was replaced by slave 
+labor. Three factions, the Shore, the Plain, and the Uplands, emerged in the wake of reforms passed by this 
+man, such as the seisachtheia, which outlawed debt bondage. To avoid the temptation of becoming a tyrant, 
+this man left his home for ten years, and according to Herodotus had a meeting with Croesus. According to 
+Aristotle, homicide laws were the only laws written by Draco that were continued after this man's 
+constitutional reform. For 10 points, name this Greek to whom the Athenian constitution was attributed. 
+ANSWER:  
+Solon 
+121-13-83-06116 
+17. A poem written about one of these asserts, \"We rise in thought to the heavenly throne, but our own 
+nature still remains unknown.\" After one of these events, baby Juan is crushed against a pillar and Pedrillo 
+kills Dona Costanza. Josefe and Jeronimo decide to return to Santiago at the end of that novella titled for 
+one of these events by Heinrich von Kleist. Another of these events prompts the University of Coimbra to 
+order the execution of a Biscay man who married his godmother. Jacques the Anabaptist dies immediately 
+before one of these events, after which Don Issachar and the Grand Inquisitor are killed by Cunegonde's 
+lover. For 10 points, name this natural phenomenon depicted by Voltaire in  
+Candide 
+ after a disastrous one 
+hit Lisbon. 
+ANSWER:  
+earthquake 
+s 
+190-13-83-06117 
+18. Van Laar modified this equation to find the excess enthalpy of a liquid mixture. One parameter in this 
+equation is equal to twenty-seven sixty-fourths times R-square T sub c squared over P sub c. The 
+Joule-Thomson inversion temperature is equal to twenty-seven fourths times the critical temperature 
+predicted by this equation. The isotherms predicted by this equation tend to oscillate around a phase 
+transition, a fact corrected by Maxwell's equal area rule. This equation has parameters that account for the 
+excluded volume of a particle and one accounting for attractive forces between particles. Those parameters 
+are labelled a and b. For 10 points, name this equation of state, a modification of the ideal gas law named 
+after a Dutch scientist. 
+ANSWER:  
+van der Waals 
+ equation 
+140-13-83-06118 
+19. At one point in the work she appears in, this character tells the narrator, \"It should take you about four 
+seconds to walk from here to the door. I'll give you two.\" This character shoplifts Halloween masks with 
+the narrator and gives a weekly “weather report” to a gangster in Sing Sing. She makes plans to marry a 
+Brazilian diplomat after her roommate's wedding. This woman’s possessions include a cat that she refuses 
+to name. This character lives in the same apartment as the unnamed narrator, whom she calls \"Fred\" after 
+her soldier brother. For 10 points, name this socialite, the protagonist of Truman Capote’s  
+Breakfast at 
+Tiffany’s. 
+ANSWER:  
+Holly 
+ Golightly [or Holly  
+Golightly 
+; or  
+Lula 
+ Mae Barnes; or Lula Mae  
+Barnes 
+] 
+192-13-83-06119 
+NASAT 2013     6     Page  4 of 12 
+20. In Matthew, this person's death is said to fulfill a prophecy from Jeremiah, though most scholars believe 
+Matthew meant Zechariah. His namesake Gospel, part of the Codex Tchacos, delineates the division of 
+souls into those that are immortal and those that disappear at death, and states that his actions were ordered 
+by Jesus. He fell into the Akeldama after his death, which by some accounts was a suicide by hanging. This 
+man was replaced by Matthias after accepting the Sanhedrin's offer of thirty pieces of silver to kiss his 
+mentor. For 10 points, name this Apostle who betrayed Jesus. 
+ANSWER:  
+Judas 
+ Iscariot [or Judas  
+Iscariot 
+] 
+192-13-83-06120 
+21. One of this author's title characters leaves the management of her estate to Ivy Peters while she has an 
+affair with Frank Ellinger, much to the dismay of the narrator, Niel Herbert. Another of this author's 
+protagonists falls in love with Fred Ottenburg while on a trip to the pueblos in Flagstaff, Arizona after 
+taking music lessons with Harsanyi. This author of  
+A Lost Lady 
+ wrote about Dr. Archie in a novel centering 
+on an opera singer from Moonstone. In another of her novels, the narrator flirts with Lena Lingard and 
+impresses the future lover of Larry Donovan, a member of the Shimerda family. For 10 points, name this 
+author of  
+The Song of the Lark 
+ and  
+My Antonia. 
+ANSWER: Willa  
+Cather 
+192-13-83-06121 
+22. This hero consolidated power by ambushing and killing his fifty cousins, the Pallantides. Cimon 
+celebrated a military victory by bringing back the bones of this hero. After committing rape in a bed of 
+asparagus, he fathered Melanippus on Perigune. This man lost part of his thigh after being ripped out of a 
+chair by his relative, Heracles, who saved him from his ill-considered visit to the underworld with 
+Pirithous. This man married Phaedra after abandoning a woman who had helped him out with a ball of 
+string. For 10 points, name this Athenian hero who, with Ariadne's help, killed the Minotaur. 
+ANSWER:  
+Theseus 
+080-13-83-06122 
+23. The city of Naberezhnye Chelny was once named for this man. During World War II, this man served 
+as the head of the political commissars on the Ukrainian front and wrote memoirs of his participation in the 
+Battle of Malaya Zemlya. Frol Kozlov's stroke helped this leader eventually gain power. He came to 
+prominence after being placed in charge of the Virgin Lands Campaign. This man ordered a military action 
+that saw to the overthrow of Hafizullah Amin and made Babrak Karmal president; that action was the 
+Soviet invasion of Afghanistan. For 10 points, name this Soviet leader whose namesake doctrine asserted 
+the Soviet Union's ability to intervene in the affairs of its satellite states. 
+ANSWER: Leonid Ilich  
+Brezhnev 
+030-13-83-06123 
+NASAT 2013     6     Page  5 of 12 
+NASAT 2013 
+Round 6 
+Bonuses 
+1. This place is the namesake of a poem by Jonathan Swift Sommers describing \"John Cabanis' wrath\" and 
+\"the strife of hostile parties.\" For 10 points each: 
+[10] Name this town whose other inhabitants include Webster Ford and Indignation Jones, as well as a 
+woman who says, \"Life is too strong for you--it takes life to love Life.\" 
+ANSWER:  
+Spoon River 
+[10] The  
+Spoon River Anthology 
+ was written by this American poet. 
+ANSWER: Edgar Lee  
+Masters 
+[10] Several of the poems in the  
+Spoon River Anthology 
+ place blame on this greedy banker, who defends 
+himself by saying, \"we, seekers of earth's treasures, getters and hoarders of gold, …are self-contained, 
+compact, harmonized, even to the end.\" 
+ANSWER: Thomas  
+Rhodes 
+ [or  
+Thomas 
+ Rhodes] 
+190-13-83-06201  
+2. The site of this battle is where \"St. Mary Magdalene's Church, Battlefield\" is located today. For 10 points 
+each: 
+[10] Name this 1403 battle, the first in which longbows faced each other on English soil. It resulted in the 
+death of Henry Percy, also known as \"Hotspur.\" 
+ANSWER: Battle of  
+Shrewsbury 
+[10] Shrewsbury put down a revolt against Henry IV, the first king of what house that feuded with the 
+House of York? 
+ANSWER: House of  
+Lancaster 
+ [or  
+Lancastrian 
+s] 
+[10] Henry IV entertained Manuel II, a Byzantine emperor from this dynasty. This was the final Byzantine 
+ruling dynasty and ended with the death of Manuel's brother, Constantine XI. 
+ANSWER:  
+Palaeologos 
+ Dynasty 
+052-13-83-06202  
+3. This quantity is symbolized Z and is approximately two percent for the Sun. For 10 points each: 
+[10] Identify this quantity equivalent to the proportion of stellar mass not represented by hydrogen or 
+helium. 
+ANSWER:  
+metallicity 
+[10] Metallicity is usually expressed as the base-10 logarithm of the amount of this element to that of 
+hydrogen. It is also a major contributor to line blanketing. 
+ANSWER:  
+iron 
+ [or  
+Fe 
+] 
+[10] A large concentration of iron in a star's core may eventually lead to the Ib or Ic (\"one b or one c\") 
+types of these stellar explosions. 
+ANSWER:  
+supernova 
+e 
+190-13-83-06203  
+NASAT 2013     6     Page  6 of 12 
+4. Vasari relates that this artist was tremendously afraid of death and avoided large gatherings at all costs. 
+For 10 points each: 
+[10] Name this Florentine painter, whose most famous work lies above the altar in the Capponi Chapel and 
+depicts Mary and several women swooning as the limp body of Christ is lowered to the ground. 
+ANSWER: Jacopo  
+Pontormo 
+ [or Jacopo da  
+Pontormo 
+; or Jacopo  
+Carucci 
+] 
+[10] Pontormo painted in this 16th century Renaissance style characterized by exaggerated physical 
+features. It was supplanted by Baroque art. 
+ANSWER:  
+Mannerism 
+ [or word forms] 
+[10] This Mannerist painter of the Bardi Altarpiece exaggerated the size of both the infant Jesus and Mary 
+in his  
+Madonna With a Long Neck 
+. 
+ANSWER:  
+Parmigianino 
+ [or Girolamo Francesco Maria  
+Mazzola 
+; or  
+Parmigiano 
+] 
+020-13-83-06204  
+5. Aristotle calls this field “first philosophy” in a book since titled for this field. For 10 points each: 
+[10] Name this branch of philosophy, which studies being insofar as it is being. Members of the Vienna 
+Circle attacked statements in this field as meaningless. 
+ANSWER:  
+metaphysics 
+[10] In Book Zeta of the  
+Metaphysics, 
+ Aristotle considers possible candidates for this primary kind of 
+being, including essence and universals. 
+ANSWER:  
+substance 
+ [or  
+substantia 
+; or  
+ousia 
+] 
+[10] Aristotle's views of substance made him differ from this teacher of his, who argued for immaterial 
+Forms in the  
+Phaedo. 
+ANSWER:  
+Plato 
+121-13-83-06205  
+6. The protagonist of this story is criticized by Mr. Bons. For 10 points each: 
+[10] Name this story in which a boy meets Thomas Browne and Dante on the title vehicle, which he 
+believes will take him to heaven. 
+ANSWER: \"The  
+Celestial Omnibus 
+\" 
+[10] \"The Celestial Omnibus\" was written by this English author of  
+Howards End 
+ and  
+A Room with a View. 
+ANSWER: E. M.  
+Forster 
+[10] In Forster's  
+A Passage to India, 
+ this Muslim doctor is accused of sexually assaulting Adela Quested. 
+This friend of Cyril Fielding organizes a trip to the Marabar Caves. 
+ANSWER: Dr.  
+Aziz 
+192-13-83-06206  
+7. An empire centered in this modern-day country was ruled by kings named Jayavarman. For 10 points 
+each: 
+[10] Name this modern-day country that contained the center of the Khmer empire. Suryavarman II built 
+this country's Angkor Wat. 
+ANSWER: Kingdom of  
+Cambodia 
+ [or Preahreacheanachakr  
+Kampuchea 
+] 
+[10] The Khmer empire conquered this kingdom that was centered in present-day southern Vietnam, but it 
+rose back up under Jaya Harivarman I. It also had to defend itself against the Dai Viet and was known for 
+its navy. 
+ANSWER:  
+Champa 
+ Kingdom 
+[10] The Champa Kingdom and Dai Viet, under the Tran Dynasty at the time, successfully defended 
+themselves against this group of people from the north three times, including winning a decisive victory at 
+the Battle of Bach Dang. 
+ANSWER:  
+Mongol 
+s [or  
+Mongol 
+ Empire] 
+140-13-83-06207  
+NASAT 2013     6     Page  7 of 12 
+8. The title character of this opera sings a setting of the  
+Salve regina 
+ after waking up from a drugged sleep. 
+For 10 points each: 
+[10] Name this opera in which Laca slashes the title character's cheeks to show that his rival, Steva, only 
+loves her for her beauty. Laca marries the title character, and they live happily ever after when the title 
+character's stepmother drowns her baby in icy water. 
+ANSWER:  
+Jenufa 
+[10] This composer, who took inspiration from a creepy obsession with Kamila Stosslova, wrote the operas 
+Jenufa 
+ and  
+The Cunning Little Vixen 
+. 
+ANSWER: Leos  
+Janacek 
+[10] This fellow Czech composer wrote the opera  
+The Bartered Bride 
+ and the tone poem  
+Ma Vlast 
+. 
+ANSWER: Bedrich  
+Smetana 
+080-13-83-06208  
+9. This novel opens with a man reading  
+The Divine Comedy 
+ while sitting in a cafe in Piraeus. For 10 points 
+each: 
+[10] Name this novel whose title character calls Madame Hortense \"Bouboulina\" and wishes to open a 
+mine in Crete. 
+ANSWER:  
+Zorba the Greek 
+ [or  
+Life and Adventures of Alexis Zorbas 
+] 
+[10] This Greek novelist of  
+Zorba the Greek 
+ also wrote  
+The Last Tempation of Christ. 
+ANSWER: Nikos  
+Kazantzakis 
+[10] This protagonist of Kazantzakis's  
+The Greek Passion 
+ is a shepherd chosen to play Christ in the title 
+play. He is ultimately murdered by his fellow villagers. 
+ANSWER:  
+Manolios 
+192-13-83-06209  
+10. For two solutions, the temperature ratio for when this quantity is equal is a constant, a fact described by 
+Duhring’s rule. For 10 points each: 
+[10] Name this quantity, which is described by Raoult’s law. Volatile compounds have a high value for it, 
+which is high for compounds with weak intermolecular forces. 
+ANSWER:  
+vapor pressure 
+[10] This equation calculates the vapor pressure using the enthalpy of vaporization, and shows that vapor 
+pressure does not increase linearly with temperature. 
+ANSWER:  
+Clausius-Clapeyron 
+ equation 
+[10] This equation uses coefficients labeled A, B, and C to describe an individual substance in order to 
+calculate its vapor pressure. It only works for pure substances and a limited temperature range. 
+ANSWER:  
+Antoine 
+ equation 
+140-13-83-06210  
+NASAT 2013     6     Page  8 of 12 
+11. This composer paid tribute to the tenth anniversary of the October Revolution in his second symphony. 
+For 10 points each: 
+[10] Name this Russian composer who evoked the resistance to a Nazi invasion in his rousing seventh 
+symphony, nicknamed the  
+Leningrad. 
+ANSWER: Dmitri Dmitriyevich  
+Shostakovich 
+[10] Shostakovich regarded his symphony of this number as a \"Soviet artist's creative response to just 
+criticism.\" Mstislav Rostropovich claimed that Shostakovich would have been executed for writing it, had 
+there not been a forty-minute ovation at its premiere. 
+ANSWER:  
+fifth 
+ symphony [or  
+Symphony No.   in D minor, Op. 47 5 
+] 
+[10] Shostakovich used this four note musical motif, expressed in German notation, as a signature in works 
+like his first cello concerto and his fifteenth symphony. 
+ANSWER:  
+DSCH 
+ motif 
+192-13-83-06211  
+12. This book warns against marriage with non-Christians in its verse, \"Be ye not unequally yoked together 
+with unbelievers.\" For 10 points each: 
+[10] Name this epistle whose 10th through 13th chapters may be part of the lost \"letter of tears.\" This work 
+outlines how one should collect from the poor in Jerusalem, and it follows an epistle that states \"love is 
+patient, love is kind.\" 
+ANSWER:  
+Second Corinthians 
+[10] The Epistles to the Corinthians, along with the Epistles to the Romans and the Galatians, were written 
+by this apostle, originally from Tarsus. 
+ANSWER: Saint  
+Paul 
+ the Apostle [or  
+Saul 
+ of Tarsus] 
+[10] In the King James translation of the 13th chapter of First Corinthians, these four words follow \"For 
+now we see.\" These four words illustrate the inadequacy of human knowledge on the divinity. 
+ANSWER: \" 
+through a glass, darkly 
+\" 
+192-13-83-06212  
+13. The most elaborate form of this ceremony was practiced by the Kwakiutl, and it was often used by 
+those who had suffered public embarrassment to save face. For 10 points each: 
+[10] Name this ritual practiced by American Indians in the Pacific Northwest which involved the 
+distribution of property and gifts. 
+ANSWER:  
+potlatch 
+[10] This man succeeded his uncle Emile Durkheim as editor of the journal  
+The Sociological Year 
+, and he 
+examined the potlatch ceremony, Kula Ring, and other exchange rituals in his major book. 
+ANSWER: Marcel  
+Mauss 
+[10] This anthropologist wrote  
+Introduction to the Work of Marcel Mauss 
+. This author of  
+The Raw and the 
+Cooked 
+ used the term bricolage to describe the ability of premodern societies to put pre-existing items to 
+new use in his work  
+The Savage Mind 
+. 
+ANSWER: Claude  
+Levi-Strauss 
+030-13-83-06213  
+NASAT 2013     6     Page  9 of 12 
+14. Answer the following about the Cahokia settlement, for 10 points each. 
+[10] The Cahokia historic site across from St. Louis features about 120 man-made examples of these 
+structures, whose \"builders\" are the colloquial name for the people who built Cahokia. 
+ANSWER:  
+mound 
+s [accept  
+pile hill 
+s,  s, or equivalent answers] 
+[10] The largest mound at the Cahokia site is this one, the largest pre-Columbian earthwork north of 
+Mesoamerica. It is basically built from clay and soil. 
+ANSWER:  
+Monks 
+ Mound 
+[10] Cahokia residents enjoyed playing the game of Chunkey, which featured players rolling stones across 
+the ground and then throwing these objects as close to the stone as possible. 
+ANSWER:  
+spear 
+s 
+052-13-83-06214  
+15. This operation is applied to the matrix A minus lambda I in order to find the eigenvalues. For 10 points 
+each: 
+[10] Name this operation applied in Cramer's rule to solve a system of equations. For a two-by-two matrix, 
+it equals the difference of the product of the diagonals. 
+ANSWER:  
+determinant 
+[10] If the determinant of a matrix does not equal zero, its columns have this property, which means no 
+column can be written as a linear combination of the others. 
+ANSWER:  
+linear independence 
+ [or word forms] 
+[10] The sum of these two quantities is equal to the number of columns of a matrix according to a 
+namesake theorem. One is the number of linearly independent columns in a matrix while the other is the 
+dimension of the kernel. 
+ANSWER:  
+rank 
+ and  
+nullity 
+190-13-83-06215  
+16. This series is narrated by Nick Jenkins, while its other characters include Charles Stringham and 
+Kenneth Widmerpool. For 10 points each: 
+[10] Name this series of twelve novels depicting societal tensions in mid-20th-century England. Its first 
+volume is  
+A Question of Upbringing. 
+ANSWER:  
+A  Dance to the Music of Time 
+[10] Anthony Powell, the author of  
+A Dance to the Music of Time, 
+ had a valuable acquaintance with this 
+other English novelist of  
+Decline and Fall 
+ and  
+Brideshead Revisited. 
+ANSWER: Evelyn  
+Waugh 
+[10] Waugh described the disintegration of Tony and Brenda Last's marriage in this novel, which takes its 
+title from \"The Waste Land.\" 
+ANSWER:  
+A  Handful of Dust 
+192-13-83-06216  
+NASAT 2013     6     Page  10 of 12 
+17. These functions are written in terms of associated Legendre polynomials for the theta-dependent term. 
+For 10 points each: 
+[10] Name these functions, the eigenfunctions of the angular momentum operator, usually symbolized with 
+a capital Y. They have two associated quantum numbers which correspond to l and m-sub-l for the 
+hydrogen atom. 
+ANSWER:  
+spherical harmonic 
+s 
+[10] The spherical harmonics are the entire eigenfunctions of this model system used to represent 
+microwave spectroscopy. This system represents a chemical bond which is free to rotate but not to vibrate. 
+ANSWER:  
+rigid rotor 
+ [or  
+rigid rotator 
+ model] 
+[10] A correction term is introduced to the spacing of lines in a microwave spectrum to account for this 
+phenomenon, which lengthens the rotor. This \"force\", really a result of inertia, is directed away from the 
+center of rotation. 
+ANSWER:  
+centrifugal 
+ force 
+190-13-83-06217  
+18. This seat of Polk County is a common site for presidential candidates to set up headquarters, due to its 
+importance in the election season. For 10 points each: 
+[10] Name this Midwestern city with a name literally translating to \"of the monks.\" Eliel Saarinen designed 
+its art center. 
+ANSWER:  
+Des Moines 
+[10] Des Moines is the capital of this state, found between Missouri and Minnesota. Its other cities include 
+Davenport and Cedar Rapids. 
+ANSWER:  
+Iowa 
+[10] Iowa's city of West Branch has both a National Historic Site and a Presidential Library dedicated to 
+this man, who was born in Iowa. This president was the first one born west of the Mississippi. 
+ANSWER: Herbert  
+Hoover 
+192-13-83-06218  
+19. The \"warrior gene,\" heavily represented in Maori men, is a version of a gene coding for this family of 
+enzymes. For 10 points each: 
+[10] Name this family of enzymes that play a crucial role in inactivating neurotransmitters. Their inhibitors 
+are used as antidepressants and as treatments for Alzheimer's and Parkinson's. 
+ANSWER:  
+monoamine oxidase 
+s [or  
+MAO 
+s; accept  
+MAO-A 
+ or  
+MAO-B 
+] 
+[10] MAOs are considered \"flavoproteins\" because they're covalently bound to the oxidized form of this 
+molecule. This molecule produces 1.5 equivalents of ATP in respiration and is made once per turn of the 
+citric acid cycle. 
+ANSWER:  
+FAD 
+H2 [or  
+flavin adenine dinucleotide 
+] 
+[10] Heavy use of this drug can deplete MAOs. Abusers of this drug often end up with COPD, emphysema, 
+and lung cancer. 
+ANSWER:  
+tobacco 
+ [or  
+cigar 
+ettes; or  
+nicotine 
+] 
+020-13-83-06219  
+NASAT 2013     6     Page  11 of 12 
+20. This event may have been precipitated by grief faced after the death of Hephaestion. For 10 points 
+each: 
+[10] Name this event suggested by some to be as the result of poisoning, but may just have been the result 
+of disease. It led to the wars of the Diadochi. 
+ANSWER:  
+death of Alexander the Great 
+ [or  
+death of Alexander III 
+; or  
+death of Alexander of 
+Macedon 
+ia; prompt on just  
+death of Alexander 
+] 
+[10] This Roman emperor reportedly snatched Alexander's breastplate from his tomb. He is better known 
+for allegedly trying to appoint his horse as a consul. 
+ANSWER:  
+Caligula 
+ [or  
+Gaius Caesar 
+ Germanicus] 
+[10] This later Roman emperor visited the tomb of Alexander, even though it was closed to the public. His 
+namesake edict granted citizenship to all freemen, and he became sole ruler by killing his brother, Geta. 
+ANSWER:  
+Caracalla 
+ [or  
+Caracallus 
+; or  
+Marcus 
+ Aurelius Severus Antoninus Augustus; or  
+Septimius 
+Bassianus 
+; do not accept \"Marcus Aurelius\" on its own] 
+052-13-83-06220  
+21. As  
+strategos 
+, this man opposed sending Athenian forces to help put down a helot revolt in Sparta. For 
+10 points each: 
+[10] Name this enemy of Cimon, an Athenian democrat who weakened conservative institutions while 
+strengthening the Boule and Ecclesia. He was assassinated for his democratic reforms. 
+ANSWER:  
+Ephialtes 
+[10] This lieutenant of Ephialtes was called \"the first citizen of Athens\" by Thucydides, who also recorded 
+this man's funeral oration for fallen Athenians after the first year of the Peloponnesian War. 
+ANSWER:  
+Pericles 
+[10] Ephialtes' democratic reforms weakened this Athenian council, which consisted of elite citizens who 
+had previously served as archon. After the reforms, its jurisdiction was restricted to murder trials. 
+ANSWER:  
+Areopagus 
+080-13-83-06221  
+Powered by TCPDF (www.tcpdf.org) 
+NASAT 2013     6     Page  12 of 12 

@@ -1,0 +1,773 @@
+NASAT 2012 
+Round 12 
+Tossups 
+1. Among this deity's children are a goddess who provides good eyesight and a goddess who weaves 
+colorful clouds. This figure passed a series of 3200 trials, each taking 3 million years, in order to defeat a 
+demon. This divine figure created the Milky Way to separate his daughter from a cowherd, but allowed 
+them to meet annually on a bridge of magpies. He owns an orchard whose peaches grant immortality. This 
+figure was originally a subordinate to one of the Three Pure Ones, and he once gave Monkey the job of 
+stable boy. For 10 points name this ruler of heaven from Chinese mythology, named for a type of green 
+stone. 
+ANSWER:  
+Jade Emperor 
+ [or  
+Yu-huang 
+; or  
+Yu Di 
+] 
+048-12-59-12102 
+2. Ling slightly simplified one form of this circuit by factoring out a propagate term from the group 
+generate signal despite it not being a common factor. That form of this circuit helps eliminate the gate delay 
+of the ripple-carry type of this circuit. A basic implementation of it feeds the two main bits into an XOR 
+gate and an AND gate, sends the output of that XOR gate, along with a C-sub-in bit, to another XOR 
+gate/AND gate pair and ORs the output of the AND gates together. A naive implementation of this circuit 
+eliminates all but the first XOR and AND gate from the aforementioned design; that is the \"half\" type, 
+which does not support a carry-in bit. For 10 points, identify these basic blocks used in arithmetic logic 
+units which sum binary inputs. 
+ANSWER:  
+adder 
+ [accept  
+summer 
+ before \"sum\" is read] 
+066-12-59-12103 
+3. One bridge built in this city was the first to use tubular cord members and caused the first American 
+outbreak of “the bends.” That bridge was designed and named for Civil War shipbuilder James Eads. 
+Minoru Yamasaki designed a housing complex for this city whose 1972 demolition became a symbol of the 
+failures of modern architecture and public housing. This home of the Pruitt-Igoe project is the site of a 
+ten-story red brick office building designed by Dankmar Adler and Louis Sullivan. Another structure in this 
+city is the centerpiece of the Jefferson National Expansion Memorial and was based on an inverted catenary 
+arch. For 10 points, name this Midwestern home of the Wainwright Building and the Gateway Arch. 
+ANSWER:  
+St. Louis 
+, Missouri 
+015-12-59-12104 
+4. One of his poems concludes by asking, “and in heaven, if I cry to you then, will you hear or know?” 
+This poet wrote, “Thou hast conquered, O pale Galilean, the world has grown grey from thy breath” in a 
+poem beginning, “I have lived long enough, having seen one thing, that love hath an end,” and responding 
+to “the Proclamation in Rome of the Christian Faith.” This poet of “The Triumph of Time” elegized 
+Charles Baudelaire in “Ave Atque Vale.” For 10 points, name this Victorian poet of  
+Atalanta in Calydon 
+who included “Hymn to Proserpine” in his seminal collection  
+Poems and Ballads. 
+ANSWER: Algernon Charles  
+Swinburne 
+014-12-59-12105 
+NASAT 2012     Round 12     Page  1 of 12 
+5. This city's council was abolished and replaced by the \"elders of the twelve tribes of Israel.\" One leader of 
+this city passed a law that legalized polygamy and forbade women from refusing marriage proposals. A 
+student of Melchior Hoffmann, Bernhard Rothmann, reformed this city. Its residents resorted to eating 
+frogs, rats, and shoe leather during its siege by Bishop Franz von Waldeck. One of this city's leaders, Jan 
+Mathys, declared it the \"New Jerusalem\" during its disastrous Anabaptist rebellion, when it was led by the 
+\"King of Zion,\" John of Leiden. For 10 points, name this German city where the Treaty of Westphalia was 
+signed. 
+ANSWER:  
+Münster 
+080-12-59-12106 
+6. This thinker wrote that “classic conservatism” requires an aristocracy, a peasantry, and a 
+peasant-bourgeoisie, all things America has never had, in an analysis of the “conservative mood.” He 
+argued that the classic checks and balance system is outdated because interests cooperate instead of 
+competing. One of this man’s texts critiques Talcott Parsons’s structural functionalist approach, arguing 
+that his discipline must work between “the personal troubles of milieu” and the “public issues of social 
+structure.” Another of his books describes the shared worldview of the leaders of state, military, and 
+industry in postwar American society. For 10 points, name this author of  
+The Sociological Imagination 
+ and  
+The Power Elite 
+. 
+ANSWER: Charles Wright  
+Mills 
+052-12-59-12107 
+7. This thinker defended the enslavement of Africans on the grounds that they were the defeated aggressors 
+in a just war. Robert Nozick came up with the example of a man who mixes tomato juice with the ocean to 
+mock this thinker’s claim that a man gains ownership over something by mixing his labor with it. He wrote 
+many of his later works in the household of the Earl of Shaftesbury, including one that refutes the idea of a 
+divine right of kings put forth by Robert Filmer. This man wrote the  
+Fundamental Constitution of the 
+Carolinas 
+ and advocated toleration of Protestant sects in  
+An Essay Concerning Toleration. 
+ For 10 points, 
+name this English political philosopher who espoused liberal viewpoints in  
+Two Treatises of Government 
+. 
+ANSWER: John  
+Locke 
+080-12-59-12108 
+8. This letter names a function in quantum field theory that relates the coupling parameter to the energy 
+scale. One quantity denoted by this letter is equal to one over Boltzmann’s constant times temperature; that 
+quantity appears in the exponential of Boltzmann factors. This letter is also used to symbolize the ratio of 
+an object’s speed to the speed of light. In one process named for this letter, a down quark changes to an up 
+quark, releasing an electron and an electron antineutrino. That process, which is mediated by the weak 
+force, keeps a nucleus’ mass number constant but changes the number of protons. For 10 points, identify 
+this Greek letter which names a form of decay in which a positron or electron is emitted. 
+ANSWER:  
+beta 
+132-12-59-12109 
+9. One character in this play has had seven children who all died within a day of their birth, leading her to 
+task her only living child, Ruth, to investigate the cause of her misfortunes. Another character in this play is 
+pregnant and thus is able to obtain a stay of execution until she has given birth. In this play, one character 
+who wants his land to pass to his own sons chooses to die under the weight of many stones rather than 
+confess to a crime. At its opening, Mr. Parris believes that the reason that his daughter Betty is in a 
+catatonic state has something to do with her cavorting in the forest with Tituba. For 10 points, name this 
+play in which the accusations of Abigail Williams lead to the death of John Proctor, a work of Arthur 
+Miller. 
+ANSWER:  
+The  Crucible 
+040-12-59-12110 
+NASAT 2012     Round 12     Page  2 of 12 
+10. One of these works defends Barry Goldwater's claim that \"extremism in the defense of liberty is no 
+vice\" by citing the Congo Crisis and Hamlet's \"to be or not to be\" soliloquy. Another of these works 
+analyzes the Russian, Chinese, American, and French revolutions, concluding that revolutions are \"the 
+landless against the landlords\" and brought about by bloodshed. That one is titled \"Message to the 
+Grassroots.\" The most famous of these works, delivered in two different forms in Cleveland and Detroit, 
+calls Lyndon Johnson a \"Southern cracker\" and warns of another March on Washington from people who 
+bought \"one-way tickets.\" For 10 points, name this set of orations, including \"The Ballot or the Bullet,\" 
+which were all delivered by a Muslim rival to Martin Luther King. 
+ANSWER:  
+speeches 
+ of  
+Malcolm X 
+ [or  
+speeches 
+ of  
+Malcolm Little 
+; or  
+speeches 
+ of El-hajj Malik  
+El-Shabazz 
+] 
+080-12-59-12111 
+11. One religious community which, until the last decade, lived almost entirely in this country was 
+mentioned in the Quran along with Jews and Christians as one of the \"People of the Book.\" Those 
+\"Sabians,\" who lived here, revere John the Baptist but reject Jesus, and are now known as this country's 
+minority \"Mandeans.\" Another small religion which exists mostly in this country worships Melek Taus, the 
+peacock god, and is the Yazidis. In 2006, this country, home to the more western large population of 
+Chaldean Christians, was plagued by death squads in the \"Sunni Triangle.\" For 10 points, name this 
+country where the Shia majority was long suppressed under the rule of Saddam Hussein. 
+ANSWER: Republic of  
+Iraq 
+ [or Jumhuriyat al- 
+Iraq 
+] 
+019-12-59-12112 
+12. A type of ophiolite is named after a \"supra\" form of these regions. One part of these regions can 
+undergo tearing known as STEP faults. They consist of an updip zone and a seismogenic zone. 
+Accretionary prisms are formed on one part of these regions. Nankai and Cascadia are two notable ones. 
+Although not island arcs, one area associated with them can be affected by \"roll-back\" and is a back arc. 
+Earthquakes can occur deep in them in areas called Benioff zones. The primary driving force behind these 
+regions is slab pull. For 10 points, name these regions in which an oceanic plate is driven under a 
+continental plate at a convergent margin. 
+ANSWER:  
+subduction zone 
+s [prompt on  
+convergent boundaries 
+ or  
+convergent margin 
+s] 
+066-12-59-12113 
+13. In one scene in this film, the camera points straight up from the floor at the face of a character banging 
+a metal door and shouting, “Go check it out!” Another of its scenes takes place in a bathroom with solid 
+red walls and a white ceiling and floor, where that character’s jacket is wiped by a man who mentions how 
+he “corrected” his daughters. This film repeatedly uses floor-level tracking shots to follow a boy on a 
+blue-seated tricycle through a building in which he has a vision of a torrent of blood gushing from an 
+elevator. For 10 points, name this Stanley Kubrick film in which Jack Torrance pursues his family with an 
+axe and famously exclaims, “Here’s Johnny!” 
+ANSWER:  
+The  Shining 
+014-12-59-12114 
+14. One part of this novel describes an incident in which the narrator asks a man to move his stalled 
+motorcycle, after which he is attacked by an onlooker. Another part describes a man named Du Guesclin 
+whom the narrator had fought alongside with during the Spanish Civil War. In another section, the narrator 
+describes how came to possess  
+The Just Judges, 
+ a panel from the Ghent altarpiece. The narrator recounts 
+how he failed to save a woman who committed suicide on the Pont Royal Bridge, an act compared to the 
+biting of the apple in the Garden of Eden. This novel is narrated from the Mexico City bar in Amsterdam 
+by Jean-Baptiste Clamence. For 10 points, name this novel by Albert Camus. 
+ANSWER:  
+The  Fall 
+ [or  
+La  Chute 
+] 
+064-12-59-12115 
+NASAT 2012     Round 12     Page  3 of 12 
+15. Conspiracy theories for this event were investigated in Operation Paget, which eventually blamed 
+\"gross negligence.\" It is effectively the subject of Stella Vine's painting  
+Hi Paul can you come over I'm 
+really frightened 
+, whose title references a letter written to Paul Burrell warning of one man's desire to plan 
+an accident so he could \"marry Tiggy.\" Much blame was placed on the Head of Security at the Ritz Hotel, 
+Henri Paul, who had been drinking and was also killed during this event. Taking place in the Pont de 
+l’Alma road tunnel in Paris, this event was initially blamed on overaggressive paparazzi and also killed 
+Egyptian film producer Dodi Fayed. For 10 points, name this August 31, 1997 car accident that killed a 
+Princess of Wales. 
+ANSWER:  
+death of Diana 
+, Princess of Wales [or  
+death of Diana Spencer 
+; or  
+death of 
+ Dodi  
+Fayed 
+ until 
+\"Dodi Fayed\" is mentioned; or  
+death of 
+ Henri  
+Paul 
+ until \"Henri Paul\" is mentioned; accept \"car accident\" 
+in combination with any of the previous phrases] 
+052-12-59-12116 
+16. One of this city's museums is a former poorhouse called Vieille Charite. Louis XVI built over a fortress 
+of the Knights Hospitallers to construct this city's Fort Saint-Jean. Marcel Pagnol founded his film studio in 
+this city. This city's main thoroughfare, which takes its name from the hemp once transported along it, is La 
+Canebiere. A 27-foot-tall copper statue of Mary tops the bell tower of this city's Notre Dame de la Garde. 
+The Frioul Islands lie in this city's harbor, which contains the notorious Chateau d'If. A stew called  
+bouillabaisse 
+ comes from this port founded in 600 BCE by Phoenician traders. For 10 points, name this 
+port city in the south of France. 
+ANSWER:  
+Marseille 
+ [or  
+Marseilles 
+] 
+080-12-59-12117 
+17. One man in this novel gives a speech, rifle in hand, from the roof of his porch. That man, Sherburn, 
+mocks a mob for being unable to kill him in daylight. This book’s title character is shown a magic hairball 
+and fakes his own death by shooting a pig. Hemingway opined that this novel should end as the title 
+character resolves, “All right then, I’ll go to hell,” before he goes to the Phelps estate to find a friend. This 
+novel’s title character travels through the Grangerford-Shepherdson feud and puts up with awful 
+Shakespeare from two conmen pretending to be noble, the Duke and the Dauphin. For 10 points, name this 
+novel in which the slave Jim floats down the Mississippi with the title boy, written by Mark Twain. 
+ANSWER:  
+The Adventures of  Huckleberry Finn 
+ [or  
+Huck Finn 
+] 
+104-12-59-12118 
+18. Like the Thracians, these people used a sickle-like weapon called the  
+falx 
+. These people were unified 
+under King Burebista. After destroying the army of Cornelius Fuscus, these people fell to Tettius Iulianus 
+at the Battle of Tapae. Apollodorus of Damascus constructed a nearly 4000-foot-long bridge to combat 
+these people, whose enemies cut the water pipes to their fortress at Sarmizegethusa. The defeat of their 
+king, Decebalus, is commemorated on the spiral frieze of a column in the Roman Forum. For 10 points, 
+name these people who lived in modern-day Romania and fought several wars against Domitian and 
+Trajan. 
+ANSWER:  
+Dacian 
+s 
+080-12-59-12119 
+NASAT 2012     Round 12     Page  4 of 12 
+19. Radiographic studies sometimes reveal that this substance is found in cavum velum interpositum in 
+infants. The median and lateral apertures, respectively named for Magendie and Luschka, are pathways for 
+it. The strongest positive result for a beta-2 transferrin assay occurs in this substance. Ependymal cells, 
+which secrete this substance, beat their cilia to form a “barrier” to its access. This substance may be tested 
+by a procedure that indicates Guillian-Barre syndrome if there are too many proteins. Its presence in 
+ventricles and the space between the arachnoid and pia maters mediates intracranial pressure. For 10 points, 
+name this liquid removed by lumbar puncture, found in and around the central nervous system. 
+ANSWER:  
+cerebrospinal fluid 
+ [or  
+CSF 
+] 
+020-12-59-12120 
+20. This artist gained popularity during his namesake \"Affair,\" in which the Union of Berlin Artists shut 
+down his exhibition after one week due to its supposed French influences. This artist painted a woman 
+wearing an unbuttoned white dress that reveals a red slip in  
+Ashes 
+. He also depicted a skinny, developing 
+nude woman sitting at the edge of her bed in  
+Puberty 
+. His most famous work was recently sold for 
+$120,000,000 dollars, making it the most expensive work of art ever sold at an auction. That work depicts a 
+swirling orange sky above a green-faced figure on a bridge. For 10 points, name this Norwegian artist of  
+The Scream 
+. 
+ANSWER: Edvard  
+Munch 
+080-12-59-12121 
+21. An action of this poem’s subject is compared to how “a skate’s heel sweeps smooth on a bow-bend.” 
+The speaker of this poem recalls how “my heart in hiding stirred” for the title figure before ambiguously 
+exclaiming, “the achieve of, the mastery of the thing!” This poem concludes by noting how “blue-bleak 
+embers…fall, gall themselves, and gash gold-vermilion,” and it begins by stating, “I caught this morning 
+morning’s minion,” a “dapple-dawn-drawn Falcon.” For 10 points, name this sonnet dedicated “To Christ 
+our Lord” by Gerard Manley Hopkins. 
+ANSWER: “The  
+Windhover 
+” 
+014-12-59-12122 
+22. Two of these structures can interact with each other if a heptad repeat is present. These structures show 
+minima at 208 and 222 nanometers in CD spectroscopy, and the relative locations of their monomers are 
+displayed on Wenxiang diagrams. Due to their dipole moment they are often capped by a negative charge. 
+They occupy a stripe in the third quadrant of the Ramachandran plot. Seven of these structures that 
+spanning a membrane are found in G protein coupled receptors. Glycine is rarely found in them because of 
+the entropic cost. This type of structure is stabilized from hydrogen bonding between amino acids in 
+position   and  
+i i+4 
+. For 10 points, name this common type of motif that is part of a protein's secondary 
+structure, often contrasted with the beta sheet. 
+ANSWER:  
+alpha helix 
+ [prompt on  
+helix 
+] 
+064-12-59-12123 
+23. This colony's Plundering Time saw looting by Richard Ingle and led to the Battle of Severn. This 
+colony fought a boundary war with its northern neighbor known as Cresap's War. William Stone served as 
+this state's governor when it passed an act protecting all Trinitarian practitioners of a certain religion. That 
+aforementioned act was revoked by this colony's governor William Claiborne and was known as this 
+colony's \"Toleration Act,\" or the \"Act Concerning Religion.\" In addition to having its northern boundary 
+set by the Mason-Dixon Line, this colony was established as a safe-haven for Catholics. For 10 points, 
+name this colony that was founded by Cecil Calvert. 
+ANSWER:  
+Maryland 
+149-12-59-12124 
+NASAT 2012     Round 12     Page  5 of 12 
+NASAT 2012 
+Round 12 
+Bonuses 
+1. This goddess wields a spear and shield in her incarnation as \"Sospita.\" For 10 points each: 
+[10] Name this Roman equivalent of Hera, the wife of Jupiter and queen of the gods. 
+ANSWER:  
+Juno 
+[10] The Roman mint was located in the temple of this aspect of Juno. This epithet derives from the Greek 
+for \"unique\" or the Latin for \"to warn.\" 
+ANSWER: Juno  
+Moneta 
+[10] Juno's role in the Capitoline Triad is derived from this people's myth system. They practiced haruspicy 
+and believed in the prophets Tages and Vegoia. 
+ANSWER: the  
+Etruscans 
+080-12-59-12201  
+2. This theory is used to explain why none of the magnetic monopoles predicted by GUTs exist. For 10 
+points each: 
+[10] Name this model of the early universe in which a viewer’s commoving frame shrinks. Proposed by 
+Alan Guth, the slow roll form of this theory occurs when its namesake field is larger than the Planck 
+energy. 
+ANSWER: cosmological  
+inflation 
+[10] Cosmic inflation is a modification of this traditional theory of the beginning of the universe. It states 
+that the universe expanded from a singularity over 13 billion years ago. 
+ANSWER:  
+big bang 
+[10] Fluctuations in this value for de Sitter space in cosmic inflation results in a Hawking temperature equal 
+to the Hubble constant over two pi times the Boltzmann constant. Fluctuations in this quantity lead to 
+density perturbations, which create galaxies. 
+ANSWER:  
+energy 
+149-12-59-12202  
+3. The losers of this battle agreed to the Treaty of Schoenbrunn. For 10 points each: 
+[10] Name this 1809 battle that effectively ended the War of the Fifth Coalition. Napoleon defeated the 
+Archduke Charles here and received a large portion of the Austrian Empire as a result. 
+ANSWER: Battle of  
+Wagram 
+[10] At Wagram, Napoleon gave Jean Bernadotte the boot after he retreated from the Austrian army. 
+Bernadotte later became Charles XIV John of this Scandinavian country and is still the namesake of its 
+royal house, currently under the rule of Carl XVI Gustaf. 
+ANSWER: Kingdom of  
+Sweden 
+ [or Konungariket  
+Sverige 
+] 
+[10] Bernadotte fought against his former commander at this 1813 \"Battle of the Nations.\" The Sixth 
+Coalition's victory at this battle allowed them to invade France and send Napoleon off to Elba the next year. 
+ANSWER: Battle of  
+Leipzig 
+080-12-59-12203  
+NASAT 2012     Round 12     Page  6 of 12 
+4. Answer the following about controversial photographs, for 10 points each: 
+[10] Photographer Annie Leibovitz drew fire in 2008 for a topless photoshoot of this then fifteen-year-old 
+actress. 
+ANSWER: Miley  
+Cyrus 
+[10] Andres Serrano took this photograph of a crucifix submerged in fluid as part of a series that also 
+involved statuettes photographed in blood and milk. 
+ANSWER:  
+Piss Christ 
+[10] This photographer drew questions regarding the definition of obscenity over his explicit, homoerotic 
+exhibition at the Washington Project for the Arts. 
+ANSWER: Robert  
+Mapplethorpe 
+105-12-59-12204  
+5. In the \"hindsight\" example of these phenomena, subjects believe they \"knew all along\" what would be 
+the outcome of a potentially unpredictable event. For 10 points each: 
+[10] Name these phenomena, in which a subject's distorted perception leads to an error in judgment. Other 
+examples of these phenomena include the fundamental attribution error. 
+ANSWER: cognitive  
+bias 
+es 
+[10] In this type of cognitive bias, a subject lends more credence to the data that support his preconceived 
+ideas than to data that refute them. It allows conspiracy theorists to \"prove\" outlandish ideas. 
+ANSWER:  
+confirmation 
+ bias 
+[10] This man investigated how the \"availability heuristic\" results in cognitive biases along with Amos 
+Tversky, with whom he developed prospect theory. 
+ANSWER: Daniel  
+Kahneman 
+080-12-59-12205  
+6. This work claims that the incorporation of a whitewashed German nihilism into American liberal 
+ideology has led to the title phenomenon. For 10 points each: 
+[10] Name this Allan Bloom work, which criticizes the American university system for embracing a facile 
+multiculturalism and kowtowing to 1960's radical movements. 
+ANSWER:  
+The  Closing of the American Mind 
+[10] The introduction to  
+The Closing of the American Mind 
+ attacks this ideology, which holds that 
+behaviors can only be judged according to the values of the specific culture in which they originate. 
+ANSWER: cultural  
+relativism 
+[10] Bloom called this author \"Dale Carnegie with a bit of middle European whipped cream on top.\" This 
+author of  
+The Art of Loving 
+ claimed that existential angst makes submission to authoritarian regimes more 
+appealing in  
+Escape from Freedom 
+. 
+ANSWER: Erich Seligmann  
+Fromm 
+080-12-59-12206  
+NASAT 2012     Round 12     Page  7 of 12 
+7. Because this compound has an odd number of electrons, it exists in equilibrium with its dimerized form. 
+For 10 points each: 
+[10] Name this compound with nitrogen in a +4 oxidation state, which is formed by reacting nitric oxide 
+with oxygen. 
+ANSWER:  
+nitrogen dioxide 
+ [or  
+NO 
+2 
+; or  
+nitrogen (IV) oxide 
+ (nitrogen-four-oxide); prompt on  
+nitrogen 
+oxide 
+; do not accept or prompt on “nitrous oxide”] 
+[10] Nitrogen dioxide reacts with water in one step of the Ostwald process, which forms this strong acid 
+with formula HNO . 
+3 
+ANSWER:  
+nitric 
+ acid 
+[10] The formation of the nitrogen-nitrogen bond when NO  dimerizes causes it to lose this property. 
+2 
+Molecular orbital theory was partially developed to explain this property's occurrence in liquid oxygen. 
+ANSWER:  
+paramagnetism 
+ [accept word forms like  
+paramagnetic 
+; prompt on  
+magnetism 
+ or similar 
+answers] 
+132-12-59-12207  
+8. This author wrote an autobiographical trilogy consisting of  
+Childhood, Boyhood, 
+   and  
+Youth. 
+ For 10 
+points each: 
+[10] Name this author, whose novel  
+Resurrection 
+ is about a nobleman whose experiences visiting a prison 
+cause him to reexamine his life. Another of his novels begins with the famous line, “Happy families are all 
+alike; every unhappy family is unhappy in its own way.” 
+ANSWER: Leo  
+Tolstoy 
+ [or Lev Nikolayevich  
+Tolstoy 
+] 
+[10] That aforementioned Tolstoy novel is this one, in which the title woman has an affair with Count 
+Vronsky before ultimately throwing herself under a train. 
+ANSWER:  
+Anna Karenina 
+[10] Tolstoy reportedly played a game involving this animal as a child. In Dostoevsky’s  
+Winter Notes on 
+Summer Impressions, 
+ he asks the reader to try not to think of this animal, which will inevitably result in the 
+person always thinking of it. Psychologist Daniel Wegner later ran an experiment proving that assertion. 
+ANSWER:  
+polar bear 
+ [or  
+white bear 
+; prompt on  
+bear 
+] 
+052-12-59-12208  
+9. This Republican was a leader in the Conservative Coalition against the New Deal alongside Democrat 
+Richard Russell, Jr. For 10 points each: 
+[10] Name this United States non-interventionist Senator who condemned the Nuremberg Trials as an 
+instance of victor's justice. He lost the Republican nomination to Dewey in 1948 and narrowly lost again to 
+Eisenhower in 1952. 
+ANSWER:  obert Alphonso  
+R Taft 
+ [prompt on  
+Taft 
+] 
+[10] Robert Taft also sponsored the Labor-Management Relations Act along with Hartley, which amended 
+this 1935 act that limits the power of employers to regulate labor unions and strikes. 
+ANSWER:  
+National Labor Relations 
+ Act [or  
+Wagner 
+ Act] 
+[10] The Wagner Act was found constitutional in a 1937 Supreme Court case between the National Labor 
+Relations Board and this steel company. 
+ANSWER:  
+Jones and Laughlin 
+ Steel Corporation 
+127-12-59-12209  
+NASAT 2012     Round 12     Page  8 of 12 
+10. This character loses connection with humanity after his best friend William frames him for theft, 
+leading to his expulsion from Lantern Yard. For 10 points each: 
+[10] Name this character, who then becomes a miser until his accumulated gold is stolen by Dunstan. He 
+experiences spiritual rebirth while raising his adopted daughter, Eppie. 
+ANSWER: Silas  
+Marner 
+ [or  
+Silas 
+ Marner] 
+[10]  
+Silas Marner 
+ was written by this English Victorian novelist, who wrote under a male pseudonym. She 
+also wrote  
+Middlemarch. 
+ANSWER: George  
+Eliot 
+ [or Mary Ann  
+Evans 
+] 
+[10] In  
+Silas Marner, 
+ this son of a squire fears that his secret marriage to the opium-addicted Molly will 
+ruin his social standing. He gets off scot-free when Molly dies and Silas takes in his daughter, Eppie. 
+ANSWER:  
+Godfrey 
+ Cass [prompt on  
+Cass 
+] 
+080-12-59-12210  
+11. This god was honored yearly in the Toxcatl festival, at which one man got selected to live like a king 
+imitating this god for a year and the previous man who did so was killed. For 10 points each: 
+[10] Name this Aztec god of the night sky, who is often depicted as a jaguar. 
+ANSWER:  
+Tezcatlipoca 
+[10] Tezcatlipoca was often depicted with one of these objects, usually one made of obsidian and/or 
+emitting smoke. In some myths, this item appears in place of a foot he lost at the world’s creation while 
+fighting the Earth Monster. 
+ANSWER: a smoking  
+mirror 
+ [or obsidian  
+mirror 
+] 
+[10] In some myths, Tezcatlipoca was the first of these celestial objects. In Greek myth, Helios takes this 
+role. 
+ANSWER: the  
+sun 
+104-12-59-12211  
+12. In 1966, he recorded  
+The Empty Foxhole 
+ with his son, Denardo, playing the drums - at the age of ten. 
+For ten points each: 
+[10] Name this jazz musician who recorded  
+The Shape of Jazz to Come 
+. 
+ANSWER: Ornette  
+Coleman 
+[10] After watching Coleman in concert, this trumpeter was said to have declared him \"all screwed up 
+inside.\" He recorded  
+Filles de Kilimanjaro 
+ and  
+Kind of Blue 
+. 
+ANSWER: Miles Dewey  
+Davis 
+ III 
+[10] Coleman collaborated on this woman's album  
+Universal Consciousness 
+. She also recorded  
+Journey in 
+Satchidananda 
+, and her husband released  
+Giant Steps 
+. 
+ANSWER:  lice  
+A Coltrane 
+ [or Alice  
+McLeod 
+] 
+088-12-59-12212  
+13. On October 3, 2010, the final redemption on bonds issued to guarantee these payments was delivered. 
+For 10 points each: 
+[10] Identify these very long-term payments whose restructuring was the subject of the Dawes and Young 
+Plans. 
+ANSWER:  
+German reparation 
+s for World War I [accept equivalents] 
+[10] Attempts to collect reparations from Germany had been suspended in 1932 after a conference at this 
+city. A 1923 treaty here recognized the state of Turkey and was the final treaty ending World War I. 
+ANSWER:  
+Lausanne 
+[10] The case for reparations was outlined in Article 231 of the Treaty of Versailles, which is usually 
+known by this name, for its assertions about Germany's responsibility for the conflict. 
+ANSWER: \"war  
+guilt 
+\" clause 
+019-12-59-12213  
+NASAT 2012     Round 12     Page  9 of 12 
+14. This man claimed “good artists were philosophers who had overcome philosophy” in his essay, “We 
+Metaphysicians.” For 10 points each: 
+[10] Name this practitioner of  
+pittura metafisica 
+, who painted  
+Nostalgia of the Infinite 
+ and  
+Enigma of the 
+Hour. 
+ANSWER: Giorgio  
+de Chirico 
+[10] Sylvia Plath wrote a poem addressed to her mother inspired by this painting by De Chirico. The two 
+title figures are Classical statues with the heads of mannequins is in the foreground, and there is a red castle 
+in the city of Ferrara in its background. 
+ANSWER:  
+The  Disquieting Muses 
+ [or  
+Le  Muse inquietanti 
+] 
+[10] De Chirico also helped develop this art movement, whose manifesto was written by Andre Breton and 
+whose exponents included Salvador Dali. 
+ANSWER:  
+Surrealism 
+121-12-59-12214  
+15. This author calls himself a \"rusty head sailor with sea green eyes\" and declares, \"Either I'm nobody or 
+I'm a nation\" in \"The Schooner  
+Flight 
+.\" For 10 points each: 
+[10] Name this poet of \"Sea Grapes\" who described \"marble like Greece, like Faulkner's South in stone\" in 
+\"Ruins of a Great House.\" 
+ANSWER: Derek  
+Walcott 
+[10] Walcott may be best known for this epic poem about Achille and Hector, who compete over Helen. 
+ANSWER:  
+Omeros 
+[10] Walcott's \"The Castaway\" was inspired by this creation of Daniel Defoe, who must survive on a 
+Caribbean island after being shipwrecked. 
+ANSWER: Robinson  
+Crusoe 
+ [or  
+Robinson 
+ Crusoe] 
+080-12-59-12215  
+16. One war in the country was supposedly sparked when a former slave called her former master a \"pig's 
+head.\" For 10 points each: 
+[10] Name this country home to the Maori. Henry Williams, a missionary in this country, described the 
+Musket Wars, which occurred in this country following Hongi Hika's acquisition of guns. 
+ANSWER:  
+New Zealand 
+[10] Many Maori chiefs signed this treaty co-drafted by James Busby and William Hobson. Debate over the 
+meaning of the word \"governship\" in this treaty led to hostility between the British and Maori. 
+ANSWER: Treaty of  
+Waitangi 
+[10] William Williams briefly persuaded Hone Heke not to cut down one of these objects located on Maiki 
+Hill. Heke eventually did, sparking a war named for this object. 
+ANSWER:  
+flagstaff 
+ [or  
+Flagstaff 
+ War] 
+149-12-59-12216  
+17. An attempt by the de Lesseps company to build this structure in the 1880's ended in disaster due to 
+rampant disease. For 10 points each: 
+[10] Name this Central American waterway, completed in 1914. 
+ANSWER:  
+Panama Canal 
+[10] The Gaillard Cut connects this large artificial lake created by the Panama Canal that receives water 
+from the Chagres River. 
+ANSWER: Lake  
+Gatun 
+[10] A bridge between Staten Island and New Jersey is named for this civil engineer who supervised the 
+construction of the canal. 
+ANSWER: George Washington  
+Goethals 
+064-12-59-12217  
+NASAT 2012     Round 12     Page  10 of 12 
+18. Mesons are made up of one these particles and the anti- type of this particle, whereas baryons are made 
+up of three of these. For 10 points each: 
+[10] Name this class of fundamental particles that come in up, down, charm, strange, top, and bottom 
+varieties. 
+ANSWER:  
+quark 
+[10] This man is credited with discovering the quark along with George Zweig. He showed how the quark 
+model explains the eightfold way of organizing baryons and mesons, which in turn becomes the SU(3) 
+flavor symmetry. 
+ANSWER: Murray  
+Gell-Mann 
+[10] Gell-Mann also names a formula with Nishijima that gives this physical quantity as equal to isospin 
+plus one half the sum of baryon number and strangeness. 
+ANSWER:  
+charge 
+127-12-59-12218  
+19. The speaker of this poem leaves the lecture-room to go to \"the mystical moist night-air, and from time 
+to time, looked up in perfect silence at the stars.\" For 10 points each: 
+[10] Name this poem whose speaker sees \"the proofs, the figures...the charts and the diagrams\" of the title 
+scientist. 
+ANSWER: \" 
+When I Heard the Learn'd Astronomer 
+\" 
+[10] In this poem, the speaker reflects on \"the varied carols I hear,\" including those of mechanics, 
+carpenters, masons, boatmen, shoemakers, woodcutters, and mothers. 
+ANSWER: \" 
+I Hear America Singing 
+\" 
+[10] \"When I heard the Learn'd Astronomer\" and \"I Hear America Singing\" are part of this poetry 
+collection by Walt Whitman, most of which consists of his poem \"Song of Myself.\" 
+ANSWER:  
+Leaves of Grass 
+020-12-59-12219  
+20. The drug cilengitide is being studied for its selectivity for these proteins, which may play a role in 
+inhibiting angiogenesis. For 10 points each: 
+[10] Name these proteins which mediate cell attachment to other cells or to the extracellular matrix. They 
+can bind to collagen and fibronectins. 
+ANSWER:  
+integrin 
+s 
+[10] Integrin binding to the ECM can trigger the release of kinases which are involved in this process, the 
+propagation of an intracellular response to an extracellular event. 
+ANSWER:  
+signal 
+ transduction [or word forms like  
+signaling 
+] 
+[10] During cell migration, integrins are shuttled from the membrane to the cell's interior by this process, in 
+which cells engulf objects. 
+ANSWER:  
+endocytosis 
+020-12-59-12220  
+NASAT 2012     Round 12     Page  11 of 12 
+21. Performing this operation on two orthogonal vectors yields a value of zero. For 10 points each: 
+[10] Name this algebraic operation that, for two vectors, returns a value equal to the product of the 
+magnitudes of those vectors times the cosine of the angle between them unlike the cross product. 
+ANSWER:  
+dot 
+ product [or  
+scalar 
+ product] 
+[10] This inequality states that, for two vectors x and y, the modulus of the inner product between x and y is 
+less than or equal to the product of the magnitudes of x and y. 
+ANSWER:  
+Cauchy-Schwarz 
+ inequality [or  
+Cauchy 
+ inequality; or  
+Schwarz 
+ inequality; or  
+Cauchy-Schwarz-Bunyakovsky 
+ inequality] 
+[10] The two sides of the Cauchy-Schwarz inequality are equal if and only if the two vectors x and y have 
+this property. Two vectors have this property if one can be written as a linear combination of the other. 
+ANSWER:  
+linearly dependent 
+149-12-59-12221  
+Powered by TCPDF (www.tcpdf.org) 
+NASAT 2012     Round 12     Page  12 of 12 

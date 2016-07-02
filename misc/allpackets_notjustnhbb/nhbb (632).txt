@@ -1,0 +1,882 @@
+Colonia 2014 
+Round 1 
+First Period, 20 Tossups 
+1. In diagramming a heat engine on a plot partially named for this value, it is generally shown along the 
+y-axis. At a given mass, a gas that follows Gay-Lussac's (GEH LOO-sack's) law will have this value 
+directly proportional to the gas's temperature. This value is kept constant for a gas when considering the 
+relationship of Charles's Law between temperature and volume, and this value is also kept constant in an 
+isobaric process. Name this value measured in Pascals and calculated by taking force over area. 
+ANSWER:  
+pressure 
+023--105-01101 
+2. In 2012, this man ordered the bombing of a Sudanese arms factory. He has called Hassan Rouhani a 
+\"wolf in sheep's clothing\" at the U.N. He gave a wildly applauded speech to the U.S. Congress in 2011 
+where he refused to accept the pre-1967 borders for his country. His government now includes Tzipi Livni, 
+and his defense secretary is Ehud Barak of the Labor Party. Name this Likud (lick-OOD) Party leader and 
+current Prime Minister of Israel. 
+ANSWER: Benjamin \"Bibi\"  
+Netanyahu 
+027--105-01102 
+3. These things are divided into monolithic and micro types, the latter of which is exemplified by the 
+as-yet-unfinished GNU Hurd (NEW HERD). Programs request service from these things by executing a 
+system call. A BSD-based example of these things was originally used in OS X. The Tanenbaum-Torvalds 
+debate concerned the implementation of a type of these things for Linux. Identify this component of an 
+operating system that serves as an interface between hardware and software applications. 
+ANSWER:  
+kernel 
+ [prompt on  
+operating system 
+] 
+081--105-01103 
+4. This philosopher discussed the painting \"A Pair of Shoes\" by van Gogh in his article  
+The Origin of the 
+Work of Art. 
+ He examined another German philosopher in  
+Kant and the Problem of Metaphysics. 
+ In 
+another book, he introduces the idea of a \"hermeneutic circle\" and discusses the relationship that human 
+perception creates with the world, composed of the words for \"to be\" and \"there.\" Name this German 
+philosopher who explained \"dasein\" (DAH-sine) in  
+Being and Time 
+ and attracted controversy for his Nazi 
+sympathies. 
+ANSWER: Martin  
+Heidegger 
+127--105-01104 
+5. During the Trojan War, Diomedes (die-OH-med-eez) crushed this man's hip with a stone. This man's 
+crew saves Achaemenides (uh-kie-MEN-ih-deez) from the island of the Cyclopes. This hero kills the 
+Rutulian king Turnus to avenge Evander's son Pallas. He visits his father in the underworld by using a 
+golden bough after abandoning the Carthaginian queen Dido. This son of Anchises (un-KIE-seez) is 
+celebrated as an ancient founder of Rome. Name this hero whose travels were chronicled in a namesake 
+epic by Virgil. 
+ANSWER:  
+Aeneas 
+186--105-01105 
+Colonia 2014     1     Page  1 of 18 
+6. The song \"Non, je ne regrette rien\" is featured prominently in this film. Its protagonist is chased through 
+the streets of Mombasa by agents of Cobol Engineering. That same character in this movie tasks Ariadne, 
+played by Ellen Page, with drawing a maze in two minutes that takes one minute to solve. Throughout this 
+movie, Cobb, played by Leonardo DiCaprio, is stalked by the projection of his dead wife Mal. Name this 
+2010 Christopher Nolan movie about dreams. 
+ANSWER:  
+Inception 
+225--105-01106 
+7. This character is first described by Richard Enfield, who mentions him ostentatiously signing a check. 
+This man’s suicide note is read by the lawyer Utterson, and Dr. Lanyon tries while trying to save him. He 
+tramples a young girl without mercy and uses his cane to murder Sir Danvers Carew. This man eventually 
+no longer requires a potion in order to transform into his fiendish counterpart. Name this scientist invented 
+by Robert Louis Stevenson who transforms into the evil Mr. Hyde. 
+ANSWER: Henry  
+Jekyll 
+ [or  
+Henry 
+ Jekyll; accept  
+Hyde 
+ until mentioned; accept  
+Edward 
+ until “Hyde”] 
+052--105-01107 
+8. The second verse of one of this man's songs states that \"Mermaids are chanting the wild lorelei.\" In 
+another of his songs a man admonishes a woman, \"...don't you cry for me/For I come from Alabama with a 
+banjo on my knee.\" This man wrote many songs for the Christy's Minstrels, including one traditionally 
+sung before an annual event at Churchill Downs. Another of his songs includes the refrain, \"Doo dah, doo 
+dah.\" Name this American songwriter of \"My Old Kentucky Home,\" \"Camptown Races,\" and \"Oh! 
+Susanna.\" 
+ANSWER: Stephen  
+Foster 
+030--105-01108 
+9. In a Poisson (PWA-sohn) probability mass function, this function appears the denominator. An extension 
+of this function, which has an output of square root of pi for the value one-half, is the gamma function. For 
+large values, it is well-approximated with Stirling's formula. This function appears in the denominator of 
+each term of a Taylor series. When choosing k objects from n objects, this function is applied to n in the 
+numerator as well as to n and n minus k in the denominator. Name this function represented by an 
+exclamation mark. 
+ANSWER:  
+factorial 
+121--105-01109 
+10. This artist depicted Benjamin Franklin holding a key in his hand while a group of boys fly a kite in a 
+stormy background. This artist painted many portraits of his patron, King George III, and he served as the 
+second president of the Royal Academy. Another depiction by this man shows a Native American soldier 
+kneeling near a dying British commander during the Battle of Quebec. Name this American painter of  
+The 
+Death of General Wolfe. 
+ANSWER: Benjamin  
+West 
+227--105-01110 
+11. Constantin Brancusi's sculptures with this title are shaped nearly like the block-shaped material that 
+they were sculpted from. Another sculpture of this name shows one person holding a book in his left hand 
+and covering the face of the other. A sculpture of this name depicting Paolo and Francesca and originally 
+meant for  
+The Gates of Hell 
+ was made by Auguste Rodin. Give the common title of these artworks, which 
+all show two people engaged in a display of affection. 
+ANSWER:  
+The  Kiss 
+140--105-01111 
+Colonia 2014     1     Page  2 of 18 
+12. This novel asserts that “a king is history’s slave” in a chapter outlining the author’s theory of history. 
+This novel’s protagonist leaves his wife Helene and wins a duel against Dolokhov. In this book, Prince 
+Andrei survives the Battle of Austerlitz. At this novel’s conclusion, Pierre decides against assassinating 
+Napoleon and winds up marrying Natasha Rostov. Name this giant novel written by Leo Tolstoy. 
+ANSWER:  
+War and Peace 
+ [or  
+Voyna i Mir 
+] 
+190--105-01112 
+13. A character in this poem is swallowed by Vipunen (VEE-poo-nen), from whom he extorts the magic 
+words necessary to build a boat without using his hands. The earth is created at the beginning of this poem 
+when a bird's nest falls off the knee of Ilmatar (ILL-ma-tar), who was impregnated by the wind and 
+becomes the mother of Vainamoinen (VINE-a-MOY-nen). Later in this poem, Ilmarinen (ILL-ma-ree-nen) 
+forges the Sampo. Name this national epic of Finland. 
+ANSWER: the  
+Kalevala 
+ (KAH-leh-VAH-lah) 
+142--105-01113 
+14. Emile Durkheim's  
+Elementary Forms of the Religious Life 
+ used a test of social role to distinguish this 
+phenomenon from religion. It was the last of three phenomena studied \"among the Azande\" 
+(uh-ZAHN-day) by Edward Evans-Pritchard, who outlined a type of \"thinking\" known by this term, and it 
+was grouped with \"science and religion\" in a Bronislaw Malinowski paper. According to James Frazer, this 
+phenomenon always precedes religious belief. Identify this phenomenon of manipulating the natural world 
+with incantations and rituals. 
+ANSWER:  
+magic 
+ [or word forms] 
+019--105-01114 
+15. A director in this country was assassinated in 2004 for his film  
+Submission, 
+ criticizing Muslim society. 
+The VVD party currently leads this country, despite conflict with Geert Wilders's PVV party in 2012. This 
+country's Princess Margriet was born in Canada during World War II. Operation Market Garden took place 
+in Germany and this country, where the International Court of Justice and International Criminal Court are 
+headquartered. Two days after World War II ended, Indonesia declared independence from this country. 
+Name this country where Queen Beatrix abdicated in 2013. 
+ANSWER: Kingdom of the  
+Netherlands 
+ [or  
+Holland 
+; or Koninkrijk der  
+Nederlanden 
+] 
+190--105-01115 
+16. Reversible expansions and compressions that have this property constitute two stages of the Carnot 
+cycle. In this type of reversible expansion, the work done equals RT times the log of the ratio of the 
+volumes. For ideal gases undergoing this type of process, work is equal to the negative of heat, as these 
+processes proceed with no change in internal energy or enthalpy, and pressure times volume is constant. 
+Name this property possessed by phase transitions, which occur with no change in temperature. 
+ANSWER:  
+isothermal 
+ processes [or  
+constant-temperature 
+ processes until \"temperature\" is read; prompt 
+on  
+phase transition 
+s; do not accept \"adiabatic processes\"] 
+190--105-01116 
+17. A cathedral in this city was designed by Konstantin Thon and was started on this city's Sparrow Hills. 
+Dmitry Donskoy led this city when it defeated the Tatars at the Battle of Kulikovo (koo-lee-KOH-voh). 
+This city is home to the largest Orthodox cathedral in the world, the Cathedral of Christ the Savior. Ivan the 
+Terrible allegedly blinded the architect of this city's eight-domed cathedral, built to honor Ivan's conquest 
+of Kazan (kuh-ZON). This city was burned after Napoleon won the Battle of Borodino. Name this Russian 
+city, home to St. Basil's Cathedral and the Kremlin. 
+ANSWER:  
+Moscow 
+ [or  
+Moskva 
+] 
+186--105-01117 
+Colonia 2014     1     Page  3 of 18 
+18. Chancellor Li Linfu led a series of purges during this dynasty. Buddhism was suppressed during the 
+Hu-chiang (hoo-CHONG) period of this dynasty, which fought against the Abbasid Caliphate at the Battle 
+of the Talas River. This dynasty was interrupted by the reign of Empress Wu Zetian. This dynasty defeated 
+An Lushan's rebellion, and it was the time of poets such as Li Po and Du Fu. Name this Chinese dynasty 
+founded by Emperor Gaozu (gow-ZOO) that followed the Sui (SWEE) dynasty. 
+ANSWER:  
+Tang 
+ dynasty 
+227--105-01118 
+19. This novel ends with a character receiving a letter reading “It is a great comfort to have you so rich” 
+and requesting “a place at court.” It begins with the observation that a single man with a good fortune 
+“must be in want of a wife.” The female protagonist is wooed by the foolish clergyman Mr. Collins and has 
+such sisters as Lydia and Jane, who become involved with Mr. Wickham and Mr. Bingley. Name this Jane 
+Austen novel about Elizabeth Bennett and Mr. Darcy. 
+ANSWER:  
+Pride and Prejudice 
+052--105-01119 
+20. One type of these events is triggered by a drop in pressure caused by increased pair-production. The 
+Phillips relationship describes the light curve of another type of these events, which were used by Reiss and 
+Perlmutter to show that the expansion of the universe is accelerating. Yet other types occur after core 
+collapse or when a star crosses the Chandrashekar (chohn-druh-shay-KAR) limit. The Crab nebula is the 
+remnant of one observed in 1054. Name these cosmic events in which a star explodes. 
+ANSWER:  
+supernova 
+e [or  
+SN 
+] 
+048--105-01120 
+Colonia 2014     1     Page  4 of 18 
+Colonia 2014 
+Round 1 
+Second Period, 10 Tossups and 4 Bonuses 
+1. Symbols in this writing system that have developed native meanings are known as \"Kokku\" (COH-koo) 
+The two ways to read this system's normal symbols are called \"on-yomi\" (AHN-yoh-mee) and \"kun-yomi\" 
+(KUN-yoh-mee). This system is ideogrammatic, rather than representing words or syllables, and its name 
+literally means \"Han characters,\" reflecting its origin. This one of at least three writing systems for 
+Japanese consists of symbols based on Chinese characters. Identify this writing system that is not hiragana 
+(HEER-uh-gah-nuh) or katakana (KAH-tuh-kah-nuh). 
+ANSWER:  
+Kanji 
+ [prompt on  
+Japanese 
+ until \"on-yomi\" is read] 
+147--105-01121 
+2. This man posited a theory of behavior that acknowledges the influence of both social factors and the 
+environment, reciprocal determinism. His best-known experiment focused on a similar area as his work  
+Adolescent Aggression. 
+ The experiment he designed involved adult collaborators who punched the objects 
+which name the experiment, causing the study's subjects to imitate them while yelling \"sockaroo!\" Name 
+this Canadian psychologist who performed the \"bobo doll\" experiment. 
+ANSWER: Albert  
+Bandura 
+081--105-01122 
+3. One musician who played this instrument included the calypso-inspired \"Saint Thomas\" on his 
+influential album titled for this instrument  
+Colossus. 
+ This instrument was used to create \"sheets of sound\" 
+on songs like the ballad \"Naima\" on the album  
+Giant Steps. 
+ Another player of this instrument inaugurated 
+bebop along with Dizzy Gillespie and was nicknamed \"Bird.\" Name this woodwind instrument played by 
+Sonny Rollins, John Coltrane, and Charlie Parker. 
+ANSWER: tenor  
+sax 
+ophone 
+020--105-01123 
+4. This mountain was first climbed by Edwin James, who described seeing the blue columbine during the 
+climb. Its namesake was killed in the Battle of York during the War of 1812 and had previously explored 
+the west on orders of James Wilkinson. Katharine Lee Bates wrote the song \"America the Beautiful\" after 
+admiring the view from this mountaintop. During the \"Fifty-Niner Gold Rush,\" miners used a slogan 
+advocating this mountain \"or bust.\" Name this peak in the Rocky Mountains, which is named for an 
+explorer whose first name was Zebulon. 
+ANSWER:  
+Pike's 
+ Peak 
+052--105-01124 
+5. A portrait of this monarch was painted by Jean Clouet (cloo-EY). He was criticized for allying his 
+country with the Ottoman Empire, the first European to do so. This king successfully invaded Italy by 
+defeating Swiss pikemen at the Battle of Marignano (MAH-rin-YAH-no), but he was captured ten years 
+later at Pavia (pah-VEE-uh). This monarch failed to strike an alliance with Henry VIII at the Field of the 
+Cloth of Gold, but was successful in cultivating the French Renaissance. Name this Valois (val-WAH) 
+King of France who often fought against Holy Roman Emperor Charles V. 
+ANSWER:  
+Francis I 
+ [prompt on  
+Francis 
+] 
+140--105-01125 
+Colonia 2014     1     Page  5 of 18 
+6. This artist painted the interior of a building with a green roof and red walls, inside which a waiter stands 
+next to a billiards table. The time this artist spent in Arles led to paintings such as  
+The Yellow House. 
+ This 
+artist painted a landscape dominated by large swirls in the center and a cypress tree on the left, both 
+overlooking Saint-Remy. This artist of  
+The Night Cafe 
+ depicted himself with a bandaged ear in his late 
+self-portraits. Name this post-Impressionist artist of  
+Starry Night. 
+ANSWER: Vincent  
+van Gogh 
+140--105-01126 
+7. This man ordered the imprisonment of a man who criticized his plan for industrializing \"poor and blank\" 
+lands after the Lushan conference. The Gang of Four jockeyed for power after his death. He asked citizens 
+to produce steel and not farm, resulting in a great famine. He advocated the Great Leap Forward and 
+declared war on intellectuals in the Cultural Revolution. Name this author of the  
+Little Red Book 
+ who was 
+the first chairman of Communist China. 
+ANSWER:  
+Mao 
+ Zedong 
+020--105-01127 
+8. This philosophical school was referred to as a \"new name for some old ways of thinking\" in a book 
+written by the author of \"What is an Emotion?\" Many proponents of it were members of the Metaphysical 
+Club. Texts written by proponents of this school include \"How to Make Our Ideas Clear,\"  
+The Varieties of 
+Religious Experience, 
+ and  
+Democracy and Education 
+. Name this philosophical school practiced by Charles 
+Sanders Peirce (PURSE), William James, and John Dewey, which values practical action. 
+ANSWER:  
+pragmatism 
+052--105-01128 
+9. A composer for this instrument collected fifty-six pieces in  
+The Rhetoric of the Gods. 
+ A famous piece for 
+this instrument was accompanied by the lyrics \"Happy, happy, they that in hell, Know not the world's 
+despite.\" This instrument developed out of an Arab instrument called the \"Ud\" introduced in the conquest 
+of Spain. An English composer for this instrument wrote the song \"Flow My Tears\" and had music 
+described as \"Semper Dolens,\" a pun on his name, John Dowland. Name this popular Renaissance 
+instrument that was replaced by the guitar. 
+ANSWER:  
+lute 
+s 
+080--105-01129 
+10. Near the end of this play, one character attacks another with a paper knife after the latter’s rant about a 
+“coward holding a baby-killer in his manly arms,” prompting a third character to note, “there’s no need for 
+red-hot pokers.” The protagonists of this play are army deserter Joseph Garcin (gar-SAN), the lesbian Ines, 
+and Estelle, who discovers that stabbing Ines has no effect. Name this Jean-Paul Sartre (SAR-truh) play in 
+which the characters realize they are dead and that “Hell is other people.” 
+ANSWER:  
+No Exit 
+ [or  
+Huis Clos 
+] 
+052--105-01130 
+Colonia 2014     1     Page  6 of 18 
+1. Tell me about politicians' families. 
+[5] What current Mayor of New York has a daughter named Chiara who has struggled with substance abuse 
+issues? 
+ANSWER: Bill  
+de Blasio 
+ [or Warren  
+Wilhelm 
+ Jr.] 
+[10] What American politician is married to an English professor named Jill and has a son named Beau 
+who served in the Delaware National Guard? 
+ANSWER: Joseph  
+Biden 
+ Jr. 
+[15] Who has children with the author of a book criticizing Japanese cartoons called  
+The Channel-Surfing 
+Kids Are Fed-Up 
+ and is currently the president of France? 
+ANSWER: Francois  
+Hollande 
+[20] Racist remarks in June 2013 from his son embarrassed Joe Heck, a Congressman from what state 
+where Sharon Angle ran for the Senate? 
+ANSWER:  
+Nevada 
+052--105-01101 
+2. Name these monarchs. 
+[5] What Castilian mother of Charles V was confined to a nunnery for insanity? 
+ANSWER:  
+Joanna the Mad 
+ [or  
+Juana la Loca 
+] 
+[10] A monarch of what name was the only French king to be canonized? 
+ANSWER:  
+Louis 
+ IX 
+[15] What son of John I of Portugal patronized exploration of the African coast? 
+ANSWER: Prince  
+Henry the Navigator 
+[20] What king of France was the dauphin who took the throne with the help of Joan of Arc? 
+ANSWER:  
+Charles VII 
+ of France 
+023--105-01102 
+3. Name these Asian leaders. 
+[5] Who was never tried for war crimes, unlike his military leaders such as Hideki Tojo, despite being 
+Emperor of Japan during World War II? 
+ANSWER:  
+Hirohito 
+ [or the  
+Showa 
+ Emperor] 
+[10] Name the leader of the Khmer Rouge who instituted the “Year Zero” policy and referred to himself as 
+“Brother Number One.” 
+ANSWER: Pol  
+Pot 
+ [or Soloth  
+Sar 
+] 
+[15] Who was the \"paramount leader\" of China for most of the years following the purge of the Gang of 
+Four in the late 1970s and his 1997 death? 
+ANSWER:  
+Deng 
+ Xiaoping 
+[20] Which first president of Indonesia was overthrown by the 30th of September movement? 
+ANSWER:  
+Sukarno 
+ [or Kusno  
+Sosrodihardjo 
+; do not accept \\"Suharto\\"] 
+052--105-01103 
+Colonia 2014     1     Page  7 of 18 
+4. Answer the following about assassination attempts. 
+[5] In what building did John Wilkes Booth shout \"Sic semper tyrannis!\" after jumping onto the stage, then 
+shoot Abraham Lincoln? 
+ANSWER:  
+Ford's 
+ Theatre 
+[10] What hardscrabble President and fan of the spoils system beat Richard Lawrence with his cane after 
+Lawrence tried to shoot him? 
+ANSWER: Andrew  
+Jackson 
+[15] Which man shouted that “I am a Stalwart, and Arthur is president now!” after shooting James Garfield 
+in 1881? 
+ANSWER: Charles  
+Guiteau 
+[20] Which president was the target of assassination attempts by Lynette “Squeaky” Fromme and Sara Jane 
+Moore? 
+ANSWER: Gerald Rudolph  
+Ford, 
+ Jr. [or “Jerry” for Gerald; or Leslie Lynch  
+King, 
+ Jr.] 
+052--105-01104 
+Colonia 2014     1     Page  8 of 18 
+Colonia 2014 
+Round 1 
+Letter N 
+Letter C 
+Letter R 
+Colonia 2014     1     Page  9 of 18 
+Letter N 
+[10] Who is the narrator of F. Scott Fitzgerald’s The Great Gatsby? 
+ANSWER:  
+Nick 
+ Carraway 
+[10] What element is purified by complexing with carbon monoxide in the Mond process? 
+ANSWER:  
+nickel 
+ [or  ] 
+Ni 
+[10] Who defeated the Mamluks at the Battle of the Pyramids during his 1798 to 1801 conquest of Egypt? 
+ANSWER:  
+Napoleon 
+ Bonaparte 
+[10] What aria from Puccini’s Turandot is titled in Italian as \"None shall sleep?\" 
+ANSWER:  
+nessun dorma 
+[10] The model organism C. elegans belongs to what animal phylum? 
+ANSWER:  
+nematodes 
+ [or  
+nematoda 
+] 
+[10] Nancy and Bob both make the best possible choices based on each other’s strategies in what kind of 
+economic situation? 
+ANSWER:  
+Nash equilibrium 
+[10] Which American President caused the resignations of Attorney General Elliot Richardson and Deputy 
+Attorney General William Ruckelshaus? 
+ANSWER: Richard  
+Nixon 
+[10] In a short story by Nikolai Gogol, what body part jumps off of Major Kovalev and tries to be human? 
+ANSWER:  
+nose 
+ [or  
+The Nose 
+] 
+[10] Which Christian text reaffirms faith in God and is named after the 325 A.D. council where it was first 
+adopted? 
+ANSWER:  
+Nicene 
+ Creed [or  
+Nicaea 
+] 
+[10] A quadratic equation has imaginary roots when the discriminant has what property? 
+ANSWER:  
+negative 
+239--105-0110-3 
+Colonia 2014     1     Page  10 of 18 
+Letter C 
+[10] What term is given to the amount of energy needed to raise the temperature of a gram of water by one 
+degree Celsius? 
+ANSWER:  
+calorie 
+[10] What leader of the Kuomintang moved his government to Taiwan in 1949? 
+ANSWER:  
+Chiang 
+ Kai-shek [or  
+Chiang 
+ Chieh-shih; or  
+Chiang 
+ Chung-cheng] 
+[10] What Carl Orff composition starts with “O Fortuna”? 
+ANSWER:  
+Carmina Burana 
+[10] What English author wrote the mysteries  
+And Then There Were None 
+ and  
+Murder on the Orient 
+Express 
+? 
+ANSWER: Agatha  
+Christie 
+ [or Agatha Mary Clarissa  
+Miller 
+] 
+[10] What type of argument includes the argument from contingency and the first cause argument as 
+reasoning for the existence of God? 
+ANSWER:  
+cosmological 
+ argument 
+[10] What poet of “Anyone lived in a pretty how town” was known for his unconventional capitalization? 
+ANSWER: Edward Estlin  
+Cummings 
+[10] In March 2014, what former Secretary of State compared Vladimir Putin’s actions to those of Adolf 
+Hitler? 
+ANSWER: Hillary Diane Rodham  
+Clinton 
+ [or Hillary Diane  
+Rodham 
+] 
+[10] What force caused by the rotation of the earth gives hurricanes their spin? 
+ANSWER:  
+Coriolis 
+ effect 
+[10] What amphitheater in Rome was built by Vespasian? 
+ANSWER:  
+Colosseum 
+ [or  
+Coliseum 
+] 
+[10] What sacrament initiates a baptized person into the Christian faith? 
+ANSWER:  
+confirmation 
+023--105-0110-3 
+Colonia 2014     1     Page  11 of 18 
+Letter R 
+[10] Which French Impressionist painted  
+Dance at Moulin de La Galette 
+ and  
+Luncheon of the Boating 
+Party? 
+ANSWER: Pierre-Auguste  
+Renoir 
+[10] What protagonist of  
+Crime and Punishment 
+ finally confesses to Porfiry Petrovich at the book’s end? 
+ANSWER: Rodion Romanovich  
+Raskolnikov 
+ [or  
+Rodia 
+] 
+[10] What adjective is used in computer science to denote “expressions” used to parse strings, and in math, 
+describes a polygon with all congruent sides and angles? 
+ANSWER:  
+regular 
+[10] What river separates Texas from Oklahoma? 
+ANSWER:  
+Red 
+ River of the South 
+[10] What novel by Daphne du Maurier begins, “Last night I dreamt I went to Manderley again”? 
+ANSWER:  
+Rebecca 
+[10] What type of tax disproportionally takes a larger percentage of income from poor people than from the 
+wealthy? 
+ANSWER:  
+regressive 
+ tax 
+[10] The Thermidorian Reaction was sparked by the decision to execute what leader of the Committee of 
+Public Safety, who presided over much of the Reign of Terror? 
+ANSWER: Maximilien de  
+Robespierre 
+[10] Which step in a chemical reaction determines the overall mechanism because it occurs the most 
+slowly? 
+ANSWER:  
+rate-determining 
+ step [or  
+rate-limiting 
+ step] 
+[10] What politician was shot in 1981 by John Hinckley Jr.? 
+ANSWER: Ronald  
+Reagan 
+[10] Valmiki wrote which ancient Hindu epic about a hero who must rescue his wife Sita from Ravana? 
+ANSWER:  
+Ramayana 
+190--105-0110-3 
+Colonia 2014     1     Page  12 of 18 
+Colonia 2014     1     Page  13 of 18 
+Colonia 2014 
+Round 1 
+20 20-Point Tossups 
+1. A domed stadium in this city known as the \"Big Egg\" was, until 2004, the home field of a team called 
+the Ham Fighters. It suffered numerous casualties in Operation Meetinghouse, which resulted in over 
+100,000 people's ashes being interred in Sumida Ward. In 1995, this city, which has the tallest freestanding 
+tower in the world, had its subway system victimized by a terrorist attack perpetrated by the cult Aum 
+Shinrikyo. For 20 points, name this city whose Imperial Hotel survived the 1923 Great Kanto Earthquake. 
+ANSWER:  
+Tokyo 
+052--105-01101 
+2. This ruler moved his capital away from Amarna to Memphis. This ruler was married to Ankhesenamun 
+(ohn-kes-en-AH-mun), and he sent forces to fight the Syrians and Hittites under his general Horemheb 
+(HO-rem-heb). This ruler was also advised and succeeded by Ay (EYE), and he was one of the last 
+pharaohs of the Eighteenth Dynasty. For 20 points, name this pharaoh who was buried in KV62, a tomb 
+discovered in 1922 by Howard Carter. 
+ANSWER:  
+Tut 
+ankhamun [or  
+Tut 
+ankhaten] 
+023--105-01102 
+3. For Raman scattering, this person names the lines caused by the positive and negative wavelength shifts. 
+A law named for this scientist states that the drag force on a particle in a fluid is proportional to six pi times 
+the velocity. He is the second namesake of a set of very difficult to solve partial differential equations that 
+describe fluid flow, which he names with Navier (NAH-vee-ey). For 20 points, name this British physicist 
+who generalized Green's theorem to relate surface integrals and volume integrals. 
+ANSWER: George Gabriel  
+Stokes 
+048--105-01103 
+4. Minerva saved a victim of this man who had achieved insight by looking at the spine of a fish. This man 
+used honey to attract an ant into walking through a seashell. After this man pushed his nephew Perdix off 
+of the Acropolis, Minerva turned Perdix into a partridge. Either this man or the daughters of Cocalus 
+(coh-CAL-us) killed his former employer, the husband of Pasiphae (PASS-if-ey). For 20 points, name this 
+father of Icarus who designed the Labyrinth. 
+ANSWER:  
+Daedalus 
+ [or  
+Daedalos 
+; or  
+Taitale 
+] 
+186--105-01104 
+5. A 2013 adaptation of this opera by the Metropolitan Opera sets this work in 1960s Las Vegas. One 
+character in this work claims to be a student named Gualtier Malde in order to woo a woman who is being 
+hidden from the public by her father. In this opera, the title character's daughter Gilda is stabbed by 
+Sparafucile. It is based on the Victor Hugo play  
+Le Roi S’Amuse 
+ and includes the Duke of Mantua’s aria 
+“La donna e mobile.” For 20 points, name this opera by Giuseppe Verdi about a hunchbacked jester. 
+ANSWER:  
+Rigoletto 
+030--105-01105 
+Colonia 2014     1     Page  14 of 18 
+6. Julius Caesar described seeing men dyed with woad while twice doing this action. The last successful 
+instance of this feat was followed by the Harrying of the North and included a battle that featured the death 
+of several housecarls. Napoleon envisioned accomplishing this feat with balloons and a massive tunnel, and 
+Operation Sea Lion was a failed German attempt to do this action. It was most recently performed by the 
+king who ordered the creation of the Domesday Book. For 20 points, identify this kind of military conquest 
+which gave William the Conqueror his name. 
+ANSWER:  
+invading Britain 
+ [or  
+invading England 
+ or other equivalents] 
+141--105-01106 
+7. This country was the home of a poet who wrote a work about a soul being unchained from the body 
+during the night in  
+First Dream 
+. Another author from this country renewed interest in Sor Juana Ines de la 
+Cruz with his  
+The Traps of Faith 
+ and wrote an essay about about this country entitled  
+The Labryinth of 
+Solitude 
+. One author from this country wrote  
+The Old Gringo 
+, a fictionalized account of Ambrose Bierce’s 
+trip to this country with the army of Pancho Villa. For 20 points, name this home country of Carlos Fuentes 
+and Octavio Paz. 
+ANSWER:  
+Mexico 
+030--105-01107 
+8. One novel from this country ends with Maureen running towards a helicopter; that novel features the 
+Smales family fleeing to the village of their servant July during a violent civil war. After receiving a letter 
+from Theophilius Msimangu, Stephen Kumalo searches for his son Absalom in another novel set in this 
+country. For 20 points, name this country, home to Nadine Gordimer and Alan Paton. 
+ANSWER: Republic of  
+South Africa 
+226--105-01108 
+9. During this period, the Action Programme implemented freedom of speech and the press. During this 
+event,  
+The Two Thousand Words 
+ manifesto was published by Ludvik Vaculik (VAH-choo-lik). Many of 
+the leaders during this period later joined Charter 77. Gustav Husak (HOO-shock) undid most of the 
+reforms passed during this event, which attempted to establish \"socialism with a human face.\" Leonid 
+Brezhnev sent in troops provided by the Warsaw Pact to end this event. For 20 points, name this period of 
+liberal reforms in Czechoslovakia, started by Alexander Dubcek (DOOB-check) in 1968. 
+ANSWER:  
+Prague Spring 
+ [or  
+Prazske jaro 
+] 
+186--105-01109 
+10. This man showed the limitations of rationalism with self-evident contradictions he called \"antinomies.\" 
+He claimed rationalists and empiricists were unable to account for synthetic and \"a priori\" truths, whose 
+existence he defended with transcendental arguments. In the  
+Groundwork of the Metaphysics of Morals, 
+ he 
+said that all moral actions should be such that we could will them to be universal laws, his categorical 
+imperative. For 20 points, name this author of  
+Critique of Pure Reason, 
+ a German transcendenttalist 
+philosopher. 
+ANSWER: Immanuel  
+Kant 
+121--105-01110 
+11. This sculptor depicted the assassination of an Assyrian general by a widow in his  
+Judith and 
+Holofernes. 
+ This man sculpted  
+St. Mark 
+ and  
+St. George 
+ for the Orsanmichele. He created an equestrian 
+statue of Erasmo of Nami known as  
+Gattamelata, 
+ and he also sculptured a boy with his foot on the head of 
+the slain Goliath. For 20 points, name this Renaissance artist famous for his bronze, nude  
+David. 
+ANSWER:  
+Donatello 
+ [or Donato di Niccolo di Betto  
+Bardi 
+] 
+227--105-01111 
+Colonia 2014     1     Page  15 of 18 
+12. This man became a starting player in college after injuries to future Colorado Rockies star Todd Helton. 
+After he threw four interceptions in a game, his coach, Jim Mora, told the media \"Don't talk about 
+playoffs.\" In 2003, this player referred to a teammate as \"our idiot kicker who got liquored up and ran his 
+mouth off.\" This man attracted attention for saying \"Omaha\" numerous times before snaps in the most 
+recent NFL playoffs. For 20 points, name this quarterback who threw for a record fifty-five touchdown 
+passes in the 2013 season. 
+ANSWER:  eyton  
+P Manning 
+ [prompt on  
+Manning 
+] 
+052--105-01112 
+13. In this novel, it is revealed that Debray gives confidential information to his lover to help her invest her 
+husband's money in stocks. That accusation is dealt with by Villefort (vee-yuh-FORT), who realizes a letter 
+given to this novel's protagonist by Napoleon is addressed to his father. With the assistance of Faria, that 
+protagonist escapes that Chateau d'If (DEEF) and gains a fortune. For 20 points, identify this novel about 
+Edmond Dantes written by Alexandre Dumas (doo-MAH). 
+ANSWER:  
+The  Count of Monte-Cristo 
+ [or  
+Le  Comte de Monte-Cristo 
+] 
+233--105-01113 
+14. The second item on this list is \"samudaya\" (sah-moo-DIE-uh), which is later elucidated to include 
+killing, lying, stealing, and other forms of \"attachment.\" This list begins with \"dukkha\" (DOO-kuh) and 
+ends with \"magga.\" These tenets were revealed at Sarnath and are recorded in the text  
+The Setting in 
+Motion of the Wheel of Dharma, 
+ and they constituted the first sermon given after the enlightenment under 
+the Bodhi tree. The last of these beliefs says that the Eightfold Path is the way to reach nirvana. For 20 
+points, identify this set of core beliefs of Buddhism. 
+ANSWER:  
+Four Noble Truths 
+ [or  
+Chattari-ariya-saccani 
+; or  
+Chatvari-arya-satyani 
+] 
+019--105-01114 
+15. In a novel by this author, Captain Winterbottom stops a fight involving a village led by Ezeulu. This 
+author complained about the \"dehumanization of Africa and Africans\" by a \"bloody racist\" in his essay \"An 
+Image of Africa\" about the book  
+Heart of Darkness 
+. A character created by this author beats his wife 
+during the Week of Peace and lives in Umuofia. For 20 points, name this Nigerian author who wrote  
+Arrow 
+of God 
+ and a novel about Okonkwo called  
+Things Fall Apart 
+. 
+ANSWER: Albert Chinualumogu  
+Achebe 
+023--105-01115 
+16. This man was shot five times by the radical Ferdinand Cohen-Blind. He urged the passage of the 
+Anti-Socialist Laws and innovative Sickness and Accident Insurance Laws. This man claimed that the great 
+questions of the day would be resolved \"by iron and blood\" and launched the anti-Catholic  
+Kulturkampf. 
+He was eventually removed from office by Kaiser Wilhelm II. For 20 points, name this chancellor who 
+unified the German states into a Prussia-dominated empire. 
+ANSWER: Otto von  
+Bismarck 
+052--105-01116 
+17. This composer's short piano piece  
+Albumblatt 
+ was rediscovered and given its premiere in 2012. This 
+man’s fourth symphony includes variations of a theme from Bach’s  
+Cantata No. 150 
+. His  
+Four Serious 
+Songs 
+ were written in memory of Clara Schumann, with whom this composer was in love. This composer 
+included student drinking songs in his  
+Academic Festival Overture. 
+ For 20 points, name this German 
+composer who composed a famous lullaby. 
+ANSWER: Johannes  
+Brahms 
+030--105-01117 
+Colonia 2014     1     Page  16 of 18 
+18. A particularly short one of these beings won a bet against a tyrant by crossing the universe within three 
+steps. The last of them will arrive on a white horse to bring in the end of the current age. The seventh of 
+these divinities killed the demon Ravana to rescue his wife Sita, and the eighth mentored Arjuna in the  
+Mahabharata 
+ (mah-ha-BAH-ruh-tuh). Rama and Krishna are two of, for 20 points, what ten terrestrial 
+incarnations of the preserver god from Hindu mythology? 
+ANSWER:  
+avatar 
+s of  
+Vishnu 
+080--105-01118 
+19. The ecliptic alignment of the anisotropy (an-ICE-uh-trop-ee) in this entity could violate the Copernican 
+principle. This entity is linearly polarized due to Thomson scattering. The gravitational redshift of photons 
+from this entity is described by the Sachs-Wolfe effect. Its origins lie in the recombination epoch, when 
+photons decoupled from matter. It has been mapped by WMAP and COBE and was discovered by Robert 
+Wilson and Arno Penzias at Bell Labs. For 20 points, name this radiation with a temperature of 2.7 degrees 
+Kelvin that permeates the universe and is a residual of the Big Bang. 
+ANSWER:  
+CMB 
+R [or  
+cosmic microwave background 
+ radiation; or  
+relic 
+ radiation] 
+127--105-01119 
+20. This composer wrote the second movement of one of his piano concertos with the soprano Constantia 
+Gladkowska in mind. A waltz written by this composer was inspired by the sight of George Sand's dog 
+chasing its tail. This composer of the \"Minute Waltz\" created a piece in which the right hand only plays 
+black keys, and he wrote nearly seventy mazurkas. For 20 points, name this Polish-born French composer 
+who created the \"Black Key\" and \"Revolutionary\" etudes. 
+ANSWER: Frederic Francois  
+Chopin 
+ [or Fryderyk Franciszek  
+Szopen 
+] 
+023--105-01120 
+Colonia 2014     1     Page  17 of 18 
+Colonia 2014 
+Round 1 
+Tiebreakers 
+1. A domed stadium in this city known as the \"Big Egg\" was, until 2004, the home field of a team called 
+the Ham Fighters. It suffered numerous casualties in Operation Meetinghouse, which resulted in over 
+100,000 people's ashes being interred in Sumida Ward. In 1995, this city, which has the tallest freestanding 
+tower in the world, had its subway system victimized by a terrorist attack perpetrated by the cult Aum 
+Shinrikyo. For 20 points, name this city whose Imperial Hotel survived the 1923 Great Kanto Earthquake. 
+ANSWER:  
+Tokyo 
+052--105-01131 
+2. This ruler moved his capital away from Amarna to Memphis. This ruler was married to Ankhesenamun 
+(ohn-kes-en-AH-mun), and he sent forces to fight the Syrians and Hittites under his general Horemheb 
+(HO-rem-heb). This ruler was also advised and succeeded by Ay (EYE), and he was one of the last 
+pharaohs of the Eighteenth Dynasty. For 20 points, name this pharaoh who was buried in KV62, a tomb 
+discovered in 1922 by Howard Carter. 
+ANSWER:  
+Tut 
+ankhamun [or  
+Tut 
+ankhaten] 
+023--105-01132 
+3. For Raman scattering, this person names the lines caused by the positive and negative wavelength shifts. 
+A law named for this scientist states that the drag force on a particle in a fluid is proportional to six pi times 
+the velocity. He is the second namesake of a set of very difficult to solve partial differential equations that 
+describe fluid flow, which he names with Navier (NAH-vee-ey). For 20 points, name this British physicist 
+who generalized Green's theorem to relate surface integrals and volume integrals. 
+ANSWER: George Gabriel  
+Stokes 
+048--105-01133 
+Powered by TCPDF (www.tcpdf.org) 
+Colonia 2014     1     Page  18 of 18 

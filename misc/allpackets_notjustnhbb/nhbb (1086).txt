@@ -1,0 +1,513 @@
+VHSL Regular Season 
+Round 19 
+First Period, Fifteen Tossups 
+1. This vessel was initially dispatched in response to rioting by the supporters of Valeriano Weyler y Nicolau. This vessel was 
+commanded by Charles Sigsbee. One theory regarding this vessel's most famous event considers actions in Bunker A16. This ship 
+was the subject of Hyman Rickover's 1976 investigation that echoed the findings of Del Peral and De Salas that a coal bunker 
+caused its demise. A call to \"remember\" this vessel was rhymed with \"To hell with Spain!\" in the \"yellow\" press following its 
+destruction. For 10 points, name this ship that exploded in Havana harbor in 1898, sparking the Spanish-American War. 
+ANSWER:  the USS  
+Maine 
+ [prompt on  
+ACR-1 
+] 
+026-09-2-04101 
+2. This composer opened the second part of an oratorio work with the movement \"I went to sleep,\" and that piece also contains the 
+movement \"Jesu, Maria, I am near death.\"  He was inspired by a visit to Alassio to compose his overture  
+In the South 
+, and he 
+depicted his friends in movements like \"C.A.E\" and \"Nimrod\" in another work.  He also wrote a march that contains the  
+Trio 
+\"Land of Hope and Glory,\" in addition to composing an oratorio based on a Cardinal Neuman poem,  
+The Dream of Gerontius 
+. For 
+10 points, name this Brit who composed the  
+Engima Variations 
+ in addition to the  
+Pomp and Circumstance Marches 
+. 
+ANSWER: Edward  
+Elgar 
+026-09-2-04102 
+3. At one point in this novel, the protagonist plays jazz at the club Onion Cellar, where the customers peel onions and weep for 
+cathartic effects. Earlier, the protagonist of this work claims that he is Jesus and leads the Dusters in stealing government supplies 
+from offices. In this work, Agnes dies from eating fish obsessively and Alfred dies by swallowing a Nazi party pin. Like the clown 
+Bebra, the protagonist of this work refuses to grow past age three remains a dwarf. For 10 points, Oskar Matzerath constantly 
+holds the title instrument in what first work of the Danzig Trilogy, written by Günter Grass? 
+ANSWER:    
+The  Tin Drum 
+ [ 
+Die  Blechtrommel 
+] 
+034-09-2-04103 
+4. This philosopher divided his first major work into sections examining passions, morals and understanding, and titled it  
+A 
+Treatise of Human Nature 
+. In another work, he investigates the possibility of singular events contradicting laws of nature in a 
+section title \"Of Miracles,\" a work that Kant credited as waking him from his \"dogmatic slumber.\" The author of  
+An Enquiry 
+Concerning Human Understanding 
+, for 10 points, name this Scottish empiricist philosopher. 
+ANSWER:  David  
+Hume 
+049-09-2-04104 
+5. After a border incident in disputed African territory, this leader started a war which included the taking of Addis Ababa and led 
+to the exile of the Ethiopian emperor, Haile Selassie. This man allied his country to Germany with the Pact of Steel. This man 
+came to power after organizing a march that led to his becoming prime minister under Victor Emmanuel III, with that march 
+involving this man's Blackshirts. For 10 points, name this man who claimed to make the trains run on time, the fascist dictator of 
+Italy during World War II. 
+ANSWER:  Benito Amilcare Andrea  
+Mussolini 
+023-09-2-04105 
+6. Peter Shor developed an algorithm that does activity, which would nullify RSA's usefulness; that algorithm performs in 
+polynomial time. The Gauss-Jordan method can be used in part to perform the \"LU\" type of this. For 10 points, name this activity 
+that can be done on a polynomial with a perfect square discriminant, which for the number 49 would produce 7 and 7. 
+ANSWER:   
+factorization 
+ (accept word forms) 
+033-09-2-04106 
+7. In one novel by this author, Mary Scudder is loved by Dr. Hopkins. This author of  
+Dred: A Story of the Great Dismal Swamp 
+and  
+The Minister’s Wooing 
+ wrote about Topsy being educated in another work. A novel by this author includes Eva, who is saved 
+by the title character. This author included a scene where Eliza jumps over ice floes on the Ohio River to reach freedom in that 
+work. Simon Legree beats the title character of this author’s bestseller to death. For 10 points, name this author of the anti-slavery 
+novel  
+Uncle Tom’s Cabin 
+. 
+ANSWER:    Harriet Beecher  
+Stowe 
+ [or Catharine  
+Stowe 
+; or Harriet Elizabeth  
+Beecher 
+] 
+027-09-2-04107 
+VHSL Regular Season     Round 19     Page  1 of 7 
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+8. This artist depicted six black-clad members of a clothmaker's guild in his painting The Syndics. This artist depicted a 
+philosopher wearing a gold chain resting his hand on a sculpture of the author of The Iliad in Aristotle Contemplating the Bust of 
+Homer. This artist also painted a surgeon demonstating the muscles and tendons on the arm of a cadaver and the company of 
+Franz Banning Cocq. For 10 points, name this Dutch painter of The Anatomy Lesson of Dr. Tulp and The Night Watch.  
+ANSWER:  
+Rembrandt 
+ van Rijn 
+004-09-2-04108 
+9. One part of this work discusses \"natural man,\" whose care for his own life does not concern this work's title figure. The bulk of 
+this work is laid out in ten \"considerations,\" one of which claims that pains and contrivances taken by wicked men will never be 
+successful. This work attributes man's state on earth to the \"mere pleasure\" of God, who can cast sinners down into Hell at any 
+time. A spider hanging by a thread over a fiery pit with God ready to cut the thread at any moment is one of this sermon's most 
+famous images. For 10 points, name this sermon by Jonathan Edwards delivered first on July 8, 1741. 
+ANSWER:     
+Sinners in the Hands of an Angry God 
+045-09-2-04109 
+10. During this larger conflict, the rebellion of Simon the Cutler, also called the Cabochien Revolt, occurred. Another uprising 
+during a lapse in this war was led by William Cale. The treaties of Bretigny and Troyes were temporary armistices during this war. 
+The death of John Talbot at the Battle of Castillon is considered the ending point of this war. The aforementioned Jacquerie 
+occurred during this conflict, as did the uprising of Owen Glendower and Henry Hotspur against Henry V. For 10 points, name 
+this medieval conflict between England and France. 
+ANSWER:    
+Hundred Years 
+ War [prompt on  
+Armagnac-Burgundian 
+ Civil War until \"Mello\"] 
+035-09-2-04110 
+11. One important metabolic pathway named for a compound containing this element generates ornithine and its namesake 
+substance, urea. Pyrimidine and purine bases, such as adenine and thymine, are often given a name that reflects their containing 
+this element. Bacteria fix this element by forming ammonia. For 10 points, name this element found in the amino group of amino 
+acids, whose diatomic form is an inert gas. 
+ANSWER:   
+nitrogen 
+ [or  ] 
+N 
+022-09-2-04111 
+12. This author's wrote a story about the painter Piskaryov and the Lieutenant Pirogov living on the title street of St. Petersburg. 
+This author also wrote a short story about the insane Poprishchin. In addition to “Nevsky Prospect” and “Diary of a Madman,” 
+this writer wrote about the one-eyed tailor Petrovich and “the person of consequence” who is unwilling to help with Akaky 
+Akakievich’s misfortune in his story “The Overcoat.” He also told told of Pavel Chichikov's attempts to buy the legal rights to 
+dead serfs in another of his novels. For 10 points, name this Russian author of  
+The Inspector General 
+ and  
+Dead Souls 
+. 
+ANSWER:     Nikolay  
+Gogol 
+034-09-2-04112 
+13. This man dialogued with Hulrych Zwingli at the Marburg Colloquy. This man was protected by Frederick the Wise and Phillip 
+of Hesse. This man created the first German translation of the Bible. This man debated Johann Tetzel after Tetzel visited this 
+man's hometown. This man was called by Holy Roman Emperor Charles V to the Diet of Worms (VORMS). This man was a 
+friend of Philip Melanchthon. This man attacked the idea of indulgences when he posted his  
+The Ninety-Five Theses 
+ on the church 
+door of Wittenberg. For 10 points, name this early leader of the Protestant Reformation. 
+ANSWER:  Martin  
+Luther 
+015-09-2-04113 
+14. One of these devices named for Persoz can measure a sample's hardness.  The double type of this object is a classic example of 
+chaotic behavior. A useful approximation when working with these objects involves assuming that \"sin theta equals theta.\" These 
+objects have period approximately equal to \"two pi times the square root of quantity length over gravitational acceleration.\"  These 
+devices exhibit simple harmonic motion, and one of these was used to show the rotation of the earth by Leon Foucault. For 10 
+points, name these devices consisting of a weight suspended from a pivot. 
+ANSWER:  
+pendulum 
+s 
+028-09-2-04114 
+15. This author's musically inspired novels include  
+Napoleon Symphony 
+ and  
+Mozart and the Wolf Gang 
+. This twentieth century 
+novelist wrote a book subtitled \"A Story of Shakespeare's Love Life\" in  
+Nothing Like the Sun 
+. One of this man's works focuses on 
+a patron of the Korova Milk Bar. That main character of a work by this man undergoes the Ludovico technique, which causes him 
+to hate Beethoven's Ninth Symphony and abandon ultraviolence. For 10 points, name this man who wrote about Alex DeLarge's 
+droogs in the work  
+A Clockwork Orange 
+. 
+ANSWER:   John Anthony  
+Burgess 
+ Wilson [or Joseph  
+Kell 
+] 
+033-09-2-04115 
+VHSL Regular Season     Round 19     Page  2 of 7 
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+VHSL Regular Season 
+Round 19 
+Directed Round 
+1A. Name the physical quantity that, for a rigid object, is equal to the moment of inertia times the angular velocity. 
+ANSWER:    
+angular momentum 
+1B. Name the movie trilogy in which Neo, played by Keanu Reeves, realizes he is \"the One\" and fights some Agents, as directed 
+by the Wachowski brothers. 
+ANSWER:    
+The  Matrix 
+ series or trilogy 
+2A. This program ran out of money in under a week, leading to another $2 billion being approved. Name this government plan 
+that gives a credit for getting a more fuel-efficient car. 
+ANSWER:    ar  llowance  ebate  ystem [accept  
+C A R S Cash for Clunkers 
+ or  
+Cash for Guzzlers 
+] 
+2B. Karl Landsteiner discovered the A, B, O system used to denote what classification? 
+ANSWER:  
+blood group 
+s [or  
+blood type 
+s]  
+3A. These are often formed within supercells. Name this destructive force that forms a spiral shape from the ground to a cloud and 
+whose damage is measured by the Fujita scale. 
+ANSWER:    
+tornado 
+es 
+3B. Name the female scientist who received the Nobel Prize in both Physics and Chemistry for her discoveries of radioactivity, 
+radium, and polonium. 
+ANSWER:   Marie Sklodowska  
+Curie 
+4A. This is a 10-second calculation question. Find the equation of the line with slope 6 through the point (-4, -8). 
+ANSWER:    
+y+8=6(x+4) 
+ [or  
+y=6x+16 
+ or equivalents] 
+4B. This is a 10-second calculation question. Solve for x: 2(3x + 4) = 4x - 6. 
+ANSWER:   x =  
+-7 
+5A. It is the case used with words like I, he, or she. Name this case that has a predicate form and marks the subject of the sentence. 
+ANSWER:    
+nominative 
+ case 
+5B. Name the country where journalists Laura Ling and Euna Lee where released after a trip by Bill Clinton to Pyongyang. 
+ANSWER:    
+Democratic People's Republic of Korea 
+ or  
+North Korea 
+ [accept  
+DPRK 
+ or  
+Choson Minjujuui In'min 
+Konghwaguk 
+; prompt on  
+Korea 
+; do not accept  
+Republic of Korea 
+] 
+6A. This is a 20-second calculation question. A map has a scale with three-quarters of an inch representing ten miles.  If two 
+places are four and a half inches apart on the map, how far apart are they in real life? 
+ANSWER:     miles 
+60 
+6B. This is a 20-second calculation question. Multiply: three-eights times eight and a sixth. 
+ANSWER:    
+3 1/16 
+ [or  
+49/16 
+ or  
+3.0625 
+] 
+7A. Name the European country whose four official languages are French, Italian, German, and Romansh. 
+ANSWER:    
+Switzerland 
+ or  
+Swiss Confederation 
+7B. It was originally supposed to portray the artist himself in a greater work, The Gates of Hell. Name this Auguste Rodin bronze 
+sculpture that displays a contemplative man. 
+ANSWER:    
+The  Thinker 
+ or  
+Le  Penseur 
+8A. Dresden is known as the \"Florence on\" this river. Name this European waterway that flows from the Czech Republic through 
+Germany and Hamburg to the North Sea. 
+ANSWER:    
+Elbe 
+ River 
+8B. Poems in this style include Homer's The Odyssey and The Iliad. Name this form of poetry which focuses on heroic 
+VHSL Regular Season     Round 19     Page  3 of 7 
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+achievements. 
+ANSWER:    
+epic 
+ poetry 
+9A. This is a 30-second calculation question. If you can get a hamburger with or without each of the following condiments: 
+ketchup, mustard, pickles, onions, lettuce, and mayonnaise, then in how many ways can you order your hamburger? 
+ANSWER:    
+64 
+9B. This is a 30-second calculation question. What is the total of the measures of all the interior angles in a regular polygon with 
+18 sides? 
+ANSWER:    
+2880 
+ degrees 
+10A. The first installment of this video game series was subtitled  
+Combat Evolved 
+. Name this first-person shooter about Master 
+Chief, who is almost always fighting the Covenant or the Flood. 
+ANSWER:    
+Halo 
+10B. Name the anthropologist who studied the Kula Ring and the Trobriand Islanders and who wrote  
+Argonauts of the Western 
+Pacific 
+. 
+ANSWER:   Bronislaw Kasper  
+Malinowski 
+023-09-2-04116 
+VHSL Regular Season     Round 19     Page  4 of 7 
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+VHSL Regular Season 
+Round 19 
+Third Period, Fifteen Tossups 
+1. The glycoprotein IIb/IIIa (TWO-b-THREE-a) allows the protein fibrinogen to bind these cells together. A disease affecting 
+glycoprotein Ib on these cells causes them to be giant and is named for Bernard and Soulier. The deficiency of von Willebrand 
+factor causes these cells to lose effectiveness in performing their function, which is activated by the protein thrombin. They form 
+by budding off of megakaryocytes in the bone marrow. For 10 points, name these cells that are also called thrombocytes, blood 
+cells that aid in clotting. 
+ANSWER:   
+platelet 
+s [or  
+thrombocyte 
+s before mentioned] 
+026-09-2-04117 
+2. While in the senate, this man allied with Burton Wheeler to draft a Transportation Act. This man began his career in the 
+political machine of Thomas Pendergast. This {resident decried the \"Do-Nothing Congress.\" This man vetoed the Taft-Hartley 
+labor bill. George Kennan and Dean Acheson were largely responsible for creating a policy named for this man. That doctrine 
+named for this man adopted a method of containment for fighting communist expansion. This President defeated Thomas Dewey 
+to win a second term. For 10 points, name this Democrat who succeeded FDR as president. 
+ANSWER:  Harry S  
+Truman 
+028-09-2-04118 
+3. This figure grew up on the island of Seriphos and was sent on his most famous mission by Polydectes. As an infant he was cast 
+into the sea in a chest by Acrisius, whom he later killed with a discus. He defeated a sea monster that plagued Ethiopia and 
+thereafter married Andromeda. In his most famous adventure, he received winged sandals and the cap of Hades from the Graiae 
+after stealing their one tooth and eye. For 10 points, name this Greek hero who slayed Medusa. 
+ANSWER:   
+Perseus 
+030-09-2-04119 
+4. Thorstein Veblen wrote a work \"On the Barbarian Status of\" this group of people. John Stuart Mill argued that one of the \"chief 
+hindrances\" to progress was the titular \"Subjection of\" this group of people. Mary Wollestonecraft argued for equality in civil life 
+for this group in \"Vindication of the Rights of\" this group of people. Lucy Stone and Lucretia Mott argued for the right for this 
+group of people to vote. For 10 points, name this group of people, with whom feminism is concerned. 
+ANSWER:   
+women 
+005-09-2-04120 
+5. This man wrote a semi-autobiographical work with a main character based on himself named Jack Duluoz. This author of  
+Visions of Cody 
+ wrote about his relationship with Mardou Fox in  
+The Subterraneans 
+. The \"rucksack saints\" Ray Smith and Japhy 
+are the focus of this man's  
+The Dharma Bums 
+. Another of his novels sees the protagonist end up with Terry in Mexico after 
+meeting Ed Dunkel and Denver D. Doll on a trip from Denver to California shared with Dean Moriarty. For 10 points, name this 
+author who wrote of Sal Paradise's journey in a fictionalization of the Beat Generation, his novel  
+On the Road 
+. 
+ANSWER:   Jack  
+Kerouac 
+ [or Jean-Louis Lebris de  
+Kerouac 
+] 
+030-09-2-04121 
+6. In Australia, this food item is stuffed with oysters to form a dish called \"Carpetbag.\" Another variant of this food item is eaten 
+mostly in Scotland and is called the Pope's Eye. Controversy exists over whether this food can properly be used to make 
+Chateaubriand (SHAT-oh-bree-AHND). Most Mexican dishes that are based on this food employ its \"skirt\" variety. The filet 
+mignon is included in the Porterhouse or T-bone kind of this food. For 10 points, identify this cut of beef, which can be combined 
+with lobster or shrimp in a \"surf and turf.\" 
+ANSWER:    
+steak 
+019-09-2-04122 
+7. Along with the fourth power of charge, this property appears in the numerator of the formula for the Rydberg constant. One unit 
+used in measurements of this property is the Dalton. A \"defect\" in this property is the difference between the observed value and 
+the theoretical value, which is calculated by summing this property for each proton and neutron. For 10 points, give this property, 
+which for a mole of carbon-12 has a value of twelve grams. 
+ANSWER:  
+mass 
+ [or atomic  
+mass 
+; accept rest  
+mass 
+ of an electron before \"Dalton\"] 
+003-09-2-04123 
+VHSL Regular Season     Round 19     Page  5 of 7 
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+8. This man's advisors included Rustem and Sokolli. This man employed the architect Sinan. This ruler had his son Mustapha 
+executed. This man's corsair Barbarossa made the Ottoman fleet a powerful force. This ruler conquered Belgrade in 1521. This 
+man expelled the Knights Hospitalers from Rhodes in 1522. For 10 points, name this Ottoman sultan who won a decisive victory 
+against the Hungarians at the Battle of Mohacs in 1526, and who was the son of Selim I. 
+ANSWER:   
+Suleiman I 
+ [or  
+Suleiman the Magnificent 
+; or  
+Suleiman the Lawgiver 
+; or  
+Suleiman Muhtesem 
+; or  
+Suleiman 
+Kanuni 
+] 
+030-09-2-04124 
+9. In the same act that this piece appears in, the thirty-three bogatyrs are introduced, and the Swan-Bird delivers an admonishment. 
+A two-octave chromatic descent characterizes this work written in A-minor, and is almost exclusively sixteenth notes. In the 
+middle of this piece, a pizzicato A minor arpeggio takes over, and the already fast chromatic motions around E increase in octave. 
+This piece depicts Prince Guidon, the protagonist of The Tale of Tsar Saltan, in an insect form. For 10 points, name this most 
+famous work by Nikolai Rimsky-Korsakov. 
+ANSWER: \" 
+Flight of the Bumblebee 
+\" 
+020-09-2-04125 
+10. In one poem, this atheist declares that although he does not believe in heaven, he believes in a heaven for all dogdom. Another 
+work by this poet begins “The memory of you emerges from the night around me” and repeats the line “in everything you sank!” 
+This poet's erotic works include “The Body of a Woman” and “I Like for You to Be Still.” “The Liberators” and “The Sand 
+Betrayed” are sections in this man's work intended as a poetic history of the Americas, a collection that contains his “The Heights 
+of Macchu Picchu.” For 10 points, name this Chilean author of  
+Canto General 
+ and  
+Twenty Love Poems and a Song of Despair 
+? 
+ANSWER:   Pablo  
+Neruda 
+ [or Neftalí Ricardo  
+Reyes 
+ Basoalto] 
+034-09-2-04126 
+11. Faa Di Bruno's Formula gives an explicit formula for one type of this operation. Operations of this type for a vector function 
+form the entries of the Jacobian matrix, and operations of this type form the entries of the gradient. L'Hospital's Rule uses a 
+quotient of these operations to calculate limits. For composite functions, this operation is applied using the chain rule.  This 
+operation finds the slope of a curve's tangent line, and is defined as the \"limit as h goes to zero of 'f of x plus h' minus 'f of x', all 
+over h.\" For 10 points, name this basic operation of calculus, the inverse of the integral. 
+ANSWER:  
+derivative 
+028-09-2-04127 
+12. One figure targeted during this rebellion was the general John Neville, who was sent to oversee the collection of taxes. One 
+man involved in putting down this rebellion was \"Light Horse Harry\" Lee, who had earlier served in the American Revolution. 
+The militia forces gathered to put down this rebellion were led by the president at the time, George Washington, although no 
+resistance was met. For 10 points, name this rebellion in western Pennsylvania that started after the United States government 
+passed an excise tax on a certain form of alcohol. 
+ANSWER:   
+Whiskey 
+ Rebellion 
+023-09-2-04128 
+13. Animals extant during this period include  
+Edaphosaurus 
+ and  
+Dimetrodon 
+, and the dominant lifeforms during this period were 
+therapsids, the direct ancestors of mammals. Gymnosperms became the dominant form of plant life during this period. During this 
+period, the supercontinent of Pangaea was formed. This was the last period of the Paleozoic Era. For 10 points, name this period 
+lasting from approximately 290 to 248 million years ago, which ended with the largest mass extinction ever recorded on Earth. 
+ANSWER:  
+Permian 
+ Period 
+003-09-2-04129 
+14. In one scene of this novel, the protagonist strikes a woman on the face with a camera, capsizing their canoe. The protagonist of 
+this novel falls in love with Hortense Briggs while serving as a bellboy in a Kansas City hotel. The protagonist of this novel rides 
+in a car that strikes a child, after which this novel shifts scenes to New York. In New York, the protagonist of this work gets a job 
+in a factory under his uncle and fails to procure an abortion after impregnating the poor farmgirl Roberta Alden. This work ends 
+with Roberta's murder at the hands of Clyde Griffiths. For 10 points, name this Theodore Dreiser novel. 
+ANSWER:    
+An  American Tragedy 
+020-09-2-04130 
+15. In this nation, the Forum for the Restoration of Democracy was formed by opposition leader Oginga Odinga. This nation's 
+government tried to cover up the murder of Josiah Kariuki in 1975. One leader of this nation appointed Richard Leakey to head 
+this nation's civil service. Hundreds of Kikuyu were killed in riots following the 1997 reelection in this country of Daniel arap 
+Moi. This nation was the site of the Mau Mau uprising. For 10 points, name this country whose first president was Jomo Kenyatta. 
+ANSWER:  Republic of  
+Kenya 
+030-09-2-04131 
+VHSL Regular Season     Round 19     Page  6 of 7 
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+VHSL Regular Season 
+Round 19 
+Tiebreaker Questions 
+1. This denomination believes that Jesus returned during the \"Millenial Dawn\" of 1874. This group believes that 144,000 of its 
+members will be the co-rulers of Earth following the establishment of the Kingdom of God.  This group avoids using the words 
+\"minister\" or \"church\" and does not vote or salute flags. Since its founding by Charles Taze Russell, this group has believed that 
+Leviticus 3:17 prohibits blood transfusions. For 10 points, name this group, which meets in Kingdom Halls and distributes  
+The 
+Watchtower 
+  as part of its active campaign of evangelism. 
+ANSWER:   
+Jehovah's Witness 
+es 
+019-09-2-04132 
+2. This island's Baliem Valley is home to the Dani people. The Bismarck Range in the eastern part of this island contains Mount 
+Wilhelm. Lorentz National Park, which can be found on this island, contains the Asmat Swamp. This island's Puncak Jaya is the 
+highest island peak in the world. Port Moresby is the capital of a nation found entirely on this island; the western part of this island 
+is the province of Irian Jaya. For 10 points, name this second largest island in the world, which is split between Indonesia and a 
+nation that precedes this island's name with Papua. 
+ANSWER:   
+New Guinea 
+036-09-2-04133 
+3. One character in this story can only look down at his work, and refuses a celestial crown that is offered to him. In addition to 
+describing the Man with the Muck Rake, this work sees the protagonist visit the Valley of Humiliation. This work includes 
+characters such as Judge Hate-Good, who orders the execution of Faithful at Vanity Fair. The protagonist of this work encounters 
+characters such as Sloth and Hypocrisy en route to the Celestial City. For 10 points, name this seventeenth century allegorical 
+novel with a protagonist named Christian, written by John Bunyan. 
+ANSWER:    
+Pilgrim's Progress 
+038-09-2-04134 
+4. The Karl Fischer type is intended to detect small volumes of water, while organic amides often undergo this process in a 
+solution of glacial acetic acid. The zeta potential type of this process is carried out on colloids, while complexometric ones may 
+use chelating agents like EDTA. This process generates a curve with multiple inflection points, called equivalence points, for 
+polyprotic acids. For 10 points, name this process by which the concentration of a known volume of a given acid or base may be 
+found by neutralizing a stock solution of acid or base. 
+ANSWER:  
+titration 
+ [accept word forms] 
+022-09-2-04135 
+5. The relationship of the  
+Pisaster 
+ organism in this phylum to the California mussel was used by Robert Paine to define the term 
+\"keystone species.\" These organisms possess a system that allows them to feed and move that is based on a central hydrocoel, 
+from which emerge ambulacra, which lead to this phylum's characteristic \"tube feet.\" In addition to their water vascular system, 
+organisms in this phylum possess radial symmetry. This phylum encompasses such organisms as crinoids, cucumbers, urchins, 
+and sand dollars. For 10 points, name this phylum that contains starfish, a phylum named for the \"spiny skin\" of its members. 
+ANSWER:  
+echinodermata 
+ [accept  
+echinoderm 
+s] 
+026-09-2-04136 
+VHSL Regular Season     Round 19     Page  7 of 7 
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 

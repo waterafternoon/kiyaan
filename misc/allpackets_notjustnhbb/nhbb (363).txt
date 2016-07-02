@@ -1,0 +1,769 @@
+Tournament 42 
+Round 14 
+Tossups 
+1.  
+In this painting, women balancing apples on their heads stand in a pool of water. Another image 
+from this painting is of an arrow piercing a pair of ears, between which a knife protrudes. Another 
+part of this painting displays a swarm of black birds flying out of a cave and a purple (*) 
+ fountain 
+spewing out water besides a pale, horned giraffe. A hellish war rages on in this painting's right panel, while 
+on its left, God holds the hand of Eve in Eden. For 10 points, name this detailed triptych depicting the pure, 
+debauched, and sinful aspects of humanity, a work by Hieronymus Bosch. 
+ANSWER:  
+The  Garden of Earthly Delights 
+229-14-86-14101 
+2.  
+In this poem, the sylph Brillante guards the protagonist's earrings, while the sylph Momentilla 
+guards the protagonist's watch. The protagonist of this poem owns a lapdog named Shock and wins a 
+game of ombre. This poem was inspired by an incident between Arabella Fermor and Lord (*) 
+ Petre. 
+Umbriel, a gnome, visits the cave of Spleen in this work, which climaxes with the Baron cutting off a 
+strand of Belinda's hair. For 10 points, name this mock epic poem by Alexander Pope. 
+ANSWER:  
+The  Rape of the Lock 
+192-14-86-14102 
+3.  
+After hearing false rumors of this man's death, Avidius Cassius proclaimed himself emperor. This 
+ruler expelled the Macromanni, and his wife was proclaimed \"mother of the camp\" for accomanying 
+him as he fought along the Danube. This man was taught by Fronto and was influenced by the  
+Discourses  of the former slave (*) 
+ Epictetus. This husband of Faustina insisted that his adoptive brother 
+Lucius Verus serve as co-emperor, and he served as the apprentice to Antoninus Pius. For 10 points, name 
+this Roman emperor and Stoic philosopher who wrote  
+Meditations. 
+ANSWER: Caesar  
+Marcus Aurelius 
+ Antoninus Augustus [or  
+Marcus Annius Verus 
+; prompt on partial 
+answer] 
+030-14-86-14103 
+4.  
+The impedance of these devices is inversely proportional to angular frequency. The current 
+through these devices is equal to the time derivative of the voltage. Unusually, these devices sum 
+reciprocally in series circuits and add in parallel circuits. The energy stored in these devices is equal 
+to one-half times voltage times (*) 
+ charge. Their simplest type has a dielectric placed between its parallel 
+plates. For 10 points, name these devices that store energy in an electric field, unlike inductors or resistors. 
+ANSWER:  
+capacitor 
+s [or  
+condenser 
+s] 
+066-14-86-14104 
+5.  
+The Redeemers took power soon after the end of this era, which saw the election of John Mercer 
+Langston and Hiram Revels. During this time period, the Force Acts were passed to deal with a 
+group that violently resisted this period's defining process. Scalawags and (*) 
+ carpetbaggers were 
+reviled during this time period, which also saw the establishment of the Freedmen's Bureau. Samuel Tilden 
+sacrificed a disputed election to bring this period to an end in the Compromise of 1877. For 10 points, name 
+this period that followed the Civil War. 
+ANSWER:  
+Reconstruction 
+233-14-86-14105 
+Tournament 42     14     Page  1 of 11 
+6.  
+Women in Tamil Nadu used to choose their husbands based on their success at jallikattu, an 
+activity involving these animals. Three flagmen, two lancers, and one \"sword servant\" assist in 
+another activity involving these animals, which is divided into three \"tercios\" and involves 
+participants wearing \"suits of light.\" The centerpiece of the (*) 
+ San Fermin festival is the \"encierro,\" in 
+which these animals are \"run\" throughout the streets of Pamplona. For 10 points, name these animals that 
+matadors taunt with red capes in a Spanish activity. 
+ANSWER:  
+bull 
+s [or male  
+cattle 
+; or  
+Bos taurus 
+; do not accept or prompt on \"cows\"] 
+020-14-86-14106 
+7.  
+Vasopressin targets this organ. Granular cells in the macula densa of this organ are responsible for 
+secreting renin. A network of capillaries in this organ is known as the glomerulus. This organ 
+contains a countercurrent multiplier called the loop of Henle, which is located in its smallest 
+functional unit, the (*) 
+ nephron. Blood to it is supplied by the renal arteries. Decline in function of this 
+organ causes people to be treated with dialysis. For 10 points, identify this organ that eliminates waste and 
+produces urine. 
+ANSWER:  
+kidney 
+s 
+234-14-86-14107 
+8.  
+According to a book published by William Caxton, this man is succeeded by Constantine. This 
+character is the cousin of Culhwch in a story from the  Mabinogion . This man appears as the central 
+figure in Books Nine through Twelve of the best-known work of Geoffrey of Monmouth. The title 
+event of a work titled for him occurs at the Battle of (*) 
+ Camlann at the hands of his illegitimate son 
+Mordred, and was written by Thomas Malory. For 10 points, name this king who uses Excalibur and sits at 
+the Round Table in Camelot. 
+ANSWER: King  
+Arthur 
+190-14-86-14108 
+9.  
+This man quoted the  Bhagavad Gita  in his album  Om , and included the tracks \"Afro Blue\" and 
+\"Alabama\" on the album  Live at Birdland , which he recorded with his \"Classic Quartet.\" This 
+musician worked with McCoy Tyner and Elvin Jones to record tracks such as \"Naima\" and 
+\"Acknowledgement\" after splitting with (*) 
+ Miles Davis. Ira Gitler described this man's style as \"sheets 
+of sound,\" and he played a jazz rendition of \"My Favorite Things.\" For 10 points, name this saxophonist 
+and pioneer of free jazz who recorded  
+Giant Steps 
+ and  
+A Love Supreme 
+. 
+ANSWER: John  
+Coltrane 
+228-14-86-14109 
+10.  
+Nine essays, one of which concerns this country's \"Masks,\" make up a collection concerning this 
+country's dual cultural heritage. General Arroyo is executed for killing the title character, inspired 
+by Ambrose Bierce, of one novel from this country.  The Labyrinth of Solitude  and  The (*)  Old Gringo 
+were written by an author from this country who wrote of a tycoon recalling his life on his deathbed in  
+The 
+Death of Artemio Cruz. 
+ For 10 points, name this country home to Octavio Paz and Carlos Fuentes. 
+ANSWER:  
+Mexico 
+ [or United  
+Mexican 
+ States; or Estados Unidos  
+Mexicanos 
+] 
+232-14-86-14110 
+11.  
+Attempting to use a null one of these things can cause a segmentation fault. The function malloc 
+returns one of these things. Every node but the last one in a linked list contains a field for this thing. 
+In C and C++, these things are declared by using an asterisk and Java has references instead of these 
+things. The namesake (*) 
+ arithmetic of these things is used to index arrays. For 10 points, identify these 
+whose value is an address in memory. 
+ANSWER:  
+pointer 
+s [prompt on  
+reference 
+] 
+066-14-86-14111 
+Tournament 42     14     Page  2 of 11 
+12.  
+The Beveridge curve compares this quantity to the vacancy rate. Milton Friedman introduced 
+\"NAIRU\" as the value for this quantity above which inflation will accelerate. The traditional Phillips 
+curve shows a tradeoff between a lower number for this rate and a higher (*) 
+ inflation rate.  
+The 
+General Theory 
+ argued that equilibria existed where it was not zero, and that it could be involuntary as well 
+as frictional or structural. For 10 points, name this value which measures the number of people unable to 
+find desired work. 
+ANSWER:  
+unemployment 
+ rate 
+121-14-86-14112 
+13.  
+The presence of this non-aluminum element defines the tectosilicate mineral orthoclase. The 
+decay of a radioactive isotope of this element to argon-40 is used to date ancient rocks. Its chloride 
+salt is a commonly-used lethal injection additive. Along with sodium, this element is pumped through 
+the cell membrane to create an action potential. A strong oxidizing agent that consists of this element, 
+manganese and four oxygens is called its (*) 
+ permanganate. It reacts with water to form purple flames. 
+For 10 points, identify this alkali metal whose hydroxide is called potash and which has chemical symbol 
+K. 
+ANSWER:  
+potassium 
+ [or   until it is read] 
+K 
+234-14-86-14113 
+14.  
+Upon election, this party implemented many reforms suggested by the Beveridge Report. During 
+the 1950s, it was split between the Bevanite and Gaitskillite factions. It ruled during the \"Winter of 
+Discontent,\" when James Callaghan proved unable to control strikes. That failure led to the \"isn't 
+wokring\" campaign against this party, which brought its opposition to power in (*) 
+ 1979 behind 
+Margaret Thatcher. For 10 points, name this British political party at one time led by Clement Atlee, which 
+is the more left-wing of the major British parties. 
+ANSWER:  
+Labour 
+ Party 
+121-14-86-14114 
+15.  
+Both Paul Kirk and Mo Cowan temporarily held this position. In the 2010 special election for this 
+position, Martha Coakley lost to Scott Brown. Another holder of this position was Chairman of the 
+(*) 
+ Foreign Relations Committee before resigning to become Secretary of State. In the 2013 special 
+election for this office, Gabriel Gomez was defeated by Ed Markey. For 10 points, identify this office held 
+by John Kerry and Elizabeth Warren. 
+ANSWER: United States  
+Senator 
+ from  
+Massachusetts 
+ [prompt on United States  
+Senator 
+] 
+236-14-86-14115 
+16.  
+Ravel composed a concerto for this instrument that begins with a whip crack and a timpani roll. 
+Six volumes of 153 increasingly difficult pieces for this instrument, collected in  Mikrokosmos,  were 
+composed by Bela Bartok. Balakirev included the notoriously difficult \"Scarbo\" movement for this 
+instrument in  Gaspard de la Nuit,  and John Adams (*) 
+ \"prepared\" it by putting random objects on the 
+hampers and strings. Beethoven's \"Emperor\" concerto and Chopin's \"Minute Waltz\" were composed for 
+this instrument, which has a range of seven octaves and three pedals. For 10 points, name this keyboard 
+instrument with 88 keys. 
+ANSWER:  
+piano 
+forte 
+228-14-86-14116 
+Tournament 42     14     Page  3 of 11 
+17.  
+When a woman in this novel says she will miss a man, he claims her life is far too orderly for her 
+to suffer such big disturbances. The affair of this novel's patriarch with his housekeeper's daughter 
+Fenechka produces their son Mitya. This novel's protagonist falls in love with Katya, while his friend 
+is initially rejected by her sister Anna (*) 
+ Odintsova. After leaving the home of his friend Arkady 
+Kirsanov, this novel's nihilist character Bazarov dies of typhus. For 10 points, identify this novel by Ivan 
+Turgenev. 
+ANSWER:  
+Fathers and Sons 
+ [or  
+Fathers and Children 
+; or  
+Otcy i Deti 
+] 
+233-14-86-14117 
+18.  
+The holiday of Vesak celebrates the birthday of this person. A denomination believes that this 
+person gave a \"sermon\" in which he did not speak but merely smiled and held up a white flower. 
+This person saw the Four Passing Sights, which were an old man, a sick man, a dead man, and a 
+monk, inspiring him to explore the world outside of his (*) 
+ princely upbringing. He then sat under a 
+bodhi tree where he realized the Four Noble Truths. For 10 points, name this person who founded a major 
+Asian religion. 
+ANSWER: the Gautama  
+Buddha 
+ [or Siddhartha  
+Gautama 
+] 
+019-14-86-14118 
+19.  
+In one of this man’s novels set in the town of Grand Republic, Neil is pursued by a mob after he 
+reveals that he has a black ancestor. This author of  Kingsblood Royal  created Sharon Falconer, a 
+self-proclaimed prophet and evangelist who is the love interest of the title former college football 
+player in (*) 
+Elmer Gantry. 
+ He also wrote about Carol Kennicott’s attempts to reform Gopher Prairie, 
+Minnesota. For 10 points, name this first American to win the Nobel Prize in Literature who wrote  
+Main 
+Street 
+ and  
+Babbitt. 
+ANSWER: Sinclair  
+Lewis 
+131-14-86-14119 
+20.  
+In this country, the assassination of populist Jorge Gaitan began a period of strife known as La 
+Violencia. A prominent criminal in this country was incarcerated in a luxurious private prison called 
+La Catedral. That man was the head of the (*) 
+ Medellin (meh-day-EEN) Cartel, Pablo Escobar. In this 
+country, a Marxist insurrection has existed since the 1960s, largely funded by the cocaine trade. For 10 
+points, name this South American country where FARC rebels fight against the government. 
+ANSWER: Republic of  
+Colombia 
+ [or Republica de  
+Colombia 
+] 
+230-14-86-14120 
+21.  
+An act passed under this king prohibited nonconformist preachers from living within five miles of 
+any parish from which they had been expelled. A failed attempt to exclude this king’s brother from 
+the throne began after Titus Oates claimed that there was a \"Popish Plot\" to kill this king. This 
+monarch granted William (*) 
+ Penn a land charter in America. Both the Great Plague and Great Fire of 
+London occurred during this monarch’s reign, which followed Cromwell’s Interregnum. For 10 points, 
+name this English king, who was enthroned during the \"Restoration\" of the monarchy. 
+ANSWER:  
+Charles II 
+ [prompt on  
+Charles 
+] 
+149-14-86-14121 
+22.  
+This function of x is equal to e to the i x minus e to the negative i x all over two. This function is 
+multiplied by the imaginary unit in Euler's formula. Its Maclaurin series begins x, minus x cubed 
+over three factorial, plus x to the fifth over five factorial. The integral of this function is the negative 
+of the (*) 
+ cosine, and its reciprocal is the cosecant. For 10 points, name this trigonometric function that, for 
+an angle in a right triangle, equals the length of the opposite side over the length of the hypotenuse. 
+ANSWER:  
+sin 
+e 
+185-14-86-14122 
+Tournament 42     14     Page  4 of 11 
+23.  
+Some characters in this play use letters to make a steward believe that his master is in love with 
+him. A speech in this play begins, \"If music be the food of love, play on.\" Toby Belch and Andrew 
+Aguecheek appear in this play, while the jester Feste is among those who make (*) 
+ Malvolio dream 
+about marrying Olivia. A character in this play dresses up as the boy Cesario after landing on the coast of 
+Illyria and meeting the Duke Orsino. For 10 points, name this Shakespearean comedy about the twins 
+Sebastian and Viola. 
+ANSWER:  
+Twelfth Night 
+192-14-86-14123 
+Tournament 42     14     Page  5 of 11 
+Tournament 42 
+Round 14 
+Bonuses 
+1. This author wrote about Eliza Sommers in  
+Daughter of Fortune. 
+ For 10 points each: 
+[10] Name this author, who wrote about Esteban's marriage to Bianca Trueba in  
+The House of the Spirits. 
+ANSWER: Isabel  
+Allende 
+[10] Isabel Allende is a native of this country, whose poets include Gabriela Mistral and Pablo Neruda. 
+ANSWER: Republic of  
+Chile 
+ [or Republica de  
+Chile 
+] 
+[10] The title character of this Allende novel develops relationships with Huberto Naranjo and Rolf Carle. 
+This novel's title character is the daughter of Consuelo and a snake-bitten Indian gardener. 
+ANSWER:  
+Eva Luna 
+186-14-86-14201  
+2. This unfinished, three-part text contains the  
+Quinque viae, 
+ or Five Ways, a set of arguments proving the 
+existence of God. For 10 points each: 
+[10] Name this massive compendium meant to defend every doctrine of Catholicism. Each point argued by 
+this book has its objections present first before the author replies \"on the contrary.\" 
+ANSWER:  
+Summa theologica 
+ [or  
+Summa theologiae 
+] 
+[10] This student of Albertus Magnus, a Doctor of the Church, stopped adding to the  
+Summa Theologica 
+after a mystical experience. 
+ANSWER: Saint Thomas  
+Aquinas 
+ [or Saint  
+Thomas 
+ of  
+Aquin 
+o; prompt on  
+Doctor Universalis 
+; prompt 
+on  
+Doctor Communis 
+; prompt on  
+Doctor Angelicus 
+; prompt on Saint  
+Thomas 
+] 
+[10] The  
+Summa Theologica 
+ lays out three conditions for this type of conflict, including the legitimacy of 
+the authority pursuing it. Aquinas’s views on this type of conflict drew on Augustine. 
+ANSWER:  
+just war 
+ theory [or  
+bellum iustum 
+; prompt on  
+war 
+] 
+104-14-86-14202  
+3. Answer the following about the election of 1860, for 10 points each. 
+[10] This Illinois Republican won the election. His first vice president was Hannibal Hamlin, and he was 
+succeeded by Andrew Johnson. 
+ANSWER: Abraham  
+Lincoln 
+[10] This other Northerner was Lincoln's chief rival. Two years earlier, this Democrat had had a series of 
+debates with Lincoln while vying for an Illinois Senate seat. 
+ANSWER: Stephen Arnold  
+Douglas 
+[10] Though Douglas had the second-highest popular vote count, this Southern Democrat took the 
+second-most electoral votes. His running mate was Oregon governor Joseph Lane. 
+ANSWER: John Cabell  
+Breckinridge 
+233-14-86-14203  
+Tournament 42     14     Page  6 of 11 
+4. This composer requested the fifth movement of his  
+All-Night Vigil 
+ be sung at his funeral. For 10 points 
+each: 
+[10] Name this Russian composer, whose second piano concerto is in C minor and begins with eight 
+bell-like chords. A solo piano part also features in his  
+Rhapsody on a Theme of Paganini. 
+ANSWER: Sergei  
+Rachmaninoff 
+[10] Both Rachmaninoff and this other Russian composed pieces based on the story of Francesca da 
+Rimini. He also composed  
+Swan Lake 
+ and the cannon-featuring  
+1812 Overture 
+. 
+ANSWER: Pyotr Ilyich  
+Tchaikovsky 
+[10] The second movement to Rachmaninoff's  
+Morceaux de fantasie 
+ is a famous prelude in this key, also 
+used in Chopin's  
+Fantaisie-Impromptu 
+. 
+ANSWER:  
+C-sharp minor 
+ [prompt on partial answer] 
+233-14-86-14204  
+5. This ruler was served by the Prime Ministers Lord Bute and George Grenville. For 10 points each: 
+[10] Name this King of England who ruled during the American Revolution. His \"madness\" may have 
+resulted from porphyria. 
+ANSWER:  
+George III 
+ [prompt on  
+George 
+] 
+[10] This man served as George III's Prime Minister for much of the Revolution and was the first Prime 
+Minister to be forced out of office by a vote of no confidence. 
+ANSWER: Lord  
+North 
+[10] Shortly after the Falklands crisis, North appointed Lord Sandwich to this post. Winston Churchill later 
+held this government post during the Gallipoli Campaign. It is responsible for the British Navy. 
+ANSWER:  
+First Lord 
+ Commissioner  
+of the Admiralty 
+ [prompt on partial answer] 
+186-14-86-14205  
+6. This author's only novel was  
+The Notebooks of Malte Laurids Brigge 
+. For 10 points each: 
+[10] Identify this German poet, who wrote the line, \"Who, if I cried out, would hear me among the angelic 
+orders?\" to begin the first of his  
+Duino Elegies. 
+ANSWER: Rainer Maria  
+Rilke 
+[10] Rilke wrote a number of letters to Franz Kappus, a young soldier who aspired to have this occupation. 
+A Garcia Lorca collection is titled after one of them \"in New York.\" 
+ANSWER:  
+poet 
+s 
+[10] Rilke also composed a 55-sonnet cycle dedicated to this mythological figure, a musician who tried to 
+rescue his wife Eurydice from the underworld. 
+ANSWER:  
+Orpheus 
+233-14-86-14206  
+7. This man’s paintings of locales in his home state include the birthplace of Herbert Hoover. For 10 points 
+each: 
+[10] Name this regionalist painter of  
+Daughters of Revolution 
+ who used his sister and his dentist as the 
+models for his  
+American Gothic. 
+ANSWER: Grant  
+Wood 
+ [or Grant DeVolson  
+Wood 
+] 
+[10] The man depicted in  
+American Gothic 
+ memorably holds one of these tools in his right hand outside of 
+a farmhouse, symbolizing his austerity and devotion to his labor. 
+ANSWER:  
+pitchfork 
+[10] This other regionalist painter, a great-nephew of a Missouri Senator of the same name, taught Jackson 
+Pollock and depicted Ku Klux Klan members in his  
+Indiana Murals 
+. 
+ANSWER: Thomas Hart  
+Benton 
+131-14-86-14207  
+Tournament 42     14     Page  7 of 11 
+8. These objects can be added by constructing a parallelogram. For 10 points each: 
+[10] Name these mathematical objects that, unlike scalars, have both magnitude and direction. 
+ANSWER:  
+vector 
+s 
+[10] This operation between two vectors equals the product of the two magnitudes times the cosine of the 
+angle between the two vectors. 
+ANSWER:  
+dot product 
+ [or  
+scalar product 
+; accept  
+inner product 
+] 
+[10] If the dot product of two vectors is zero, they have this relationship. Two lines have this relationship if 
+their slopes are negative reciprocals. 
+ANSWER:  
+perpendicular 
+ [or  
+orthogonal 
+; or  
+normal 
+; accept answers such as  
+meet at a right angle 
+] 
+185-14-86-14208  
+9. In this poem, \"Hardly a man is still alive who remembers that famous day and year.\" For 10 points each: 
+[10] Name this poem about a man who is \"borne on the night-wind of our Past through all our history, to 
+the last\" because he \"spread the alarm through every Middlesex village and farm.\" 
+ANSWER: \" 
+Paul Revere's Ride 
+\" 
+[10] This poet of \"Paul Revere's Ride\" is also known for his epic about a Native American hero,  
+The Song 
+of Hiawatha. 
+ANSWER: Henry Wadsworth  
+Longfellow 
+[10] The wigwam of Hiawatha's grandmother Nokomis lies on this lake. The section \"Hiawatha's 
+Childhood\" begins \"By the shores\" of this lake, which it also calls \"the shining Big-Sea-Water.\" 
+ANSWER:  
+Gitche Gumee 
+ [or Lake  
+Superior 
+; or  
+gichigami 
+] 
+232-14-86-14209  
+10. Because of the inner and outer sphere complexes of magnesium sulfate, one cannot use the normal 
+method to find this property's namesake product. For 10 points each: 
+[10] Name this property, which is low for substances, such as calcium carbonate, that form a precipitate 
+when put into water. 
+ANSWER:  
+solubility 
+[10] The solubility of a substance can be reduced if the concentrations of one of the dissolved substances is 
+increased in this effect. 
+ANSWER:  
+common-ion 
+ effect 
+[10] The ionized version of this element is insoluble when combined with a silver cation, but soluble in 
+table salt, in which it combines with a sodium cation. 
+ANSWER:  
+chlorine 
+ [or  
+chloride 
+; or  ] 
+Cl 
+020-14-86-14210  
+11. Proline appears as part of the helix in this triple helical protein. For 10 points each: 
+[10] Name this protein that makes up the connective tissue in animals and is the most abundant protein in 
+humans. 
+ANSWER:  
+collagen 
+[10] This amino acid, the only achiral amino acid, is very prevalent in collagen. Its side chain is just 
+hydrogen. 
+ANSWER:  
+glycine 
+ [or  
+Gly 
+; or  ] 
+G 
+[10] This scientist suggested a triple helical structure of DNA. He correctly deduced the structure of the 
+alpha helix and beta sheet and won multiple Nobels. 
+ANSWER: Linus  
+Pauling 
+190-14-86-14211  
+Tournament 42     14     Page  8 of 11 
+12. Identify the following about non-portrait photography, for 10 points each. 
+[10] This man co-developed the \"zone system\" for controlling exposure and created  
+Clearing Winter Storm 
+and  
+Moon and Half Dome 
+, two of his many photographs of Yosemite National Park. 
+ANSWER: Ansel Easton  
+Adams 
+[10] Edward Steichen used gum bichromate to add a blue pigment to his photograph of the Flatiron 
+Building, a landmark in this American city which is also home to Central Park. 
+ANSWER:  
+New York 
+ City 
+[10] Galen Rowell claimed that a William Anders photo of this object rising above a stark gray landscape 
+was \"the most influential environmental photograph ever taken.\" This object was also the subject of the 
+photograph  
+The Blue Marble 
+. 
+ANSWER: the  
+Earth 
+ [or  
+Earthrise 
+] 
+029-14-86-14212  
+13. Science and the human head haven't always had the best relationship. Identify the following about their 
+sordid history, for 10 points each: 
+[10] This oldest-known surgical procedure involves the boring of a hole through the skull to expose the 
+dura mater, usually in order to release cranial pressure. Modern proponents sometimes perform it on 
+themselves using power drills. 
+ANSWER:  
+trepan 
+ation [or  
+trepan 
+ning; or  
+trephin 
+ation/ing; accept word forms; prompt on \"making a burr 
+hole\" or equivalents] 
+[10] Franz Joseph Gall popularized this nineteenth-century pseudoscience, which claimed that measuring 
+various areas of the skull could reveal information about an individual's mental capacities. 
+ANSWER:  
+phrenology 
+[10] Antonio Egas Moniz was controversially awarded the Nobel Prize for his development of this 
+procedure, which ostensibly treated psychiatric conditions by destroying the brain's prefrontal cortex, 
+sometimes using an ice pick. 
+ANSWER:  
+lobotomy 
+ [or  
+leucotomy 
+; accept word forms] 
+029-14-86-14213  
+14. Dionysus gave this man the ability to turn anything he touched into gold. For 10 points each: 
+[10] Name this Phrygian king who received the ears of a donkey after siding with Pan in a music contest. 
+ANSWER:  
+Midas 
+[10] Midas also judged the music contest between Apollo and this flute-player, who was flayed alive when 
+defeated. 
+ANSWER:  
+Marsyas 
+[10] According to Ovid, the tears of Marsyas’s mourners became one of these geographical features, 
+examples of which include the Styx and the Acheron. 
+ANSWER:  
+river 
+s 
+227-14-86-14214  
+Tournament 42     14     Page  9 of 11 
+15. This measurement is found on the y-axis of Fletcher and Munson's Equal Loudness Countours. For 10 
+points each: 
+[10] Name this measurement system for the intensity of sound, in which each increase of one is a just 
+noticeable difference. 
+ANSWER:  
+decibel 
+s 
+[10] The decibel scale is this kind of scale, which means that a sound ten thousand times the threshold of 
+hearing is only 40 decibels. 
+ANSWER:  
+logarithm 
+ic 
+[10] This logarithmic scale was designed to quantify the intensity of earthquakes. It has been supplanted by 
+the moment magnitude scale. 
+ANSWER:  
+Richter 
+ magnitude scale 
+023-14-86-14215  
+16. For 10 points each, answer the following about the literature of an Eastern European country. 
+[10] In this novel by Milan Kundera, Tomas cheats on his wife Tereza with the painter Sabina. The novel 
+ends with Tomas and Tereza dying in a car accident and Sabina moving to America. 
+ANSWER:  
+The  Unbearable Lightness of Being 
+ [or  
+Nesnesitelná Lehkost Bytí 
+] 
+[10] This author first coined the term “robot” in his play  
+R.U.R. 
+ At its conclusion, Alquist is the only 
+human left alive following the robot uprising. 
+ANSWER: Karel  
+Capek 
+[10] Both Milan Kundera and Karel Capek are from this country. Milan Kundera set  
+The Unbearable 
+Lightness of Being 
+ in its city of Prague. 
+ANSWER:  
+Czech Republic 
+ [or  
+Czechoslovakia 
+] 
+226-14-86-14216  
+17. This country’s first king was Gorm the Old, whose son Harald Bluetooth converted it to Christianity. 
+For 10 points each: 
+[10] Name this Scandinavian country ruled by several kings named Christian. 
+ANSWER: Kingdom of  
+Denmark 
+[10] In the 1360s, Denmark’s king Valdemar IV waged war on this confederation of merchant cities along 
+the coast of Northern Europe which was centered at Lübeck. 
+ANSWER:  
+Hanseatic League 
+ [or  
+Hansa 
+] 
+[10] Valdemar’s daughter Margaret I brought about this union between Denmark, Sweden, and Norway 
+confirmed by a treaty in 1397. 
+ANSWER:  
+Kalmar 
+ Union 
+014-14-86-14217  
+18. This thinker outlined his concept of \"bricolage\" (BRICK-oh-loj) in  
+The Savage Mind. 
+ For 10 points 
+each: 
+[10] Name this French structuralist thinker who also wrote  
+The Raw and the Cooked. 
+ANSWER: Claude  
+Levi-Strauss 
+[10] Levi-Strauss was an important thinker in this field, which is the study of humanity with an emphasis 
+on social interactions and cultural context. 
+ANSWER:  
+anthropology 
+[10] Levi-Strauss did extensive fieldwork with the Bororo people of this country. Its modern culture 
+includes extensive Carnival celebrations in the Sambadrome. 
+ANSWER: Federative Republic of  
+Brazil 
+ [or Republica Federativa do  
+Brasil 
+] 
+014-14-86-14218  
+Tournament 42     14     Page  10 of 11 
+19. Name these elements of the Vichy France regime, for 10 points each. 
+[10] Vichy France was led by this head of state and hero of the World War I battle of Verdun. His prime 
+ministers included Pierre Laval. 
+ANSWER: Henri Philippe Benoni Omer Joseph  
+Petain 
+[10] This general led the Free French forces and opposed the Vichy France regime. He later served as the 
+first president of France's Fifth Republic. 
+ANSWER: Charles Andre Joseph Marie  
+de Gaulle 
+[10] The Vichy regime's motto combined this English word with \"family\" and \"fatherland.\" A motto over 
+the main gate at Auschwitz said that this concept \"makes free.\" 
+ANSWER:  
+Work 
+ [or  
+Labor 
+] 
+186-14-86-14219  
+20. He wrote of how \"Time let me play and be\" and \"Time held me green and dying\" in an 
+autobiographical poem. For 10 points each: 
+[10] Name this Welsh poet and author of \"Fern Hill.\" He also wrote a radio play titled  
+Under Milk Wood 
+and wrote that \"Old age should burn and rave at close of day\" in another poem. 
+ANSWER: Dylan  
+Thomas 
+[10] Thomas wrote \"Rage, rage against the dying of the light\" in this villanelle for his invalid father. 
+ANSWER: \" 
+Do Not Go Gentle Into That Good Night 
+\" 
+[10] In another poem, Thomas quotes St. Paul in saying that this thing \"shall have no dominion.\" It is also 
+the subject ofthe tenth of Donne's  
+Holy Sonnets. 
+ANSWER:  
+death 
+232-14-86-14220  
+21. The first European to navigate its length was Francisco de Orellano. For 10 points each: 
+[10] Name this South American river, the longest and most powerful river in the world. 
+ANSWER:  
+Amazon 
+ River [or  
+Amazonas 
+] 
+[10] This river, one of the Amazon's largest tributaries, joins the Amazon at the city of Manaus. 
+ANSWER: Rio  
+Negro 
+ [or  
+Black 
+ River] 
+[10] Another city on the Amazon, Iquitos, is in this country, which has the second largest portion of the 
+Amazon rainforest after Brazil. 
+ANSWER:  
+Peru 
+232-14-86-14221  
+Powered by TCPDF (www.tcpdf.org) 
+Tournament 42     14     Page  11 of 11 

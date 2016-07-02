@@ -1,0 +1,658 @@
+2014 OAC 
+Packet 16 
+CATEGORY ROUND 
+American Literature: Modern Fiction 
+Team A: What postmodern novelist wrote  
+The Crying of Lot 49 
+? 
+ANSWER: Thomas  
+Pynchon 
+Team B: What novel about Tyrone Slothrop is Pynchon's most famous? 
+ANSWER:  
+Gravity's Rainbow 
+Tossup: Irving Langmuir was the inspiration for a character created by this author, who invents a way to 
+instantaneously harden mud to aid soldiers. This author provided his own illustrations for a novel in which 
+the protagonist goes on a berserk killing rampage because he believes that everyone else alive is a robot. In 
+his best-known novel, an optometrist predicts exactly how he will die, since he's been jumping forwards 
+and backwards through time ever since the fire-bombings of Dresden. Name this author of  
+Cat's Cradle 
+ and 
+Slaughterhouse-Five. 
+ANSWER: Kurt  
+Vonnegut 
+Mathematics: Sets of Numbers 
+Team B: This is a 10-second calculation question. Given the set of numbers 4, 5, 7, 7, 8, 10, 13, 14, 20, find 
+the sum of the median and mode. 
+ANSWER:  
+15 
+Team A: This is a 10-second calculation question. What is the difference between the mean and the median 
+of the set of five numbers: 13, 4, 2, 6, 0? 
+ANSWER:  
+1 
+Tossup: Numbers in this set can be found by taking powers of the matrix with rows 1, 1 and 1, 0, or more 
+explicitly with Binet's formula. The Lucas numbers have the same recurrence relation as this sequence, 
+which is why the ratio of its terms also tends to the golden ratio. Leonardo of Pisa derived this sequence by 
+considering a set of rabbits which mated with each other each month. Identify this sequence starting 1, 1, 2, 
+3, 5, in which each term is the sum of the previous two. 
+ANSWER:  
+Fibonacci 
+ numbers [or  
+Fibonacci 
+ sequence] 
+2014 OAC     16     Page  1 of 17 
+World History: Pelagians 
+Team A: What author of the  
+City of God 
+ often attacked Pelagianism? 
+ANSWER: Saint  
+Augustine 
+Team B: What doctrine regarding humanity's fallen state after the expulsion from the Garden was denied 
+by Pelagius? 
+ANSWER:  
+original sin 
+Tossup: This period traditionally begins with the victory of Pelagius at the Battle of Covadonga. A battle 
+during this period led to the downfall of the Almohads, who were defeated by Alfonso VIII at Las Navas de 
+Tolosa. This period, which resulted in the continuous shrinking of Al-Andalus, ended in 1492 with Isabella 
+and Ferdinand’s capture of Granada. Name this several centuries long period during which Christian states 
+took back the Iberian Peninsula from Muslim states. 
+ANSWER: La  
+Reconquista 
+ [or The  
+Reconquest 
+] 
+Fine Arts: Old Buildings 
+Team B: What temple to all of the gods was built in Rome during the reign of Augustus? 
+ANSWER:  
+Pantheon 
+ [do not accept \"Parthenon\"] 
+Team A: What largest structure in the Giza necropolis was built for Khufu or Cheops? 
+ANSWER:  
+Great Pyramid 
+ [prompt on  
+pyramid 
+] 
+Tossup: Originally, ninety-two metopes (meh-TOH-payz) in this building depicted the Gigantomachy, 
+Amazonomachy, and Centauromachy. A festival procession focused on a robe called a peplos is depicted 
+on this building's namesake frieze. The British Museum now houses many marble sculptures stolen from 
+this building by Lord Elgin. For this building, Phidias sculpted a depiction of Athena, its dedicatee. Name 
+this temple on the Acropolis in Greece. 
+ANSWER:  
+Parthenon 
+2014 OAC     16     Page  2 of 17 
+Life Sciences: Microbes 
+Team A: What species of bacteria has a O157:H7 serotype and is the subject of Richard Lenski's long-term 
+evolution experiment? 
+ANSWER:  
+E scherichia  coli 
+Team B: What type of algae, naming a type of rock, have an outer covering called a frustule, which is made 
+out of silica? 
+ANSWER:  
+diatom 
+s 
+Tossup: This organism contains vesicular structures called Berkeley bodies, which are involved in the CTV 
+pathway. Its vacuoles contain phosphate-rich \"dancing bodies\". This organism releases A- and 
+alpha-factors during mating, and since it cannot metabolize nitrate, this organism requires supplemental 
+ammonia and urea to promote growth. This organism is one of the smallest in the phylum Ascomycota, and 
+it was the first eukaryote to have its genome sequenced. Identify this single-celled fungus commonly used 
+to leaven bread and make beer. 
+ANSWER: Baker's  
+yeast 
+ [or  
+S accharomyces  cerevisiae 
+] 
+World Literature: English Novels 
+Team B: What novelist wrote  
+The Woman in White 
+? 
+ANSWER: Wilkie  
+Collins 
+Team A: A diamond is the title object of what famous detective novel by Collins? 
+ANSWER:  
+The  Moonstone 
+Tossup: The main character of this novel tries to help a man using the alias Provis escape from Arthur 
+Compeyson. A character in this novel is engaged to Bentley Drummle. This novel's protagonist befriends 
+Herbert Pocket and receives help from Mr. Jaggers. The blacksmith Joe Gargery takes in the main character 
+of this novel before he goes to live with Miss Havisham and Estella, and then travels to London with 
+money from Abel Magwitch. Name this coming-of-age novel about the orphan Pip that was written by 
+Charles Dickens. 
+ANSWER:  
+Great Expectations 
+2014 OAC     16     Page  3 of 17 
+US Government/Economics: States 
+Team A: What state has recently been governed by 2012 Libertarian Presidential nominee Gary Johnson 
+and Clinton and Obama confidante Bill Richardson? 
+ANSWER:  
+New Mexico 
+Team B: Susan Rice and Samantha Power have held what position in the Obama administration, the only 
+international post that Bill Richardson held under Bill Clinton? 
+ANSWER: U.S.  
+ambassador to the U 
+nited  ations [prompt on  
+N ambassador 
+] 
+The junior senator from this state beat Richard Carmona in an election to replace Jon Kyl, and both 
+senators from this state are part of the immigration Gang of Eight. Sheriff Joe Arpaio is elected in this 
+state's Maricopa County, and Gabrielle Giffords represented this state's 8th district. Name this US state 
+currently represented in the Senate by Jeff Flake and John McCain. 
+ANSWER:  
+Arizona 
+Physical Sciences: Particle Physics 
+Team B: Experiments at CERN in 2012 found what elusive \"God\" particle hypothesized to give other 
+particles mass? 
+ANSWER:  
+Higgs boson 
+Team A: Identify the process in which a neutron decays into a proton, an electron, and an antineutrino. 
+ANSWER:  
+beta 
+-minus decay 
+Tossup: The thermal utilization factor is a ratio between this process and absorption, while the reproduction 
+factor is an average of how many neutrons are produced in this event. This reaction is sustained at a 
+multiplication factor of one, and when uranium undergoes this process, it releases 2.5 neutrons on average. 
+Name this process discovered by Hahn and Meitner in which an atomic nucleus is split into two pieces. 
+ANSWER: nuclear  
+fission 
+2014 OAC     16     Page  4 of 17 
+World Geography: Lakes 
+Team A: What high-altitude lake in the Altiplano is shared by Peru and Bolivia? 
+ANSWER: Lake  
+Titicaca 
+Team B: What lake in Egypt was formed by the construction of the Aswan High Dam 
+ANSWER: Lake  
+Nasser 
+Tossup: This country's major poet is often depicted playing the stringed  
+dombra. 
+ The Irtysh River flows 
+through Lake Zaysan in this country, while the Ili River flows into its Lake Balkash. The largest city in this 
+country is Almaty. It contains the largest space launch facility in the world, the Baikonur Cosmodrome. 
+Nursultan Nazarbayev is the president of this largest landlocked country in the world. Name this Central 
+Asian country south of Russia and west of Mongolia. 
+ANSWER:  
+Kazakhstan 
+American History: Commissions 
+Team B: The Tower Commission investigated what scandal that involved Lieutenant Colonel Oliver 
+North? 
+ANSWER:  
+Iran-Contra 
+ affair 
+Team A: The Iraq Study Group commission in 2005 featured as a member what man who left to become 
+George W. Bush's second Secretary of Defense, a job he kept in the Obama administration? 
+ANSWER: Robert  
+Gates 
+Tossup: These events can be quantified on the INES (I N E S) scale, and the Liquidators were a group of 
+people who responded to one of these events. President Carter created the Kemeny Commission to 
+investigate one of these events that occurred near the Susquehanna River. These events release the isotopes 
+iodine-131 and cesium-137. Identify these disasters in which a fission plant overheats and releases radiation 
+into the environment, exemplified by the Chernobyl incident. 
+ANSWER:  
+nuclear 
+ power plant  
+meltdown 
+ [or  
+nuclear 
+ power plant  
+disaster 
+, 
+etc.] 
+2014 OAC     16     Page  5 of 17 
+Alphabet Round - Letter M 
+1. What ship landed at Plymouth Rock in 1620? 
+2. What oval shaped yellow spot is found in the center of the retina? 
+3. What character from  
+The Canterbury Tales 
+ tells a story about a carpenter who is cuckolded by the student Nicholas? 
+4. What name was given to the nine daughters of Mnemosyne who were goddesses of the arts in ancient Greece? 
+5. What state is the site of Bangor and Acadia National Park? 
+6. What term is given to artworks created by forming images from small pieces of glass or ceramic? 
+7. Robert and Helen Lynd published two books about what city, a slightly fictionalized Muncie, Indiana, as sociological studies 
+of cultural change in heartland America in the 20s and 30s? 
+8. What form of scattering, named for a German physicist, occurs when an electromagnetic wave encounters a dielectric sphere? 
+9. What French company is famous for its three-star system of restaurant rankings? 
+10. What cells of the immune system are named for their roles as “big eaters”? 
+11. In what city was Martin Luther King, Jr. assassinated? 
+12. What bone, also called the jaw bone, forms the skull when paired with the cranium? 
+13. Which Gospel is the shortest? 
+14. What radio pioneer made the first wireless broadcast across the Atlantic? 
+15. What is the first name of the poet who wrote “Dover Beach”? 
+16. Phobos is a moon of what planet? 
+17. What element is the second-lightest alkaline earth metal? 
+18.  
+(TWO WORD ANSWER) 
+ New Orleans is known for its celebrations of what holiday also known as “Fat Tuesday”? 
+19. A \"fox song\" and a \"Hungarian matchmaking song\" appear in what set of 153 progressively more difficult piano pieces by 
+Bela Bartok? 
+20. What large island is separated from the African continent by the Mozambique Channel? 
+2014 OAC     16     Page  6 of 17 
+Alphabet Round - Letter M ANSWERS 
+1.  
+Mayflower 
+2.  
+macula 
+3. the  
+Miller 
+4.  
+muse 
+s 
+5.  
+Maine 
+6.  
+mosaic 
+s 
+7.  
+Middletown 
+8.  
+Mie 
+ scattering 
+9.  
+Michelin 
+10.  
+macrophage 
+s 
+11.  
+Memphis 
+12.  
+mandible 
+13.  
+Mark 
+14. Guglielmo  
+Marconi 
+15.  
+Matthew 
+16.  
+Mars 
+17.  
+magnesium 
+18.  
+Mardi Gras 
+19.  
+Mikrokosmos 
+20.  
+Madagascar 
+2014 OAC     16     Page  7 of 17 
+FINAL ROUND 
+1. During a visit to the United States, this man was disgusted by the film  
+Can-Can 
+ and angry that he could 
+not visit Disneyland. This world leader gave the “Secret Speech” against his predecessor. He banned 
+publication of the novel  
+Doctor Zhivago 
+. This man banged his shoe on his desk in a 1960 UN meeting, and 
+his country sought to install nuclear weapons during the Cuban Missile Crisis. Name this leader of the 
+Soviet Union who succeeded Josef Stalin. 
+ANSWER: Nikita  
+Khrushchev 
+052-14-103-16101 
+2. This philosophy was espoused by Spanish writer Miguel de Unamuno in  
+The Tragic Sense of Life 
+. This 
+philosophy was used to argue that women are treated as \"the Other\" in the feminist text  
+The Second Sex 
+. 
+This discipline \"is a humanism\" according to a lecture delivered by the author of  
+Being and Nothingness 
+, 
+leftist intellectual Jean-Paul Sartre. Name this philosophy that broadly concerns the way humans make their 
+own meaning for their lives. 
+ANSWER:  
+existentialism 
+080-14-103-16102 
+3. This European city featured numerous searchlights that formed the “cathedral of light,” one of Albert 
+Speer’s architectural designs. A movie with scenes at the Luitpold Arena was set here and directed by Leni 
+Riefenstahl. The film  
+Triumph of the Will 
+ documents a rally held in this city, which was where Hermann 
+Goering and Rudolf Hess were put on trial. Name this German city, whose Palace of Justice hosted 
+post-World War II war crimes trials. 
+ANSWER:  
+Nuremberg 
+052-14-103-16103 
+4. This artist’s  
+The Woman in the Green Dress 
+ was one of many of his paintings to feature Camille 
+Doncieux. This man spent his later life living in the town of Giverny. (JIV-er-nee) His painting of a boat in 
+the harbor of Le Havre lent its name to the Impressionist movement. This artist also painted several series 
+of works showing Rouen Cathedral and haystacks from different angles and in different lights. Name this 
+Impressionist known for his paintings of water lilies. 
+ANSWER: Claude  
+Monet 
+015-14-103-16104 
+5. Early in this poem, the speaker expresses his longing for \"a draught of vintage\" and \"a beaker full of the 
+warm South,\" since with a drink he can then \"fade far away.\" This poem begins with the speaker feeling 
+that his \"head aches, and a drowsy numbness pains my sense,\" and he concludes by asking, \"Do I wake or 
+sleep?\" The speaker of this poem climatically exclaims, \"Thou wast not born for death,\" addressing the title 
+bird. Name this ode by John Keats. 
+ANSWER: \" 
+Ode to a Nightingale 
+\" 
+140-14-103-16105 
+6. In an opera by this composer, Queen Tye joins the title character and his wife at the Window of Public 
+Appearances. The phrase “Bank robbery is punishable by twenty years in federal prison” is repeated in 
+another of his operas, whose libretto employs solfege symbols. That opera by him includes the section \"I 
+Feel the Earth Move\" and has its acts separated by Knee Plays. Name this minimalist composer of  
+Satyagraha Akhenaten 
+,  , and  
+Einstein on the Beach 
+. 
+ANSWER: Philip  
+Glass 
+224-14-103-16106 
+2014 OAC     16     Page  8 of 17 
+7. This scientist was the doctoral advisor for Urey (YUR-ee) when he discovered deuterium. Earlier, this 
+scientist synthesized pure deuterium oxide, or heavy water. This man names a class of compounds that 
+activate the Friedel-Crafts reactions and include boron trifluoride and aluminum trichloride. This man, who 
+coined the term \"photon,\" devised a representation of bonds within molecules by using either lines or dots 
+to indicate pairs of electrons. Name this scientist who classified acids as electron pair acceptors. 
+ANSWER: Gilbert Newton  
+Lewis 
+239-14-103-16107 
+8. In this market structure, the marginal cost curve crosses the marginal revenue curve at the global 
+minimum of the average total cost curve. All firms in this market structure are price-takers and sell 
+homogenous goods. This structure exists when there are low barriers to entry and exit, high information 
+exchange about products and prices, and a large number of firms in a market, none of which dominates. 
+Supply and demand alone determine prices in this market structure. Identify this basic microeconomic 
+structure, in which nothing impedes the ideal function of the market, and from which real-world markets 
+are often defined by their deviation. 
+ANSWER:  
+perfect competition 
+ [or  
+perfectly competitive 
+ market] 
+019-14-103-16108 
+9. These things originate in source regions that are flat and have light surface winds. These things are 
+designated with a combination of a small c or small m, for continental or marine, and a big P or big T, for 
+polar and tropical. On surface weather maps, transition zones between them are marked by lines with 
+equally spaced triangles, semicircles, or a combination of both and are called fronts. Name these large 
+bodies of air that have a consistent temperature and moisture content. 
+ANSWER:  
+air mass 
+es 
+066-14-103-16109 
+10. A drunk one of these creatures named Eurytion (yur-IT-ee-ahn) tried to carry off the bride of Pirithous 
+(pee-rih-THOO-us), which resulted in a losing fight against the Lapiths. Another one of these creatures was 
+shot by a poisoned arrow when he tried to kidnap Deianira (DIE-uh-NAH-ruh). The teacher Chiron was 
+one of these creatures. Name these creatures from Greek mythology that had the upper body of a human but 
+the four legs of a horse. 
+ANSWER:  
+centaur 
+s [or  
+kentauros 
+] 
+023-14-103-16110 
+11. Reference frames that lack this property may be subject to so-called \"fictitious\" forces. Special 
+relativity only applies to reference frames with this property, which must be non-accelerating. A rotational 
+quantity named for this property is equal to M R-squared for a point mass and is known as its \"moment\". 
+Aristotle misunderstood this concept, which allows for objects to keep traveling in straight lines. Name this 
+topic of Newton's first law, the tendency of a body to resist a change in motion. 
+ANSWER:  
+inertia 
+ [or word forms such as  
+inertial 
+; prompt on  
+non-accelerating 
+ until it is read] 
+132-14-103-16111 
+12. This man was the closest collaborator with the librettist Lorenzo Da Ponte. In one of his operas, a maid 
+is serenaded with a mandolin by a window and the title character commands his servant to gather girls for a 
+party in the \"Champagne Aria.\" The maid Susanna assists the title character in rekindling Count Almaviva's 
+love for Rosina in another opera by this man, the sequel to  
+The Barber of Seville. 
+ Name this composer of 
+the operas  
+Don Giovanni 
+ and  
+The Marriage of Figaro. 
+ANSWER: Wolfgang Amadeus  
+Mozart 
+ [or Johannes Chrysostomus Wolfgangus Theophilus  
+Mozart 
+] 
+020-14-103-16112 
+2014 OAC     16     Page  9 of 17 
+13. An unfinished highway started in 1970 that was planned to travel along this river had its endpoint set 
+for Benjamin Constant. This river is the namesake of a species of dolphin that is also called the pink 
+dolphin. In 2011, the first bridge to cross a major part of this river system was constructed to link Iranduba 
+(EE-ron-DOO-nuh) and Manaus (mah-NAH-oos) across the Rio Negro. Name this river that has the largest 
+drainage system in the world and is found in South America. 
+ANSWER:  
+Amazon 
+ River 
+023-14-103-16113 
+14. A character in this novel creates forty-nine dumplings in the shape of human heads and throws them 
+into a river. Another character in this novel blockades a group from crossing a bridge with his thunderous 
+voice. A character in this novel summons the southeastern wind before the Battle of Red Cliffs. This novel 
+begins with the Oath of the Peach Garden, where Zhang (JUNG) Fei, Guan Yu, and Liu Bei become 
+brothers. Name this Chinese novel by Luo Guanzhong (gwan-JUNG) that recounts the struggle between the 
+Wu, Wei, and Shu states. 
+ANSWER:  
+Romance of the Three Kingdoms 
+ [or  
+Sanguo Yanyi 
+] 
+227-14-103-16114 
+15. This indicative tense's third-person plural conjugation is the basis of the subjunctive forms in another 
+tense. The third-person singular conjugation in this Spanish verb tense adds a \"y\" when the verb has two 
+consecutive vowels. Verbs that end in \"-car\" replace the \"c\" with a \"q\" in the first person in this tense. In 
+this tense, the verbs \"ser\" and \"ir\" (EAR) are conjugated the same: \"fui,\" (FWEE) \"fuiste,\" (FWEE-stay) 
+\"fue,\" (FWAY) and so on. This tense should be used only if the action was completed. Name this past tense 
+in Spanish contrasted with the imperfect tense. 
+ANSWER: Spanish  
+preterite 
+ [or el  
+preterito 
+; do not accept or prompt on \"past\"] 
+190-14-103-16115 
+16. The protein Cdc20 activates a \"promoting complex\" to start this stage. The cyclosome is also known as 
+a complex that promotes this stage by breaking down securin. This stage occurs due to the removal of 
+tubulin monomers from the \"plus\" end of a microtubule by the kinetochore (kin-ET-oh-core). Errors in this 
+phase of mitosis can lead to Down's Syndrome and other nondisjunctions. Name this stage of mitosis in 
+which sister chromatids are segregated to opposite sides of the cell and which occurs between metaphase 
+and telophase. 
+ANSWER:  
+anaphase 
+ [prompt on  
+mitosis 
+ until it is read] 
+190-14-103-16116 
+17. Howard Jarvis successfully advocated for an amendment to this state's constitution that limited the 
+maximum level of property taxes. Over sixty percent of voters supported that ballot initiative here, which 
+was known as Proposition 13. A man who promised to make the \"welfare bums\" work defeated Pat Brown 
+for the governorship here in 1966. Brown won its 1962 election running against Richard Nixon, and his son 
+Jerry is the current governor of this state. Name this state, where Ronald Reagan was governor in the 
+1960s. 
+ANSWER:  
+California 
+121-14-103-16117 
+2014 OAC     16     Page  10 of 17 
+18. This empire lost battles at Vilcaconga and Maraycalla under its general Quizquiz. A city of this empire 
+which is believed to have been built for Emperor Pachacuti (PACH-uh-koo-tee) was discovered by Hiram 
+Bingham. This empire used knotted ropes called quipu (KEE-poo) for record-keeping. A conflict in this 
+empire pitted Huascar (HWASS-car) against a man who was captured at Cajamarca (ca-ha-MAR-ka) and 
+ransomed for a roomful of gold, Atahualpa (aht-uh-WALL-puh). Name this empire which contained Machu 
+Picchu, and was located in modern-day Peru. 
+ANSWER:  
+Inca 
+n Empire 
+122-14-103-16118 
+19. This is the manner of death of a character who arrives late after thinking her husband is busy stacking 
+wood. A woman dies in this manner at the hands of Old Man Warner and her own family while saying “It 
+isn’t fair, it isn’t right.” This is how Tessie Hutchinson dies in a story after drawing a paper with a black 
+spot on it, apparently to save the town’s crops. Name this method of death which kills the “winner” of the 
+title game in Shirley Jackson’s story “The Lottery.” 
+ANSWER:  
+stoning 
+ [or  
+being hit with rocks 
+ or other such descriptions] 
+052-14-103-16119 
+20. One of this author's characters is mentored by a church organist named Pistorius and frequently 
+obsesses about his friend's mother, Frau Eva. In another of this author's novels, the protagonist spends his 
+days listening to a river, eventually becoming a ferryman, after his lover Kamala dies from a snakebite. 
+This author wrote a novel set in Castalia about Joseph Knecht, who strives to become a Magister Ludi, or 
+master of  
+The Glass Bead Game. 
+ Name this German author of  
+Demian 
+ and  
+Siddhartha. 
+ANSWER: Hermann  
+Hesse 
+190-14-103-16120 
+2014 OAC     16     Page  11 of 17 
+Alphabet Round - Letter M 
+1. What ship landed at Plymouth Rock in 1620? 
+2. What oval shaped yellow spot is found in the center of the retina? 
+3. What character from  
+The Canterbury Tales 
+ tells a story about a carpenter who is cuckolded by the student Nicholas? 
+4. What name was given to the nine daughters of Mnemosyne who were goddesses of the arts in ancient Greece? 
+5. What state is the site of Bangor and Acadia National Park? 
+6. What term is given to artworks created by forming images from small pieces of glass or ceramic? 
+7. Robert and Helen Lynd published two books about what city, a slightly fictionalized Muncie, Indiana, as sociological studies 
+of cultural change in heartland America in the 20s and 30s? 
+8. What form of scattering, named for a German physicist, occurs when an electromagnetic wave encounters a dielectric sphere? 
+9. What French company is famous for its three-star system of restaurant rankings? 
+10. What cells of the immune system are named for their roles as “big eaters”? 
+11. In what city was Martin Luther King, Jr. assassinated? 
+12. What bone, also called the jaw bone, forms the skull when paired with the cranium? 
+13. Which Gospel is the shortest? 
+14. What radio pioneer made the first wireless broadcast across the Atlantic? 
+15. What is the first name of the poet who wrote “Dover Beach”? 
+16. Phobos is a moon of what planet? 
+17. What element is the second-lightest alkaline earth metal? 
+18.  
+(TWO WORD ANSWER) 
+ New Orleans is known for its celebrations of what holiday also known as “Fat Tuesday”? 
+19. A \"fox song\" and a \"Hungarian matchmaking song\" appear in what set of 153 progressively more difficult piano pieces by 
+Bela Bartok? 
+20. What large island is separated from the African continent by the Mozambique Channel? 
+2014 OAC     16     Page  12 of 17 
+Alphabet Round - Letter M 
+1. What ship landed at Plymouth Rock in 1620? 
+2. What oval shaped yellow spot is found in the center of the retina? 
+3. What character from  
+The Canterbury Tales 
+ tells a story about a carpenter who is cuckolded by the student Nicholas? 
+4. What name was given to the nine daughters of Mnemosyne who were goddesses of the arts in ancient Greece? 
+5. What state is the site of Bangor and Acadia National Park? 
+6. What term is given to artworks created by forming images from small pieces of glass or ceramic? 
+7. Robert and Helen Lynd published two books about what city, a slightly fictionalized Muncie, Indiana, as sociological studies 
+of cultural change in heartland America in the 20s and 30s? 
+8. What form of scattering, named for a German physicist, occurs when an electromagnetic wave encounters a dielectric sphere? 
+9. What French company is famous for its three-star system of restaurant rankings? 
+10. What cells of the immune system are named for their roles as “big eaters”? 
+11. In what city was Martin Luther King, Jr. assassinated? 
+12. What bone, also called the jaw bone, forms the skull when paired with the cranium? 
+13. Which Gospel is the shortest? 
+14. What radio pioneer made the first wireless broadcast across the Atlantic? 
+15. What is the first name of the poet who wrote “Dover Beach”? 
+16. Phobos is a moon of what planet? 
+17. What element is the second-lightest alkaline earth metal? 
+18.  
+(TWO WORD ANSWER) 
+ New Orleans is known for its celebrations of what holiday also known as “Fat Tuesday”? 
+19. A \"fox song\" and a \"Hungarian matchmaking song\" appear in what set of 153 progressively more difficult piano pieces by 
+Bela Bartok? 
+20. What large island is separated from the African continent by the Mozambique Channel? 
+2014 OAC     16     Page  13 of 17 
+Alphabet Round - Letter M 
+1. What ship landed at Plymouth Rock in 1620? 
+2. What oval shaped yellow spot is found in the center of the retina? 
+3. What character from  
+The Canterbury Tales 
+ tells a story about a carpenter who is cuckolded by the student Nicholas? 
+4. What name was given to the nine daughters of Mnemosyne who were goddesses of the arts in ancient Greece? 
+5. What state is the site of Bangor and Acadia National Park? 
+6. What term is given to artworks created by forming images from small pieces of glass or ceramic? 
+7. Robert and Helen Lynd published two books about what city, a slightly fictionalized Muncie, Indiana, as sociological studies 
+of cultural change in heartland America in the 20s and 30s? 
+8. What form of scattering, named for a German physicist, occurs when an electromagnetic wave encounters a dielectric sphere? 
+9. What French company is famous for its three-star system of restaurant rankings? 
+10. What cells of the immune system are named for their roles as “big eaters”? 
+11. In what city was Martin Luther King, Jr. assassinated? 
+12. What bone, also called the jaw bone, forms the skull when paired with the cranium? 
+13. Which Gospel is the shortest? 
+14. What radio pioneer made the first wireless broadcast across the Atlantic? 
+15. What is the first name of the poet who wrote “Dover Beach”? 
+16. Phobos is a moon of what planet? 
+17. What element is the second-lightest alkaline earth metal? 
+18.  
+(TWO WORD ANSWER) 
+ New Orleans is known for its celebrations of what holiday also known as “Fat Tuesday”? 
+19. A \"fox song\" and a \"Hungarian matchmaking song\" appear in what set of 153 progressively more difficult piano pieces by 
+Bela Bartok? 
+20. What large island is separated from the African continent by the Mozambique Channel? 
+2014 OAC     16     Page  14 of 17 
+Alphabet Round - Letter M 
+1. What ship landed at Plymouth Rock in 1620? 
+2. What oval shaped yellow spot is found in the center of the retina? 
+3. What character from  
+The Canterbury Tales 
+ tells a story about a carpenter who is cuckolded by the student Nicholas? 
+4. What name was given to the nine daughters of Mnemosyne who were goddesses of the arts in ancient Greece? 
+5. What state is the site of Bangor and Acadia National Park? 
+6. What term is given to artworks created by forming images from small pieces of glass or ceramic? 
+7. Robert and Helen Lynd published two books about what city, a slightly fictionalized Muncie, Indiana, as sociological studies 
+of cultural change in heartland America in the 20s and 30s? 
+8. What form of scattering, named for a German physicist, occurs when an electromagnetic wave encounters a dielectric sphere? 
+9. What French company is famous for its three-star system of restaurant rankings? 
+10. What cells of the immune system are named for their roles as “big eaters”? 
+11. In what city was Martin Luther King, Jr. assassinated? 
+12. What bone, also called the jaw bone, forms the skull when paired with the cranium? 
+13. Which Gospel is the shortest? 
+14. What radio pioneer made the first wireless broadcast across the Atlantic? 
+15. What is the first name of the poet who wrote “Dover Beach”? 
+16. Phobos is a moon of what planet? 
+17. What element is the second-lightest alkaline earth metal? 
+18.  
+(TWO WORD ANSWER) 
+ New Orleans is known for its celebrations of what holiday also known as “Fat Tuesday”? 
+19. A \"fox song\" and a \"Hungarian matchmaking song\" appear in what set of 153 progressively more difficult piano pieces by 
+Bela Bartok? 
+20. What large island is separated from the African continent by the Mozambique Channel? 
+2014 OAC     16     Page  15 of 17 
+Alphabet Round - Letter M 
+Team Name: _________________________________________________ 
+1.   _________________________________________________ 
+2.   _________________________________________________ 
+3.   _________________________________________________ 
+4.   _________________________________________________ 
+5.   _________________________________________________ 
+6.   _________________________________________________ 
+7.   _________________________________________________ 
+8.   _________________________________________________ 
+9.   _________________________________________________ 
+10. _________________________________________________ 
+11. _________________________________________________ 
+12. _________________________________________________ 
+13. _________________________________________________ 
+14. _________________________________________________ 
+15. _________________________________________________ 
+16. _________________________________________________ 
+17. _________________________________________________ 
+18. _________________________________________________ 
+19. _________________________________________________ 
+20. _________________________________________________ 
+2014 OAC     16     Page  16 of 17 
+Alphabet Round - Letter M 
+Team Name: _________________________________________________ 
+1.   _________________________________________________ 
+2.   _________________________________________________ 
+3.   _________________________________________________ 
+4.   _________________________________________________ 
+5.   _________________________________________________ 
+6.   _________________________________________________ 
+7.   _________________________________________________ 
+8.   _________________________________________________ 
+9.   _________________________________________________ 
+10. _________________________________________________ 
+11. _________________________________________________ 
+12. _________________________________________________ 
+13. _________________________________________________ 
+14. _________________________________________________ 
+15. _________________________________________________ 
+16. _________________________________________________ 
+17. _________________________________________________ 
+18. _________________________________________________ 
+19. _________________________________________________ 
+20. _________________________________________________ 
+Powered by TCPDF (www.tcpdf.org) 
+2014 OAC     16     Page  17 of 17 

@@ -1,0 +1,791 @@
+Colonia Tournament 
+Round 1 
+First Period, 20 Tossups 
+1. This artist's portrait of Pope Innocent the Tenth was modified by the modern painter Francis Bacon. This 
+artist painted the god Bacchus crowning a drunken reveler with laurels in his work  
+Los borrachos 
+. This man 
+painted himself holding a palette and wearing a black robe with a cross on it in his another painting. That 
+painting by this man also depicts a girl stepping on a dog, and a dwarf attending to the Infanta Margarita. For 
+10 points, name this court painter to Philip IV who painted Maids of Honor in his  
+Las Meninas 
+. 
+ANSWER: Diego  
+Velazquez 
+015-10-14-01101 
+2. This element forms cluster compounds with iron, and those cluster compounds are important to enzymes 
+like coenzyme Q-cytochrome c reductase (CO-EN-zime \"Q\" SY-toe-krome \"C\" ree-DUCK-tase). Bonds 
+between two of this element, which form between cysteine (SIS-teen) residues, are critical to protein 
+conformation. This element has an isotope that forms an eight-atom ring. For 10 points, name this element 
+associated with the smell of rotten eggs, with atomic number sixteen. 
+ANSWER:  
+sulfur 
+022-10-14-01102 
+3. This man was the victorious commander at a battle that saw the bribing of the grain outpost commander at 
+Clastidium and in which his half-brother Mago opened with an ambush. In addition to defeating Tiberius 
+Sempronius Longus at Trebia, this man ambushed Gaius Flaminius and drove Roman forces into Lake 
+Trasimene. This man's brother's head was thrown into his camp at one point. This man was victorious at 
+Cannae before losing at Zama. For 10 points, name this commander during the Second Punic War, the 
+Carthaginian brother of Hasdrubal and son of Hamilcar Barca. 
+ANSWER:  
+Hannibal 
+026-10-14-01103 
+4. The concurrent type of this process is contrasted with the incremental type, both of which stop a program 
+in question for shorter times than \"stop the world.\" This process prevents segmentation faults because it 
+stops dangling pointers. For 10 points, name this process wherein a program creates more space by 
+destroying objects that aren't in use anymore. 
+ANSWER:  
+garbage collection 
+033-10-14-01104 
+5. This leader's military launched Operation Uranus and won the Battle of Kursk. This leader targeted Jews 
+during the Doctors Plot, but died before he could finish it. He outlined the concept of \"Socialism within One 
+Country.\" His foreign minister was Molotov and he ordered the assassination of Trotsky. At the Yalta and 
+Potsdam conferences, this member of the Big Three was given control over the future Warsaw Pact. For 10 
+points, name this dictator of the Soviet Union during WW2, the successor of Lenin. 
+ANSWER: Joseph  
+Stalin 
+021-10-14-01105 
+6. The log of the partition function times Boltzmann's constant times temperature yields one form of this 
+quantity. The type of this calculated by subtracting the product of temperature and entropy from internal 
+energy also gives that quantity and is named for Helmholtz. Enthalpy minus the product of temperature and 
+entropy is equal to the Gibbs variety of this quantity. For 10 points, name this quantity, the amount of useful 
+work that can be extracted from a system. 
+ANSWER:  
+free energy 
+032-10-14-01106 
+Colonia Tournament     Round 1     Page  1 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+7. In the fortune-telling scheme of this belief system, kichi (KEY-CHEE) signifies a blessing, while kyo 
+signifies a curse. Honden and Torii (TO-REE-EE) make up the places of worship of this religion, the most 
+famous of which is the Ise (EE-SAY) Shrine. “The way of the gods” is the literal name of this religion, 
+although its objects of worship are spirits called kami. For 10 points, Amaterasu is the chief deity of what 
+animistic religion of Japan? 
+ANSWER:  
+Shinto 
+ism 
+034-10-14-01107 
+8. In one work by this author, the prisoner Sologdin attempts to trade his “voice encoder” for his freedom. In 
+another of this man's novels, Pavel Rusanov, the government informer with a large tumor on his neck, is one 
+of the figures that Oleg Kostoglov meets at the hospital. This author of  
+First Circle 
+ and  
+The Cancer Ward 
+also wrote a work that begins with a trumpet signaling the awakening of the title character, who lives in a 
+gulag labor camp. For 10 points, name this Soviet author who emigrated to the U.S. and wrote  
+One Day in 
+the Life of Ivan Denisovich 
+. 
+ANSWER: Aleksandr Isayevich  
+Solzhenitsyn 
+034-10-14-01108 
+9. This composer parodied Clementi's didactic piano books in \"Doctor Gradus ad Parnassum,\" part of a suite 
+with movements like \"Jimbo's Lullaby\" and \"Golliwogg's Cakewalk.\" Another work by this composer of  
+Children's Corner 
+ was inspired by a Paul Verlaine poem. This composer wrote \"The Play of the Waves\" in 
+his  
+La Mer 
+. For 10 points, name this Impressionist composer of the  
+Suite Bergamasque 
+, which includes the 
+\"Clair de lune.\" 
+ANSWER: Claude  
+Debussy 
+032-10-14-01109 
+10. This man began his career in the political machine of Thomas Pendergast. This president decried the 
+\"Do-Nothing Congress.\" This man vetoed the Taft-Hartley labor bill. George Kennan and Dean Acheson 
+were largely responsible for creating a policy named for this man. That doctrine named for this man adopted 
+a method of containment for fighting communist expansion. This President defeated Thomas Dewey to win 
+a second term. For 10 points, name this Democrat who succeeded FDR as president. 
+ANSWER: Harry S  
+Truman 
+028-10-14-01110 
+11. The conservation of this quantity is due to the translational invariance of the Lagrangian, according to 
+Noether's theorem. The De Broglie wavelength of a particle is equal to Planck's constant divided by this 
+quantity for the particle. Heisenberg's Uncertainty Principle was originally given in terms of errors in 
+position and this quantity. This quantity is conserved in both inelastic and elastic collisions, and the change 
+in this quantity is equal to force times time, also known as impulse. For 10 points, name this quantity 
+symbolized  , equal to mass times velocity. 
+p 
+ANSWER: linear  
+momentum 
+028-10-14-01111 
+12. After the death of Meleager, this figure transformed his sisters into guinea hens. This deity accidentally 
+killed the nymph Callisto after she had been turned into a bear. This deity was caught bathing and turned her 
+gawker, Actaeon, into a hound. With her brother, this goddess killed the children of Niobe for offending this 
+goddess's mother, Leto. For 10 points, name this Greek goddess of the moon and the hunt, the twin sister of 
+Apollo. 
+ANSWER:  
+Artemis 
+005-10-14-01112 
+Colonia Tournament     Round 1     Page  2 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+13. New species that appeared during this period include coralline algae and the invertebrate rudists and 
+belemnites. The Morrison Formation was formed during it as a remnant of the Sundance Sea, while other 
+geographic developments include the formation of the Gulf of Mexico and the splitting of Pangaea into 
+Laurasia and Gondwana. Named after the Swiss mountain range in which it was originally formulated by 
+Abraham Werner, this is, for 10 points, which middle period of the Mesozoic Era found between the Triassic 
+and the Cretaceous? 
+ANSWER:  
+Jurassic 
+ Period 
+040-10-14-01113 
+14. Addo Elephant National Park is located near one city in this nation, and another city includes the tourist 
+district known as the Golden Mile. Those cities in this nation are Port Elizabeth and Durban. This nation is 
+home to the Drakensberg Mountains and the Great Escarpment, and this nation completely surrounds the 
+Kingdom of Lesotho. For 10 points, name this nation whose judicial capital is in Bloemfontein and whose 
+legislative capital is in Cape Town. 
+ANSWER: Republic of  
+South Africa 
+030-10-14-01114 
+15. The application of ATP can induce this process in cyanobacteria (\"sigh\"-ANN-oh-back-TEER-ee-uh), 
+and the suprachiasmatic (SOOP-ruh-ky-az-MAT-ic) nuclei controls this entity in mammals. It is often 
+displayed in plants by the movement of leaves in relation to the sun. Studies have shown that mammals can 
+maintain one of these entities despite the absence of usual cues like light and darkness. For 10 points, name 
+this cycle of about 24 hours that governs organisms' activities and is often called the \"biological clock.\" 
+ANSWER:  
+circadian 
+ rhythm 
+032-10-14-01115 
+16. Jacobus Arminius led a group who deviated from the teachings of this man known as the Remonstrants. 
+This man studied with Martin Bucer during a period where he took refuge in Strasbourg. This man was 
+responsible for the burning at the stake of Michael Servetus. This leader worked closely with Guillame Farel 
+(gee-OHME fah-REHL). This man laid out his beliefs in his  
+Institutes of the Christian Religion 
+. This 
+religious leader's doctrine of the elect implied a kind of predestination. For 10 points, name this Geneva 
+preacher integral to the Protestant Reformation. 
+ANSWER: John  
+Calvin 
+028-10-14-01116 
+17. In one song by this group, the male vocalist declares \"you know you got me by a string, baby,\" and in 
+another, the singer describes how the titular objects \"drive these brothers crazy.\" This group's album  
+Monkey 
+Business 
+ included \"Don't Phunk with my Heart.\" A recent song by this group features the line \"you're so 
+2000 and late.\" Another of their songs requests \"some guidance from above\" before asking the titular 
+question. For 10 points, name this hip-hop group whose members include will.i.am and Fergie, known for 
+songs such as \"Boom Boom Pow,\" \"My Humps,\" and \"Where is the Love?\" 
+ANSWER:  
+Black Eyed Peas 
+038-10-14-01117 
+18. A political cartoon about this man showed him on a pyramid of skulls. This President's cabinet was 
+dominated by his Secretary of State, who negotiated a treaty with the British diplomat Henry Bulwer 
+(BULL-wur), named John M. Clayton. This man died of cholera after eating strawberries and milk and was 
+succeeded by his Vice-President, Millard (MILL-urd) Fillmore. Earlier, this President won fame by winning 
+the Battle of Buena Vista (BWAYN-uh VEE-stuh) against Santa Anna. For 10 points, name this President, 
+nicknamed \"Ol' Rough and Ready\", who won the Election of 1848. 
+ANSWER: Zachary  
+Taylor 
+021-10-14-01118 
+Colonia Tournament     Round 1     Page  3 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+19. Cadherins (cad-HERE-inz) and integrins (IN-tuh-grinz) are among the many proteins that span this 
+structure, and flippases (FLIP-ay-suhz) aid molecule movement in it. The fluid mosaic model of this 
+structure states that it is composed of structures like lipid rafts and protein complexes floating freely in a 
+phospholipid bilayer (FOSS-fo-LIP-id BY-lay-ur). Ion channels aid ion transport through this entity to enter 
+or exit the cell. For 10 points, name this barrier that separates a cell from the outside environment. 
+ANSWER: cell  
+membrane 
+032-10-14-01119 
+20. This man married the daughter of the Lombard king Desiderius, though he later conquered the Lombard 
+kingdom. This man's father had served as Mayor of the Palace before usurping Childeric III, the last 
+Merovingian king. The Basques defeated this man's rearguard at the Battle of Roncevaux (ron-seh-VOH) 
+Pass, inspiring the later  
+Song of Roland 
+. This man was succeeded by his son Louis the Pius. This man's 
+father Pippin the Short established the Carolingian dynasty. For 10 points, name this Frankish king crowned 
+as Holy Roman Emperor on Christmas Day in 800. 
+ANSWER:  
+Charlemagne 
+ [or  
+Carolus Magnus 
+; or  
+Charles 
+ the  
+Great 
+; prompt on  
+Charles 
+; prompt on  
+Carolus 
+] 
+028-10-14-01120 
+Colonia Tournament     Round 1     Page  4 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+Colonia Tournament 
+Round 1 
+Second Period, 10 Tossups and 4 Bonuses 
+1. One deity from this country had a cult centered in Arsinoe and caught the four sons of another god in a net 
+after they emerged from a lotus. In addition to Sobek, another goddess from this country was tricked into 
+drinking blood colored beer while disguised as Sekhmet. That goddess, Hathor, was sometimes depicted as a 
+cow. An ancient culture in this country believed that the heart of the deceased was weighed against the 
+feather of Ma'at. For 10 points, an ancient culture in what modern-day country believed that the 
+jackal-headed Anubis invented the process of making mummies? 
+ANSWER:  
+Egypt 
+005-10-14-01121 
+2. The fourth book of this work is entitled \"Of Systems of Political Economy,\" and argues against 
+mercantilism. Its first section uses a pin factory to illustrate the concept of the division of labor. This work 
+also introduced the concept that individuals pursuing their own interests promote the good of the market, 
+which he called the \"invisible hand.\" For 10 points, name this work published in 1776 by the economist 
+Adam Smith. 
+ANSWER: An Inquiry into the Nature and Causes of the  
+Wealth of Nations 
+024-10-14-01122 
+3. This structure features a \"climbing fiber\" system originating from its contralateral inferior olive. This 
+structure's flocculonodular (FLOCK-you-lo-NOD-you-luhr) lobe is connected by Purkinje neurons to its 
+vestibular (ves-TIB-you-luhr) nuclei. Though it is not the cerebrum, this structure's cortex is involved in 
+motor learning. For 10 points, name this division of the brain that governs coordination and motor control, 
+whose name means \"little brain.\" 
+ANSWER:  
+cerebellum 
+022-10-14-01123 
+4. Two characters in this novel are members of the \"bigguns\" and are collectively known as \"Samneric.\" One 
+character in this novel dies after struck by a boulder thrown by Roger. Only the person holding a conch shell 
+is allowed to speak at the assembly in this novel, in which Ralph assumes command and leads in the 
+construction of huts but is later challenged by Jack. For 10 points, name this William Golding novel about 
+English school boys stranded on an island who offer up a pig's head to a mysterious \"beast.\" 
+ANSWER:  
+Lord of the Flies 
+045-10-14-01124 
+5. In one work by this author, the Pococks comes to Paris when Chad chooses to remain with Madame 
+Vionnet rather than return to New England. Lambert Strether is one of the title character of this author's  
+The 
+Ambassadors 
+. Mrs. Grose is a housekeeper of an estate at Bly in another work by this author, in which 
+ghosts named Peter Quint and Miss Jessel terrorize the children Miles and Flora. For 10 points, name this 
+author who created Isabel Archer and wrote “The Turn of the Screw”? 
+ANSWER: Henry  
+James 
+034-10-14-01125 
+6. Major Harry Rathbone was unable to stop this event. Dr. Samuel Mudd was executed for setting a cast on 
+the broken leg of one figure who participated in this event. At the same time as this event was occurring, 
+Lewis Powell was attempting to kill William H. Seward. A man who was later shot in a burning barn in 
+Northern Virginia yelled \"sic semper tyrannis\" before perpetrating this act. For 10 points, name this event in 
+Ford's Theater, where the sixteenth President of the United States was shot by John Wilkes Booth. 
+ANSWER: the  
+assassination 
+ of Abraham  
+Lincoln 
+ [accept obvious equivalents] 
+021-10-14-01126 
+Colonia Tournament     Round 1     Page  5 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+7. The narrator of one of this author’s poems observes “Blue--blue--as if that sky let fall, a flower from its 
+cerulean wall.”In another work, this author of “To the Fringed Gentian” notes that the title figure should 
+soon depart from his heart, even though “the abyss of heaven has swallowed up” its form. This poet also 
+wrote than one should approach the grave like a person who “lies down to pleasant dreams” in his 
+meditation on death, \"Thanatopsis.\" For 10 points, name this early American poet of \"To a Waterfowl.\" 
+ANSWER: William Cullen  
+Bryant 
+034-10-14-01127 
+8. The generating function for these numbers is \"z over the quantity 1 minus z minus z squared.\" The ratio 
+between successive elements in this sequence converges to a continued fraction with all ones, which is equal 
+to the golden ratio. The shallow diagonals of Pascal's triangle sum to these numbers, and these numbers were 
+first proposed in a problem involving reproducing rabbits. For 10 points, name this sequence beginning 
+\"one, one, two, three, five,\" where each element is the sum of the previous two elements. 
+ANSWER:  
+Fibonacci 
+ numbers or sequence 
+028-10-14-01128 
+9. This man wrote a story in which a child was told by an angel she would dance until she became a skeleton 
+due to her wearing the title footwear. In addition to \"The Red Shoes,\" one of this man's works describes 
+Gerda's attempts to save Little Kay after a piece of the Mirror of the Devil was lodged in his eye. That work 
+is \"The Snow Queen.\" For 10 points, name this Danish author of children's stories such as \"The Emperor's 
+New Clothes\" and \"The Little Mermaid.\" 
+ANSWER: Hans Christian  
+Andersen 
+030-10-14-01129 
+10. This author created his own mythology that includes Orc, the creative passion, and Urizen, the tradition. 
+This author wrote two collections of poetry which both include poems titled \"Divine Image\" and \"The 
+Chimney Sweeper.\" He wrote another poem that asks \"What immortal hand or eye, could frame thy fearful 
+symmetry!\" of a creature \"burning bright in the forests of the night.\" For 10 points, name this author who 
+wrote  
+Songs of Innocence and Experience 
+, a collection that contains his poems \"The Lamb\" and \"The 
+Tyger.\" 
+ANSWER: William  
+Blake 
+034-10-14-01130 
+Colonia Tournament     Round 1     Page  6 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+1. The protagonist of this book, Saleem Sinai, is a telepath with a nose that constantly runs. 
+[5] Name this novel about a group of people born at the instant of India's independence. 
+ANSWER:  
+Midnight's Children 
+[10] This author of  
+Midnight's Children 
+ also wrote a controversial novel based on the life of Muhammed,  
+The Satanic Verses 
+. 
+ANSWER: Salman  
+Rushdie 
+[15] Another Rushdie novel is titled after Shalimar, a person of this profession. Other literary holders of this 
+job include Hans Schnier in a Heinrich Boll novel and the stock \"arlecchino\" character in the  
+commedia dell 
+arte. 
+ANSWER:  
+clown 
+s 
+[20] Though this Rushdie novel takes place in contemporary Mumbai, India, it is titled for a historical 
+legend about the Spanish expulsion of King Boabdil from Granada in 1492. 
+ANSWER:  
+The  Moor's Last Sigh 
+032-10-14-01101 
+2. Identify these people and entities involved in translating the Bible. 
+[5] This English king, the first ruler of the Stuart dynasty, famously organized a team that made the first 
+official translation of the Bible into English 
+ANSWER:  
+James I 
+ [prompt on  
+James 
+] 
+[10] The Catholic Church long opposed translating the Bible into non-Latin languages, but then officially 
+endorsed the practice at this 1960s church council that reformed the Catholic church. 
+ANSWER:  
+Second Vatican 
+ Council [or  
+Vatican II 
+] 
+[15] This Czech theologian supported religious reforms, such as translating the Bible into vernacular 
+languages, during the 1400s. He was burned at the stake at the Council of Constance. 
+ANSWER: Jan  
+Hus 
+[20] The first verses of the Bible to be printed in English were created by this man, who was the first retailer 
+of printed English books and exercised a great influence over the development of the early modern language. 
+ANSWER: William  
+Caxton 
+021-10-14-01102 
+3. They depend only on the number of solute particles in a solution. 
+[5] Name these properties of solutions that include freezing point depression and boiling point elevation. 
+ANSWER:  
+colligative 
+ properties 
+[10] This colligative property is the gradient that causes hydrostatic pressure across a semipermeable 
+membrane. 
+ANSWER:  
+osmotic pressure 
+[15] This quantity represents the number of moles of solute per mole of solid dissolved in a solution. 
+ANSWER:  
+van't Hoff 
+ factor 
+[20] An equation named for van't Hoff yields the ratio of changes of equilibrium constant to temperature as 
+proportional to a change in this quantity. 
+ANSWER:  
+enthalpy 
+032-10-14-01103 
+Colonia Tournament     Round 1     Page  7 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+4. The Descamisados, who followed Juan Peron, were an important political force in this nation in the 
+1940s; later, it attempted to seize the Falkland Islands from Britain. 
+[5] Name this nation, which was led by Carlos Menem from 1989 to 1999. 
+ANSWER:  
+Argentina 
+ [or  
+Argentine 
+ Republic; or República  
+Argentina 
+] 
+[10] This wife of Juan Peron took over for him following his 1974 death, but this woman was then deposed 
+in a military coup in 1976. She was arrested in Spain in 2006 and charged with the disappearance of activist 
+Hector Gallego in 1976. 
+ANSWER:  sabel Peron [do not accept Eva or Evita Peron] 
+I 
+[15] The Mothers of the Plaza de Mayo have demanded to know the whereabouts of family members who 
+were victims of this domestic conflict of 1976 to 1983, in which Argentina's military government 
+disappeared thousands of dissidents and civilians. 
+ANSWER:  
+Dirty War 
+ [or  
+Guerra Sucia 
+] 
+[20] This son of Italian immigrants to Argentina was the head of the military government during the 
+invasion of the Falklands, but his political career ended as the standoff with Britain turned disastrous. 
+ANSWER: Leopoldo  
+Galtieri 
+030-10-14-01104 
+Colonia Tournament     Round 1     Page  8 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+Colonia Tournament 
+Round 1 
+Four 10-Part Team Rounds 
+THE LETTER B 
+DOCTORS 
+THE LETTER \"A\" 
+RUSSIA 
+Colonia Tournament     Round 1     Page  9 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+THE LETTER B 
+[10] This theory is opposed to steady state and suggests that the universe suddenly expanded from a dense 
+point over ten million years ago. 
+ANSWER:  
+Big Bang Theory 
+[10] This type of terrain is composed of sedimentary rock that has been heavily eroded and names a land 
+formation and national park in western South Dakota. 
+ANSWER:  
+badlands 
+[10] This 17th century Japanese poet was a master of the Haiku who wrote about his travels in  
+Narrow Road 
+to the Deep North 
+. 
+ANSWER: Matsuo  
+Basho 
+[10] This CIA backed 1961 invasion of Cuba by exiled citizens was an early blot on the Kennedy 
+administration. 
+ANSWER:  
+Bay of Pigs 
+[10] This father of Zetes and Calais was the Greek god of the north wind. 
+ANSWER:  
+Boreas 
+[10] This gas law states that at a fixed temperature, pressure and volume are inversely proportional. 
+ANSWER:  
+Boyle’s 
+ Law 
+[10] This German word for a ‘novel of education’ refers to coming of age works like Goethe’s  
+Wilhelm 
+Meister 
+ series. 
+ANSWER:  
+ Bildungsroman 
+[10] In his  
+The Tales of Hoffmann 
+, Jacques Offenbach included one of these folk songs traditionally sung by 
+the gondoliers of Venice. 
+ANSWER:  
+Barcarolles 
+[10] Participants in this coming of age ritual for Jewish males are required to memorize portions of the 
+Torah. 
+ANSWER:  
+Bar Mitzvah 
+[10] This word comes from the German for “lightning war” and is often used to describe the rapid advance 
+of the German army during World War II. 
+ANSWER:  
+Blitzkrieg 
+015-10-14-0110-3 
+Colonia Tournament     Round 1     Page  10 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+DOCTORS 
+[10] This Sinclair Lewis novel describes the life of an idealistic doctor named Martin. 
+ANSWER:  
+Arrowsmith 
+[10] H.G. Wells wrote about this fictional doctor’s island, where he performs sinister genetic experiments. 
+ANSWER: Doctor  
+Moreau 
+[10] This medical condition occurs when a female is born without a X chromosome, resulting in a broad 
+chest, obesity, and poor breast development. 
+ANSWER:  
+Turner 
+ Syndrome [or  
+Ullrich-Turner 
+ Syndrome] 
+[10] Doctors occasionally use this chemical compound as an anesthetic when performing surgery. It is also 
+known as “laughing gas.” 
+ANSWER:  
+Nitrous Oxide 
+ [or  
+N2O 
+] 
+[10] This woman worked as a Civil War nurse and founded the American Red Cross. 
+ANSWER: Clara  
+Booth 
+[10] This philosopher was known as Doctor Angelicus and wrote the book  
+Summa Theologica 
+. 
+ANSWER: Thomas  
+Aquinas 
+[10] A doctor wouldn’t help the subject in this painter’s work  
+Burial of Count Orgaz 
+. He also painted a 
+famous view of Toledo. 
+ANSWER:  
+El Greco 
+ [or Domenikos  
+Theotokopoulos 
+] 
+[10] This Greek god was associated with healing. He had an oracle at Delphi and had a son named 
+Asclepius. 
+ANSWER:  
+Apollo 
+[10] Fictional doctor Addison Montgomery appears in this TV show, a spin-off of  
+Grey’s Anatomy 
+. 
+ANSWER:  
+Private Practice 
+[10] Real-life doctors can be found at this private research clinic, whose most famous location is in 
+Rochester, Minnesota. 
+ANSWER:  
+Mayo 
+ Clinic 
+052-10-14-0110-3 
+Colonia Tournament     Round 1     Page  11 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+THE LETTER \"A\" 
+[10] This grey-eyed Greek goddess of war and wisdom was born from Zeus’s head. 
+ANSWER:  
+Athena 
+[10] This group of elements has atomic numbers from 90 to 103 and is found below Lanthanides on the 
+periodic table. 
+ANSWER:  
+Actinides 
+[10] This region of southern Spain is split by the Guadalquivir River and has its capital at Seville. 
+ANSWER:  
+ Andalusia 
+[10] This group of 20th century British authors expressed disillusionment with 1950s British society and 
+included John Osborne and Arnold Wesker. 
+ANSWER:  
+Angry Young Men 
+[10] This son of Philip II of Macedon won the battles of Hydaspes and Issus and defeated Darius III at 
+Gaugamela. 
+ANSWER:  
+Alexander 
+ the Great 
+[10] This 2009 film featured Ewan McGregor as the Vatican Camerlengo and was a sequel to  
+The Da Vinci 
+Code 
+. 
+ANSWER:  
+Angels and Demons 
+[10] This nitrogenous base is a purine that compliments thymine in DNA and uracil in RNA. 
+ANSWER:  
+Adenine 
+[10] This Ayn Rand novel features the railroad magnate Dagny Taggart and the mysterious John Galt. 
+ANSWER:  
+Atlas Shrugged 
+[10] This 1777 document declared that “the Union shall be perpetual” and created a government that passed 
+the Northwest Ordinance, but was replaced by the US Constitution in 1787. 
+ANSWER:  
+Articles of Confederation 
+[10] The name for this art movement was coined by Robert Coates and it included action painter Jackson 
+Pollack and Dutch painter Wassily Kandinsky. 
+ANSWER:  
+Abstract Expressionism 
+015-10-14-0110-3 
+Colonia Tournament     Round 1     Page  12 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+RUSSIA 
+[10] Starting with Michael, this family provided Russia's tsars. 
+ANSWER: the  
+Romanov 
+s 
+[10] The Treaty of Portsmouth ended a war between Russia and this country, which won the Battle of 
+Tsushima Straits. 
+ANSWER:  
+Japan 
+ [or  
+Nippon 
+] 
+[10] This Hungarian-born author fictionalized Josef Stalin as \"Number One\" in his novel  
+Darkness at Noon 
+. 
+ANSWER: Arthur  
+Koestler 
+[10] This Czech-born British author told of Lenin's desire to return to Russia as a sideplot in his  
+Travesties 
+, 
+and also wrote the play  
+Rosencranz and Guildenstern Are Dead 
+. 
+ANSWER: Tom  
+Stoppard 
+ [or Tomas  
+Straussler 
+] 
+[10] This Russian musician composed the  
+Firebird 
+ suite and the ballet  
+Rite of Spring 
+. 
+ANSWER: Igor Fyodorovich  
+Stravinsky 
+[10] Stalin employed this Soviet biologist, who rejected Mendelian genetics. 
+ANSWER: Trofim Denisovich  
+Lysenko 
+[10] Soviet scientists Ginzburg and Landau created a namesake theory that models this behavior, when 
+materials exhibit no resistance to electrical flow. 
+ANSWER:  
+superconductivity 
+[10] The first Metropolitan bishop of this city was Cyril II, and others have included Philaret. 
+ANSWER:  
+Moscow 
+[10] The Neva river flows from this lake to the Gulf of Finland at St. Petersburg. 
+ANSWER: Lake  
+Ladoga 
+[10] The Slutsky equation relates changes in the Hicksian and Marshallian forms of what economic concept, 
+often contrasted with supply? 
+ANSWER:  
+demand 
+026-10-14-0110-3 
+Colonia Tournament     Round 1     Page  13 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+Colonia Tournament 
+Round 1 
+12 20-Point Tossups 
+1. This process was first carried out at a BASF plant in Oppau (OP-pow). A temperature and pressure of 800 
+kelvin and 250 atm (A-T-M) are necessary for this reaction, which formerly used a uranium catalyst but 
+today much more commonly uses enriched magnetite. This process also commonly involves a raw product 
+called synthesis gas, and it is used to create products like fertilizer. For 20 points, identify this chemical 
+procedure that produces ammonia. 
+ANSWER:  
+Haber 
+-Bosch process 
+032-10-14-01101 
+2. This vessel was commanded by Charles Sigsbee. One theory regarding this vessel's most famous event 
+considers actions in Bunker A16. This ship was the subject of Hyman Rickover's 1976 investigation that 
+echoed the findings of Del Peral and De Salas that a coal bunker caused its demise. A call to \"remember\" 
+this vessel was rhymed with \"To hell with Spain!\" in the \"yellow\" press following its destruction. For 20 
+points, name this ship that exploded in Havana harbor in 1898, sparking the Spanish-American War. 
+ANSWER: the USS  
+Maine 
+ [prompt on  
+ACR-1 
+] 
+026-10-14-01102 
+3. This man's wife Dia was the mother of Pirithous (pie-RITH-o-US), though legends differ whether this 
+man or Zeus was the father. This man's horses were seized after he failed to keep his promise of a gift to his 
+wife's father Eioneus, and this man became the first mortal to murder a family member when he cast Eioneus 
+into a pit. This man became father of the Centaurs after making love to the cloud Nephele, which this figure 
+thought was Hera. For 20 points, name this man who was punished by Zeus by being bound to a fiery wheel 
+for eternity. 
+ANSWER:  
+Ixion 
+030-10-14-01103 
+4. This man wrote about an enchanted guitar in his novel  
+Reservation Blues 
+. \"A Drug Called Tradition\" is 
+one of a collection of 21 stories set on a Spokane reservation,  
+The Lone Ranger and Tonto Fistfight in 
+Heaven 
+. Many of this man's works include members of the Spokane tribe, like the character Thomas 
+Builds-the-Fire. For 20 points, name this Native American author of  
+The Absolute True Diary of a Part-Time 
+Indian 
+. 
+ANSWER: Sherman  
+Alexie 
+032-10-14-01104 
+5. Lithotripsy is the method of choice for removing these objects, which contain small amounts of 
+mucoprotein (MEW-ko-pro-teen). The largest of them are sometimes known as \"staghorn\" ones. About 
+fifteen percent of them are composed of magnesium ammonium phosphate, but they are most commonly 
+composed of calcium oxylate (OCKZ-uh-late) and calcium phosphate. They are most noticeable when they 
+end up in the ureter, causing back and groin pain as they \"pass.\" For 20 points, name these hard objects. 
+ANSWER:  
+kidney stone 
+s 
+003-10-14-01105 
+6. A lamp atop a pedestal can be found near the center of this painting, in which three figures are ascending 
+a staircase in the background. In this work, the inscription \"L.D.\" is marked on a bench, on which sits a 
+follower of the title figure. Another robed follower in this painting is placing his hand on the title figure's 
+knee as he prepares to down the deadly contents of a cup. For 20 points, name this Jacques-Louis David 
+painting in which the title philosopher is pointing his finger upward as he prepares to drink hemlock. 
+ANSWER:  
+The  Death of Socrates 
+030-10-14-01106 
+Colonia Tournament     Round 1     Page  14 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+7. This author used a line from Tennyson’s “Tithonous” to title his novel in which Dr. Obispo searches for 
+immortality for the Hollywood millionaire Jo Stoyte. In another novel by this author, Helmoltz Watson 
+chooses to be exiled to the Falkland Islands, and Lenina Crowne repulses a man born in Malpais by offering 
+to have sex with him. In that novel by this author, Mustapha Mond explains how the World State offers its 
+members pure happiness. For 20 points, name this British author who wrote a dystopian novel about Bernard 
+Marx and John the Savage. 
+ANSWER: Aldous Leonard  
+Huxley 
+034-10-14-01107 
+8. This poet noted that \"the sky will cave in on\" \"the man whose soul is flat\" in a poem that begins \"All I 
+could see from where I stood/ Was three long mountains and a wood,\" \"Renascence.\" In another of this 
+person's poems, the speaker's \"candle burns at both ends\" and \"gives a lovely light,\" although it \"will not last 
+the night.\" For 20 points, name this female American poet who included \"First Fig\" in her book  
+A Few Figs 
+From Thistles 
+. 
+ANSWER: Edna St. Vincent  
+Millay 
+032-10-14-01108 
+9. Ralph Bagnold's work on the formation of these entities, though written in 1941, is still mostly accurate. 
+Barchans (BAR-chanz) are formed where there is little of their namesake substance, which is made up of 
+particles of diameter between 0.1 and 1.6 millimeters. The most common type of these objects is the 
+crescentic type, which are wider than they are long. Star ones are found in the Namib and Sahara Deserts. 
+For 20 points, name these massive hills composed of a namesake material. 
+ANSWER: sand  
+dune 
+s 
+003-10-14-01109 
+10. This city is home to a self-proclaimed seven-star hotel. This city is ruled by the Maktoum family, and the 
+man-made Palm and World Islands are found off the coast of this city. The government of this city has been 
+criticized due to its lax standards for treatment of this city's large guest worker population. In 2006, a 
+company owned by the government of this city controversially attempted to purchase the contracts to 
+operate six United States seaports. For 20 points, name this home of the world's tallest building and largest 
+city in the United Arab Emirates. 
+ANSWER:  
+Dubai 
+ [or  
+Dubayy 
+] 
+038-10-14-01110 
+11. The gamoroi (gah-mo-ROI) government in this polity was broken by the defeat of this city by 
+Hippocrates of Gela. Timoleon's (tih-MOH-lee-ONZ) oligarchy was overthrown by Agathocles here in 317 
+BCE. This city was defended against the Carthaginians by Dionysius I. It was settled by the Corinthian 
+aristocrat Archias in 734 BCE, and this city's independence declined under the rule of Hieron (HIE-ron) II. 
+For 20 points, name this Sicilian city that was defended against the Romans by the war machines of 
+Archimedes. 
+ANSWER:  
+Syracuse 
+ [or  
+Siracusa 
+] 
+030-10-14-01111 
+12. This man set translations of J.P. Jacobsen poems like \"The Song of the Wood Dove\" in his  
+Gurreleider 
+. 
+[gur-uh-LEED-ur] The \"Dance Around the Golden Calf\" is one of the songs in his opera  
+Moses and Aron 
+. 
+This man composed a work based on a Richard Dehmel poem about a woman's confession to her lover that 
+she is carrying the child of another man,  
+Transfigured Night 
+. This man also composed  
+Pierrot Lunaire 
+. 
+[peer-OH loo-NAIR] For 20 points, name this composer who developed atonality and serialism, or the 
+twelve-tone method. 
+ANSWER: Arnold  
+Schoenberg 
+030-10-14-01112 
+Colonia Tournament     Round 1     Page  15 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+Colonia Tournament 
+Round 1 
+Tiebreakers 
+1. This work discusses a group stranded on an island and forced to form a government. This work 
+recommends a ceremony in which a crown is used to demonstrate that \"law is king.\" Titled by Benjamin 
+Rush, this work mentions the absurdity of an island ruling a continent. This work suggests that government 
+is a \"necessary evil.\" Written by the author of  
+The Rights of Man 
+, for 10 points, name this pamphlet written 
+in 1776 by Thomas Paine. 
+ANSWER:  
+Common Sense 
+038-10-14-01131 
+2. This composer wrote his  
+Introduction and Rondo Capriccioso 
+ for violinist and orchestra. A massive fugue 
+and forte C major chord for the titular instrument introduce this man's third symphony. Another work by this 
+composer features a solo violin with its E string tuned down a half-step, and that piece's main theme is 
+quoted in the \"Fossils\" movement of a piece that also contains movements like \"Personages with Long Ears\" 
+and \"The Swan.\" For 10 points, name this French composer of  
+Danse Macabre 
+ and  
+Carnival of the Animals 
+. 
+ANSWER: Camille  
+Saint-Saens 
+032-10-14-01132 
+3. Items that two characters in this book discover in a knot in a tree include figurines carved in soap and mint 
+gum. One character is convicted of rape despite the fact that a withered arm proves he could not have 
+committed the crime, and that man, Tom, is defended by the protagonist's father. The book's title action is 
+declared to be a sin by that man, Atticus. For 10 points, name this book about Scout Finch, a novel by 
+Harper Lee. 
+ANSWER:  
+To Kill A Mockingbird 
+032-10-14-01133 
+Colonia Tournament     Round 1     Page  16 of 16 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 

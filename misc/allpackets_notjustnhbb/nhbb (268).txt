@@ -1,0 +1,748 @@
+NASAT 2013 
+Round 9 
+Tossups 
+1. A character in this novel decides to have a child when she sees an old family cradle. This novel is often 
+accompanied by its author's essay \"Apropos of\" it. This novel begins, \"Ours is essentially a tragic age, so 
+we refuse to take it tragically.\" A climactic scene in this novel occurs when a character's wheelchair gets 
+stuck outside in the forest. During a trip to Venice, the protagonist and her sister Hilda meet up with the 
+artist Duncan Forbes. The protagonist of this novel has a failed affair with Michaelis and is anxious to get 
+away from Wragby and her impotent husband. For 10 points, name this novel about the gamekeeper Oliver 
+Mellors's affair with Connie, written by D. H. Lawrence. 
+ANSWER:  
+Lady Chatterley's Lover 
+190-13-83-09101 
+2. The \"general\" kind of these proteins form the pre-initiation complex. The binding sites of these proteins 
+can be determined by the ChIP-Seq assay, and they bind to consensus sites. These proteins consist of a 
+DBD region and a TAD region where they can be regulated. These proteins often contain motifs like 
+helix-turn-helix and leucine zippers. Six of them are found in the basal preinitiation complex, while another 
+of these found in humans binds to the TATA box. The function of these proteins is affected by the 
+methylation or acetylation of surrounding histones. They work by binding to either enhancer or promoter 
+regions. For 10 points, name these proteins which affect the rate at which RNA strands are copied from 
+DNA. 
+ANSWER:  
+transcription factor 
+s 
+190-13-83-09102 
+3. After attending a puppet show in which he was a character, this man crumpled up a piece of paper, 
+stuffed it in the puppet's belly to make it look fatter, then posed with it in one photograph. In 1930, this man 
+conversed with Rabindranath Tagore about music and the cosmos, after which they were photographed 
+together. This man rides a bicycle in one of many photos showing him wearing his classic cardigan and 
+dress pant outfit. The most famous picture of him, taken on his 72nd birthday at the Princeton Club, is often 
+displayed with the quote \"Imagination is more important than knowledge.\" For 10 points, name this 
+physicist who stuck his tongue out in a famous photo. 
+ANSWER: Albert  
+Einstein 
+020-13-83-09103 
+4. The proper and improper groups named for this physicist, which have determinant one and negative one 
+respectively, form the Lie group O(3,1). Although not Poincaré, this physicist names a relation from which 
+the rapidity is defined. That relation is between two inertial frames and is valid for an observer moving at 
+constant velocity. One quantity named for this physicist is equal to one over the square root of one minus 
+relative velocity squared over speed of light squared. This physicist proposed the idea of length contraction. 
+For 10 points, identify this physicist who names a factor that is denoted gamma and used in special 
+relativity. 
+ANSWER: Hendrik Antoon  
+Lorentz 
+066-13-83-09104 
+NASAT 2013     9     Page  1 of 11 
+5. The third ruler from this family was recognized as the king of his country while taking part in the tally 
+trade. Leaders with this surname protected the Northern Court during the Northern and Southern Courts 
+period. Heads of this clan ordered the construction of the Silver and Golden Pavilions. One head of this 
+clan, Takauji, claimed to be the head of the Minamoto clan, defeated Kusunoki Masashige, and betrayed 
+Emperor Go-Daigo to end the Kemmu Restoration. Their rule was weakened by the Onin War, and they 
+were driven out of power by Oda Nobunaga. This clan ruled Japan during the Muromachi Period. For 10 
+points, name this clan that was the namesake of the shogunate between the Kamakura and Tokugawa 
+shogunates. 
+ANSWER:  
+Ashikaga 
+ clan 
+153-13-83-09105 
+6. If a ring is Noetherian, this type of ring over the original is also Noetherian by the Hilbert basis theorem. 
+A splitting field is the smallest field extension for which a given one of these decomposes into linear 
+factors. The complex numbers are algebraically closed because these functions are always zero at least one 
+point in that field. Synthetic division is applied to these functions. No general solution exists for certain 
+types of these functions by Abel's impossibility theorem. Descartes' rule of signs shows how many positive 
+or negative roots one of these can have. For 10 points, name these functions consisting of variables raised 
+to integer powers. 
+ANSWER:  
+polynomial 
+ [prompt on  
+rational 
+ function] 
+121-13-83-09106 
+7. This man earned his medical degree after writing an essay on curing a friend of gonorrhea. This man's 
+political works include one addressed to British voters,  
+Chains of Slavery 
+, and his \"Plan of Criminal 
+Legislation.\" He wrote the newspaper  
+L'Ami du Peuple 
+ and was eulogized as a man who \"hated kings, 
+nobles, priests,\" and rogues by the Marquis de Sade. Shortly after he wrote his \"Denunciation of Jacques 
+Necker,\" this man hid in Paris's sewers, aggravating his chronic skin disease. This man's killer said \"I killed 
+one man to save 100,000,\" used a kitchen knife, and was a Girondin sympathizer. For 10 points, name this 
+radical of the French Revolution who was killed in his bathtub by Charlotte Corday. 
+ANSWER: Jean-Paul  
+Marat 
+052-13-83-09107 
+8. One character with this profession kills the cat belonging to his wife Martha while digging in their 
+basement and comes up with pennants for his imaginary “Party of Disappointed People.” William Kohler 
+has this job in William H. Gass's novel  
+The Tunnel. 
+ Another character with this job argues with his son 
+over whether it is currently raining because his son had heard on the radio that it would not rain that day. 
+That character with this profession shoots Willie Mink after learning Mink has been giving his wife Dylar, 
+a drug intended to treat the fear of death, and is insecure about not knowing German despite working in the 
+Department of Hitler Studies. For 10 points, name this profession of Jack Gladney in Don DeLillo's  
+White 
+Noise. 
+ANSWER:  
+professor 
+ [prompt on  
+teacher 
+] 
+121-13-83-09108 
+9. At this woman's wedding, a white hart ran through the hall, chased by sixty black hounds. She held a 
+feast where she was accused of poisoning an apple actually planted by Pinel. This woman is the antagonist 
+of a lay by Marie de France,  
+Lanval 
+. A hero who went to find this woman in the Land of Gorre had to cross 
+over the Sword Bridge. This woman's father owned Camelerd, and was helped out when this woman's 
+eventual husband killed King Rience's men. This daughter of Leodegrance was abducted by Meleagant and 
+saved by a man who mistook Elaine of Corbenic for this woman. For 10 points, name this Queen of 
+Camelot who carried on an affair with Lancelot despite being married to Arthur. 
+ANSWER:  
+Guinevere 
+192-13-83-09109 
+NASAT 2013     9     Page  2 of 11 
+10. One character in this work gets the daughter of a noble family to marry him by showing her the ghost of 
+a suicidal knight ritually killing and disemboweling the ghost of his dead lover. Another character visits her 
+lover to borrow a falcon and save her son, only to be served that falcon for dinner. In this work, the worst 
+man in the world becomes revered as a saint after admitting only minor sins in his deathbed confession. 
+The last section of this work inspired Chaucer's \"Clerk's Tale\" with its tale of patient Griselda, and its frame 
+story describes a  
+brigata 
+ of nobles including Fiammetta and Dioneo. For 10 points, name this collection of 
+stories by Italian humanist Giovanni Boccaccio. 
+ANSWER:  
+The  Decameron 
+ [or  
+Il  Decameron 
+] 
+080-13-83-09110 
+11. One experiment testing this idea involved the angle of a household object and a control group which did 
+not engage in \"individual manipulation\"; that experiment on this idea involved eighteen houses in Seattle, 
+which set up bowls of Halloween candy, and was conducted by Beaman, Diener, and Svanum. This 
+concept was introduced in the 1902 book  
+Human Nature and the Social Order, 
+ which identified its steps as 
+people imagining how they appear to the outside world, imagining judgments of that appearance, and then 
+developing in reaction to those judgments. For 10 points, identify this concept introduced by Charles 
+Cooley, which claims that people change their presentation just as one might change one's appearance 
+using a mirror. 
+ANSWER:  
+looking-glass self 
+019-13-83-09111 
+12. This man instituted taxes on land and individuals called the jugum and capitatio. This ruler consolidated 
+power after the assassination of Carinus, and he started the use of the title \"dominus\" to refer to his 
+position. This man became emperor after publicly killing Aper after accusing Aper of murdering Numerian. 
+Mithras became the official protector of the empire under this ruler. This man put Galerius in charge of 
+Ilyria and Maximian over Italy and Africa. This man created fixed wages and instituted price ceilings with 
+his Edict on Maximum Prices. For 10 points, name this Roman emperor who conducted the last large-scale 
+persecution of Christians and created the tetrarchy. 
+ANSWER: Gaius Aurelius Valerius  
+Diocletian 
+us [or  
+Diocles 
+] 
+030-13-83-09112 
+13. The commissioner of this painting, Edward Coates, rejected it as \"unrepresentative\" of the artist's work 
+and instead requested  
+The Pathetic Song 
+. The pyramidal composition of figures in this painting was 
+inspired by a frieze on the Parthenon, though a man outside of the pyramid has a pose inspired by  
+The 
+Dying Gaul 
+. Unusually, this 19th-century painting was created not from a live model, but a photograph 
+taken by the artist of his students. In this painting, a naked man with his hands on his hips and his buttocks 
+pointing towards the viewer stands on top of a rock in the middle of the water where six other naked men 
+are hanging out. For 10 points, name this homoerotic painting by Thomas Eakins. 
+ANSWER:  
+The  Swimming Hole 
+080-13-83-09113 
+14. One character in this play inquires as to why rice pudding and jam cannot be separated once stirred. 
+Later in this work, the mentor of that character advises her not to be upset about the destruction of books in 
+the Alexandrian Library. One character in this play declares that \"when we have found all the mysteries, we 
+will be alone on an empty shore.\" The poet of \"The Couch of Eros\" departs with Captain Brice midway 
+through this play, which ends with two couples waltzing. In this play, Hannah Jarvis attempts to discover 
+the identity of a hermit who we learn is actually Septimus Hodge, the tutor of the mathematical genius 
+Thomasina Coverly. For 10 points, name this play set in two different time periods at Sidley Park, by Tom 
+Stoppard. 
+ANSWER:  
+Arcadia 
+192-13-83-09114 
+NASAT 2013     9     Page  3 of 11 
+15. In the 17th century, a town located on this lake, Granada, was attacked by pirates led by Henry Morgan. 
+This lake is home to an archipelago on which Father Cardenal built a church and attracted a community of 
+artists; that archipelago includes San Fernando Island and Mancarron Island. This lake, which contains the 
+Solentiname Islands and the islands of Zapatera and Ometepe, contains a namesake bull shark and is 
+connected to the Caribbean Sea by the San Juan River. Early plans for building a canal to connect the 
+Atlantic and Pacific involved building through the isthmus of Rivas and this lake. For 10 points, name the 
+largest lake in Central America. 
+ANSWER: Lake  
+Nicaragua 
+140-13-83-09115 
+16. This philosopher created an externalist definition of knowledge that defines a justified belief as one that 
+someone would not believe if it were not true, which he called \"tracking the truth.\" This philosopher 
+explained how people could willingly assent to the coalescing of \"protective associations\" in the absence of 
+a state. His most famous book includes a thought experiment claiming that charging to see Wilt 
+Chamberlain play basketball is not unjust. For 10 points, name this Harvard-based political philosopher 
+who responded to John Rawls'  
+A Theory of Justice 
+ in  
+Anarchy, State, and Utopia. 
+ANSWER: Robert  
+Nozick 
+080-13-83-09116 
+17. In Act II of this opera, Antonia sings about her dead mother, a singer, in \"Elle a fui, la tourterelle.\" In 
+the prologue to this opera, the title character begins a song about a hunchbacked dwarf, only to start singing 
+about a beautiful woman, in \"The Legend of Kleinzach.\" At the end of this opera, the prima donna Stella 
+leaves with the evil Councillor Lindorf after Nicklausse reveals himself to be the Muse in disguise. The 
+third act, set in Venice, begins with a famous Barcarolle; another piece in this opera is the \"Doll Song\" 
+sung by the automaton Olympia. For 10 points, name this Jacques Offenbach opera based on the writings of 
+the title fantastic author. 
+ANSWER:  
+Tales of Hoffmann 
+ [or  
+Les  Contes d'Hoffmann 
+] 
+080-13-83-09117 
+18. A derivative of acetic acid with this many fluorine atoms attached is used to separate peptides during 
+HPLC. The Simmons-Smith reaction is a method of producing a cycloalkane with this many carbon 
+molecules. The element with this atomic number is bonded to aluminum hydride in a strong reducing agent. 
+Glyceraldehyde is a carbohydrate with this many carbon atoms. This many equivalents of hydrogen gas is 
+used in the Haber process. In ferric compounds, iron has this oxidation number. Citric acid and phosphoric 
+acid have this many equivalence points, as they can dissociate this many times. For 10 points, name the 
+atomic number of lithium. 
+ANSWER:   [or  
+3 +3 
+; or  
+3+ 
+; do not accept \"minus 3\"] 
+140-13-83-09118 
+19. During this incident, one side's escapades towards Troop \"K\" exposed their women and children. Plenty 
+Horses, who had just returned from college before this event, shot Edward Casey in order to be hung with 
+his people. This event began after the deaf Black Coyote failed to respond to the order to give up his rifle, 
+and was exacerbated by Yellow Bird's insistence that his shirt would deflect bullets. Occurring in the 
+aftermath of Sitting Bull's death, this event took place at the Pine Ridge Reservation and resulted in the 
+death of Chief Big Foot. For 10 points, name this 1890 killing of nearly 300 Lakota Indians at a site in 
+South Dakota. 
+ANSWER:  
+Wounded Knee 
+ Massacre 
+192-13-83-09119 
+NASAT 2013     9     Page  4 of 11 
+20. A leader of this party was mocked for shouting \"We're all right!\" multiple times during a 1992 rally. It 
+was accused of exploiting children in the \"War of Jennifer's Ear\" scandal. In the 1992 election, its leader 
+was mocked with a caption asking the last person to leave the country to turn the off the lights on the cover 
+of the  
+Sun 
+. During the 1980s, this party was led by Michael Foot and Neil Kinnock. In the early 1990s, it 
+adopted a \"Third Way\" strategy to appeal to centrists. After being driven out thanks to the 1978 \"Winter of 
+Discontent,\" this party was the minority from 1980 to 1997, continually losing to the party of John Major. 
+For 10 points, name this British political party of Tony Blair. 
+ANSWER:  
+Labour 
+ Party 
+052-13-83-09120 
+21. According to one judicial body, this rate \"failed to recognise equality before public burdens\" because it 
+didn't distinguish well between single people and married couples. This rate, spontaneously announced on 
+live television in February 2012, was designed to stop the sudden polling rise of Jean-Luc Melenchon. An 
+actor who acquired Russian citizenship was publicly denounced as \"shabby\" by Prime Minister Ayrault for 
+flamboyantly evading this policy. It was struck down in late December by the Constitutional Council, and 
+applied only to those who earned at least $1.28 million. For 10 points, name this controversial tax rate 
+supported by French president Francois Hollande. 
+ANSWER: Francois Hollande's  
+75% 
+ income tax 
+190-13-83-09121 
+22. Stars with this element in their atmosphere have a spectra that features Swan bands. A core of oxygen 
+and this element, as well as a helium envelope, is found in stars at the tip of the asymptotic giant branch. 
+White dwarfs that exceed the Chandrasekhar limit due to accretion generally undergo a Type Ia supernova 
+in a detonation named for this element. Only 25 MeV--as opposed to 26.2--of energy is released in a stellar 
+process that uses this element as an intermediate and recovers it at the end. That process also uses nitrogen 
+and oxygen as intermediates. This element is formed in the triple-alpha process. For 10 points, identify this 
+element with atomic symbol C. 
+ANSWER:  
+carbon 
+ [or   until it is read] 
+C 
+066-13-83-09122 
+23. In the second act of this play, two lovers pledge their forbidden love for each other in front of a party 
+while pretending to perform an opera scene about Philis and Tircis. It concludes with a dancing interlude in 
+which an examiner gives a fake oral exam in broken Latin to a character marked as \"Bachelierus.\" The title 
+character of this play figures out his wife Beline does not love him after playing dead and seeing her dance 
+for joy, and ultimately allows his daughter Angelique to marry Cleante rather than Thomas Diafoirus. For 
+10 points, name this comedy that Moliere died after performing, and which is about Argan, who incorrectly 
+thinks he needs a doctor. 
+ANSWER:  
+The  Imaginary Invalid 
+ [or  
+The  Hypochondriac 
+; or  
+Le  Malade Imaginaire 
+] 
+080-13-83-09123 
+NASAT 2013     9     Page  5 of 11 
+NASAT 2013 
+Round 9 
+Bonuses 
+1. In this short story, Tom Simson recites the \"fate of the son of Peleus\" from the  
+Iliad. 
+ For 10 points each: 
+[10] Name this short story, which ends with John Oakhurst being found dead on December 7, 1850. Other 
+members of the title group of this story include Mother Jones, the Duchess, and Piney Woods. 
+ANSWER: \"The  
+Outcasts of Poker Flat 
+\" 
+[10] This American short story writer of \"Tennessee's Partner\" and \"The Luck of Roaring Camp\" wrote 
+\"The Outcasts of Poker Flat.\" 
+ANSWER: Bret  
+Harte 
+[10] In \"The Luck of Roaring Camp,\" this character dies trying to save Luck from drowning. Earlier, he 
+calls Luck a \"damned little cuss\" when Luck plays with his finger. 
+ANSWER:  
+Kentuck 
+186-13-83-09201  
+2. For 10 points each, answer these questions about bizarre sights seen by the Israelites during their 40 
+years in the desert. 
+[10] This snow-like substance was baked into cakes that tasted like honey after it fell from heaven to feed 
+the Israelites in the desert. 
+ANSWER:  
+manna 
+[10] During the Exodus from Egypt, God appeared ahead of the Israelites in these two forms, which 
+alternated at the transitions between day and night. 
+ANSWER: a pillar of  
+cloud 
+ by day and a  
+pillar 
+ of  
+fire 
+ by night [accept  
+column 
+ instead of “pillar”] 
+[10] Moses made an unusual gush of water appear by doing this action twice near Mount Sinai. Because 
+God hadn’t permitted Moses to do this, God denied him entry to the Promised Land. 
+ANSWER:  
+hit 
+ting a  
+rock 
+ twice with his staff [accept synonyms such as “ 
+strike stone 
+ a   twice with his 
+staff”] 
+104-13-83-09202  
+3. This law is often applied by constructing a namesake symmetric surface enclosing charge. For 10 points 
+each: 
+[10] Name this law which states that the divergence of the electric field equals charge density over vacuum 
+permittivity. 
+ANSWER: Maxwell's version of  
+Gauss 
+'s law for electricity 
+[10] The electric field can be calculated for point charges using this law, which sets electrostatic force 
+proportional to the product of the two charges over the distance between them squared. 
+ANSWER:  
+Coulomb 
+'s Law 
+[10] The electric field from an infinite sheet of charge varies as this power of the distance away from the 
+sheet. Thus, the electric field inside a parallel-plate capacitor varies as this power of the distance between 
+the plates. 
+ANSWER:  
+zero 
+th power [or obvious equivalents such as the electric field  
+does not depend 
+ on distance] 
+190-13-83-09203  
+NASAT 2013     9     Page  6 of 11 
+4. After the disastrous premiere of this composer's first symphony by a drunken Alexander Glazunov, this 
+composer sank into a deep depression for nearly 20 years. For 10 points each: 
+[10] Name this late Romantic Russian composer who created a  
+Prelude in C sharp minor 
+ for piano, a 
+choral symphony based on Poe's  
+The Bells 
+, and  
+The Isle of the Dead. 
+ANSWER: Sergei Vasilievich  
+Rachmaninoff 
+[10] Vladimir Horowitz popularized the third of these compositions by Rachmaninoff. The second was 
+produced after Rachmaninoff received hypnotherapy for his depression and opens with eight bell-like 
+chords from the soloist. 
+ANSWER:  
+piano concerto 
+s [prompt on  
+concerto 
+] 
+[10] Rachmaninoff wrote his second  
+Trio elegiaque 
+ as a response to this event, also the subject of Michael 
+Finnissy's opera  
+A Shameful Vice 
+. Conspiracy theorists question that this event followed a contraction of 
+cholera, suggesting instead the involvement of Alexander III. 
+ANSWER:  
+death 
+ of Pyotr Ilyich  
+Tchaikovsky 
+140-13-83-09204  
+5. This algorithm is in the class of n log n runtime sorting algorithms. For 10 points each: 
+[10] Identify this sorting algorithm that uses pivots to divide a set and recursively sort it. 
+ANSWER:  
+quick 
+sort [or  
+partition-exchange 
+ sort] 
+[10] Quicksort was developed by this computer scientist who also developed a namesake logic to verify 
+program correctness and the specification language CSP. 
+ANSWER: Charles Antony Richard \"Tony\"  
+Hoare 
+[10] CSP is a language used to describe this type of system. The dining philosophers problem was designed 
+to illustrate the problems of deadlock in this type of system. 
+ANSWER:  
+concurrent 
+ [or word forms] 
+066-13-83-09205  
+6. This man's namesake \"folly\" was a never-completed mansion designed by Pierre L'Enfant in 
+Philadelphia. For 10 points each: 
+[10] Name this Superintendent of Finance from 1781 to 1784. He was called the \"Financier of the 
+Revolution\" for his loans of money to pay Continental troops. 
+ANSWER: Robert  
+Morris 
+ [do not accept \"Gouverneur Morris\"] 
+[10] Morris was suggested to be the inaugural Secretary of the Treasury, but he turned it down and 
+suggested this man, a leading Federalist, who got the job. 
+ANSWER: Alexander  
+Hamilton 
+[10] During the voting on the Declaration of Independence, Morris and this other Pennsylvania delegate 
+abstained. This man wrote the  
+Letters from a Farmer in Pennsylvania 
+. 
+ANSWER: John  
+Dickinson 
+052-13-83-09206  
+7. In the first step of this process, the anterior-posterior symmetry is broken. For 10 points each: 
+[10] Name this process in evolutionary development, in which three germ layers form from the blastula. 
+ANSWER:  
+gastrulation 
+[10] Gastrulation first occurs at this structure, which is formed when epiblast cells undergo the \"polonaise\" 
+movement. This structure forms at the posterior end but ends up becoming the anterior-posterior axis. 
+ANSWER:  
+primitive streak 
+[10] The primitive streak forms in organisms which have this type of symmetry. Chordates have this type 
+of symmetry, contrasted with radial symmetry. 
+ANSWER:  
+bilateral 
+ symmetry 
+190-13-83-09207  
+NASAT 2013     9     Page  7 of 11 
+8. This poet wrote that the clocks ticking does not trouble happy people, concluding, \"sleep, it seems, is all 
+this couple is up to,\" in his poem \"In the Woods.\" For 10 points each: 
+[10] Name this poet of the collections  
+My Sister, Life 
+ and  
+On Early Trains. 
+ The title character concludes 
+that \"to live a life is not to cross a field\" in his poem \"Hamlet.\" 
+ANSWER: Boris  
+Pasternak 
+[10] Pasternak also wrote this novel about a physician in love with Lara Antipov. 
+ANSWER:  
+Doctor Zhivago 
+[10] In  
+Doctor Zhivago, 
+ Lara is tormented by the sexual relationship she was pressured into by this man, a 
+corrupt lawyer who once worked for Yuri Zhivago's father Andrei. 
+ANSWER: Viktor  
+Komarovsky 
+ [or  
+Viktor 
+ Komarovsky] 
+192-13-83-09208  
+9. This language is loosely divided into fus-ha and ammiyaat forms. For 10 points each: 
+[10] Name this language, which was classically written in Kufic script, and is read from right to left. 
+ANSWER:  
+Arabic 
+ [or Al-Lughat Al- 
+Arabiyyah 
+] 
+[10] This is the first letter of the Arabic alphabet, preceding \"baa.\" It is also the first letter of the Hebrew 
+alphabet. 
+ANSWER:  
+aleph 
+ [or  
+alif 
+] 
+[10] These parts of speech in Arabic are governed by fairly complex rules. The Arabic word for this part of 
+speech is  
+fi'il 
+, and it is divided into  
+maadhi mudaari' 
+,  , and  
+'amr 
+ forms. 
+ANSWER:  
+verb 
+s 
+189-13-83-09209  
+10. Let's go on some pilgrimages, for 10 points each. 
+[10] Many pilgrimages are to places like the Sanctuary of Our Lady of Fatima in Portugal, a location where 
+children reportedly viewed this Christian woman in 1917. She also appeared in Zaragoza in 40 CE. 
+ANSWER: Blessed Virgin  
+Mary 
+ [or  
+BVM 
+; or  
+Mary 
+, mother of Jesus] 
+[10] This Galician city is the site of the \"Way of St. James,\" a famous shrine to Saint James the Great. It is 
+a major Catholic pilgrimage site. 
+ANSWER:  
+Santiago de Compostela 
+[10] This small French town was where Bernadette Soubirous reportedly saw the Virgin Mary in 1858. The 
+spring water here reportedly possesses great healing properties. 
+ANSWER:  
+Lourdes 
+052-13-83-09210  
+11. This nation consists of the islands of Annobon and Bioko, as well as a mainland region called Rio Buni. 
+For 10 points each: 
+[10] Name this only African country where Spanish is an official language. 
+ANSWER: Republic of  
+Equatorial Guinea 
+[10] Apart from Equatorial Guinea, Spain claims two exclaves bordering Morocco. The Strait of Gibraltar 
+separates them from contiguous Spain. Name either. 
+ANSWER:  
+Ceuta 
+ [or  
+Melilla 
+] 
+[10] Spain's African claims are sometimes extended to include this archipelago northwest of Morocco. 
+Tenerife and Fuerteventura are its two largest islands. 
+ANSWER:  
+Canary 
+ Islands 
+190-13-83-09211  
+NASAT 2013     9     Page  8 of 11 
+12. Identify the following from abstract algebra, for 10 points each. 
+[10] An Abelian group is one such that the group operation applied to any two members of the group has 
+this property. Multiplication of integers has this property, since a times b equals b times a. 
+ANSWER:  
+commutative 
+ [or  
+commutativity 
+; or other word forms] 
+[10] This theorem in ring theory gives an isomorphism between a product of quotient rings and a quotient 
+ring. Less generally, it gives a solution to simultaneous modular equations when the moduli are relatively 
+prime. 
+ANSWER:  
+Chinese Remainder 
+ Theorem 
+[10] This type of group is defined as the set of all cosets of a normal subgroup N in the larger group G, with 
+the operation being the product of subsets. 
+ANSWER:  
+quotient 
+ group 
+080-13-83-09212  
+13. This man was burned at the stake, reportedly with the last copy of his book chained to his leg. For 10 
+points each: 
+[10] Name this Spaniard who ran afoul of both Catholics and Protestants with his texts  
+On the Errors of the 
+Trinity 
+ and  
+Dialogues on the Trinity 
+. His non-triniatarian views got him killed when he went to a Protestant 
+ruled city. 
+ANSWER: Michael  
+Servetus 
+ [or Miguel  
+Servet 
+] 
+[10] Servetus was killed in this modern day-country that fought the religion-themed Kappel Wars. 
+ANSWER:  
+Switzerland 
+ [or  
+Swiss Confederation 
+; or  
+Scwheiz 
+erische Eidgenossenschaft; or Confederation 
+Suisse 
+; or Confederazione  
+Svizzera 
+; or Confederaziun  
+Svizra 
+] 
+[10] Servetus made the mistake of heading to Geneva, a city led by this Protestant theologian and author of  
+The Institutes of the Christian Religion 
+. 
+ANSWER: John  
+Calvin 
+ [or Jean  
+Cauvin 
+] 
+052-13-83-09213  
+14. Accounts differ on the number of these figures, with one source claiming there were only three, whose 
+names Nete, Mese, and Hypate represented the strings on a lyre. For 10 points each: 
+[10] Name these daughters of Zeus and Mnemosyne, who preside over subjects such as astronomy, dance, 
+and epic poetry. 
+ANSWER:  
+Muses 
+[10] Either the Muses or King Midas judged a music contest between Apollo and this man, who played a 
+double reed flute. This guy lost, and Apollo flayed him alive. 
+ANSWER:  
+Marsyas 
+[10] In another case of a mortal claiming to be better than the gods, this guy boasted he could play better 
+music than that of the Muses. The Muses blinded this man and took away his musical ability. 
+ANSWER:  
+Thamyris 
+140-13-83-09214  
+NASAT 2013     9     Page  9 of 11 
+15. This man claimed \"Democracy is impossible in a capitalist system.\" For 10 points each: 
+[10] Name this Socialist leader who was the president of Venezuela from 1999 to 2013. 
+ANSWER: Hugo Rafael  
+Chavez 
+ Frias 
+[10] After Chavez referred to George W. Bush as the devil, Rafael Correa, the current president of this 
+country, noted it was an insult to the devil because at least the devil is intelligent. 
+ANSWER: Republic of  
+Ecuador 
+ [or Republica del  
+Ecuador 
+] 
+[10] This other ally of Chavez has been in office since January 2007, although he lost a 1990 election to 
+Violeta Chamorro. He had previously opposed the Somoza government. 
+ANSWER: Jose Daniel  
+Ortega 
+ Saavedra 
+052-13-83-09215  
+16. In the second act of this ballet, a group of vengeful spirits named the Wilis force Hilarion to dance 
+himself to death. For 10 points each: 
+[10] Name this ballet whose title character earns the affections of the Duke of Silesia, a man named 
+Albrecht who disguises himself as Loys. 
+ANSWER:  
+Giselle 
+[10] The Italian premiere of  
+Giselle 
+, and indeed the Italian premiere of many other ballets and operas, was 
+given at this Milanese opera house which begins its yearly season on St. Ambrose's day. 
+ANSWER: La  
+Scala 
+ [or  
+Teatro alla Scala 
+] 
+[10] The Adolphe Adam ballet  
+Le corsaire 
+ was based on a poem by this English author, many of whose 
+\"Hebrew Melodies,\" such as \"She walks in beauty,\" were set to music by Isaac Nathan. 
+ANSWER: Lord  
+Byron 
+ [or George  
+Gordon 
+ Byron] 
+192-13-83-09216  
+17. This poet described how the title object \"congealed on earth; but does, dissolving, run into the glories of 
+the almighty sun\" in his \"On a Drop of Dew.\" For 10 points each: 
+[10] Name this 17th-century English poet of \"The Garden\" and \"To His Coy Mistress.\" 
+ANSWER: Andrew  
+Marvell 
+[10] The second stanza of \"To His Coy Mistress\" concludes with a quip that this entity is \"a fine and 
+private place, but none I think do there embrace.\" 
+ANSWER: the  
+grave 
+ [do not accept any other answers] 
+[10] This Marvell poem in eight quatrains describes its subject as \"begotten by despair upon impossibility.\" 
+Its conclusion offers \"the conjunction of the mind and opposition of the stars\" as a candidate for the title 
+denotation. 
+ANSWER: \"The  
+Definition of Love 
+\" 
+080-13-83-09217  
+18. In this \"conversation piece,\" the main male figure tucks one hand into his undone jacket. For 10 points 
+each: 
+[10] Give the colloquial name for this portrait of the newlywed couple William Hallett and Elizabeth 
+Stephen, in which a dog adorably tugs at the lady's dress. 
+ANSWER:  
+The  Morning Walk 
+[10]  
+The Morning Walk 
+ was created by this English painter, who depicted a man with a rifle next to his 
+wife in  
+Mr. and Mrs. Andrews 
+. 
+ANSWER: Thomas  
+Gainsborough 
+[10] Gainsborough is best known for a portrait of Jonathan Buttall, who is primarily clad in this color. 
+ANSWER:  
+blue 
+020-13-83-09218  
+NASAT 2013     9     Page  10 of 11 
+19. This author wrote that \"it is human nature to stand in the middle of a thing, but you cannot stand in the 
+middle of this\" in her poem \"A Grave.\" For 10 points each: 
+[10] Name this poet who praised the importance of \"hands that can grasp, eyes that can dilate,\" despite 
+there being \"things that are important beyond all this fiddle\" in her poem \"Poetry.\" 
+ANSWER: Marianne  
+Moore 
+[10] This Moore poem notes how we value \"the principle that is hid\" in art and tells the title creature, \"If 
+\"compression is the first grace of style,\" you have it.\" 
+ANSWER: \" 
+To a Snail 
+\" 
+[10] Moore was a contemporary of this other American poet of \"This Is Just to Say\" and \"The Red 
+Wheelbarrow.\" 
+ANSWER: William Carlos  
+Williams 
+020-13-83-09219  
+20. For 10 points each, name these characters from the  
+Arabian Nights. 
+[10] This man is served by Morgiana, who saves him after he gets into trouble for knowing how to get into 
+a secret cave used by the Forty Thieves. 
+ANSWER:  
+Ali Baba 
+[10] In another story, a man of this profession finds a genie while working. The bitter genie at first offers 
+him a choice of deaths, but after being trapped again, gives him helpful gifts. 
+ANSWER:  
+fisher 
+man 
+[10] This younger sister of Scheherezade is the one who suggests the use of cliffhangers in her stories. She 
+is eventually married to Shah Zaman. 
+ANSWER:  
+Dunyazade 
+ [or  
+Dunyazadte 
+; or  
+Dinazade 
+; or  
+Dinarzad 
+] 
+192-13-83-09220  
+21. When this ion is found in organic compounds, it’s called a nitrile. For 10 points each: 
+[10] Name this polyatomic anion with formula CN-. 
+ANSWER:  
+cyanide 
+[10] Industrially, cyanides are principally used for extracting this metal from the earth. This transition metal 
+usually forms +1 and +3 oxidation states. 
+ANSWER:  
+gold 
+ [or  
+Au 
+] 
+[10] Because the carbon atom in the cyanide anion has a negative formal charge, but the nitrogen is more 
+electronegative, the molecule appears symmetric on one of these diagrams, which represent partial negative 
+charges as red on a 3D picture of the molecule. 
+ANSWER:  
+electrostatic potential 
+ maps [or  
+electrostatic potential energy 
+ maps; or molecular  
+electrical 
+potential 
+ surfaces] 
+190-13-83-09221  
+Powered by TCPDF (www.tcpdf.org) 
+NASAT 2013     9     Page  11 of 11 

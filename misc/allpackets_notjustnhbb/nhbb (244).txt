@@ -1,0 +1,725 @@
+NASAT 2011 
+Round 8 
+Tossups 
+1. The assumption in Britton's lemma is that the word is equal to this. Any element of a coset H acts as one 
+of these for H. In a group, if an element is of this type, it must commute with all other group elements and 
+furthermore there is only one of these elements in a group. This is the result of a function composed with its 
+inverse. In algebra, there are usually written as e. For matrices, this a matrix with ones down the diagonal 
+and zeros elsewhere. For 10 points, name these elements and functions that preserve the operand 
+exemplified by how one times any integer b is b. 
+ANSWER:  
+identity 
+ element [or  
+identity 
+ function; or  
+identity 
+ map] 
+001-11-30-08102 
+2. This philosopher compares a central notion of one work to the claim that a woman either bought a 
+left-hand and a right-hand glove, or a pair of gloves, but not both. He claimed that his mission was to 
+correct the “logical geography” of a certain type of knowledge in a work whose mission he declares is to 
+determine the “logical cross-bearings” of concepts. He criticized a position he claims stems from the 
+confusion of Galilean scientific principles as applying to all existing things, the so-called “Official 
+Doctrine.” He claimed that the statements “there occur mental processes” and “there occur physical 
+processes” are not in the same category. For 10 points, name this author who called Cartesian dualism the 
+“ghost in the machine” in his work  
+The Concept of Mind 
+. 
+ANSWER: Gilbert  
+Ryle 
+026-11-30-08103 
+3. One poem by this author asks, \"who are you, who are you?\" and begins, \"Thinking, tangling shadows in 
+the deep solitude.\" This poet wrote \"the verse falls to the soul like dew to the pasture\" in a poem that 
+claims, \"love is so short, forgetting is so long.\" He repeated the line, \"Deserted like the wharves at dawn\" in 
+a poem that claims, \"It is the hour of departure.\" He wrote the lines, \"'The night is shattered and the blue 
+stars shiver in the distance.\" He began one poem with the line \"The memory of you emerges from the night 
+around me.\" For 10 points, name this poet, whose poem that begins, \"Tonight I can write the saddest lines\" 
+is found in his collection  
+Twenty Love Poems and a Song of Despair 
+. 
+ANSWER: Pablo  
+Neruda 
+095-11-30-08104 
+4. A defector from this man’s regime later published the book Red Horizons, which detailed many of this 
+ruler’s shadowy operations. Salvador Dali complimented this man on his use of a scepter. This man 
+advocated youth involvement in construction and got rid of collegiate sociology programs as part of his 
+“July Theses”. Another of his policies declared mothers who had more than 10 children as “heroines” and 
+outlawed most cases of abortion. This man’s downfall came after he attempted to remove Laszlo Tokes 
+from his position as a pastor in Timisora, and he succeeded Gheorghe Gheorghiu-Dej as the General 
+Secretary of his nation’s Communist Party. For 10 points, name this man who was executed along with his 
+wife Elena on Christmas Day, 1989, the communist dictator of Romania. 
+ANSWER: Nicolae  
+Ceaucescu 
+048-11-30-08105 
+NASAT 2011     Round 8     Page  1 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+5. On a holiday sacred to this deity, bilwa leaves are placed atop a symbol of him, which is bathed in yogurt 
+and rose water every three hours. In one story, this god appeared as a massive pillar of fire and challenged 
+two other deities to find its endpoints. This god is often depicted crushing the evil dwarf Apasmara. This 
+god incinerates the god of love after being woken up by Kama. This god is often depicted in the form of 
+Nataraja, the cosmic dancer. Worship of this god can involve “linga”, or sacred stones. This god rides the 
+bull Nandi and uses a trident as a weapon. His wives include Parvati and Kali. For 10 points, name this 
+Hindu god called “the destroyer”. 
+ANSWER:  
+Shiva 
+021-11-30-08106 
+6. This author wrote a novel in which the teetotaler Coupeau falls from a hospital roof into a play titled  
+Drink 
+. He wrote about the maiden Angelique who waits many years to marry a knight only to die the first 
+time they kiss in the novel  
+ The Dream  
+. The title character of another of his novels is first encountered at a 
+performance of  
+The Blonde Venus 
+ and ruins her lovers Philippe Hugon and the journalist Fauchery. This 
+author wrote a novel in which the rich Gregoires only gives warm clothes and not food to the impoverished 
+family of Maheude. Later in that novel, Etienne organizes a strike at the Montsou coal mines. This author 
+included  
+Nana 
+ in his twenty-novel cycle,  
+Les Rougon-Macquart 
+. For 10 points, name this French novelist 
+who wrote  
+Germinal 
+ and “J’Accuse”. 
+ANSWER: Emile Francois  
+Zola 
+094-11-30-08107 
+7. Two changes of setting in this opera are accompanied by the \"Transformation Music.\" The title character 
+of this opera throws away his bow and arrow in shame after shooting down a swan. Another of its 
+characters is doomed to wander the earth forever because she laughed at Christ on the cross. Six 
+flower-maidens try to seduce the protagonist of this opera in an enchanted garden owned by the villain 
+Klingsor. After having his feet washed by Kundry, the protagonist of this opera heals the wound of 
+Amfortas with the spear that had stabbed Christ. For 10 points, name this opera about an Arthurian knight 
+who seeks the holy grail, the last completed opera of Richard Wagner. 
+ANSWER:  
+Parsifal 
+015-11-30-08108 
+8. One deviation from this ideal system is mathematically described by an equation that includes a term 
+proportional to the cube of position, where the proportionality constant is less than zero in the \"soft\" case. 
+That equation is the Duffing equation. Another deviation from this ideal system is mathematically 
+described by an equal that includes a term proportional to the time derivative of position, where the 
+proportionality constant is known as the damping coefficient. This system itself is described by a 
+second-order differential equation formed by equating Newton's Second Law and Hooke's Law. For 10 
+points, sinusoidal motion is typical of what kind of system exemplified by pendulums and 
+masses-on-springs? 
+ANSWER:  
+simple harmonic oscillator 
+ [or  
+SHO 
+; or  
+simple harmonic motion 
+; or  
+SHM 
+; or mass-on-a- 
+spring 
+ until \"masses\"; or  
+pendulum 
+ before mentioned; prompt on harmonic  
+oscillator 
+] 
+003-11-30-08109 
+9. In 2003, this country saw the debut of the Blank Noise Project, a women’s movement designed to 
+counteract the widespread sexual harassment known as “eve-teasing.” It is engaged in a longtime dispute 
+over the Aksai Chin region with the country on its northeast border, which is separated by the Line of 
+Actual Control. In this country’s northwest, the border runs through the Thar Desert and the Rann of 
+Kutch, which cover territory in the states of Haryana and Rajasthan. For 10 points, name this larger of the 
+two countries which were partitioned in 1947, the southern neighbor of Pakistan. 
+ANSWER: Republic of  
+India 
+ [or  
+Bharat 
+] 
+019-11-30-08110 
+NASAT 2011     Round 8     Page  2 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+10. This politician had his men rough up those who didn't discard green ballot envelopes in favor of red 
+votes. This man resigned from his powerless role as Interior Minister for the Commission of Administrative 
+Reforms. Lucien Conein offered $40,000 to this man's generals to stage a coup, leading to his arrest at 
+Cholon and his convoy stopping in front of railroad tracks, where he and his brother were killed. Brothels 
+and opium dens were closed under the guidance of his brother's wife, Madame Nhu. Thich Quang Duc 
+immolated himself to protest this man's anti-Buddhism. This successor of Bao Dai was backed by Kennedy 
+until 1963. For 10 points, name this Catholic president of South Vietnam. 
+ANSWER: Ngo Dinh  
+Diem 
+020-11-30-08111 
+11. In a choral work by this composer, a series of commands shouted by a sergeant are met by a men's 
+chorus defiantly singing \"Shema Yisroel.\" His first string quartet is only one movement, takes over forty 
+minutes to perform, and consists of asymmetrical phrases this composer called \"musical prose.\" This 
+composer founded the Society for Private Musical Performances in order to play modernist music, and 
+developed his characteristic style after his wife Mathilde left him for the painter Richard Gerstl. His mature 
+pieces, such as his Opus 26 Wind Quintet and  
+A Survivor from Warsaw 
+, lack a key center and often feature 
+the technique of Sprechtsimme. For 10 points, name this leader of the Second Viennese School who 
+developed serialism and the twelve-tone row. 
+ANSWER: Arnold  
+Schoenberg 
+004-11-30-08112 
+12. One theory to explain these phenomena was offered by the authors of the \"Time to Build\" paper, and 
+invokes the neoclassical growth theory to explain them so that interpretations of these phenomena agree 
+with long term growth models. That theory, developed by Finn Kydland and Edward Prescott assumes that 
+technology shocks are the cause for them. Wesley Mitchell is best known for his work regarding these 
+phenomena, and Austrian theory invokes credit levels as the cause of these phenomena, while William 
+Jevons thought that varying sunspot levels are the cause for these. They have variable periodicity, as 
+described by Kondratieff waves and Kuznets waves, and in the United States they are tracked by the 
+NBER. For 10 points, identify these phenomena which are characterized by booms and busts in economic 
+activity. 
+ANSWER:  
+business cycle 
+s [accept:  
+business cycle fluctuation 
+s] 
+108-11-30-08113 
+13. In the second scene of this play, one character insults two scholars by saying \"But that I am by nature 
+phlegmatic, slow to wrath, and prone to lechery.\" The \"B text\" version of this play changes the line \"Never 
+too late, if\" and retains the stable-hand Rafe. In one scene, the title character causes antlers to sprout from 
+the head of a knight at the court of Charles V, for whom Alexander the Great is conjured. Its protagonist is 
+instructed by Valdes and Cornelius. The protagonist of this play wonders \"was this the face that launch'd a 
+thousand ships\" after he summons Helen. He dies twenty four years after exchanging his soul for the 
+service of Mephistopheles. For 10 points, name this \"tragical history\" by Christopher Marlowe. 
+ANSWER:  
+The Tragicall History of the Life and Death of  Doctor Faustus 
+020-11-30-08114 
+NASAT 2011     Round 8     Page  3 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+14. Elongated shadows are cast by the heads of the figures in this painting upon a long, segmented mirror 
+just behind them. A match container and a baton lie on one table in this painting, which is connected to 
+another by a folded newspaper. George Moore's response to the female figure in this painting was \"What a 
+slut.\" That figure, who wears white headgear, has her hands clasped under the table and her gaze fixed 
+downward depressingly, and has been identified as the actress Ellen Andrée. Next to that woman is a man 
+who is cut off by the edge of the painting, and between them is a glass of the title substance. For 10 points, 
+identify this painting that depicts the alienation caused by a kind of alcohol, created by Edgar Degas. 
+ANSWER:  
+L' Absinthe 
+ [or  
+The  Absinthe Drinker 
+; or  
+Glass of Absinthe 
+; or  
+A  Sketch of a French Café 
+; or  
+Figures at Café 
+] 
+020-11-30-08115 
+15. This event is believed to have fulfilled a prophecy found in Chapter 9, Verse 9 of the Book of 
+Zechariah, and this event also has parallels with the treatment of Jehu in Chapter 9 of Second Kings. There 
+is a dispute over whether this event involved one or two animals. The primary animal used during this 
+event was found tied up but had never been used before. During this event, the crowd cried out “Hosanna, 
+Blessed is He who comes in the name of the Lord” and waved tree branches. The commemoration of this 
+event begins Holy Week and occurs seven days before Easter. For 10 points, name this event 
+commemorated on Palm Sunday, in which Jesus rode a donkey into Christianity’s holiest city. 
+ANSWER:  
+Entry of Christ into Jerusalem 
+021-11-30-08116 
+16. The propylthio version of this compound is used in the treatment of hyperthyroidism. A derivative of 
+this compound is administered with leucovorin in a common chemotherapy drug; that derivative is the 
+5-fluoro version. This compound is synthesized via the decarboxylation of orotic acid. Nirenberg showed 
+that polymers composed exclusively of it code for peptides containing only phenylalanine. The 
+deamination of cytosine leads to this compound, a pseudo-version of which is present in tRNA. Originally 
+discovered in hydrolyzed herring sperm, this pyrimidine has two ketone groups. For 10 points, name this 
+base pair which replaces thymine in RNA and pairs with adenine. 
+ANSWER:  
+Uracil 
+ or  
+uridine 
+048-11-30-08117 
+17. This man’s stepfather, Henry Watkins, was able to help get this man’s career started by finding him 
+work in the chancery office of Peter Tinsley. As a state representative, this man introduced a resolution for 
+all members to wear homespun clothing, which eventually led to his fighting a duel with Humphrey 
+Marshall. He was the defendant in a lawsuit filed by Charlotte Dupuy in an attempt to secure her release 
+from slavery. This politician worked on the Treaty of Ghent with a man for whom he later served as 
+Secretary of State. That role came about after an event dubbed the \"Corrupt Bargain\" took place. For 10 
+points, name this member of the Whig party who was known as the Great Compromiser. 
+ANSWER: Henry  
+Clay 
+, Sr. 
+088-11-30-08118 
+18. The Karlsruhe experiment tested this using sodium. Glatzmaier and Roberts developed the first 
+self-consistent model for studying this theory. A similar theory in astronomy was shown to be possible by 
+Eugene N. Parker by overcoming issues raised by Cowling's anti-theory of this. It gives rise to alpha and 
+omega effects One issue in modeling this is heat flow across the CMB. Proposed mechanisms for the 
+required energy include the freezing of deposited materials and decay of radioactive isotopes. The velocity 
+needed for this to work is dependent on the magnetic Reynold's number. For 10 points, name this theory 
+that Earth's magnetic field is caused by moving, electrical conductive fluid in the outer core. 
+ANSWER: geo 
+dynamo 
+ theory 
+001-11-30-08119 
+NASAT 2011     Round 8     Page  4 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+19. Richard Wagner and other revolutionaries were forced to flee this city after its disastrous “May 
+Uprising” was squashed in 1849. Frederick II was allowed to control Silesia in return for acknowledging 
+Francis I as Holy Roman Emperor in a treaty named for this city, which ended the Second Silesian War. 
+Napoleon marched the Imperial Guard ninety miles in three days to save this city from Schwarzenberg in 
+his last great victory in Germany. This city was known as the “Florence on the Elbe,” and replaced 
+Wittenberg and Meissen as the capital of Saxony. For 10 points, name this German city that was 
+extensively firebombed by the Allies during World War II. 
+ANSWER:  
+Dresden 
+015-11-30-08120 
+20. The protagonist of this novel is unable to obtain information after Randolph Driblette's suicide. Stanley 
+Koteks refers the main character to John Nefastis who claims to have invented a perpetual motion machine, 
+and she visits a bar named The Scope with where she learns about the Peter Pinguid Society from Mike 
+Fallopian. The protagonist has a vision of a post horn while investigating Richard Wharfinger's play  
+The 
+Courier’s Tragedy 
+. This novel begins when the protagonist becomes the executor of Pierce Inverarity's 
+estate whose stamp collection contains a symbol associated with the Trystero organization. For 10 points, 
+name this novel in which Oedipa Maas discovers a conspiracy between rival mail companies, written by 
+Thomas Pynchon. 
+ANSWER:  
+The  Crying of Lot 49 
+064-11-30-08121 
+21. The protagonist of this novel is duped by a man claiming to be part of a secret society called the “calf’s 
+head.” The artist Pellerin constantly changes his portrait of a woman nicknamed the “Marshal,” while the 
+main character goes to an auction where he is shocked to find that his own his own furniture is being sold 
+in retaliation for borrowing money from his mistress Madame Dambreuse. The protagonist of this novel 
+shares an apartment during law school with Charles Deslauriers and during a voyage down the Seine in this 
+novel’s opening chapter he first sees his love, Madame Arnoux. For 10 points, name this novel about 
+Frederic Moreau, written by Gustave Flaubert. 
+ANSWER:  
+Sentimental Education 
+ [or  
+L'Éducation Sentimentale 
+] 
+109-11-30-08122 
+22. The forces of one side in this battle were partially commanded by Moharem Bey, whose note to the 
+enemies asking them not to advance into the main field of combat was met with a reply that they intended 
+to give orders and not to take them. This battle broke out when one side spotted a fireship being prepared 
+for launch, and it took place at the site of the ancient city of Pulos. The winning side was aided by French 
+ships under Henri de Rigny and Russian vessels under Login Geiden, and that side's commander was 
+Edward Codrington, who became the last person to win a battle of wooden capital ships. Ibrahim Pasha's 
+violations of the Treaty of London led to, for 10 points, which 1827 naval battle during the Greek War of 
+Independence? 
+ANSWER: Battle of  
+Navarino 
+040-11-30-08123 
+23. The Q-e scheme regards the reaction rate of monomeric examples of these substances. AIBN is used to 
+create these substances for synthesis reactions and another example of these is TEMPO. The effectiveness 
+of starting a reaction using these can be decreased by solvent cage effects. Heat or an initiator is used to 
+create these through homolysis of precursors like diatomic chlorine. Specific applications of these species 
+include both polymerization and cracking. They aren't carbocations, but they can be stabilized by 
+hyperconjugation and mechanisms involving them use fishhook curly arrows. For 10 points, name usually 
+reactive these species with an unpaired electron, whose damage to cells can be prevented by antioxidants. 
+ANSWER: free  
+radical 
+001-11-30-08124 
+NASAT 2011     Round 8     Page  5 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+NASAT 2011 
+Round 8 
+Bonuses 
+1. Name some dissenting religious movements, for 10 points each. 
+[10] Lead by John Wycliffe, this English movement stressed the importance of scripture in Christianity and 
+claimed that the office of the Pope lacked any justification. 
+ANSWER:  
+Lollards 
+[10] This sect stresses the importance of the Holy Spirit and “inner light,” the direct awareness of God 
+present in all people. One belief of this sect is the \"peaceable kingdom,\" the idea that predatory animals will 
+become docile after the return of Christ. 
+ANSWER:  
+Quaker 
+s [or  
+Society of Friends 
+] 
+[10] Supported by Blaise Pascal, this belief claimed to be derived from St. Augustine and put a great 
+emphasis on original sin. It was declared heretical in 1655 in the bull  
+Cum occasione. 
+ANSWER:  
+Jansenism 
+100-11-30-08201 
+2. As a baby, his face was run over by a carriage carrying the Hillards family’s groceries. For 10 points 
+each: 
+[10] Name this character who decides to go to Harvard after dreaming of his dead brother Ben while 
+spending his last night in the Dixieland boardinghouse run by his mother Eliza. 
+ANSWER:  
+Eugene 
+ Gant [prompt Gant; do not accept or prompt George Webber] 
+[10] Eugene Gant first appears in this author's novel  
+Look Homeward, Angel  
+, which takes its title from 
+Milton’s  
+Lycidas 
+. He wrote a sequel titled  
+Of Time and the River 
+. 
+ANSWER:  
+Thomas Wolfe 
+ [prompt Wolfe; prompt T Wolfe; do not accept or prompt Tom Wolfe] 
+[10] Eugene lives in his mother boarding house in this fictional town based on Wolfe's hometown of 
+Asheville, North Carolina. 
+ANSWER:  
+Altamont 
+079-11-30-08202 
+3. Mr. Wakem buys the title residence in this novel. For 10 points each: 
+[10] Identify this novel that concludes with siblings Tom and Maggie Tulliver dying after a flood ravishes 
+their village of St. Ogg’s. 
+ANSWER:  
+The  Mill on the Floss 
+[10]  
+The Mill on the Floss 
+ is a novel by this author of  
+Middlemarch 
+. 
+ANSWER: George  
+Eliot 
+ [or Mary Ann  
+Evans 
+] 
+[10] In George Eliot’s  
+Silas Marner 
+, Silas ends up caring for this child of Molly Farren and Godfrey Cass. 
+ANSWER:  
+Eppie 
+094-11-30-08203 
+NASAT 2011     Round 8     Page  6 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+4. Software like QEMU run these and Xen acts as a monitor for these. For 10 points each: 
+[10] Name these programs that run a self-contained operating system on top of a host machine. They 
+protection from certain attacks by preventing the host machine from being compromised even if these are 
+compromised. 
+ANSWER:  
+virtual machine 
+[10] This other technology used to stop attacks randomizes the location of important data in a process' 
+memory space, such as the libraries it uses. 
+ANSWER:  ddress  pace  ayout  andomization 
+A S L R 
+[10] One way to prevent external attacks is by using one of these programs that blocks predetermined types 
+of network traffic. Commonly this is done by shutting off certain ports or stopping traffic to and from 
+certain addresses. 
+ANSWER:  
+firewall 
+066-11-30-08204 
+5. Originally composed for harpsichord, it was twice recorded by Canadian pianist Glenn Gould. For 10 
+points each: 
+[10] Name this set of nine canons and twenty-one adaptations of a central aria, named for one of the 
+composer’s students. 
+ANSWER:  
+The  Goldberg Variations 
+[10] This Baroque German composer wrote  
+The Goldberg Variations 
+. 
+ANSWER: Johannes Sebastian  
+Bach 
+[10] This Danish contemporary of Bach earlier included thirty-two variations for harpsichord in  
+La 
+Capricciosa 
+ and composed the oratorio  
+Membra Jesu Nostri 
+. 
+ANSWER: Dietrich  
+Buxtehude 
+079-11-30-08205 
+6. Name the following about reform in ancient Rome, for 10 points each: 
+[10] This emperor increased Roman revenues enormously by standardizing tax collecting and spreading it 
+consistently around the empire. He was known as Octavian until he became the first emperor. 
+ANSWER:  
+Augustus 
+[10] The advocacy of Terentilius was crucial in the creation of this ancient law code, which was completed 
+after a plebeian secession in 449 BC. 
+ANSWER:  
+Twelve Tables 
+[10] This reformer proposed serious populist land reforms in the Lex Sempronia Agraria and was killed 
+while running for tribune in 133 BC. 
+ANSWER:  
+Tiberius Gracchus 
+ [prompt on  
+Gracchus 
+] 
+015-11-30-08206 
+NASAT 2011     Round 8     Page  7 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+7. One version of this scene, in the main altar of the Santa Maria Gloriosa dei Frari, shows God the Father 
+at the top welcoming the title figure with open arms. For 10 points each: 
+[10] Identify this scene, where the twelve apostles can be seen gathered around the title female’s tomb in a 
+version by Rubens. 
+ANSWER: The  
+Assumption 
+ of the Holy  
+Virgin 
+ Mary [or  
+Assumption of Mary 
+] 
+[10] One notable version of  
+The Assumption of the Virgin 
+ was painted by this man, who included two 
+cheetahs in his  
+The Meeting of Bacchus and Ariadne 
+. He also painted the  
+Madonna of the Pesaro Family 
+. 
+ANSWER:  
+Titian 
+ [or Tiziano  
+Vecelli 
+ or Tiziano  
+Vecellio 
+] 
+[10] Titian is probably best known for this painting, which heavily influenced Manet’s  
+Olympia 
+. In it, a dog 
+sleeps next to the nude title character as two servants look into a chest in the background. 
+ANSWER:  
+The  Venus of Urbino 
+094-11-30-08207 
+8. Most continuous logistic solutions for a population approach this value. For 10 points each: 
+[10] Name this maximum population size of a given species that an environment can support. 
+ANSWER:  
+carrying capacity 
+[10] Square instances of these mathematical objects named for Leslie can be used to model a discrete age 
+structured population. 
+ANSWER:  
+matrix 
+ [or  
+matrices 
+] 
+[10] The first row of a age structured Leslie matrix contain the class specific values of this reproductive 
+potential of a female. This is not the same as fertility, which is the realized version of this. 
+ANSWER:  
+fecundity 
+001-11-30-08208 
+9. Name these masters of the short story, for 10 points each. 
+[10] This French author of “Le Horla” wrote about the devastating realization that the title object was a 
+fake in “The Necklace.” 
+ANSWER: Guy de  
+Maupassant 
+[10] This Russian came to prominence with his novel  
+The Village 
+ but is largely remembered for stories like 
+“The Gentleman from San Francisco.” 
+ANSWER: Ivan Alekseyevich  
+Bunin 
+[10] This Canadian has cemented her reputation as a short story author with collections titled  
+Runaway 
+,  
+Dance of the Happy Shades 
+, and  
+Hateship, Friendship, Courtship, Loveship, Marriage 
+. 
+ANSWER: Alice  
+Munro 
+015-11-30-08209 
+10. Answer these questions about quasiparticles, for 10 points each. 
+[10] This quasiparticle, which is the quantum of the normal vibrational mode, represents the vibrational 
+energy that arises from oscillating atoms in a crystal. 
+ANSWER:  
+phonon 
+[10] Phonon distributions can be probed using this form of spectroscopy. It works by having laser light 
+interact with vibrations in matter, producing Stokes and Anti-Stokes frequencies. 
+ANSWER:  
+Raman 
+ spectroscopy 
+[10] Phonons are utilized by the Debye model of heat capacity which predicts that at low temperatures, the 
+heat capacity is proportional to this power of the ratio of the temperature to the Debye temperature. 
+ANSWER:  
+cubic 
+ [or  
+cube 
+; or  
+third 
+] 
+024-11-30-08210 
+NASAT 2011     Round 8     Page  8 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+11. This conflict is also known as the Saltpeter War. For 10 points each: 
+[10] Name this war in which Peru and Bolivia fought together against another neighboring country. 
+ANSWER: War of the  
+Pacific 
+[10] Peru and Bolivia fought against this nation that signed the Treaty of Piece and Friendship with Bolivia 
+in 1904 in its capital of Santiago. 
+ANSWER:  
+Chile 
+[10] In 1880, the three parties conducted failed negotiations aboard this U.S. ship, for which the conference 
+is named. Chile refused to withdraw its forces from lands it had occupied during the war. 
+ANSWER:  
+Lackawanna 
+ Conference [or  
+Arica 
+ Conference] 
+081-11-30-08211 
+12. This country became an independent nation after the 2006 severance of its union with Montenegro. For 
+10 points each: 
+[10] Name this country of Gavrilo Princip, who assassinated Archduke Franz Ferdinand. 
+ANSWER:  
+Serbia 
+[10] Although the Serbian Milos Obilic managed to assassinate Murad I, Prince Lazar was defeated by the 
+Ottomans at this 1389 battle. 
+ANSWER: Battle of  
+Kosovo 
+[10] The Battle of Kosovo occurred on the feast day of this saint, who was martyred with Modestus and 
+Cresentia under Diocletian. He is the namesake of a massive Cathedral in Prague. 
+ANSWER: Saint  
+Vitus 
+015-11-30-08212 
+13. Her autobiography,  
+The Long Loneliness, 
+ describes why she converted to Catholicism after several 
+years of working for socialist newspapers. For 10 points each: 
+[10] Name this leader of the Catholic Worker movement, who co-founded that group’s namesake 
+newspaper with Peter Maturin. 
+ANSWER: Dorothy  
+Day 
+[10] An earlier newspaper that Day worked for shared its name with this anti-slavery journal operated by 
+William Lloyd Garrison. 
+ANSWER:  
+The  Liberator 
+[10] Another Catholic public figure of the 1930s was this publisher of  
+Social Justice, 
+ a Detroit priest whose 
+popular radio program attacked Jews and the Roosevelt administration. 
+ANSWER: Father Charles Edward  
+Coughlin 
+019-11-30-08213 
+14. This bandleader assembled a nonet for an album that helped spark “West Coast Jazz,” his  
+The Birth of 
+the Cool 
+. For 10 points each: 
+[10] Name this jazz trumpeter who included the track “Freddie Freeloader” on his album  
+Kind of Blue 
+. 
+ANSWER: Miles  
+Davis 
+[10] Davis worked with Gil Evans on this album, which includes arrangements of \"Concierto de Aranjuez\" 
+and other songs from an Iberian nation. 
+ANSWER:  
+Sketches of Spain 
+[10] This Davis album includes tracks like “Pharaoh’s Dance” and “Spanish Key” and was controversial at 
+the time for including electric instruments and a rock sensibility. 
+ANSWER:  
+Bitches Brew 
+015-11-30-08214 
+NASAT 2011     Round 8     Page  9 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+15. Name these German sociologists, for 10 points each. 
+[10] This thinker argued that a state has a “monopoly on the use of force” and credited the reformation for 
+the rise of capitalism in  
+The Protestant Ethic and the Spirit of Capitalism 
+. 
+ANSWER: Max  
+Weber 
+[10] This man was best known for drawing the distinction between the concepts of Gemeinschaft and 
+Gesellschaft, which are loosely translated as community and society. 
+ANSWER: Ferdinand  
+Tonnies 
+[10] This author of  
+The Philosophy of Money 
+ discussed the ways that urban life effects the intellectual in 
+his essay  
+The Metropolis and Mental Life 
+. 
+ANSWER: Georg  
+Simmel 
+015-11-30-08215 
+16. This man classified tautological, contradictory, and empirical statements as the meaningful ones in his 
+work that tries to eliminate the title constructs,, his  
+ Pseudoproblems in Philosophy  
+. For 10 points each: 
+[10] Name this German thinker that also wrote  
+ The Logical Structure of the World  
+. 
+ANSWER: Rudolph  
+Carnap 
+[10] This philosophical discipline is the oft-discussed disciplined to be eliminated in Carnap's  
+Pseudoproblems in Philosophy.  
+ This discipline generally deals with the first cause of things. Kant wrote 
+about the  
+ this  
+ of morals. 
+ANSWER:  
+metaphysics 
+[10] Carnap's compatriot Hempel attacked this approach to acquiring knowledge with the raven paradox. 
+This approach involves deriving generalizations from specific cases. 
+ANSWER:  
+induction 
+033-11-30-08216 
+17. Children are encouraged to scream on this holiday, which is celebrated one day later in walled cities. 
+For 10 points each: 
+[10] Name this Jewish holiday commemorating Esther’s deliverance of the Jews from an evil Persian king. 
+ANSWER:  
+Purim 
+[10] Celebrants of Purim are supposed to get so drunk that they cannot distinguish the phrase “Blessed be 
+Mordechai” from the words “Cursed be [this man],” the evil Persian councilor. 
+ANSWER:  
+Haman 
+[10] It is considered a mitzvah on Purim to pronounce the names of the ten sons of Haman in this manner. 
+ANSWER:  
+in one breath 
+ [or equivalents] 
+079-11-30-08217 
+18. Paul Ehrenfest classified these based on the order derivative of the free energy with respect to a 
+thermodynamic state variable needed for a discontinuity. For 10 points each: 
+[10] Name this changes that are also the study of Landau theory. 
+ANSWER:  
+phase transition 
+ [or  
+phase change 
+] 
+[10] On a PT diagram, these curves separate phases such as liquid and solid. 
+ANSWER:  
+coexistence 
+ curve 
+[10] The coexistence curve for a liquid and its vapor can be determined this equation named for two 
+scientists. It states that the derivative of the log of pressure with respect to temperature equals delta H over 
+R T squared. 
+ANSWER:  
+Clausius-Clapeyron 
+ equation 
+001-11-30-08218 
+NASAT 2011     Round 8     Page  10 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+19. One story about this man in the Muslim tradition claims that Muhammad invoked his knowledge of this 
+man to prove to members of the Quraysh that he was a prophet of God. For 10 points each: 
+[10] Name this Old Testament prophet, who more notably was swallowed by a giant fish when he tried to 
+shirk his duty. 
+ANSWER:  
+Jonah 
+[10] Jonah is sent to warn this city to repent. When the citizens of this city do indeed renounce their evil 
+ways, Jonah becomes despondent out of worry that his task was pointless. 
+ANSWER:  
+Nineveh 
+[10] The story of Jonah appears in the second Biblical book of this name, which also includes the 
+assumption of the throne by David's son Solomon. 
+ANSWER:  
+Kings 
+081-11-30-08219 
+20. The characters of this work flee Florence for ten days as a plague passes through the city. For 10 points 
+each: 
+[10] Name this collection of 100 short stories by Giovanni Boccaccio. 
+ANSWER:  
+The  Decameron 
+[10] In the last story from  
+The Decameron 
+, this extremely patient character marries Gualtieri, who tests her 
+by pretending to have their children executed and to leave her for another woman. 
+ANSWER:  
+Griselda 
+[10] A famous section of  
+The Decameron 
+ describes a parable about three of these objects in which Saladin 
+questions Melchizedek about the origins of the three major monotheistic religions. It was later borrowed by 
+Gotthold Lessing for  
+ Nathan the Wise 
+. 
+ANSWER:  
+ring 
+s 
+088-11-30-08220 
+21. This property is share by both the empty and whole space. For 10 points each: 
+[10] Name this type of set, the complement of an open set. 
+ANSWER:  
+closed 
+ set 
+[10] This type of set consists of the set of all subsets of a starting set. For a starting set with n elements, this 
+type of set consists of 2^n elements. 
+ANSWER:  
+power 
+ set 
+[10] These are sets with relational structure such that every non-empty subset has a least element. 
+ANSWER:  
+well ordered 
+ set 
+064-11-30-08221 
+Powered by TCPDF (www.tcpdf.org) 
+NASAT 2011     Round 8     Page  11 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 

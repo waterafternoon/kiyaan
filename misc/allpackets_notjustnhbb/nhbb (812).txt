@@ -1,0 +1,853 @@
+2014 OAC 
+Packet 8 
+CATEGORY ROUND 
+American Literature: Fictional Women 
+Team A: What beloved sister in  
+Little Women 
+ dies young of scarlet fever? 
+ANSWER:  
+Beth 
+ March [or  
+Elizabeth 
+] 
+Team B: What author created such fictional female characters as Topsy and Little Eva St. Clare? 
+ANSWER: Harriet Beecher  
+Stowe 
+ [or  
+Beecher 
+] 
+Tossup: A woman with this first name dies of malaria contracted soon after she sneaks off to the Coliseum 
+to meet Mr. Giovanelli, upsetting Frederick Winterbourne. Another woman with this first name claims that 
+the best thing that a girl can be in this world is a \"beautiful little fool.\" The latter woman sobs while 
+admiring the beauty of several fancy shirts, kills Myrtle Wilson by running her over with her husband's car, 
+and is symbolized by the green light at the end of her dock. Give this first name of Tom Buchanan's wife, 
+Jay Gatsby's love interest. 
+ANSWER:  
+Daisy 
+ [or  
+Daisy 
+ Miller; or  
+Daisy 
+ Buchanan] 
+Mathematics: Abstract and Elementary Algebra 
+Team B: This is a 20-second calculation question. What is the inverse of the function “y equals one-half 
+times the natural log of x”? 
+ANSWER: y =  
+e^(2x) 
+ [or y equals  
+e to the 2x 
+; or y equals   raised to the power 
+e 
+of   times  ] 
+2 x 
+Team A: This is a 20-second calculation question. If f(x) [\"f of x\"] equals 4x+3 and g(x) equals 2x  - 5, find 
+2 
+f composed with g; that is, find f of g of x. 
+ANSWER:  
+8x  - 17 
+2 
+Tossup: A branch of mathematics that deals with these things was developed by Georg Cantor. The number 
+of elements in one of these is its cardinality. One of them that contains all those that are not members of 
+themselves leads to a contradiction in Russell's paradox. A backslash is used to represent the complement 
+of two of these things while an \"O\" with a slash through it represents the empty one. Name these 
+mathematical collections that can be subject to union or intersection. 
+ANSWER:  
+set 
+s 
+2014 OAC     8     Page  1 of 17 
+World History: Asian Leaders 
+Team A: Which first president of Indonesia was overthrown by the 30th of September movement? 
+ANSWER:  
+Sukarno 
+ [or Kusno  
+Sosrodihardjo 
+; do not accept \"Suharto\"] 
+Team B: Name the dictator who instituted the “Year Zero” policy and referred to himself as “Brother 
+Number One.” 
+ANSWER: Pol  
+Pot 
+ [or Soloth  
+Sar 
+] 
+Tossup: This man was photographed by Gaetano Faillace (fye-LAH-chay) standing next to an enemy 
+general. He was unsuccessfully targeted in the Kyujo Incident, and his surrender message referenced a 
+\"new and most cruel\" weapon with \"incalculable\" damage. This man gave the \"Jewel Voice Broadcast\" to 
+signify his country's unconditional surrender, and was then forced to renounce his divinity by Douglas 
+MacArthur. This ruler was never tried for war crimes, unlike his military leaders such as Hideki Tojo. 
+Name this Emperor of Japan during World War II. 
+ANSWER:  
+Hirohito 
+ [or the  
+Showa 
+ Emperor] 
+Fine Arts: Jazz Instruments 
+Team B: Charles Mingus was an accomplished player of what instrument in the violin family? 
+ANSWER: double  
+bass 
+ [or upright  
+bass 
+; or  
+bass 
+ fiddle; or string  
+bass 
+; or  
+bass 
+violin; or doghouse  
+bass 
+; or contra 
+bass 
+; or  
+bass 
+ viol; or stand-up  
+bass 
+; or  
+bull 
+fiddle 
+; or really anything with the word  
+bass 
+ in it] 
+Team A: Charlie Christian and Django Reinhardt played what instrument? 
+ANSWER: jazz  
+guitar 
+Tossup: Marian McPartland played this instrument on a radio show named for it until 2011. A performer of 
+this instrument composed the soundtrack to the movie  
+Anatomy of a Murder, 
+ and worked with the same 
+composer who wrote his band's theme song, “Take the A Train.” Bill Evans played this instrument for the 
+Miles Davis sextet. “Straight, No Chaser” is a song for this instrument. Name this percussion instrument 
+played by Duke Ellington. 
+ANSWER:  
+piano 
+2014 OAC     8     Page  2 of 17 
+Life Sciences: Proteins 
+Team A: What misfolded proteins are responsible for causing kuru and mad cow disease? 
+ANSWER:  
+prion 
+s 
+Team B: What proteins act as biological catalysts? 
+ANSWER:  
+enzyme 
+s 
+Tossup: The removal of these proteins by apharesis is the treatment for Guillain–Barré (GHEE-yahn 
+BAR-ay) syndrome. These proteins are the subject of the Kabat numbering scheme, and their function 
+mostly depends on their CDR3 regions. These proteins are separated into isotypes by their constant regions, 
+consist of two heavy and two light chains, and get their variable regions from VDJ recombination. These 
+proteins are secreted by plasma cells. Name these Y-shaped proteins that are secreted by B-cells and which 
+bind to antigens. 
+ANSWER:  
+antibodies 
+ [or  
+immunoglobulin 
+s] 
+World Literature: Plays 
+Team B: What playwright wrote  
+The Master Builder 
+? 
+ANSWER: Henrik  
+Ibsen 
+Team A: In what Ibsen play does the title character shoot herself after being blackmailed by Judge Brack? 
+ANSWER:  
+Hedda Gabler 
+Tossup: In this play, not by Ibsen, a character is told to find a Spanish costume in order to court the sister of 
+Kastril, while another is blindfolded and humiliated in order to meet the \"Queen of Fairy.\" The protagonist 
+of this play deals with such characters as the tobacconist Drugger, the wealthy Sir Epicure Mammon, and 
+the clerk Dapper, who wants to summon a familiar. In this play, Lovewit's butler Jeremy poses as Captain 
+Face to join the con artist Subtle. Name this Ben Jonson play featuring characters who desire the 
+philosopher's stone. 
+ANSWER:  
+The  Alchemist 
+2014 OAC     8     Page  3 of 17 
+US Government/Economics: Economic Quantities 
+Team A: Inflation separates the \"real\" from the \"nominal\" version of what quantity commonly reduced in 
+expansionary policy? 
+ANSWER:  
+interest rate 
+ [prompt on partial answer] 
+Team B: What quantity is computed by adding consumer spending, investment, excess of exports over 
+imports, and government spending? 
+ANSWER:  
+GDP 
+ [or  
+gross domestic product 
+] 
+Tossup: In perfect competition, the curve for this quantity is the section of the marginal cost curve found 
+above the minimum average variable cost. In the long run, the aggregate form of this quantity is perfectly 
+vertical. A \"shock\" named for this quantity quickly moves the equilibrium price, as in the 1973 oil 
+embargo. This quantity goes up with price in a traditional diagram. Name this quantity which forms the 
+equilibrium point where it meets demand. 
+ANSWER:  
+supply 
+Physical Sciences: Light 
+Team B: What type of scattering occurs when light hits a particle smaller than its wavelength? It explains 
+why the sky is blue. 
+ANSWER:  
+Rayleigh 
+ scattering 
+Team A: What phenomenon occurs due to the quantized nature of light, and sees metals emit electrons 
+when hit by sufficiently energetic beams? 
+ANSWER:  
+photoelectric 
+ effect 
+Tossup: One description of this phenomenon uses Green's theorem to solve the wave equation at a point 
+based on its solutions at all points on a surface around the point; that is Kirchoff's formulation. This 
+phenomenon occurring at a knife edge is the subject of Huygens principle, which in another system creates 
+the Airy disk. It can occur through gratings, single slits, or circular apertures. Name this phenomenon in 
+which light bends around an obstacle. 
+ANSWER:  
+diffraction 
+2014 OAC     8     Page  4 of 17 
+World Geography: Polluted Cities 
+Team A: This capital city beat out Beijing in a 2014 study's comparison of air pollution. The annual 
+Republic Day parade takes place on this city's Rajpath. 
+ANSWER:  
+New Delhi 
+ [do not accept or prompt on \"Delhi\"] 
+Team B: This capital city was named the \"most dangerous city in the world for children\" in 1999 by the 
+World Resources Institute because of its air pollution, and is home to the Plaza of the Three Cultures. 
+ANSWER:  
+Mexico City 
+Tossup: This city's valley causes pollution problems for the Guaire (goo-ah-EE-ray) River, and it spills 
+over the boundary of Miranda state. The Parque Central area of this city is taking over municipal functions 
+from the surroundings of the Miraflores (mee-rah-FLOR-ehs) Palace. This city's National Pantheon 
+contains the tomb of Simon Bolivar. Name this city which still leads Valencia and Maracaibo as the 
+population and economic center of Venezuela. 
+ANSWER:  
+Caracas 
+American History: Historical Enemies 
+Team B: What political family along the West Virginia-Kentucky border was led by \"Devil Anse\" while 
+they engaged in a longtime feud with the family of \"Ole Ran'l?\" 
+ANSWER:  
+Hatfield 
+s 
+Team A: Al Capone ordered what 1929 mass slaying against rival Bugs Moran's organization? 
+ANSWER:  
+Saint Valentine's 
+ Day Massacre 
+Tossup: This man led armed warriors to confront an opposing general at the general's Indiana home of 
+Grouseland. He declined a commission from Henry Procter honoring him for his efforts in the siege of 
+Detroit. Future Vice-President Richard Johnson claimed to have killed this man at the Battle of the Thames 
+during the War of 1812. His brother was Tenskwatawa (TENS-kwuh-TAH-wah), otherwise known as the 
+Prophet. Name this Shawnee leader who was defeated by William Henry Harrison at the Battle of 
+Tippecanoe. 
+ANSWER:  
+Tecumseh 
+2014 OAC     8     Page  5 of 17 
+Alphabet Round-Letter F 
+1. What sole opera by Beethoven features the title character Leonore disguised as a prison guard? 
+2.  
+(MULTIPLE WORD ANSWER) 
+ What woodcut by Albrecht Durer includes Famine and Pestilence trampling over hapless 
+victims? 
+3. What political party, whose members included Charles Cotesworth Pinckney and Rufus King, disbanded after the War of 
+1812? 
+4. What is the name of the origin point of an earthquake that lies directly below the epicenter? 
+5.  
+(TWO WORD ANSWER) 
+ What sister city of Dallas is the home of the Van Cliburn piano competition and Texas Christian 
+University? 
+6.  
+(MULTIPLE WORD ANSWER) 
+ What Catholic saint is known as Poverello and is known for preaching to birds? 
+7.  
+(TWO WORD ANSWER) 
+ What heir to the throne to the Austro-Hungarian Empire was assassinated by Gavrilo Princip in 
+1914? 
+8. What American jazz singer gained fame for her rendition of “A-Tisket, A-Tasket”? 
+9. What medieval sect was known for traveling throughout Europe and whipping each other during the Black Death? 
+10. What author co-wrote several novels with Joseph Conrad and produced  
+The Good Soldier 
+ and  
+Parade's End 
+ on his own? 
+11. What Swiss-born painter created the  
+The Night-Hag Visiting the Lapland Witches 
+ and  
+The Nightmare? 
+12. What satirist wrote  
+Jonathan Wild 
+ and  
+Tom Jones> 
+13.  
+(MULTIPLE WORD ANSWER OR ABBREVIATION) 
+ What American government agency was the employer of the 
+Russian spy Robert Hanssen? 
+14. What Vanir Norse god receives half of the dead at her hall and owns the necklace Brisingamen? 
+15. Volcano craters often contain what vents that hydrogen sulfide or steam exhaust through? 
+16. What term in economics is the opposite of variable costs and includes expenses such as building rent? 
+17. What class of mathematical shapes were named by Benoit Mandelbrot, examples of which include snowflakes? 
+18. What is the alternate name for the Persian language? 
+19. What Shakespearean stock character is represented by Feste in  
+Twelfth Night 
+? 
+20. What comic relief character in several Shakespeare plays is the protagonist of  
+The Merry Wives of Windsor? 
+2014 OAC     8     Page  6 of 17 
+Alphabet Round-Letter F ANSWERS 
+1.  
+Fidelio 
+2.  
+The  Four Horsemen of the Apocalypse 
+3.  
+Federalist 
+ Party 
+4.  
+focus 
+5.  
+Fort Worth 
+6. Saint  
+Francis of Assisi 
+7.  
+Franz Ferdinand 
+ [or  
+Francis Ferdinand 
+] 
+8. Ella  
+Fitzgerald 
+9.  
+flagellants 
+10. Ford Madox  
+Ford 
+11. Henry  
+Fuseli 
+12. Henry  
+Fielding 
+13.  
+Federal Bureau of Investigation 
+ [or  
+FBI 
+] 
+14.  
+Freya 
+ [or  
+Freyja 
+; do not accept \"Frey\" or \"Freyr\"] 
+15.  
+fumarole 
+s 
+16.  
+fixed 
+ cost 
+17.  
+Fractal 
+18.  
+Farsi 
+19.  
+fool 
+20. Sir John  
+Falstaff 
+2014 OAC     8     Page  7 of 17 
+FINAL ROUND 
+1. This country was the home of a poet who wrote a work about a soul being unchained from the body 
+during the night in  
+First Dream 
+. Another author from this country renewed interest in Sor Juana Ines de la 
+Cruz with his  
+The Traps of Faith 
+ and wrote an essay about about this country entitled  
+The Labryinth of 
+Solitude 
+. One author from this country wrote  
+The Old Gringo 
+, a fictionalized account of Ambrose Bierce’s 
+trip to this country with the army of Pancho Villa. Name this home country of Carlos Fuentes and Octavio 
+Paz. 
+ANSWER:  
+Mexico 
+030-14-103-08101 
+2. Working with one of these companies, John Jervis created the  
+Stourbridge Lion. 
+ Another of these 
+companies survived the Panic of 1873 under Jay Gould's leadership. The ICC was created to regulate prices 
+set by these companies. Another of these companies was financed by the \"Big Four,\" a group of 
+philanthropists including Leland Stanford. The Union Pacific and Central Pacific were what kind of 
+company that worked on a \"transcontinental\" transport system? 
+ANSWER:  
+railroad 
+ companies [or  
+railway 
+ companies] 
+080-14-103-08102 
+3. Sir Philip Sidney's  
+Defence of Poesy 
+ describes the common medieval practice of predicting the future by 
+selecting a line at random from this text. One character in this text falls behind in a footrace by slipping in 
+some blood from an animal sacrifice, but trips another competitor to allow his friend to win. Earlier in this 
+text, Aeolus summons a storm at the behest of Juno, who hates the main character as he is a survivor from 
+Troy. The main character wars against Turnus after fleeing Carthage following the suicide of Dido. Name 
+this Latin epic poem written by Virgil. 
+ANSWER:  
+Aeneid 
+020-14-103-08103 
+4. The value for the glass transition in polymers is often found using a differential scanning variety of these 
+devices. A sample is placed in a combustion crucible and ignited in the most common type of these devices 
+found in labs, the bomb. A simple example of these devices can be created by nesting two styrofoam cups 
+and capping them with a lid that has two holes, for a thermometer and stirrer. Identify these devices that are 
+used to measure the heat of a reaction and heat capacity of materials. 
+ANSWER:  
+calorimeter 
+s 
+066-14-103-08104 
+5. This man conducted a study in which clothing merchant Mr. Jacobs delivered items to Sharon, 
+Massachusetts. He sent letters to people in Nebraska in the \"small world\" experiment, which introduced the 
+idea of \"six degrees of separation.\" In an earlier experiment, he ordered \"teachers\" to administer 
+punishments to unseen \"learners.\" Name this psychologist who tested people's willingness to follow 
+authority by administering theoretically dangerous electric shocks. 
+ANSWER: Stanley  
+Milgram 
+052-14-103-08105 
+6. While studying at Ingolstadt, this character is inspired when he sees lightning strike a tree with immense 
+power. This character is rescued, half-frozen, by Captain Robert Walton, whose letters provide the frame 
+narrative of the novel in which he appears. This friend of Henry Clerval is engaged to marry Elizabeth 
+Lavenza, who is killed on their wedding night. Identify this title character of a Mary Shelley novel, a 
+scientist who brings his namesake \"monster\" to life. 
+ANSWER: Victor  
+Frankenstein 
+233-14-103-08106 
+2014 OAC     8     Page  8 of 17 
+7. This building was broken into several times by a youth known as \"the boy Jones.\" Unlike similar 
+locations such as Sandringham and Balmoral, it is not owned by an individual but rather the state. The 
+Golden State Coach is located adjacent to this building at the John Nash-designed Royal Mews. During a 
+war, a queen said she was glad this location was bombed because she could \"look the East End in the face.\" 
+The ceremony of \"changing the Queen's Life Guard\" occurs here. Name this palace in London, the 
+residence of the British monarch. 
+ANSWER:  
+Buckingham 
+ Palace 
+052-14-103-08107 
+8. This politician's 1971 election bid was grounded in a slogan for \"eliminating poverty.\" She put her son in 
+charge of an aggressive family planning program which controversially included sterilization quotas. She 
+was killed en route to an interview with Peter Ustinov. Her authorization of Operation Blue Star, which was 
+an attack on the Golden Temple of Amritsar, ultimately led to her assassination by her own Sikh 
+bodyguards, after which she was succeeded by her son Rajiv. Identify this daughter of Jawaharlal 
+(jah-WAH-hur-lol) Nehru and first female prime minister of India. 
+ANSWER:  ndira Priyadarshini  
+I Gandhi 
+ [prompt on  
+Gandhi 
+] 
+189-14-103-08108 
+9. This man depicted himself surrounded by owls and bats in  
+The Sleep of Reason Produces Monsters. 
+ This 
+artist depicted a nude scene of a reclining woman, which can be found in the Prado next to his \"clothed\" 
+version of the same woman. This man also painted the scene of a demonic creature consuming his offspring 
+as a part of his  
+Black Paintings 
+ series. Name this Spanish artist of  
+Saturn Devouring His Children 
+ who 
+painted the massacre of Spanish citizens by Napoleon’s army in  
+The Third of May, 1808. 
+ANSWER: Francisco  
+Goya 
+227-14-103-08109 
+10. During this war, two battles were fought at St. Albans, the latter of which led to Henry VI's release 
+from captivity. Richard Neville became known as Warwick the Kingmaker for his actions during this 
+conflict. In its climactic clash, Richard III exclaimed, \"A horse, a horse, my kingdom for a horse!\" before 
+dying at Bosworth Field. Identify these fifteenth-century English conflicts between the Houses of Lancaster 
+and York, named for their red and white floral emblems. 
+ANSWER: Wars of the  
+Roses 
+233-14-103-08110 
+11. If a function satisfies Laplace's (luh-PLOSS-iz) equation, then its mean value on the surface of this 
+figure equals its value at this figure's center. The gravitational force exerted by a shell of this shape on a 
+particle inside the shell is always zero. The constant of proportionality for moment of inertia of a hollow 
+one of these is two-thirds, while a solid one has constant two-fifths. This is the shape of the orbital with 
+azimuthal quantum number zero, known as the s orbital. Identify this shape which has volume four-thirds 
+pi r-cubed. 
+ANSWER:  
+sphere 
+s [or word forms, such as  
+spherical 
+] 
+233-14-103-08111 
+12. This man ordered the hasty construction of the Sviyazhsk (svee-ESK) fort during his campaign against 
+Kazan. In a movie about this man, a feast changes from black and white to color when some of his 
+bodyguards begin to dance. This subject of a 1944 Sergei Eisenstein film celebrated his conquest of Kazan 
+by having St. Basil's Cathedral built. This ruler founded the oprichniki (op-rich-NEE-kee) after his wife 
+Anastasia died. Name this tsar of Russia known for his extreme cruelty. 
+ANSWER:  
+Ivan the Terrible 
+ [or  
+Ivan IV 
+; or  
+Ivan the Awesome 
+; prompt on  
+Ivan 
+] 
+186-14-103-08112 
+2014 OAC     8     Page  9 of 17 
+13. During this day, believers practice vidui (vee-doo-EE) in order to amend their yearly fate in the Book of 
+Life. This day names a 1973 war between an Egypt-led Arab coalition and Israel, also known as the 
+Ramadan War. Services on this holiday begin with the Kol Nidre (cole NEE-dray) prayer, and it marks the 
+end of the High Holy Days. This day, marked by fasting and asking for God's forgiveness, falls nine days 
+after the new year, Rosh Hashanah. Name this Jewish day of atonement. 
+ANSWER:  
+Yom Kippur 
+005-14-103-08113 
+14. Music from this country came to international attention thanks to the score for its film  
+Black Orpheus 
+. 
+A recording of \"Desafinado\" by Charlie Byrd and Stan Getz helped popularize its music in the United 
+States. Joao Gilberto and Antonio Carlos Jobim helped develop a style of music in this country whose 
+name roughly means \"new wave.\" Name this home country of  
+bossa nova 
+ music, whose popular song \"The 
+Girl from Ipanema\" is named for a district in Rio de Janeiro. 
+ANSWER:  
+Brazil 
+080-14-103-08114 
+15. The influence of this group increased when Peter Porter took over the House Committee on Foreign 
+Affairs and Langdon Cheves became the chairman of the House Ways and Means Committee. John 
+Randolph coined this term, which denoted a group of politicians from Southern and Western states. Some 
+elements of this faction, led by Henry Clay, agitated for an invasion of Canada. Identify these 
+Democratic-Republicans who convinced James Madison to enter a conflict with Britain in 1812. 
+ANSWER:  
+war hawk 
+s 
+020-14-103-08115 
+16. The main character of this novel speaks to the private investigator Britten and tries to frame Jan Erlone 
+for a crime. Bessie Mears hides for a time with the protagonist before he kills her and throws her body 
+down an air shaft. The Communist Boris Max represents the protagonist of this novel in trial, which 
+sentences that character to death for the murder of Mary Dalton, a young white woman. Name this novel 
+written about Bigger Thomas by Richard Wright. 
+ANSWER:  
+Native Son 
+023-14-103-08116 
+17. A theory that attempts to explain this phenomenon argues the substantial gelatinosa in the dorsal horn 
+of the spinal cord contains a \"gate\" that controls it. Although it is not fever, drugs that suppress this 
+phenomenon include ketobemidone (KEY-toh-bem-EH-doan) and paracetamol (PAIR-uh-CEET-uh-mall). 
+It is caused by contact between the medial epicondyle (EH-puh-CON-dial) of the humerus and the ulnar 
+nerve. This sense is removed by the chemicals lidocaine and novocaine, which are both anesthetics. 
+Identify this feeling which may accompany burns or broken bones. 
+ANSWER:  
+pain 
+ [or  
+nociception 
+; prompt on  
+touch 
+; prompt on  
+suffering 
+] 
+239-14-103-08117 
+2014 OAC     8     Page  10 of 17 
+18. In one of this author’s books, he writes that he feels like a chess piece that has been told it cannot move 
+by an opponent, and he asks whether a quick death is preferable to being trampled to death by geese. This 
+author contrasted the happy “knight of faith” with the “knight of infinite resignation.” He explored the 
+anxiety Abraham felt when being told to sacrifice Isaac. This man used such aliases as “Johannes de 
+Silentio” and “Hilarius Bookbinder.” Name this Danish philosopher who wrote  
+Fear and Trembling 
+ and  
+Either/Or. 
+ANSWER: Søren Aabye  
+Kierkegaard 
+ [or Johannes de  
+Silentio 
+ until it is read; or Victor  
+Eremita 
+; or 
+William  
+Afham 
+; or Frater  
+Taciturnus 
+; or Constantin  
+Constantius 
+; or Vigilius  
+Haufniensis 
+; or Nicolaus  
+Notabene 
+; or A.B.C.D E.F.  
+Godthaab 
+; or A.B.C.D.E.F.  
+Rosenblad 
+; or  
+Inter et Inter 
+; or  
+Procul 
+; or 
+Captain  
+Scipio 
+; or  
+Judge William 
+; or  
+A.F. 
+; or Hilarius  
+Bookbinder 
+ until it is read; or Johannes  
+Climacus 
+; 
+or  
+H.H. 
+; or  
+Anti-Climacus 
+; prompt on  ; prompt on  ] 
+A B 
+052-14-103-08118 
+19. This man supposedly dismissed the report of two Yale professors about \"rocks that fell from the sky.\" 
+This scientist was inspired by the Chinese to create a \"Great Clock\" that used a gong to signal the hour. 
+Though not Franklin, he wrote to John Jay about interchangeable parts while ambassador to France in 
+1785. He ordered an expedition that documented hundreds of new species in the as-yet-unexplored 
+Louisiana Purchase, which he made. Name this man who designed the University of Virginia campus and 
+his home, Monticello, and also ordered the Lewis & Clark Expedition. 
+ANSWER: Thomas  
+Jefferson 
+239-14-103-08119 
+20. This goddess pulled a handful of hair out of the chest of Brontes after he placed her on his knee. This 
+goddess killed the giants Otus and Ephialtes by tricking them into throwing a spear at each other. This 
+goddess sent a boar to rampage through Calydon. Actaeon was transformed into a stag after he witnessed 
+her bathing in a stream, and Leto gave birth to this goddess on Delos with her brother. Name this 
+Greco-Roman goddess of the moon and the twin sister of Apollo. 
+ANSWER:  
+Artemis 
+ [or  
+Diana 
+] 
+227-14-103-08120 
+2014 OAC     8     Page  11 of 17 
+Alphabet Round-Letter F 
+1. What sole opera by Beethoven features the title character Leonore disguised as a prison guard? 
+2.  
+(MULTIPLE WORD ANSWER) 
+ What woodcut by Albrecht Durer includes Famine and Pestilence trampling over hapless 
+victims? 
+3. What political party, whose members included Charles Cotesworth Pinckney and Rufus King, disbanded after the War of 
+1812? 
+4. What is the name of the origin point of an earthquake that lies directly below the epicenter? 
+5.  
+(TWO WORD ANSWER) 
+ What sister city of Dallas is the home of the Van Cliburn piano competition and Texas Christian 
+University? 
+6.  
+(MULTIPLE WORD ANSWER) 
+ What Catholic saint is known as Poverello and is known for preaching to birds? 
+7.  
+(TWO WORD ANSWER) 
+ What heir to the throne to the Austro-Hungarian Empire was assassinated by Gavrilo Princip in 
+1914? 
+8. What American jazz singer gained fame for her rendition of “A-Tisket, A-Tasket”? 
+9. What medieval sect was known for traveling throughout Europe and whipping each other during the Black Death? 
+10. What author co-wrote several novels with Joseph Conrad and produced  
+The Good Soldier 
+ and  
+Parade's End 
+ on his own? 
+11. What Swiss-born painter created the  
+The Night-Hag Visiting the Lapland Witches 
+ and  
+The Nightmare? 
+12. What satirist wrote  
+Jonathan Wild 
+ and  
+Tom Jones> 
+13.  
+(MULTIPLE WORD ANSWER OR ABBREVIATION) 
+ What American government agency was the employer of the 
+Russian spy Robert Hanssen? 
+14. What Vanir Norse god receives half of the dead at her hall and owns the necklace Brisingamen? 
+15. Volcano craters often contain what vents that hydrogen sulfide or steam exhaust through? 
+16. What term in economics is the opposite of variable costs and includes expenses such as building rent? 
+17. What class of mathematical shapes were named by Benoit Mandelbrot, examples of which include snowflakes? 
+18. What is the alternate name for the Persian language? 
+19. What Shakespearean stock character is represented by Feste in  
+Twelfth Night 
+? 
+20. What comic relief character in several Shakespeare plays is the protagonist of  
+The Merry Wives of Windsor? 
+2014 OAC     8     Page  12 of 17 
+Alphabet Round-Letter F 
+1. What sole opera by Beethoven features the title character Leonore disguised as a prison guard? 
+2.  
+(MULTIPLE WORD ANSWER) 
+ What woodcut by Albrecht Durer includes Famine and Pestilence trampling over hapless 
+victims? 
+3. What political party, whose members included Charles Cotesworth Pinckney and Rufus King, disbanded after the War of 
+1812? 
+4. What is the name of the origin point of an earthquake that lies directly below the epicenter? 
+5.  
+(TWO WORD ANSWER) 
+ What sister city of Dallas is the home of the Van Cliburn piano competition and Texas Christian 
+University? 
+6.  
+(MULTIPLE WORD ANSWER) 
+ What Catholic saint is known as Poverello and is known for preaching to birds? 
+7.  
+(TWO WORD ANSWER) 
+ What heir to the throne to the Austro-Hungarian Empire was assassinated by Gavrilo Princip in 
+1914? 
+8. What American jazz singer gained fame for her rendition of “A-Tisket, A-Tasket”? 
+9. What medieval sect was known for traveling throughout Europe and whipping each other during the Black Death? 
+10. What author co-wrote several novels with Joseph Conrad and produced  
+The Good Soldier 
+ and  
+Parade's End 
+ on his own? 
+11. What Swiss-born painter created the  
+The Night-Hag Visiting the Lapland Witches 
+ and  
+The Nightmare? 
+12. What satirist wrote  
+Jonathan Wild 
+ and  
+Tom Jones> 
+13.  
+(MULTIPLE WORD ANSWER OR ABBREVIATION) 
+ What American government agency was the employer of the 
+Russian spy Robert Hanssen? 
+14. What Vanir Norse god receives half of the dead at her hall and owns the necklace Brisingamen? 
+15. Volcano craters often contain what vents that hydrogen sulfide or steam exhaust through? 
+16. What term in economics is the opposite of variable costs and includes expenses such as building rent? 
+17. What class of mathematical shapes were named by Benoit Mandelbrot, examples of which include snowflakes? 
+18. What is the alternate name for the Persian language? 
+19. What Shakespearean stock character is represented by Feste in  
+Twelfth Night 
+? 
+20. What comic relief character in several Shakespeare plays is the protagonist of  
+The Merry Wives of Windsor? 
+2014 OAC     8     Page  13 of 17 
+Alphabet Round-Letter F 
+1. What sole opera by Beethoven features the title character Leonore disguised as a prison guard? 
+2.  
+(MULTIPLE WORD ANSWER) 
+ What woodcut by Albrecht Durer includes Famine and Pestilence trampling over hapless 
+victims? 
+3. What political party, whose members included Charles Cotesworth Pinckney and Rufus King, disbanded after the War of 
+1812? 
+4. What is the name of the origin point of an earthquake that lies directly below the epicenter? 
+5.  
+(TWO WORD ANSWER) 
+ What sister city of Dallas is the home of the Van Cliburn piano competition and Texas Christian 
+University? 
+6.  
+(MULTIPLE WORD ANSWER) 
+ What Catholic saint is known as Poverello and is known for preaching to birds? 
+7.  
+(TWO WORD ANSWER) 
+ What heir to the throne to the Austro-Hungarian Empire was assassinated by Gavrilo Princip in 
+1914? 
+8. What American jazz singer gained fame for her rendition of “A-Tisket, A-Tasket”? 
+9. What medieval sect was known for traveling throughout Europe and whipping each other during the Black Death? 
+10. What author co-wrote several novels with Joseph Conrad and produced  
+The Good Soldier 
+ and  
+Parade's End 
+ on his own? 
+11. What Swiss-born painter created the  
+The Night-Hag Visiting the Lapland Witches 
+ and  
+The Nightmare? 
+12. What satirist wrote  
+Jonathan Wild 
+ and  
+Tom Jones> 
+13.  
+(MULTIPLE WORD ANSWER OR ABBREVIATION) 
+ What American government agency was the employer of the 
+Russian spy Robert Hanssen? 
+14. What Vanir Norse god receives half of the dead at her hall and owns the necklace Brisingamen? 
+15. Volcano craters often contain what vents that hydrogen sulfide or steam exhaust through? 
+16. What term in economics is the opposite of variable costs and includes expenses such as building rent? 
+17. What class of mathematical shapes were named by Benoit Mandelbrot, examples of which include snowflakes? 
+18. What is the alternate name for the Persian language? 
+19. What Shakespearean stock character is represented by Feste in  
+Twelfth Night 
+? 
+20. What comic relief character in several Shakespeare plays is the protagonist of  
+The Merry Wives of Windsor? 
+2014 OAC     8     Page  14 of 17 
+Alphabet Round-Letter F 
+1. What sole opera by Beethoven features the title character Leonore disguised as a prison guard? 
+2.  
+(MULTIPLE WORD ANSWER) 
+ What woodcut by Albrecht Durer includes Famine and Pestilence trampling over hapless 
+victims? 
+3. What political party, whose members included Charles Cotesworth Pinckney and Rufus King, disbanded after the War of 
+1812? 
+4. What is the name of the origin point of an earthquake that lies directly below the epicenter? 
+5.  
+(TWO WORD ANSWER) 
+ What sister city of Dallas is the home of the Van Cliburn piano competition and Texas Christian 
+University? 
+6.  
+(MULTIPLE WORD ANSWER) 
+ What Catholic saint is known as Poverello and is known for preaching to birds? 
+7.  
+(TWO WORD ANSWER) 
+ What heir to the throne to the Austro-Hungarian Empire was assassinated by Gavrilo Princip in 
+1914? 
+8. What American jazz singer gained fame for her rendition of “A-Tisket, A-Tasket”? 
+9. What medieval sect was known for traveling throughout Europe and whipping each other during the Black Death? 
+10. What author co-wrote several novels with Joseph Conrad and produced  
+The Good Soldier 
+ and  
+Parade's End 
+ on his own? 
+11. What Swiss-born painter created the  
+The Night-Hag Visiting the Lapland Witches 
+ and  
+The Nightmare? 
+12. What satirist wrote  
+Jonathan Wild 
+ and  
+Tom Jones> 
+13.  
+(MULTIPLE WORD ANSWER OR ABBREVIATION) 
+ What American government agency was the employer of the 
+Russian spy Robert Hanssen? 
+14. What Vanir Norse god receives half of the dead at her hall and owns the necklace Brisingamen? 
+15. Volcano craters often contain what vents that hydrogen sulfide or steam exhaust through? 
+16. What term in economics is the opposite of variable costs and includes expenses such as building rent? 
+17. What class of mathematical shapes were named by Benoit Mandelbrot, examples of which include snowflakes? 
+18. What is the alternate name for the Persian language? 
+19. What Shakespearean stock character is represented by Feste in  
+Twelfth Night 
+? 
+20. What comic relief character in several Shakespeare plays is the protagonist of  
+The Merry Wives of Windsor? 
+2014 OAC     8     Page  15 of 17 
+Alphabet Round-Letter F 
+Team Name: _________________________________________________ 
+1.   _________________________________________________ 
+2.   _________________________________________________ 
+3.   _________________________________________________ 
+4.   _________________________________________________ 
+5.   _________________________________________________ 
+6.   _________________________________________________ 
+7.   _________________________________________________ 
+8.   _________________________________________________ 
+9.   _________________________________________________ 
+10. _________________________________________________ 
+11. _________________________________________________ 
+12. _________________________________________________ 
+13. _________________________________________________ 
+14. _________________________________________________ 
+15. _________________________________________________ 
+16. _________________________________________________ 
+17. _________________________________________________ 
+18. _________________________________________________ 
+19. _________________________________________________ 
+20. _________________________________________________ 
+2014 OAC     8     Page  16 of 17 
+Alphabet Round-Letter F 
+Team Name: _________________________________________________ 
+1.   _________________________________________________ 
+2.   _________________________________________________ 
+3.   _________________________________________________ 
+4.   _________________________________________________ 
+5.   _________________________________________________ 
+6.   _________________________________________________ 
+7.   _________________________________________________ 
+8.   _________________________________________________ 
+9.   _________________________________________________ 
+10. _________________________________________________ 
+11. _________________________________________________ 
+12. _________________________________________________ 
+13. _________________________________________________ 
+14. _________________________________________________ 
+15. _________________________________________________ 
+16. _________________________________________________ 
+17. _________________________________________________ 
+18. _________________________________________________ 
+19. _________________________________________________ 
+20. _________________________________________________ 
+Powered by TCPDF (www.tcpdf.org) 
+2014 OAC     8     Page  17 of 17 

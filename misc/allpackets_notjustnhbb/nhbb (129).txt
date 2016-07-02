@@ -1,0 +1,721 @@
+NASAT 2012 
+Round 4 
+Tossups 
+1. In Bengali, this form is derived by adding the suffix -te to the verb stem, as in \"korte.\" Hebrew has two 
+versions of this form, the \"absolute\" and the \"construct.\" In German, this form is sometimes found with the 
+preposition \"zu,\" but always in \"en\" and is thus exemplified by \"sagen\" and \"schlafen.\" In Latin, its 
+\"complementary\" form can accompany the verbs \"volo\" (WOA-low) and \"nolo\" (NOAL-low). Spanish first 
+conjugation verbs take this form when they end in -ar, like \"hablar\"; in English, overly-parsimonious 
+grammarians warn against \"splitting\" them. For 10 points, name this verb form, exemplified by the English 
+\"to do.\" 
+ANSWER: present  
+infinitives 
+080-12-59-04102 
+2. The government of this city began the controversial Galliara beautification project. Legend has it that 
+Hazrat Mian Mir laid the foundation of one building in this city. The Sarovar is a tank here which contains 
+holy water. Its name comes from the “Pool of the Nectar of Immortality,” an item created by this city’s 
+founder, Ram Das. Adherents of a particular faith were horrified when troops entered this city as part of 
+Operation Blue Star. The most famous building in this city is officially titled the Harmandir Sahib. That 
+gurdwara was completed by Arjun Dev and houses the Adi Granth. For 10 points, name this city in India, 
+home to the Sikh Golden Temple. 
+ANSWER:  
+Amritsar 
+ [or  
+Ramdaspur 
+; or  
+Ambarsar 
+] 
+052-12-59-04103 
+3. This king created the positions of \"baillis\" and \"seneschals\" to supervise local government. This man was 
+placed under interdict for refusing to give up his third wife and retake Ingeborg of Denmark, his second 
+wife. This ruler built a namesake city wall to fortify Paris. After capturing the castle of Chateau-Gaillard, 
+he proceeded with the conquest of Normandy. A coalition of the Count of Flanders, Emperor Otto IV, and 
+the Count of Boulogne failed to defeat this man at the Battle of Bouvines. Despite possibly having a 
+homosexual affair with Richard I on the Third Crusade, he waged many wars against the Angevin Empire. 
+For 10 points, name this King of France from 1180 to 1223, whose byname was a Roman title. 
+ANSWER:  
+Philip II 
+ Augustus of France [or  
+Philip Augustus 
+; or  
+Philip the Great 
+; or  
+Philippe Auguste 
+; 
+prompt on  
+Philip 
+; prompt on  
+Philippe 
+] 
+080-12-59-04104 
+4. In one work by this man featuring a number of drinking songs, the government closes all the pubs for its 
+citizens' supposed good. George Bernard Shaw created a portmanteau to parody this man's friendship with 
+Hilaire Belloc. This author of  
+The Flying Inn 
+ wrote a novel in which the commoner Auberon Quin becomes 
+king of England and makes the different boroughs of London go to war with one another. In \"The Blue 
+Cross,\" he introduced the criminal Flambeau, who is foiled by a Catholic priest/detective. Another of his 
+works ends after Gabriel Syme learns that the other weekdays are also undercover detectives. For 10 points, 
+name this author of  
+The Napoleon of Notting Hill, 
+ the Father Brown stories, and  
+The Man Who Was 
+Thursday. 
+ANSWER: Gilbert Keith  
+Chesterton 
+105-12-59-04105 
+NASAT 2012     Round 4     Page  1 of 12 
+5. The groups of this type are ones that given a vector space over a field, preserve a non-degenerate 
+quadratic form over that space. Euler's conjecture on Graeco-Roman Squares was refuted for n=6 by 
+finding this sort of matrix. Householder matricies are always symmetric and this. Linear transformations of 
+this type preserve inner products. Fourier's theorem is dependent on trignometric functions having this 
+property, which means the integral from negative pi to pi of sin kx times sin jx dx is only non-zero for k 
+equals j. If the vectors in a basis are of unit length and this, then they are orthonormal. If the dot product of 
+two vectors is zero, the vectors are this to each other. For 10 points, name this adjective used to describe 
+lines or curves that are perpendicular. 
+ANSWER:  
+orthogonal 
+001-12-59-04106 
+6. Delis in this city are known for a codfish patty usually served with mustard between two saltines. In this 
+city, Isaac Emerson copied Florence’s Palazzo Vecchio, but moved the clock face up, to design a tower 
+owned by Bromo-Seltzer. I.M Pei designed a pentagonal, 405-foot World Trade Center for this city, whose 
+neighborhoods include Locust Point and Fells Point. Suburbs of this city include the largely-Jewish 
+Pikesville and Towson, and it was the eastern terminus of an early railroad out to the Ohio River, which 
+was partly named for it. This city recently renovated its Inner Harbor, and it’s home to the Pimlico race 
+course. For 10 points, name this city once guarded by Fort McHenry, the largest in Maryland. 
+ANSWER:  
+Baltimore 
+, Maryland 
+104-12-59-04107 
+7. One piece of art about this war was created by Sal Veder and depicts Robert Stirm, who had received a 
+letter of separation from his wife three days before. Besides  
+Burst of Joy 
+, which depicts a teenager eagerly 
+racing towards her returning father, this conflict was represented by a work showing a girl mouthing the 
+words “too hot, too hot.” One photo of this conflict depicts a national police chief about to shoot and 
+execute his prisoner, while another photo features a naked screaming child running on a road after being 
+burned by napalm. For 10 points, name this conflict represented by a photograph in which General Nguyen 
+Ngoc Loan executes Nguyen Van Lem on a street in Saigon. 
+ANSWER:  
+Vietnam 
+ War 
+052-12-59-04108 
+8. After pushing the protagonist of this work's car into a ravine, a policeman tells him, “Them that don't 
+have cars don't need licenses.” Another character in this work spends his afternoons unsuccessfully flirting 
+with the waitress of the Frosty Bottle before visiting the “muvseevum” that contains a shrunken artifact. 
+The protagonist's second encounter with the police comes when they beat him to death after he has blinded 
+himself and is found lying in a ditch. Enoch steals a mummy and tries to make it the “new jesus” of the 
+protagonist's new religion. For 10 points, Hazel Motes tries to start the Church Without Christ in what 
+novel, the first by Flannery O'Connor? 
+ANSWER:  
+Wise Blood 
+121-12-59-04109 
+NASAT 2012     Round 4     Page  2 of 12 
+9. In his last days, this man called Whitelaw Reid a \"son of a bitch\" and accused him of stealing his prized 
+possession. One cartoon depicts this man shaking hands with a Southerner as they stand over a dead black 
+man, a reference to his call for Americans to \"clasp hands over the bloody chasm.\" He published \"The 
+Prayer of Twenty Millions,\" an open letter calling on Lincoln to free the slaves. In his presidential 
+campaign, he was mocked for signing a bond for the release of Jefferson Davis. This man died before the 
+1872 electoral votes were counted, though his Liberal Republican campaign was easily beaten by Ulysses 
+Grant. For 10 points, name this founder of the  
+New York Tribune 
+ who was credited with the quote \"Go 
+West, young man.\" 
+ANSWER: Horace  
+Greeley 
+052-12-59-04110 
+10. In polymer solutions, these phenomena occurs through a process called spinodal decomposition, and 
+one of these that does not break symmetry occurs in the two-dimensional XY model and is of infinite order. 
+Continuous ones can be sorted into universality classes by their critical exponents. One equation for 
+describing these phenomena equates the derivative of pressure with respect to temperature to the inverse of 
+temperature times the change in volume; that equation is named for Clausius and Clapeyron 
+(\"KLAH-peh-rohn\"). Black postulated a form of energy that is absorbed or released during this 
+phenomenon without causing a change in temperature, known as latent heat. For 10 points, name this type 
+of physical phenomenon whose variants include deposition, sublimation, and melting. 
+ANSWER:  
+phase transition 
+ [accept equivalents like  
+phase change 
+; accept  
+separation 
+ before \"XY 
+model\"] 
+064-12-59-04111 
+11. This man fathered twins on Tyro, who murdered them, as part of an attempt to overthrow his brother 
+Salmoneus. To thwart Autolycus' attempts at theft, this man wrote the beginning of his name on his cattle's 
+hooves, and in some myths, he seduced Autolycus' daughter Anticleia, thereby becoming the father of 
+Odysseus. This man told the river god Asopus that Zeus was sleeping with his daughter Aegina. When 
+Zeus then sent Hades to punish this man, this king of Corinth handcuffed Hades such that no one could die 
+until he was freed. For 10 points, name this trickster, who endlessly rolled a boulder up a hill in Tartarus as 
+punishment. 
+ANSWER:  
+Sisyphus 
+080-12-59-04112 
+12. This man's government used the slogan \"Believe, Obey, Fight!\" and created a secret police called the 
+OVRA. He made use of paramilitary groups that force-fed political opponents castor oil to give them 
+diarrhea. This man, who launched the \"Battle for Grain\" and \"Battle for Births,\" solidified his control by 
+passing a law that gave 2/3 of the seats in parliament to any party with a plurality of votes. After his 
+government assassinated a rival politician, 150 of his opponents withdrew from the Chamber of Deputies 
+during the Matteoti Crisis. This leader signed the \"Pact of Steel\" with a northern country and made use of 
+the \"Blackshirts\" to take power during the \"March on Rome.\" For 10 points, name this Fascist leader of 
+Italy during World War II. 
+ANSWER: Benito Amilcare Andrea  
+Mussolini 
+080-12-59-04113 
+NASAT 2012     Round 4     Page  3 of 12 
+13. Reports on this living person’s activities resulted in Sara Ganim becoming the second-youngest person 
+to win a Pulitzer Prize. On the show  
+Rock Center, 
+ Bob Costas called him “the unluckiest and most 
+persecuted man that any of us has ever heard about.” This man’s actions resulted in perjury indictments for 
+Gary Schultz and Tim Curley. He founded a charity called The Second Mile and wrote an autobiography 
+titled  
+Touched. 
+ This man supposedly engaged in an illegal activity witnessed by assistant Mike McQueary. 
+After his arrest, college president Graham Spanier was forced to resign. For 10 points, name this former 
+assistant for Joe Paterno at Penn State University, currently charged with over forty counts of sexual abuse 
+of young boys. 
+ANSWER: Gerald Arthur “Jerry”  
+Sandusky 
+052-12-59-04114 
+14. In this work, a story is related of a woman whose corpse is exhumed so that she can become the wife of 
+a king named Peter. Besides telling of Ines de Castro, this work contains characters such as Monsayeed, 
+who warns the main character of a plot against him. The main character of this work is opposed by 
+Bacchus, who takes the guise of various Moors, but is helped by Venus, who eventually guides him to the 
+Isle of Love, where he falls in love with Tethys. In this work, Adamastor represents the dangers faced by 
+sailors near the Cape of Good Hope, and Vasco da Gama faces peril in Calicut. For 10 points, name this 
+poem by Luis Vaz de Camoes, the national epic of Portugal. 
+ANSWER:  
+The  Lusiads 
+ [or  
+Os  Lusiadas 
+] 
+040-12-59-04115 
+15. One theory describing this phenomenon predicts an intensity distribution proportional to the square of 
+the sinc function. The pattern produced by this effect is the same as that produced by the complementary 
+body according to Babinet’s principle. The first zero of the sinc function helps define a limit by which a 
+system is limited by this phenomenon. One version of this phenomenon produces a feature of angular size 
+approximately equal to 1.22 times lambda over D, called the Airy disk; that version occurs through a 
+circular aperture. Huygens principle is often used to study this phenomenon, which occurs when light 
+shines through an opening of any kind. For 10 points, name this phenomenon in which a wave bends 
+around an object. 
+ANSWER:  
+diffraction 
+048-12-59-04116 
+16. This man composed works such as \"Warte, warte, wilder Schiffmann\" (VAHR-te, VAHR-te, VIL-der 
+SHIFF-mahn), \"Auf einer Burg,\" and \"Wehmut\" (VAY-moot) during his \"Year of Song.\" His piano 
+concerto is an expansion of his earlier composition called  
+Phantasie 
+, and is in A minor. The \"Sphinxes\" 
+movement is often omitted from his Opus 9, which includes the musical cryptogram A-S-C-H and 
+movements titled for Florestan and Eusebius. In his Third Symphony, three trombones represent a bishop 
+being made a cardinal at the Cologne Cathedral. For 10 points, name this composer of  
+Papillons Carnaval 
+,  , 
+and symphonies called ”Rhenish” and ”Spring”. 
+ANSWER: Robert  
+Schumann 
+079-12-59-04117 
+17. A prominent chancellor and merchant who served as regent for this dynasty's first ruler was Lu Buwei, 
+who wrote the text  
+Lushi Chunqiu 
+. It split into the Eighteen Kingdoms. The Hundred Schools of Thought 
+was purged via a massive book burning that occurred during this dynasty, which was brought down by a 
+rebel leader named Liu Bang. The founder of this dynasty helped end a power vacuum that occurred 
+following the collapse of the Zhou dynasty and was buried alongside a Terracotta Army. For 10 points, Shi 
+Huangdi was the founder of what first imperial dynasty of China, which came before the Han dynasty? 
+ANSWER:  
+Qin 
+ Dynasty 
+064-12-59-04118 
+NASAT 2012     Round 4     Page  4 of 12 
+18. In this work, John the Baptist reads from a Bible in which the first words of Isaiah 40, \"comfort ye,\" 
+can be seen. When closed, this work shows its patrons kneeling before illusionistic sculptures of John the 
+Baptist and John the Evangelist. Statuesque depictions of Cain and Abel appear above the nude Adam and 
+Eve on the sides of this work, in which a red-robed Jesus wears a papal crown. Saints, martyrs, and apostles 
+gather in the largest panel of this work to honor a creature whose blood is pouring into a chalice. It is 
+sometimes titled for that panel, the  
+Adoration of the Lamb 
+. For 10 points, name this altarpiece by Hubert 
+and Jan van Eyck. 
+ANSWER:  
+Ghent  Altarpiece 
+ [or  
+Adoration of the Lamb 
+ before mentioned] 
+105-12-59-04119 
+19. This poet wrote, “ask for no Orphean lute to pluck life back” in a poem concluding, “The Lord survives 
+the rainbow of his will.” That poem describes “the end of the whaleroad and the whale.” In another poem, 
+the speaker states, “I hear my ill-spirit sob in each blood cell,” before observing a creature that “drops her 
+ostrich tail, and will not scare.” This man, who dedicated that poem to Elizabeth Bishop, also described 
+how “giant finned cars nose forward like fish” in a poem noting, “Colonel Shaw is riding on his bubble.” 
+For 10 points, name this American poet of “The Quaker Graveyard in Nantucket,” “Skunk Hour,” and 
+“For the Union Dead.” 
+ANSWER: Robert  
+Lowell 
+014-12-59-04120 
+20. The size of these objects which are NOT found outside the cell is regulated by Orofaciodigital 
+Syndrome 1 protein. The stabilization and formation of these structures is aided by ANA2. In  
+C. Elegans 
+, 
+formation of these objects requires ZYG-1 to phosphorylate SAS-6, but in humans the ZYG-1 is replaced 
+in its role by PLK4. These cellular components have 9 fold symmetry and are replicated once per cell 
+cycle. These objects are found in a larger structure along with the gamma-tubulin ring complex. These 
+objects and basal bodies have a similar structure and composition. For 10 points, name these microtubule 
+structures that are found in centrosomes, which serve as attachment points for the mitotic spindle and have 
+a 9+3 structure. 
+ANSWER:  
+centriole 
+s [prompt on  
+centrosome 
+s; prompt on  
+basal body 
+] 
+001-12-59-04121 
+21. After the death of Patriarch Adrian, this ruler replaced the Patriarchate with the Most Holy Synod. In 
+his youth, this man gained military experience in war games he played with his \"toy army.\" This ruler faced 
+a revolt consisting of a class of soldiers attempting to replace him with his sister Sophia. This ruler 
+expanded his territory in his Azov campaign against the Ottomans, after which he founded a base at 
+Taganrog. This ruler found his old friend Gerrit Kist in Zaandam and worked for Lynst Rogge at a shipyard 
+while part of the Grand Embassy. The victor at the Battle of Poltava, for 10 points, name this ruler who 
+defeated Charles XII of Sweden in the Great Northern War and built a namesake \"window to the West\" on 
+the Baltic. 
+ANSWER:  
+Peter the Great 
+ [or  
+Peter I 
+ of Russia; or  
+Pyotr Alekseyevich 
+; or  
+Pyotr Veliky 
+; prompt on  
+Peter 
+; prompt on  
+Pyotr 
+] 
+141-12-59-04122 
+NASAT 2012     Round 4     Page  5 of 12 
+22. This poem asks, “What is it that will last? All things are taken from us, and become portions and 
+parcels of the dreadful past.” Characters in this poem worry that they “should come like ghosts to trouble 
+joy” and declare, “Let what is broken so remain.” The first speaker describes “a land in which it seemed 
+always afternoon” where he encounters the “mild-eyed melancholy” title characters, who sing a “choric 
+song” concluding, “O, rest ye, brother mariners, we will not wander more.” For 10 points, name this poem 
+by Lord Tennyson about the consumers of a certain psychoactive fruit from the  
+Odyssey. 
+ANSWER: “The  
+Lotos-Eaters 
+” 
+014-12-59-04123 
+23. This quantity is the intensive natural variable of Helmholtz free energy. In statistical mechanics, the 
+canonical ensemble holds this quantity constant. The internal energy due to a quadratic degree of freedom 
+is proportional to this quantity according to the equipartition theorem, which sets that energy as one-half 
+Boltzmann’s constant times this quantity. The negative conductivity times the gradient of this quantity 
+appears on one side of Fourier's law. Black body radiation is proportional to this quantity raised to the 
+fourth power according to the Stefan-Boltzmann law. Entropy is multiplied by this quantity when 
+calculating Gibbs free energy. Heat capacity measures the energy necessary to change this quantity. For 10 
+points, name this quantity measured in Kelvins. 
+ANSWER:  
+temperature 
+132-12-59-04124 
+NASAT 2012     Round 4     Page  6 of 12 
+NASAT 2012 
+Round 4 
+Bonuses 
+1. This work was published in 1934, compiled from the first Williams James Lecture given at Harvard. For 
+10 points each: 
+[10] Name this aesthetic text, which claims that a work of art is not identical with the \"art product,\" or the 
+physical object, but arises out of the \"Live Creature's\" engagement with the object. 
+ANSWER: \" 
+Art as Experience 
+\" 
+[10] \"Art as Experience\" is a work by this author of \"The Reflex-Arc Concept in Psychology,\" who 
+attacked the \"philosophic fallacy\" in  
+Experience and Nature 
+. 
+ANSWER: John  
+Dewey 
+[10] This major work by John Dewey argues that public schools will help create better citizens by 
+developing their abilities instead of teaching them only facts. 
+ANSWER:  
+Democracy and Education 
+080-12-59-04201  
+2. This woman's two children playing in the sand may be depicted in a scherzo in one of her husband's 
+symphonies. For 10 points each: 
+[10] Name this woman whose composition teacher, Alexander von Zemlinsky, once seduced her. Her 
+theme appears in her husband's sixth, or  
+Tragic 
+, symphony. 
+ANSWER:  
+Alma 
+ Maria Mahler Gropius Werfel [or Alma Maria  
+Schindler 
+; or  lma  
+A Mahler 
+; prompt on  
+Mahler 
+; prompt on  
+Gropius 
+; prompt on  
+Werfel 
+] 
+[10] Near the end of her life, Alma attended rehearsals by this long-time director of the New York 
+Philharmonic and composer of  
+West Side Story 
+. 
+ANSWER: Leonard  
+Bernstein 
+[10] Dedicated to Serge Koussevitzky, this Bernstein composition consists of The Seven Ages and The 
+Seven Stages. It was inspired by a long poem about three men and a woman who meet in a New York bar. 
+ANSWER: Bernstein's  
+Symphony No. 2 
+ [or  
+The  Age of Anxiety 
+] 
+020-12-59-04202  
+3. The effective mass of these particles are altered by matter in the MSW effect. For 10 points each: 
+[10] Name these weakly interacting leptons whose low mass is thought to be explained by the Seesaw 
+mechanism. A faulty optics cable may explain OPERA’s results, which deal with these particles. 
+ANSWER:  
+neutrinos 
+[10] The Homestake experiment first provided evidence that neutrinos undergo this phenomenon, in which 
+the namesake quantum number changes. In order for this phenomenon to occur neutrinos must have mass. 
+ANSWER:  
+flavor oscillation 
+ [prompt on partial] 
+[10] The Homestake experiment measured the number of neutrinos emitted by this celestial object, which is 
+located at the center of the solar system. Light from this object can produce Baily’s beads. 
+ANSWER:  
+Sun 
+149-12-59-04203  
+NASAT 2012     Round 4     Page  7 of 12 
+4. One type of these institutions established a system of quality control over their products, while another 
+was responsible for coordinating trade embargoes. For 10 points each: 
+[10] Name these medieval associations of merchants or craftsmen. 
+ANSWER: merchant  
+guild 
+s [or craft  
+guild 
+s] 
+[10] After completing their apprenticeships, aspiring members of craft guilds achieved this rank. They 
+could be paid for their labor, but had to submit a \"masterwork\" to become a master. 
+ANSWER:  
+journeyman 
+[10] Another association of guilds, the Hansa, established these outposts in cities where they wanted to 
+trade. 
+ANSWER:  
+Kontors 
+080-12-59-04204  
+5. Norse gods of this entity include Aegir and Njord, and Thor pulls the Midgard Serpent out of this entity 
+using a baited hook while on a trip with Hymir. For 10 points each: 
+[10] Name this geographical entity. 
+ANSWER: the  
+sea 
+ [or the  
+ocean 
+] 
+[10] This Inuit sea goddess also rules the underworld, called Adlivun. In one myth, she was initially 
+married off to a man who turned out to be vicious raven in disguise. 
+ANSWER:  
+Sedna 
+[10] In several versions of the Sedna myth, Sedna’s father attempts to throw her from his kayak and cuts 
+off these body parts of hers, which then originated diverse Arctic wildlife. 
+ANSWER:  
+fingers 
+014-12-59-04205  
+6. This leader was killed at the Battle of Cerro Cora. For 10 points each: 
+[10] Name this Paraguayan leader whose invasion of Mato Grasso sparked a conflict with Brazil, 
+Argentina, and Uruguay. 
+ANSWER: Francisco Solano  
+Lopez 
+[10] Lopez led Paraguay during this 1864 to 1870 conflict in South America. 
+ANSWER: War of the  
+Triple Alliance 
+[10] This president of Argentina from 1862 to 1868 was initially the commander of allied forces, but gave 
+up his position in 1866 to the Duke of Caxias. 
+ANSWER: Bartolome  
+Mitre 
+064-12-59-04206  
+7. After the death of his master, this character berates his fellows in a speech declaring, “Often when one 
+man follows his own will many are hurt. This happened to us.” For 10 points each: 
+[10] Name this son of Weohstan, the only warrior to join Beowulf in his fight against the dragon. 
+ANSWER:  
+Wiglaf 
+[10] Many years prior to fighting the dragon, Beowulf defends Hrothgar’s hall by slaying this monster and 
+his mother. 
+ANSWER:  
+Grendel 
+[10] As Beowulf lies dying after the battle with the dragon, he asks Wiglaf to bring him this. 
+ANSWER: the dragon’s  
+treasure 
+ [or obvious equivalents] 
+014-12-59-04207  
+NASAT 2012     Round 4     Page  8 of 12 
+8. In this art technique, the canvas is placed over a textured object and the dried paint above that object is 
+scraped over. For 10 points each: 
+[10] Name this Surrealist art technique. 
+ANSWER:  
+grattage 
+[10] The inventor of frottage and grattage was this German Dadaist and surrealist, whose works include  
+The Temptation of St. Anthony 
+ and a bizarre photomontage,  
+Here Everything is Still Floating. 
+ANSWER: Max  
+Ernst 
+[10] This Catalan painter of  
+Dog Barking at the Moon 
+ and other \"dream pictures\" helped Ernst develop the 
+grattage technique. 
+ANSWER: Joan  
+Miro 
+ i Ferra 
+003-12-59-04208  
+9. Answer the following about the biology of a neuron, for 10 points each: 
+[10] A neuron is typically composed of dendrites, the cell body, and this long projection which carries a 
+signal away from the cell body. 
+ANSWER:  
+axon 
+s 
+[10] This is the term for the event in which a neuron's membrane potential rapidly rises and falls, firing one 
+of these. It is prompted by a stimulus that overcomes the threshold potential. 
+ANSWER:  
+action potential 
+[10] Name this period after the peak of the action potential between repolarization and the membrane's 
+return to resting state. During this period, another action potential is not possible because the membrane 
+potential is too low. 
+ANSWER:  
+refractory 
+ period 
+126-12-59-04209  
+10. In this play, Rosemary Sydney persuades Howard Bevans to skip the title event with her prior to their 
+marriage the next morning. For 10 points each: 
+[10] Name this William Inge play which ends when Madge packs a suitcase and runs off with the drifter 
+Hal, a college friend of her presumed fiancé Alan. 
+ANSWER:  
+Picnic 
+[10] William Inge wrote the screenplay for Elia Kazan's  
+Splendor in the Grass. 
+ Kazan's adaptation of this 
+Tennessee Williams play stars Vivien Leigh as Blanche DuBois and Marlon Brando as Stanley Kowalski. 
+ANSWER:  
+A  Streetcar Named Desire 
+[10] In this other Inge play, the alcoholic Doc Delaney goes on a violent rampage in response to the 
+hypocritical behavior of his wife Lola, whose dog acts as a surrogate for the baby who died when she chose 
+to have it delivered by a midwife. 
+ANSWER:  
+Come Back, Little Sheba 
+014-12-59-04210  
+NASAT 2012     Round 4     Page  9 of 12 
+11. Answer the following about animals within psychological experimentation, for 10 points each. 
+[10] This behaviorist proposed a pigeon-guided missile during World War II. He is more famous for 
+developing an air crib and his namesake box, also known as an “operant conditioning chamber.” 
+ANSWER: Burrhus Frederic  
+Skinner 
+[10] This psychologist performed many experiments with monkeys, such as having them raised by a 
+surrogate terrycloth mother, or testing isolation by placing them in the “pit of despair.” 
+ANSWER: Harry Frederick  
+Harlow 
+ [or Harry  
+Israel 
+] 
+[10] In this Canadian experiment, Bruce Alexander placed test animals into the title location, which was 
+spacious and filled with toys. He found most of the animals chose regular water over water laced with 
+morphine, supporting his point that people choose drugs because of terrible living conditions. 
+ANSWER:  
+Rat park 
+ study 
+052-12-59-04211  
+12. He won the Nobel Prize for Literature in 1998. For 10 points each: 
+[10] What atheist author’s works include  
+Death with Interruptions 
+ and  
+Cain 
+? 
+ANSWER: Jose  
+Saramago 
+[10] The Doctor’s Wife is the only character not afflicted with the title epidemic in what most famous 
+Saramago novel? 
+ANSWER:  
+Blindness 
+ [or  
+Ensaio Sobre a Cegueira 
+; or  
+Essay on Blindness 
+] 
+[10] This other Saramago novel is a controversial retelling of early Christianity in which the title character 
+is depicted living with Mary Magdalene and having second thoughts about the crucifixion. 
+ANSWER:  
+The  Gospel According to Jesus Christ 
+ [or  
+O  Evangelho Segundo Jesus Cristo 
+] 
+147-12-59-04212  
+13. This man names a space that is complete and has an inner product. For 10 points each: 
+[10] Name this German mathematician, whose namesake program was intended to create a finite, complete 
+and consistent set of axioms that would serve as a foundation for all mathematics. 
+ANSWER: David  
+Hilbert 
+[10] Hilbert's program was proven infeasible in the incompleteness theorems of this man, who showed any 
+theory elaborate enough to allow basic arithmetic could not be both complete and consistent. 
+ANSWER: Kurt  
+Gödel 
+[10] The converse of completeness in logic is this property. Because first-order logic has this property, any 
+sentence that can be deduced from a set of sentences is logically implied by those sentences. 
+ANSWER:  
+sound 
+ness 
+121-12-59-04213  
+14. Candidates for this position must receive nominations from at least five hundred elected officials; a 
+2000 referendum cut its term from seven years to five. For 10 points each: 
+[10] Name this office, which was won by François Hollande in 2012. 
+ANSWER:  
+President of France 
+ [or obvious equivalents] 
+[10] Hollande is a member of this political party. Sarkozy defeated its nominee, Ségolène Royal, in runoffs 
+in 2007 to win the election. 
+ANSWER: French  
+Socialist 
+ Party [or Parti  
+socialiste 
+] 
+[10] Sarkozy became the first president to serve only one term since this man, president from 1974 to 1981. 
+More recently, this man was the head of the Convention on the Future of Europe, which created a draft for 
+the European Constitution that failed to be ratified in 2004. 
+ANSWER: Valéry  
+Giscard 
+ d'Estaing 
+121-12-59-04214  
+NASAT 2012     Round 4     Page  10 of 12 
+15. This figure's brother, Menoetius, was banished to Tartarus after being struck by Zeus's lightning. For 10 
+points each: 
+[10] Name this son of Iapetus who was tasked with assigning an attribute to every animal but forgot to give 
+one to man. 
+ANSWER:  
+Epimetheus 
+[10] Epimetheus accepted this wife from Zeus, who was left with only hope after releasing all the evils into 
+the world by opening her namesake box. 
+ANSWER:  
+Pandora 
+[10] This son of Deucalion and grandson of Pandora was the ancestor of all Greeks. His son Aeolus was the 
+ancestor of the Aeolians, and his son Dorus was the ancestor of the Dorians. 
+ANSWER:  
+Hellen 
+079-12-59-04215  
+16. Answer the following about a river known as the Shatt-al-Arab, for 10 points each. 
+[10] The Shatt-al-Arab is in this country’s southeast, on the Persian Gulf. This country’s cities include 
+Fallujah and Tikrit, and its capital had an occupied “Green Zone” starting in 2003. 
+ANSWER:  
+Iraq 
+[10] This is Iraq’s largest city along the Shatt-al-Arab. This city near Kuwait is home to the South Oil 
+company, and its residents saw heavy fighting during the 2003 invasion. 
+ANSWER:  
+Basra 
+[10] These tribes lived on artificial islands made of reeds and piloted boats called  
+mashoof 
+ until Saddam 
+Hussein drained their traditional habitat in 1991. As the area recovers, they’re returning to their old ways. 
+ANSWER:  
+Marsh Arab 
+s [or  
+Arab al-Ahwar 
+; or  
+Ma’dan 
+; or  
+Madi 
+] 
+104-12-59-04216  
+17. Centered at cities such as Sidon and Byblos, this civilization used galleys to trade along much of the 
+Mediterranean Coast. For 10 points each: 
+[10] Name this early civilization famed for its early alphabet and purple dye. 
+ANSWER:  
+Phoenicia 
+ns 
+[10] The color of the Phoenician dye was sometimes named for this city, which Alexander the Great 
+besieged in 332 BC with the help of a giant causeway. 
+ANSWER:  
+Tyre 
+ [or  
+Sur 
+; or  
+Tyrus 
+; or  
+Zor 
+] 
+[10] In 314 BC, this man also besieged Tyre. He and his son Demetrius were later defeated at Ipsus. 
+ANSWER:  
+Antigonus 
+ the One-Eyed [or  
+Antigonos 
+ Monophthalmos] 
+015-12-59-04217  
+18. Some of his early works were written under the pseudonym Jonathan Oldstyle. For 10 points each: 
+[10] Name this man who included “Adventure of the German Student” in his short story collection  
+Tales of 
+a Traveller. 
+ANSWER: Washington  
+Irving 
+[10] Irving also wrote this story about a man who misses the American Revolution when he sleeps for 
+twenty years in the Catskills. 
+ANSWER: “ 
+Rip Van Winkle 
+” 
+[10] In “Rip Van Winkle,” Rip realizes later that the men he saw playing ninepins in the mountains are 
+companions of this historical figure. 
+ANSWER: Hendrick  
+Hudson 
+ [or Henry  
+Hudson 
+] 
+014-12-59-04218  
+NASAT 2012     Round 4     Page  11 of 12 
+19. Answer these questions about the lanthanide contraction for 10 points each. 
+[10] The lanthanide contraction refers to the decrease in the ionic form of this quantity, which is typically 
+measured in picometers or angstroms. 
+ANSWER:  
+radius 
+[10] The lanthanides are the first elements to have electrons in this atomic orbital with azimuthal quantum 
+number 3. 
+ANSWER:   orbital 
+f 
+[10] The lanthanide contraction occurs because electrons in an f orbital do a poor job of carrying out this 
+phenomenon, in which electrons screen out other electrons from feeling the full force of the nucleus. 
+ANSWER: nuclear  
+shielding 
+064-12-59-04219  
+20. The first shots in this battle were fired near the Old Kennett Meetinghouse, a location owned by 
+Quakers. For 10 points each: 
+[10] Name this battle in which the losing side's left wing was crushed by Wilhelm von Knyphausen's force 
+at Chadds Ford. Nathanael Greene's division managed to hold off the victors long enough for a successful 
+retreat. 
+ANSWER: Battle of  
+Brandywine 
+ Creek 
+[10] The Battle of Brandywine was a victory for William Howe as part of his successful campaign to take 
+this Pennsylvania city, which was the seat of the Second Continental Congress. 
+ANSWER:  
+Philadelphia 
+[10] One member of this Pennsylvania family was a minister who served as a brigadier general under 
+Greene at Brandywine. Another member of this family was the first Speaker of the House. 
+ANSWER:  
+Muhlenberg 
+ [or Peter  
+Muhlenberg 
+; or Frederick  
+Muhlenberg 
+] 
+052-12-59-04220  
+21. Gail Halvorsen dropped candy in miniature parachutes during this operation. For 10 points each: 
+[10] Name this 1948 aid mission codenamed \"Operation Vittles.\" 
+ANSWER:  
+Berlin Airlift 
+[10] \"Tonnage\" Turner revamped the logistics of the airlift after a C-54 airplane crashed on a day given this 
+name. The machinations of James Fisk and Jay Gould brought about another event of this name. 
+ANSWER: \" 
+Black Friday 
+\" 
+[10] This American general in charge of the U.S. occupied zone in Germany gave the order to begin the 
+Berlin Airlift. 
+ANSWER: Lucius DuBignon  
+Clay 
+105-12-59-04221  
+Powered by TCPDF (www.tcpdf.org) 
+NASAT 2012     Round 4     Page  12 of 12 

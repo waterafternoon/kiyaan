@@ -1,0 +1,529 @@
+2013 VHSL Regionals 
+Round 7 
+First Period, Fifteen Tossups 
+1. A failed attempt to influence this issue through the courts resulted in the 2006  
+Wilkinson v. Kitzinger 
+case. Michael Gove and Boris Johnson are among those who have endorsed this status, though Rowan 
+Williams has spoken out against it. At the 2011 Conservative Party conference, David Cameron announced 
+that he supports this change not \"despite\" but \"because\" of his conservatism. For 10 points, a free vote by 
+2015 may implement what change to marriage laws in the United Kingdom? 
+ANSWER:  
+same-sex 
+ marriage in the United Kingdom [or  
+gay 
+ marriage or other obvious equivalents; or 
+\"England\" or \"Wales\" or the \"UK\" in the place of \"United Kingdom\" if given] 
+019-13-74-07101 
+2. This author wrote about Masuji Ono, a painter in postwar Japan who once made propaganda for the 
+Japanese Empire, in  
+An Artist of the Floating World. 
+ In one of his books, Kathy and Tommy are clones 
+bred to die after their fourth organ donation. In another novel by this writer, the butler Stevens takes a trip 
+to see Miss Kenton and realizes his boss Lord Darlington was a fascist. For 10 points, name this author of  
+Never Let Me Go 
+ and  
+The Remains of the Day, 
+ a British writer of Japanese heritage. 
+ANSWER: Kazuo  
+Ishiguro 
+080-13-74-07102 
+3. This man advocated the value of private tutors in  
+Some Thoughts Concerning Education 
+. While working 
+for Anthony Ashley Cooper, he advocated for freedom of religion for everyone but atheists in  
+The 
+Fundamental Constitutions of Carolina 
+. He argued that the human mind originally resembles a \"blank 
+slate,\" or \"tabula rasa.\" For 10 points, name this philosopher who wrote the  
+Essay Concerning Human 
+Understanding 
+ and a work influencing the American Founding Fathers,  
+Two Treatises of Government. 
+ANSWER: John  
+Locke 
+030-13-74-07103 
+4. This author recalled spending the \"Fruitcake Fund\" and getting the dog Queenie drunk in his \"A 
+Christmas Memory.\" Randolph manipulates Joel Knox in this man’s novel  
+Other Voices, Other Rooms. 
+ He 
+inspired the character of Dill in his lifelong friend Harper Lee’s  
+To Kill a Mockingbird. 
+ His own major 
+book follows Alvin Dewey's apprehension of Perry Smith and Dick Hickock for the murder of the Clutter 
+family. For 10 points, name this author of  
+In Cold Blood. 
+ANSWER: Truman  
+Capote 
+ [or Truman Streckfuss  
+Parsons 
+] 
+019-13-74-07104 
+5. The speedup gained by using this technique is limited by the time not using it according to Amdahl's 
+law. This technique can run into problems if operations are not atomic, because output becomes 
+non-deterministic when \"race conditions\" occur, requiring the use of synchronization. A common problem 
+to be avoided in this technique is deadlock. For 10 points, name this technique that differs from sequential 
+programs by allowing operations to happen simultaneously, as with multiple processors. 
+ANSWER:  
+parallel 
+ computing [or multi- 
+thread 
+ed computing; or  
+concurrent 
+ computing; or  
+distributed 
+computing; or  
+multi 
+ple  
+core 
+ computing; or \"processing\" in place of \"computing;\" or  
+multi 
+ple  
+processor 
+computing until it is read] 
+201-13-74-07105 
+2013 VHSL Regionals     7     Page  1 of 9 
+6. In one scene in this novel, a commander is hindered by the Stone Sentinel Maze. Several characters in it 
+take a pledge in the Oath of the Peach Garden. In this novel, the marriage of Lady Sun to Liu Bei is 
+planned by Sun Quan after he wins the Battle of Red Cliffs, and the tyranny of Dong Zhou is ended by Lu 
+Bu. For 10 points, name this classic Chinese novel which details the turmoil towards the end of the Han 
+Dynasty, including a split into multiple realms. 
+ANSWER:  
+The  Romance of the Three Kingdoms 
+ [or  
+San Guo Yan Yi 
+] 
+192-13-74-07106 
+7. One of this author’s characters is rescued with his manservant Conseil and the Canadian harpoonist Ned 
+Land after the sinking of the  
+Abraham Lincoln. 
+ Another of his characters marries the Indian princess 
+Aouda, is pursued by the detective Inspector Fix, and is served by Passepartout. One novel by this author 
+concerns the submerged  
+Nautilus 
+ and its Captain Nemo. For 10 points, name this French author of  
+Around 
+the World in Eighty Days 
+ and  
+Twenty Thousand Leagues Under the Sea. 
+ANSWER: Jules  
+Verne 
+015-13-74-07107 
+8. For fluid flow, this quantity is equal to flow rate times pressure. For a sinusoidal signal, this quantity is 
+equal to the absolute value of the amplitude squared. It is equal to current times voltage for electrical 
+components. In optics, one form of it is measured with diopters. This quantity is also given by the force 
+dotted by the velocity vector, and its units are Joules per second, or watts. For 10 points, name this quantity 
+equal to work done per unit time. 
+ANSWER:  
+power 
+048-13-74-07108 
+9. These people paid a namesake \"rent\" of a penny per month to support an organization advocating for 
+their political rights. The Duke of Wellington's government allied with Robert Peel to revoke the Test Act, 
+allowing these people to serve in Parliament. Daniel O'Connell led the campaign for the \"emancipation\" of, 
+for 10 points, what religious group, that had been suppressed in British politics since Henry VIII formed the 
+Anglican church? 
+ANSWER:  
+Catholics 
+ in the United Kingdom 
+019-13-74-07109 
+10. Although not the Moon, the surface of an object with this name features lobate scarps. That object is 
+also home to the \"Weird Terrain,\" which lies antipodal to the Caloris Basin. When bonded to sulfur, a metal 
+of this name forms cinnabar. MESSENGER mapped that object with this name. The element with this 
+name is a silvery liquid at room temperature, which led to its use in thermometers, despite its toxicity. For 
+10 points, name the object that is closest to the Sun. 
+ANSWER:  
+mercury 
+149-13-74-07110 
+11. In 1989, the holder of this position was accused of engineering the \"Bounty Bowl\" game. The person 
+who held this job from 1976 to 1982 retired due to \"burnout,\" two years after losing the Super Bowl to the 
+Raiders. In addition to Buddy Ryan and Dick Vermeil, this job has been filled by a man who made five 
+NFC Championship Game appearances before an injury to Michael Vick during the disastrous 2012 season. 
+For 10 points, name this job that Andy Reid was fired from in December 2012. 
+ANSWER: head  
+coach 
+ of the Philadelphia  
+Eagles 
+ [or head  
+coach 
+ of the  
+Philadelphia 
+ Eagles] 
+019-13-74-07111 
+2013 VHSL Regionals     7     Page  2 of 9 
+12. David Sharp died while trying to do this feat and was reportedly ignored by passerby. Jon Krakauer’s 
+book  
+Into Thin Air 
+ was about his experiences doing it. People who engage in this feat pass through the 
+Khumbu Icefall, a section which has killed many Sherpas. For 10 points, name this feat first achieved by 
+Tenzing Norgay and Sir Edmund Hillary, which involves ascending the tallest peak in the world. 
+ANSWER:  
+climbing 
+ Mount  
+Everest 
+ [or  
+Sagarmatha 
+ or  
+Chomolungma 
+ in place of \"Everest\"] 
+052-13-74-07112 
+13. A Cauchy sequence in a complete metric space is automatically of this type. The root test is one method 
+designed to test for this property. This property does not hold for arithmetic sequences or the harmonic 
+series. All geometric series for which r is less than one exhibit this property. A sequence has this property if 
+and only if it has a limit. For 10 points, name this property that a sequence has if its values gradually 
+approach a certain number, the opposite of divergent. 
+ANSWER:  
+convergent 
+ [or word forms] 
+131-13-74-07113 
+14. Music events in this city include the Earshot Jazz Festival and Bumbershoot. This city's native son 
+Joshua Ramus joined Rem Koolhas to design its public library. The namesake of this city ceded the land for 
+it in the Treaty of Port Elliott. Suburbs including Everett, Bellevue, and Redmond surround this city. A 
+major landmark here was built for the 1962 World’s Fair and provides a view of Mount Rainier from its 
+top. For 10 points, name this city on Puget Sound, the home of the Space Needle in Washington. 
+ANSWER:  
+Seattle 
+019-13-74-07114 
+15. At a hearing in this novel, a woman testifies that an earring found in a furnace belonged to her daughter, 
+and a dead body is wheeled into the courtroom by the sensationalist coroner. The private detective Britten 
+fails to intimidate the protagonist, but the prosecutor Buckley succeeds in extracting a confession. The 
+lawyer Boris Max questions Mr. Dalton about the poor conditions of tenements in, for 10 points, what 
+novel in which Mary is killed by Bigger Thomas, written by Richard Wright? 
+ANSWER:  
+Native Son 
+019-13-74-07115 
+2013 VHSL Regionals     7     Page  3 of 9 
+2013 VHSL Regionals 
+Round 7 
+Directed Round 
+1A.  The city of Nagasaki is found on what island of Japan, the southernmost of the four major islands? 
+ANSWER:  
+Kyushu 
+1B.  The macroeconomic definition of aggregate demand is the sum of consumer consumption, government 
+spending, net exports, and what fourth quantity? 
+ANSWER: private  
+investment 
+2A.  Continental mountain ranges are mainly formed in what process, which creates namesake \"belts\" as 
+various tectonic plates collide? 
+ANSWER:  
+orogeny 
+ [or  
+orogenesis 
+] 
+2B.  What leader stopped his country's nuclear aid to China and started Mao's fear of revisionism by giving 
+his speech \"On the Cult of Personality and Its Consequences\"? 
+ANSWER: Nikita Sergeyevich  
+Khrushchev 
+3A.  “Legs,” “Sleeping Bag,” and “Sharp Dressed Man” were among the 1980s hits of what band, known 
+for their Texas rock sound and their long beards? 
+ANSWER:  
+ZZ Top 
+3B.  Robert Browning's \"My Last Duchess\" and \"Andrea del Sarto\" are examples of what type of poem in 
+which a persona reveals his thoughts at a specific point in time to a specific audience? 
+ANSWER:  
+dramatic monologue 
+4A.  This is a 20-second calculation question. What is the volume of a cube with surface area 24 square 
+centimeters? 
+ANSWER:   cubic centimeters 
+8 
+4B.  This is a 20-second calculation question. The sum of the digits of a two-digit number is 12. When the 
+digits are reversed, the new number is exactly 18 more than the old number. What is the original number? 
+ANSWER:  
+57 
+5A.  Name the composer who included the aria “Softly awakes my heart” in his opera  
+Samson and Delilah 
+and also wrote  
+Carnival of the Animals. 
+ANSWER: Camille  
+Saint-Saëns 
+5B.  Gustave Caillebotte (KYE-uh-bot) sits on a chair in the bottom right, while the painter's wife plays 
+with a dog, in what Renoir (reh-NWAH) painting set on the Maison Fournaise (foor-NAY), depicting a 
+group of people enjoying a meal? 
+ANSWER:  
+Luncheon of the Boating Party 
+ [or  
+Le  déjeuner des canotiers 
+] 
+6A.  What object is known as \"zvezda\" (zuh-VEZ-duh) in Russian, \"kohav\" (COH-hov) in Hebrew, and 
+\"stella\" in Latin? 
+ANSWER: a  
+star 
+6B.  What character mentors Candide and proclaims that we live in the \"best of all possible worlds\"? 
+ANSWER: Doctor  
+Pangloss 
+7A.  Name the architect who designed Ohio University’s Punch Card Park, the Montgomery, Alabama 
+Civil Rights Memorial, and the Vietnam Veterans Memorial in Washington, D.C. 
+ANSWER: Maya Ying  
+Lin 
+2013 VHSL Regionals     7     Page  4 of 9 
+7B.  What Indian prime minister was assassinated by her bodyguards after ordering Operation Blue Star on 
+the Golden Temple at Amritsar? 
+ANSWER:  ndira Priyadarshini  
+I Gandhi 
+ [prompt on  
+Gandhi 
+] 
+8A.  What isotope of hydrogen is found in heavy water and has one proton and one neutron in its nucleus? 
+ANSWER:  
+deuterium 
+8B.  What quantity, unlike total energy, is conserved by both elastic and inelastic collisions? 
+ANSWER: linear  
+momentum 
+ [do not accept \"angular momentum\"] 
+9A.  This is a 30-second calculation question. You pay $2 to play a game in which 1/3 of the time you win 
+nothing, 1/3 of the time you win $1, and 1/3 of the time you win $4. To the nearest cent, how much money 
+do you expect to lose? 
+ANSWER:   cents [or  
+33 $0.33 
+] 
+9B.  This is a 30-second calculation question. What is sine theta times cosine theta when theta equals 75 
+degrees? 
+ANSWER:  
+1/4 
+ [or  
+0.25 
+] 
+10A.  What movement during the Radical segment of the Protestant Reformation emphasized pacifism, 
+autonomy from the larger society, and the idea that infants could not choose to accept Christianity, and 
+survives today as groups such as the Amish and the Mennonites? 
+ANSWER:  
+Anabaptism 
+ [or  
+Anabaptist 
+s, etc] 
+10B.  Identify the symphonic suite by Nikolay Rimsky-Korsakov which was inspired by, and named for the 
+narrator of, the  
+Arabian Nights. 
+ANSWER:  
+Scheherazade 
+2013 VHSL Regionals     7     Page  5 of 9 
+2013 VHSL Regionals 
+Round 7 
+Third Period, Fifteen Tossups 
+1. A mixture of o-xylene and acetone can be used to illustrate this law, which applies best to substances 
+whose mixing enthalpy is zero. One side of the equation subject to this law can be multiplied by the 
+fugacity coefficient and the other by the activity coefficient to account for non-ideality. For 10 points, name 
+this law from solution chemistry, stating that the vapor pressure for a solution is equal to the sum of the 
+product of the vapor pressure of each component times its mole fraction. 
+ANSWER:  
+Raoult 
+'s Law 
+048-13-74-07117 
+2. The speaker of this poem exclaims, \"Thou, silent form! dost tease us out of thought as doth eternity.\" 
+This poem extols a \"bold lover\" whose beloved \"cannot fade\" and \"happy boughs\" that cannot shed their 
+leaves. This poem addresses a \"still unravished bride of quietness,\" a work of art that teaches man, \"Beauty 
+is truth, truth beauty.\" For 10 points, name this poem by John Keats about a piece of ancient pottery. 
+ANSWER: \" 
+Ode on a Grecian Urn 
+\" 
+080-13-74-07118 
+3. One December 2012 incident in this state resulted in the hospitalization of Joseph Hofstetter and 
+Theodore Scardino. That incident in this state was perpetrated by a man who wrote that what he liked doing 
+best was \"killing people.\" William Spengler killed two firefighters in this state. This state's largest city is 
+home to a controversial \"stop and frisk\" law which its mayor declined to end. For 10 points, identify this 
+state whose largest city is governed by mayor Michael Bloomberg. 
+ANSWER:  
+New York 
+189-13-74-07119 
+4. This city's government was dominated by a large assembly known as the \"apella\" and a smaller body, 
+named for the advanced age of its members, the \"gerousia.\" Legendarily, its government was designed by 
+Lycurgus. The Agiad and Eurypontid lines provided the two kings who simultaneously ruled this city, 
+which annually declared the \"krypteia,\" a period of time in which its slave class, or helots, were hunted. For 
+10 points, name this highly militarized Greek city-state that won the Peloponnesian War. 
+ANSWER:  
+Sparta 
+ [or  
+Lacedaemon 
+] 
+019-13-74-07120 
+5. One person who held this office in the 1950s chaired hearings on the Mafia and juvenile delinquency 
+caused by comic books, and ran as Adlai Stevenson's second vice-presidential nominee. This office was 
+held by Estes Kefauver and, for two terms, by actor Fred Thompson. From 2003 until 2007, a holder of this 
+office was also the Majority Leader; that was Bill Frist. It was previously held by both the senior and junior 
+Al Gore. For 10 points, name this legislative office now held by Bob Corker and Lamar Alexander. 
+ANSWER: United States  
+Senator 
+ from  
+Tennessee 
+ [prompt on United States  
+Senator 
+] 
+019-13-74-07121 
+6. One group which appeared on the 2012 season of this show abandoned the names \"LYLAS\" and \"1432\" 
+and performed the Shontelle song \"Impossible\" twice on this show. That group, Fifth Harmony, finished 
+third in the 2012 season of this show, which ended with L.A. Reid announcing his departure from a judge 
+position. Tate Stevens defeated Carly Rose Sonenclar in the finale of, for 10 points, what FOX singing 
+competition show also judged by Simon Cowell, Demi Lovato, and Britney Spears? 
+ANSWER:  
+The  X Factor 
+019-13-74-07122 
+2013 VHSL Regionals     7     Page  6 of 9 
+7. This author wrote that \"Too long a sacrifice can make a stone of the heart\" in one poem, three of whose 
+four stanzas end with the line \"A terrible beauty is born.\" This writer, who loved a revolutionary named 
+Maud Gonne, helped Lady Gregory found the Abbey Theater. A poem by this writer begins with the image 
+of a falcon \"turning in the widening gyre\" and asks, \"What rough beast...slouches towards Bethlehem to be 
+born?\" For 10 points, name this Irish poet of \"Easter, 1916\" and \"The Second Coming.\" 
+ANSWER: William Butler  
+Yeats 
+080-13-74-07123 
+8. This statement can be extended to three-dimensional figures, according to de Gua's theorem. Its solutions 
+always include two odd numbers. This statement cannot be proven trigonometrically, because 
+trigonometric identities are proven using it. It is a specific case of the law of cosines, in which one of the 
+involved angles is ninety degrees. For 10 points, identify this theorem used to find the hypotenuse of a right 
+triangle, commonly expressed as \"A-squared plus B-squared equals C-squared.\" 
+ANSWER:  
+Pythagorean 
+ theorem 
+189-13-74-07124 
+9. This author edited the periodical  
+Merry’s Museum 
+ and wrote the book  
+Silver Pitchers, 
+ which documents 
+the failure of Fruitlands, the utopian community founded by her transcendentalist father Bronson. She 
+wrote the sequels  
+Good Wives 
+ and  
+Jo's Boys 
+ to continue the story of Professor Bhaer and the March sisters 
+that she established in her most noted novel. For 10 points, name this author who created Beth, Meg, and 
+Amy in  
+Little Women. 
+ANSWER: Louisa May  
+Alcott 
+019-13-74-07125 
+10. A condition associated with muscular dystrophy, Coats’ disease, affects this structure. One type of cell 
+in this structure utilizes cGMP to allow a steady flow of sodium ions. This structure utilizes bipolar cells in 
+its “indirect” pathway, while amacrine cells in it project to ganglion cells. One disease affecting this 
+structure is its namesake \"pigmentosa.\" Its central portion is known as the macula. For 10 points, name this 
+layer of the eye that contains photoreceptor cells, such as rods and cones. 
+ANSWER:  
+retina 
+192-13-74-07126 
+11. The last of three clauses in Article IV, Section 2 of the Constitution mandated that this kind of law be 
+passed. These laws were upheld by the cases of  
+Prigg v. Pennsylvania 
+ and  
+Ableman v. Booth 
+, both of 
+which overturned the \"personal liberty laws\" aimed at contravening this kind of law. Part of the 
+Compromise of 1850 was a harsh law of this kind. For 10 points, identify these controversial laws which 
+mandated that escapees who reached the North be returned to the South. 
+ANSWER:  
+fugitive slave 
+ laws [or  
+fugitive slave 
+ acts] 
+019-13-74-07127 
+12. One study of this disease, led by John Cutler, involved treating intentionally infected Guatemalans with 
+penicillin. Malaria was used to treat the late stages of this condition until the 1940s. Salvarsan, a \"magic 
+bullet\" developed by Paul Ehrlichy, was the first effective treatment for this disease. Researchers in the 
+\"Tuskegee experiment\" allowed six hundred black men with this disease to go untreated for forty years. For 
+10 points, name this sexually transmitted disease. 
+ANSWER:  
+syphilis 
+131-13-74-07128 
+2013 VHSL Regionals     7     Page  7 of 9 
+13. This practice was upheld in the 1937  
+Breedlove v. Suttles 
+ Supreme Court case, though it was 
+completely outlawed by 1966's  
+Harper 
+ decision. The  
+Harman v. Forssenius 
+ case did not accept a residency 
+requirement as a substitute for this practice. It was outlawed in federal elections by the Twenty-Fourth 
+Amendment, and, like literacy tests, could be avoided through the grandfather clause. For 10 points, name 
+this Southern practice under which a flat fee had to be paid to vote. 
+ANSWER:  
+poll tax 
+019-13-74-07129 
+14. The site for this city was chosen after one man saw twelve vultures. In the underworld, Anchises told 
+his son that his descendants would rule this place. It was founded by the sons of Rhea Silvia, who were 
+saved by a she-wolf after being left to die of exposure. One of is founders killed the other in an argument 
+over building a wall. Wives for its original settlers were taken from the Sabines at a festival for Neptune. 
+For 10 points, name this city, legendarily founded by Romulus and Remus. 
+ANSWER:  
+Rome 
+121-13-74-07130 
+15. The ACE and the UVCS instrument on the SOHO mission are designed to study this phenomenon. This 
+phenomenon twists a certain magnetic field into the Parker spiral. The boundary between this phenomenon 
+and the interstellar medium is called the bow shock. Its interaction with the Earth's magnetic field forms the 
+magnetosphere. It's the reason that comet tails always point away from the sun. For 10 points, name this 
+phenomenon, a stream of charged particles ejected from the atmosphere of the sun. 
+ANSWER:  
+solar wind 
+ [or  
+stellar wind 
+] 
+048-13-74-07131 
+2013 VHSL Regionals     7     Page  8 of 9 
+2013 VHSL Regionals 
+Round 7 
+Tiebreaker Questions 
+1. One group of cells in this organ secrete NPY; that is this structure’s arcuate nucleus. This structure’s 
+ventromedial nucleus responds to increased leptin levels to signal satiety. This structure’s pre-optic nucleus 
+is responsible for triggering the release of sex hormones. Cell bodies in this organ are responsible for 
+synthesizing oxytocin and ADH. This structure uses the hypophyseal portal system to send releasing factors 
+to the pituitary gland. For 10 points, name this master regulator of homeostasis, located in the brain. 
+ANSWER:  
+hypothalamus 
+ [prompt on  
+brain 
+] 
+048-13-74-07132 
+2. In this novel, a letter from the suicidal Littlepaugh reveals graft in the filling of a high-paying power 
+company job. Following Tom’s paralysis during a football game in this novel, and the suicide of Judge 
+Irwin, Anne Stanton’s affair is revealed to Adam, who responds by assassinating the governor. Jack 
+Burden helps Willie Stark consolidate power in, for 10 points, what novel, based on the Huey Long 
+administration and written by Robert Penn Warren? 
+ANSWER:  
+All the King’s Men 
+019-13-74-07133 
+3. Variations of this technique include FLAIR. This technique, which often uses gadolinium-containing 
+contrast agents, is based on measuring the T1 and T2 relaxation time after an RF pulse. This technique is 
+dependent upon the presence of water in tissues. It is often used to diagnose muscle injuries and brain 
+tumors. For 10 points, name this medical imaging technique that uses the same principle as NMR. 
+ANSWER:  
+MRI 
+ [or  
+magnetic resonance imaging 
+; prompt on  
+NMR 
+; prompt on  
+nuclear magnetic 
+resonance 
+] 
+048-13-74-07134 
+4. Those who helped find the rebel Tsali during this event were allowed to settle the Qualla Boundary. 
+Elias Boudinot and Stand Watie negotiated a treaty orchestrating this event with John Ross at New Echota. 
+Attempts to forestall this event included the case  
+Worcester v. Georgia 
+. This event caused the death of 
+about four thousand of its fifteen thousand participants, who were moved to what became Oklahoma. For 
+10 points, name this brutal 1838 forced migration of the Cherokee. 
+ANSWER:  
+Trail of Tears 
+ [prompt on descriptive answers such as  
+Cherokee migration 
+ or  
+Indian 
+removal 
+] 
+019-13-74-07135 
+5. In French Canadians, the most common cause of this disease is a G to A splice site mutation in intron 
+seven. Another mutation that causes it is a four basepair insertion in exon eleven. This disease is caused by 
+mutations in the gene encoding hexaminosidase A, leading to a buildup of gangliosides. This 
+autosomal-recessive disease commonly causes death in infancy. For 10 points, name this disease, common 
+in Ashkenazi Jews, in which certain fats build up in the brain. 
+ANSWER:  
+Tay-Sachs 
+ disease 
+048-13-74-07136 
+This is a calculation question. In radians, what is the arcsine of negative one half? 
+ANSWER:  
+-pi/6 
+ radians [do not accept or prompt \"pi/6 radians\" or \"-30 degrees\"] 
+At what 1781 battle did Lord Cornwallis surrender, ending British hopes to win the Revolutionary War? 
+ANSWER: Battle of  
+Yorktown 
+Powered by TCPDF (www.tcpdf.org) 
+2013 VHSL Regionals     7     Page  9 of 9 

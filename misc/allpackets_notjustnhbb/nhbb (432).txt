@@ -1,0 +1,469 @@
+NASAT 2014    ROUND 19 TOSSUPS  
+1. One novelist from this country divided his masterpiece into three sections, “The Land,” “The  
+Man,” and “The Fight,” in which he applied social Darwinist theories to a historical rebellion in  
+the title region. Another novelist from here began his career with a sequence of six novels about  
+various contingents of his country’s poor culminating in  Captains of the Sands.  That author from  
+this country wrote about the romance between the Syrian bar owner Nacib Saad and the title  
+cook in  Gabriela, Clove and Cinnamon.  Another author from here wrote the formally innovative  
+Posthumous Memoirs of Bras Cubas.  For 10 points, name this country where writers such as  
+Jorge Amado and Machado de Assis wrote in Portuguese.  
+ANSWER:  Brazil   
+2. This document caused a boom for the textile industry in Spitalfields, England. The Duke of  
+Lesdiguieres enforced the laws of this document. Upon hearing of the signature of this  
+document, Clement VIII claimed that \"liberty of conscience given to everybody is the worst  
+thing in the world.\" A special court dealing with disputes from this document was the Chambre  
+de l’Edit. The Peace of Alais was signed to restrict political power from a group of people who  
+received places de surete from this document. A mass exodus was prompted by this document’s  
+revocation by Louis XIV signing into law the Edict of Fontainebleau. For 10 points, identify this  
+16th century document by Henry IV which granted religious freedom to Huguenots.  
+ANSWER: Edict of  Nantes   
+3. Police investigated this man for the 2003 theft of Iraqi war criminal Tariq Aziz’s cigar case.  
+NPR claimed this man used a campaign slogan saying if you voted for his party, \"your wife will  
+get bigger breasts.\" A fan of cycling, he lends his name to Barclays Cycle Hire bicycles used in  
+the city he works in. This man won his current position by defeating Ken Livingstone, thanks to  
+high voter turnout in the Bexley and Bromley districts. In November 2013, this politician  
+announced the \"Tube\" transit system would run twenty-four-hours on weekends. This  
+Conservative politician, who is noted for his unruly hair, served as Mayor during the 2012  
+Summer Olympic Games. For 10 points, name this Mayor of London.  
+ANSWER: Alexander Boris de Pfeffel  Johnson   
+4. The fact that this object commutes with the translation operator in a periodic system is a key  
+step in the proof of Bloch's theorem. The negative derivative of this quantity with respect to p is  
+equal to the time derivative of p, and the derivative of this quantity with respect to p is equal to  
+the time derivative of q, in one system. The eigenvalues of this operator are assumed to change  
+slowly under a perturbation in the adiabatic theorem. The time derivative of the action plus this  
+quantity is equal to zero according to an equation partly named for Jacobi. In classical  
+mechanics, this value can be obtained by taking the Legendre transform of the Lagrangian. For  
+10 points, name this mathematical function used to define a namesake type of mechanics, which  
+corresponds to the total energy of a system.  
+ANSWER:  Hamiltonian 
+NASAT 2014    ROUND 19 TOSSUPS  
+5. A version of this task that uses a Gaussian process is called kriging. The sum of the  
+coefficients of a construct used to do this task converges to Magata's constant, and that version of  
+this task can be done using Neville's algorithm. The unisolvence theorem states that the unique  
+solution to one version of this task is found by taking the determinant of the Vandermonde  
+matrix. For multivariate data over a regular grid, the nearest-neighbor method of performing this  
+task creates a series of piecewise-constant functions. The use of polynomials to perform this task  
+can lead to oscillatory behavior at the endpoints, which can in turn be avoided by using splines.  
+For 10 points, name this technique which uses some function to create new data points within an  
+interval.  
+ANSWER:  interpolation   
+6. This river led to a namesake bridge war when Governor \"Alfalfa Bill\" Murray ordered a new  
+free bridge to be opened. Cartographers debate whether its true stem is at the North Fork or at  
+Prairie Dog Town Fork. According to the Adams-Onis Treaty, this river's south bank, not that of  
+the Rio Grande, was set as the boundary between the United States and Spain. A collection of  
+fallen trees was this river's \"Great Raft,\" which prevented navigation between Alexandria and  
+Shreveport. Its namesake \"shootout\" refers to an annual college football game between the  
+Longhorns and Sooners. For 10 points, name this colorfully named river that is basically the  
+border between Texas and Oklahoma.  
+ANSWER:  Red  River of the South [do not accept \"Red River of the North\"]  
+7.  This event is in the title of an Alfred Young book about George Robert Twelves Hewes, a  
+shoemaker. The financier Robert Murray tried to pay for the damage done in this event.  
+Historian George Bancroft helped to spread the urban legend that the signal for it was a phrase  
+about how “nothing more to save the country” can be done. This event inspired a similar incident  
+in Annapolis directed against the  Peggy Stewart , and it was inflamed by Governor Thomas  
+Hutchinson’s hard line stance. It began after people poured out of the Old South Meeting House  
+and dressed like Mohawks, possibly after hearing a signal from Samuel Adams. For 10 points,  
+name this December 1773 event in which members of the Sons of Liberty dressed like Indians  
+and ruined shipments.  
+ANSWER:  Boston Tea Party   
+8. A variant of GFP sensitive to this value is often fused to VAMP to track synaptic vesicle  
+transport. An instrument used to measure this value is governed by the Nikolsky-Eisenman  
+equation, and Glassoe and Long suggested correcting this value by an additive factor of 0.4 in  
+deuterated media. For compounds like TFMS and certain carboranes, this value is often  
+supplanted by a function named for Hammett. Hydrion strips can be used to measure this  
+quantity, though it is more accurately measured using an ion-selective glass electrode. More  
+often, compounds like bromothymol blue and phenolphthalein are used to estimate this value  
+from color changes. For 10 points, name this value which ranges from 0 to 14, which is found by  
+taking the negative log base 10 of the hydrogen concentration of an aqueous solution.  
+ANSWER:  pH  [or  pOH  until \"hydrogen\" is read; prompt on \"acidity\" or \"basicity\"] 
+NASAT 2014    ROUND 19 TOSSUPS  
+9. This model can be extended to consider trade in the open economy by pairing it with the  
+interest parity relation, leading to the \"impossible trinity;\" that extension is known as the  
+Mundell-Fleming model. A component of this model is computed by considering price level,  
+income and the liquidity preference function. The impacts of fiscal and monetary policy can be  
+determined by considering shifts in the curves in this model. It was developed by John Hicks  
+based on the ideas presented in  The General Theory of Employment, Interest, and Money.  For 10  
+points, identify this model in which GDP is plotted against interest rate, whose equilibrium  
+occurs at the intersection of its namesake curves.  
+ANSWER:  IS/LM  model [or  Investment Saving/Liquidity Preference Money Supply  model]  
+10. One poster during this election implored the viewer to “Confirm their confidence” in the  
+incumbent and showed a hand marking an X on a ballot. The winning party in this election wrote  
+the manifesto “Let us face the future together”. During one televised speech in this election, the  
+losing candidate stated that his opponents would have to use “some form of Gestapo” in order to  
+implement their proposed social reforms, which included full employment and an expanded  
+welfare state suggested by the Beveridge report. This election brought Ernest Bevin to the post of  
+Foreign Secretary and resulted in the creation of the National Health Service. For 10 points,  
+name this election in which the Labour Party under Clement Attlee came to power over Winston  
+Churchill’s conservatives.  
+ANSWER:  1945 General Election  in the UK [accept UK  1945 Parliamentary Election ; accept  
+variations of Clement  Attlee beating  Winston  Churchill  until “Attlee”]  
+11. One goddess in this myth system was originally a very promiscuous woman who was cut  
+apart by her suitors, and whose body gave birth to a plant. One goddess in this mythology put her  
+baby on the ground to determine its father; the baby crawled toward the moon god, who had  
+impregnated that goddess using sperm hidden in fruit. In this mythology, one ruler’s brother was  
+able to destroy hills with his slingshot, and was turned to ice or trapped in a cave because of his  
+cruelty. One ruler of these people was told to build a temple at the site that a golden staff sunk  
+into the earth. Another god in this pantheon kept the Milky Way in a jug and used it to create  
+rain; that god was Ilyap’a. For 10 points, name this mythological system in which the sun god  
+Inti was born of the supreme deity Viracocha, who was in turn the grandfather of the legendary  
+first emperor Manco Capac.  
+ANSWER:  Inca n myth  
+12. In this play, an audience cries out, \"Fantastic!\" after hearing the story of \"something really  
+incredible\" that turns out to be a man bending down to tie his shoelace. One character in this play  
+tells his audience an \"experimental fable\" in which a dog explains that he didn't swallow his  
+trunk because he thought it was an elephant. The opening stage directions to this play note that it  
+is set in a \"middle-class English interior\" where \"an English clock strikes 17 English strokes.\"  
+Mary says she is Sherlock Holmes in this play after proving that a couple is not actually married.  
+In this play, a visit by the Martins to the Smiths is interrupted by the entrance of the Fire Chief.  
+For 10 points, name this first play by Eugene Ionesco.  
+ANSWER:  The  Bald Soprano  [or  La  Cantatrice Chauve ] 
+NASAT 2014    ROUND 19 TOSSUPS  
+13. Gerald Creasy warned of a communist takeover in what is now this country. This country's  
+first leader wore a skull cap with “PG” for “prison graduate” embroidered on it. The National  
+Liberation Movement grew out of Asante farmers anger when this country's ruling power used  
+the Cocoa Marketing Board to keep cocoa prices one-third the market price. Charles Arden- 
+Clarke agreed to cut short this country's first leader's prison sentence after his party won an  
+overwhelming majority in new elections. A group of “men of property and standing” led by  
+Joseph Danquah formed a political party whose slogan was “Self-government in the shortest  
+time possible,” and that party was opposed by another whose slogan was “Self-government  
+now.” For 10 points, name this country that was once the Gold Coast, whose first president and  
+prime minister was Kwame Nkrumah.  
+ANSWER:  Ghana  [or  Gold Coast  until mentioned]  
+14. This character gives a speech which instructs his servant, “be thou void of these affections:  
+compassion, love, vain hope, and heartless fear.” This character admits to have committed  
+fornication, to which he adds, \"but that was in another country; and besides, the wench is dead,”  
+and he earlier claims to “kill sick people groaning under walls.” After having another man poison  
+some porridge, this character exclaims “how sweet the bells ring, now that the nuns are dead!”  
+He shouts “tongue, curse thy fill, and die!” as he dies in a cauldron of boiling water intended for  
+Ferneze, who confiscated his property as tribute to the Turks. For 10 points, name this villainous  
+title character of Christopher Marlowe's  The Jew of Malta.   
+ANSWER:  Barabas  [or the  Jew of Malta  before it is read]  
+15. This artist declined a request to paint a woman's eye on a shirt pin. In one of this artist's  
+paintings, a bishop points his cane at a tree-covered building. He created a series of \"six-footers\"  
+after the success of his canvas  The White Horse.  This painter spent hours reading Luke Howard  
+and sketching clouds during his \"skying\" sessions, which led to the realism of the dark nimbus  
+over a Neolithic monument in a painting of his. In the most famous artwork of this frequent  
+painter of Salisbury Cathedral, a dog stands on the left bank of the Stour River near Willy Lott's  
+cottage, toward which a cart is being pulled. For 10 points, name this English landscape artist of  
+The Hay Wain.   
+ANSWER: John  Constable   
+16. A group of nineteen of these creatures called the Zabaniah are responsible for torment, and a  
+set of them called the \"Journeyers\" are tasked with seeking out assemblies. A pair of these  
+creatures called the Kiramin Katibin are responsible for recording deeds, and the appearance of  
+one of these creatures twice in a single year prompted the Farewell Sermon. These creatures are  
+made of light, unlike jinns, who are made of smokeless fire. The first appearance of one of these  
+creatures is celebrated on the Night of Power, and during that event he repeatedly said \"read!\" to  
+a person who replied \"I can't read.\" For 10 points, name these creatures from Islamic mythology,  
+including one which first appeared in a cave to Muhammad and dictated the Qu'ran, named  
+Jibril.  
+ANSWER:  angel s 
+NASAT 2014    ROUND 19 TOSSUPS  
+17. John Bassett nearly lost his job for an unflattering article about the intellectual scene of this  
+place. H. L. Mencken complained that this place is “almost as sterile, artistically, intellectually,  
+culturally, as the Sahara desert\" in “The Sahara of the Bozart.” Mencken was also critical of an  
+article by Donald Davidson which defended its religious and agrarian past. Davidson belonged to  
+a group of writers from this place who argued for its traditionalism in the collection  I'll Take My  
+Stand.  William Faulkner's novels are often classified as a type of “Gothic” fiction named for this  
+place. For 10 points, name this region of the United States.  
+ANSWER: the American  South  [or obvious equivalents]  
+18. In a portion of this composition, an offstage clarinet repeats a C and A-flat ostinato. In  
+another of its movements, the pianos play C, D-flat, D, and E scales in the manner of beginning  
+music students. This is the most famous composition in the classical repertoire to include a part  
+for a glass harmonica. The fourth movement of this composition contains a slow rendition of the  
+\"Galop infernal\" from  Orpheus in the Underworld.  A cello solo is accompanied by two pianos in  
+the only movement from this collection the composer allowed to be played in his lifetime. In this  
+piece's movement \"Fossils,\" the xylophones mimic the composer's own  Danse macabre.  For 10  
+points, name this musical menagerie composed by Camille Saint-Saens.  
+ANSWER:  The  Carnival of the Animals  [or  Le  Carnaval des Animaux ; or \"The  Cuckoo in the  
+Depths of the Woods \", \"Le  Coucou au Fond des Bois \", or \" Aquarium \" until \"fourth  
+movement\" is read]  
+19. A complex of cubilin and amnionless absorbs this vitamin. A biologically active form of this  
+vitamin is abbreviated holoTC. This vitamin is a coenzyme for a reaction that accompanies the  
+demethylation of methyltetrahydrofolate. Two important reactions for which it is a coenzyme are  
+the conversion of methylmalonyl-CoA to succinyl-CoA and of homocysteine to methionine.  
+Pancreatic proteases free this vitamin from haptocorrin. Autoimmune disorders that attack  
+parietal cells can cause its deficiency because it must be bound to intrinsic factor in order to be  
+absorbed in the ileum. The activity of this vitamin is due to the cobalt sitting at the center of its  
+corrin ring, and its deficiency can lead to megaloblastic or pernicious anemia. For 10 points,  
+name this B vitamin.  
+ANSWER: vitamin  B12  [or  cobalamin ]  
+20. The arrangement of betel leaves used during weddings inspired the layout of this city's  
+Palace of Culture. A National Monument located in this city has garlands laid on it every  
+Warriors' Day and was originally adjacent to Cenotaph Road. A mosque in this city has towers  
+and a main dome resembling closed and open umbrellas and also contains the Heroes  
+Mausoleum. The most famous building in this city includes a cross-section resembling the Rub  
+el Hizb symbol from Islamic art, and contains a skybridge connecting its two halves. That Cesar  
+Pelli-designed building in this city was surpassed by Taipei 101 as the world's tallest building.  
+For 10 points, name this Asian capital city that contains the Petronas Towers.  
+ANSWER:  Kuala Lumpur  [or  KL ] 
+NASAT 2014    ROUND 19 TOSSUPS  
+21. One poem by this author declares, “Into your virtual city I’ll have passed,\" and is narrated by  
+a figure \"in Springtime\" who is noted in another poem for \"the mild pods of his eyelids, his  
+pointed skin cap.\" This poet described finding “only the secular powers of the Atlantic  
+thundering” in “North.” This poet wrote of a \"poppy bruise\" on a \"left temple\" in a poem  
+recalling his mother coughing out \"angry tearless sighs.\" The narrator of one of his poems flees  
+from a “a coarse croaking\" he \"had not heard before” in a poem in which a boy gathers  
+“jampotfuls” of frogspawn. For 10 points, name this author of “Mid-Term Break” and “Death of  
+a Naturalist,” an Irish poet known for translating  Beowulf.   
+ANSWER: Seamus  Heaney   
+22. Soldiers sympathetic to this group were killed after the Banbury mutiny, after a group of  
+officers named Grandees began to reject their ideas. William Walwyn was one of these people,  
+whose supporters wore rosemary springs and sea-green ribbons. The manifesto  An Agreement of  
+the People , written in part by John Lilburne, laid out this movement's beliefs. These participants  
+in the Putney debates were the basis for a more extreme splinter group known as the Diggers. For  
+10 points, name these believers in universal male suffrage and radical social equality, who were  
+put down by Oliver Cromwell after the English Civil War.  
+ANSWER:  Leveller s  
+23. Ahmed Zewail observed these structures using lasers in a new field of study he dubbed  
+femtochemistry. Oseltamivir, or Tamiflu, is an example of an inhibitor that works by mimicking  
+this kind of structure. The Eyring equation was developed out of the theory of this name. This  
+structure has a trigonal bipyramidal geometry in the SN2 reaction. This structure's appearance  
+depends on the species closest to it in free energy, according to Hammond's postulate. Activated  
+complexes are similar to these structures, which are denoted by a double dagger symbol. This  
+structure corresponds to the highest potential energy along the reaction coordinate. For 10 points,  
+name these fleeting structures produced during chemical reactions.  
+ANSWER:  transition state s [accept  activated complex es before mentioned] 
+NASAT 2014    ROUND 19 BONUSES  
+1. Benjamin Harrison unsuccessfully suggested this man be named the country’s poet laureate.  
+For 10 points each:  
+[10] Name this “Hoosier” poet, who penned such sentimental fare as \"The Raggedy Man\" and  
+\"Little Orphan Annie.\"  
+ANSWER: James Whitcomb  Riley   
+[10] James Riley reportedly discovered this African-American poet in 1892. This man wrote the  
+poem \"We Wear the Mask\" and a line from his poem \"Sympathy\" inspired the title of Maya  
+Angelou's autobiography  I Know Why the Caged Bird Sings.   
+ANSWER: Paul Laurence  Dunbar   
+[10] Another Indiana author was former Civil War General Lew Wallace, who is best known for  
+writing this book, whose title Jewish prince meets Jesus, is sent to a Roman galley, and defeats  
+his nemesis in a chariot race.  
+ANSWER:  Ben-Hur : A Tale of the Christ   
+2. This man disowned his satire of anti-Chinese racism “Plain Language from Truthful James”  
+when it became popular with actual racists. For 10 points each:  
+[10] Name this author, who wrote from the point of view of a bullet anxious why a man does not  
+“answer to my kiss” in “What the Bullet Sang.”  
+ANSWER: Bret  Harte   
+[10] Harte wrote this short story about the selfless behavior of people like John Oakhurst and  
+“the Duchess” who are exiled by a secret committee for immoral behavior.  
+ANSWER: “The  Outcasts of Poker Flats ”  
+[10] Ah Sin and the narrator take part in this activity in “Plain Language from Truthful James.”  
+John Oakhurst is disliked by many in Poker Flats for his proficiency at doing this.  
+ANSWER: playing  card s  
+3. Answer the following about the history of skulls in painting, for 10 points each.  
+[10] This painting by Hans Holbein the Younger depicts a diagonally-distorted skull at the feet  
+of the two title professionals.  
+ANSWER:  The  Ambassadors  [or  The French  Ambassadors ]  
+[10] This subgenre of Dutch still-life paintings often depicted skulls on tables as a symbol of the  
+emptiness of life.  
+ANSWER:  vanitas  paintings  
+[10] This artist and member of Les Vingt depicted two skulls playing tug-of-war over a pickled  
+herring with their teeth in one of his skeleton paintings. He also created a large crowd scene in  
+which Jesus visits his nation's capital, in which a large red banner reads \"VIVE LE SOCIALE.\"  
+ANSWER: James  Ensor 
+NASAT 2014    ROUND 19 BONUSES  
+4. Processes of this type generate no entropy, meaning that throughout each step of this kind of  
+process, the system is at thermal equilibrium. For 10 points each:  
+[10] Name these types of thermodynamical processes that have a line integral around one cycle  
+of dQ over T equal to zero, according to Clausius's theorem.  
+ANSWER:  reversible   
+[10] Clausius's theorem is a restatement of this important result, which says that entropy cannot  
+decrease in a closed system.  
+ANSWER:  second law of thermodynamics   
+[10] Callen and Welton proved this important result in non-equilibrium thermodynamics, which  
+states that the random reversible deviations from equilibrium result in irreversible heat  
+production.  
+ANSWER:  fluctuation-dissipation  theorem [or  FDT ; do NOT accept \"fluctuation theorem\"]  
+5. The name of this edict was taken from a spell in the ring cycle, and it was expanded by  
+Wilhelm Keitel to include anyone who survived for eight days in custody. For 10 points each:  
+[10] Name this decree which allowed prisoners and dissidents in Nazi-occupied territories to be  
+skirted away to a prison or concentration camp without anyone knowing.  
+ANSWER:  Nacht Und Nebel  [or  Night and Fog  decree]  
+[10] Part of the job of this Nazi propaganda minister was to suppress information about the Nazis  
+use of concentration camps and prisons.  
+ANSWER: Joseph  Goebbels   
+[10] Virginia d’Albert-Lake, an American resistance fighter and victim of the Night and Fog  
+Degree, was taken to this all-female prison camp 50 miles north of Berlin. Corrie ten Boom  
+described her experiences here in  The Hiding Place .  
+ANSWER:  Ravensbruck   
+6. This publication has such columns as \"Lexington\" to refer to news about the United States.  
+For 10 points each:  
+[10] Name this publication which is published from London. Noted for its support of classical  
+liberalism, it is noted for its Big Mac Index tracing the price of hamburgers in various countries.  
+ANSWER:  The  Economist   
+[10] This collaborator with Engels on  The Communist Manifesto  called  The Economist  \"the  
+European organ of the aristocracy of finance.\"  
+ANSWER: Karl  Marx   
+[10] This editor of  The Economist  during almost all of the 1860's wrote such books as  The  
+English Constitution  and  Physics and Politics . His namesake dictum states that during a credit  
+crunch, lenders should lend freely at a high rate of interest.  
+ANSWER: Walter  Bagehot 
+NASAT 2014    ROUND 19 BONUSES  
+7. This assembly was the site of Patrick Henry's speech, \"If this be treason, make the most of it\".  
+For 10 points each:  
+[10] Name this colonial legislative assembly in Virginia, the first of its kind in America.  
+ANSWER:  House of Burgesses  [prompt on partial answer]  
+[10] Patrick Henry and Dabney Carr convinced the House of Burgesses to establish one of these  
+committees in the prelude to the Revolutionary War. These governments eventually replaced  
+colonial legislatures and coordinated action against England.  
+ANSWER: committees of  correspondence   
+[10] Henry first came to political prominence arguing this 1763 case, which originated from  
+George III's veto of a Virginia law that kept the price of tobacco paid to Anglican clergy at two  
+pennies.  
+ANSWER:  Parson 's Cause  
+8. This city is located where the Schuykill [SKOO-kull] River meets the Delaware River. For 10  
+points each:  
+[10] Name this city which connects to New Jersey via the Walt Whitman, Betsy Ross, and  
+Benjamin Franklin bridges. The Liberty Bell is no longer located in this city’s Independence  
+Hall.  
+ANSWER:  Philadelphia , Pennsylvania  
+[10] This newspaper of Philadelphia, the third-oldest daily newspaper in America, beat out rivals  
+by obtaining exclusive publication rights of several Dickens novels. It also first published Poe’s  
+The Raven .  
+ANSWER: The Philadelphia  Inquirer   
+[10] This theater, founded in 1809, is the oldest continuously functioning theater in America. Its  
+first production, Sheridan’s  The Rivals , was attended by President Jefferson and the Marquis de  
+Lafayette, and in 1976, this theater hosted the first Ford-Carter debate.  
+ANSWER:  Walnut Street  Theater  
+9. This king dies despite clothing Jehoshaphat in his robes. For 10 points each:  
+[10] Name this king who is condemned for his murder of Naboth in order to steal a vineyard.  
+ANSWER:  Ahab   
+[10] Both Ahab and his wife, Jezebel, frequently clashed with this Biblical prophet, the mentor  
+of Elisha. This man defeated the prophets of Baal in a dramatic contest on Mount Carmel.  
+ANSWER:  Elijah   
+[10] Elijah ascends into heaven using this type of supernatural vehicle, as described in 2 Kings  
+2:11. This vehicle is also mentioned in the hymn \"Jerusalem.\"  
+ANSWER:  chariot of fire  [prompt on partial answer] 
+NASAT 2014    ROUND 19 BONUSES  
+10. This time period is the focus of the book  And Their Children After Them.  For 10 points each:  
+[10] Name this time period that is also the focus of much of Walker Evans' photographs, as  
+collected in the book  Let Us Now Praise Famous Men . Roy Stryker chaired an agency that took  
+photos during this time period.  
+ANSWER:  Great Depression  [or  Dust Bowl ; prompt on  1930s ]  
+[10] This woman took a famous photograph during the Depression called  Migrant Mother .  
+ANSWER: Dorothea  Lange   
+[10] This other Depression era photographer is best known for his photo entitled  American  
+Gothic, Washington, D.C.,  which shows a black cleaning woman holding a broom and mop in  
+front of the American flag. He also directed the seminal blaxploitation film  Shaft .  
+ANSWER: Gordon  Parks   
+11. Answer these questions about the ways in which Vikings governed their territory after  
+settling down from raiding, for 10 points each.  
+[10] This Icelandic deliberative body, the world's oldest still-extant parliament, was established  
+by Norse settlers in the 900s CE to resolve disputes.  
+ANSWER: the  Althing   
+[10] This region of Britain was cordoned off and ruled by Viking decrees. It was established  
+after Guthrum made the treaty of Wedmore with Alfred the Great.  
+ANSWER: the  Danelaw  [or  Danelage n]  
+[10] These payments, a key part of pre-modern Germanic justice systems, were given to the  
+family of a victim by a murderer as compensation.  
+ANSWER:  weirgild  [prompt on \" blood money \"]  
+12. This opera, inspired by a comic strip written by Rudolf Tesnohlidek, ends with a gamekeeper  
+dropping his gun after catching a frog instead of the title character, a reverse of what happens in  
+the opening scene. For 10 points each:  
+[10] Name this racy fairy tale opera, whose lusty title character escapes from being tied up to a  
+dog and is eventually shot by the poacher Harasta.  
+ANSWER:  The  Cunning Little Vixen  [or  Prihody Lisky Bystrousky ; or  Adventures of Vixen  
+Sharp-Ears ]  
+[10]  The Cunning Little Vixen  is much lighter than this Czech composer's portrait of jealousy and  
+infanticide,  Jenufa.   
+ANSWER: Leos  Janacek  [or Leo Eugen  Janacek ]  
+[10] The House of Commons is lampooned in this duo's fairy tale opera  Iolanthe,  in which the  
+Fairy Queen gives Strephon the ability to pass any bill he proposes as MP. They also produced  
+HMS Pinafore.  
+ANSWER:  William Schwenk  Gilbert  and Arthur  Sullivan 
+NASAT 2014    ROUND 19 BONUSES  
+13. Victor Emmanuel Leclerc, brother-in-law to Napoleon, was sent to tame this colony, but died  
+of yellow fever. For 10 points each:  
+[10] Name this French colony on Hispaniola, the predecessor of a country founded by Jean- 
+Jacques Dessalines and Toussaint L’Ouverture.  
+ANSWER:  Saint Domingue  (SAN dohm-ONG)  
+[10] Jean-Jacques Dessalines became Jacques I of this country after leading the only slave revolt  
+which led to the successful creation of a country.  
+ANSWER: Republic of  Haiti   
+[10] Dessalines declared the independence of Saint Domingue after winning the Battle of  
+Vertieres against this general. This man’s father commanded the French army at Yorktown.  
+ANSWER: Jean-Baptiste Donatien de Vimeur, comte de  Rochambeau   
+14. This quantity is a measure of stiffness. For 10 points each:  
+[10] What ratio of stress to strain along an axis holds for elastic deformations?  
+ANSWER:  Young's modulus  [or  tensile modulus ; or  elastic modulus ; or big  ]  E 
+[10] This ratio measures the lengthening effect that occurs along the axis transverse to the  
+applied load on a material. It's the negative ratio of transverse to axial strain.  
+ANSWER:  Poisson 's ratio [or  nu ]  
+[10] The stress applied tangentially to the face of material is known by this term and usually  
+denoted by the Greek letter tau.  
+ANSWER:  shear  stress  
+15. This organelle contains some double-headed phospholipids in its membrane, and antibodies  
+to this organelle are found in people with primary biliary cirrhosis. For 10 points each:  
+[10] Name this organelle, whose inner membrane contains the four complexes of the electron  
+transport chain and ATP synthase.  
+ANSWER:  mitochondria  [or  mitochondrion ]  
+[10] This part of the mitochondrion is where the citric acid cycle takes place.  
+ANSWER: mitochondrial  matrix   
+[10] People with mitochondrial disorders often have this condition, in which more than one  
+different mitochondrial genome is present in the same cell.  
+ANSWER: mitochondrial  heteroplasmy   
+16. Gregory Vlastos's 1954 paper on this argument is considered definitive. For 10 points each:  
+[10] Name this argument outlined in the  Parmenides,  which states that if the namesake organism  
+has a particular form of that organism, then another form would be required to explain that  
+relationship, ad infinitum.  
+ANSWER:  third man  argument [or  TMA ]  
+[10] The third man argument throws a wrench into the theory of forms of this philosopher, who  
+also outlined the Euthyphro dilemma in another one of his namesake dialogues.  
+ANSWER:  Plato   
+[10] Parmenides is accompanied by this student of his in the dialogue. The dialogue begins with  
+this person reading from one of his books in front of a crowd. He asked how many grains of  
+millet must be dropped to make a sound.  
+ANSWER:  Zeno  of Elea 
+NASAT 2014    ROUND 19 BONUSES  
+17. Answer these questions about Samuel Beckett's  Waiting for Godot,  for 10 points each.  
+[10] This member of the cast is led on a leash by Pozzo. He stays silent except for a single, long  
+nonsense monologue delivered while his bowler hat is on.  
+ANSWER:  Lucky   
+[10] Though Godot never comes, this object suddenly appears close to the end of both acts, right  
+after the Boy exits in each instance. In Oscar Wilde's  Salome,  two guards watch this object  
+become \"red as blood.\"  
+ANSWER: the  moon   
+[10] In both acts, Godot's Boy messenger inexplicably addresses Vladimir by this name.  
+ANSWER: Mister  Albert   
+18. Name these inventors from Greek myth, for 10 points each.  
+[10] The young Hermes appeased his brother Apollo by killing a turtle and turning it into this  
+stringed instrument.  
+ANSWER: the  lyre   
+[10] Daedalus murdered this nephew of his in jealousy over his invention of the saw.  
+ANSWER:  Perdix  [or  Talos ]  
+[10] This prince, who led the Nauplians in the Trojan War, is credited with inventing letters and  
+dice. Odysseus framed him for taking a bribe from Priam.  
+ANSWER:  Palamedes  of Nauplia  
+19. In a novel by this author, a criminal called The Unnamed decides to free his prisoner after  
+meeting with Cardinal Borromeo. For 10 points each:  
+[10] Name this 19th-century Italian author of a historical novel about the romance of Renzo and  
+Lucia,  The Betrothed .  
+ANSWER: Alessandro  Manzoni   
+[10] The last part of  The Betrothed  takes place during a plague. In this other novel, a plague  
+breaks out during a siege after the title character poisons Il Toro at a feast on the Prince’s orders.  
+ANSWER:  The  Dwarf  [or  Dvargen ]  
+[10] In this collection by Boccaccio, ten people tell one hundred stories after fleeing from the  
+Black Death in Florence.  
+ANSWER:  The  Decameron   
+20. Identify the following things from number theory, for 10 points each.  
+[10] Identify this lemma which states that a polynomial with integer coefficients that factors into  
+two polynomials with rational coefficients, factors into two polynomials with integer  
+coefficients.  
+ANSWER:  Gauss 's lemma  
+[10] Euclid's algorithm is used to find this quantity by recursive division.  
+ANSWER:  greatest common divisor  [or  gcd ; or  greatest common factor ; or  gcf ; or  highest  
+common factor ; or  hcf ]  
+[10] Wolstenholme's theorem states that for a prime p greater than three, this operation applied to  
+two p minus one for p minus one is congruent to one mod p cubed. This operation is used to  
+compute binomial coefficients and is contrasted with the permutation.  
+ANSWER: k- combination s [or n  choose  k; or other variables in place of \"k\", such as \"r\"] 
+NASAT 2014    ROUND 19 BONUSES  
+21. A well-known exposed example of this type of intrusive body forms the Palisades that  
+overlook the Hudson River. For 10 points each:  
+[10] Name these intrusive sheets of igneous rock that are concordant with the layering of the  
+rocks on which they intrude. They are fed by dikes.  
+ANSWER:  sill s  
+[10] This mushroom-looking intrusive sheet can be conceived of as an inflated sill. Examples  
+include the Devil's Tower in Wyoming.  
+ANSWER:  laccolith s  
+[10] Sills and laccoliths are formed by the intrusion of this substance into existing rock layers.  
+Their namesake \"chamber\" feeds a conduit in volcanos.  
+ANSWER:  magma 

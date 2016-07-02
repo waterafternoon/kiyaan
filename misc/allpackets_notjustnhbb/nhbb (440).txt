@@ -1,0 +1,795 @@
+National All-Star Academic Tournament 
+Round 19 
+Tossups 
+1. A so-called bulk or second variety of this property exists, but is unimportant in the incompressible case. 
+This property can decrease over time in response to applied shear, a phenomenon known as thixotropy. 
+This quantity appears multiplying the axial length and volumentric flow rate in the usual form of 
+Poiseuille's equation. The effects of this property dominate at low Reynolds' numbers as this quantity is the 
+denominator of the Reynolds number. This quantity appears as the constant of proportionality between the 
+sheer stress and perpendicular velocity gradient for a Newtonian fluid. This property increases with 
+temperature for gases but decreases for liquids; relatedly, for a superfluid below the lambda point, this 
+property has a value of zero. For 10 points, name this measure of a fluid's internal resistance to flow. 
+ANSWER:  
+viscosity 
+003-09-12-19102 
+2. One figure in this painting wears a hat with red and white triangles and a necklace of beads with a cross. 
+A face can be seen in front of a church at the top of this painting. A line connects the eyes of the two largest 
+figures in this painting, one of whom feeds a flower to the other. Other figures in this work include a 
+woman milking a goat and a man with a scythe next to a woman who, like two of the houses in this 
+painting, is upside-down. The two largest figures in this work are a green man and a goat that loom over 
+much of the canvass, which may depict the town of Vitebsk, Belarus. For 10 points, name this painting by 
+Marc Chagall. 
+ANSWER:  
+I and the Village 
+024-09-12-19103 
+3. Miguel Landivar spread rumors that this figure was an escaped convict to support Agostino Mainardi, 
+who accused this person of heresy. This person had a vision of God telling him \"I will be propitious to you 
+at Rome\" before he experienced an awakening while praying in a cave near Manresa. This mentor of Peter 
+Faber and Diego Lainez expressed his belief that obedience was the pre-eminent virtue in his \"Letter on 
+Obedience.\" Francis Xavier was a follower of this leader, who created a program of prayer and 
+contemplation divided into four weeks in his  
+Spiritual Exercises 
+. For 10 points, name this founder of the 
+Jesuits, a Spanish saint from Loyola. 
+ANSWER: Saint  
+Ignatius 
+ of Loyola 
+004-09-12-19104 
+4. A cascading Harry Bertoia sculpture falls from the oculus of one building constructed by this architect, 
+which contains an aluminum spire atop a windowless brick cylinder surrounded by a moat. He placed a 
+green \"oval\" between that structure and a nearby auditorium that he also designed. He designed a thin-shell 
+roof over a \"head house\" in a structure that used red carpet in tube-shaped departure-arrival corridors. This 
+architect of the MIT Chapel, Kresge Auditorium, and TWA terminal at JFK also designed a structure based 
+on a catenary curve, which overlooks the Mississippi River. For 10 points, name this Finnish architect who 
+designed the Gateway Arch. 
+ANSWER:  
+Eero Saarinen 
+ [prompt on  
+Saarinen 
+; prompt on  
+E. Saarinen 
+; do not accept \"Eliel Saarinen\"] 
+020-09-12-19105 
+National All-Star Academic Tournament     Round 19     Page  1 of 12 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+5. Strabo describes how an expedition of this people under Brennus supposedly plundered cursed gold from 
+Delphi which was later inherited by Marcus Junius Brutus, after which they settled a namesake region of 
+north central Turkey. An empire named after this people was founded by Postumus and conquered by the 
+Emperor Aurelian in 274 AD. Members of this variant of the La Tene culture killed 46 centurions at 
+Cergovia before being defeated at the Siege of Alesia while under the leadership of Vercingetorix. For 10 
+points, name this group of people whose defeat was narrated in a series of namesake commentaries written 
+by Julius Caesar 
+ANSWER:  
+Gauls 
+059-09-12-19106 
+6. In a monologue, this character declares \"deeper than did ever plummet sound / I'll drown my book.\" This 
+character accepts responsibility for a servant by saying \"this thing of darkness / I acknowledge mine\" in a 
+speech revealing his true identity. That servant had earlier complained that this character \"taught me 
+language, and my profit on't / Is, I know how to curse.\" Stephano and Trinculo plot against this character, 
+but are foiled by a being this character freed from a cloven pine. This character says \"We are such stuff / As 
+dreams are made on, and our little life / Is rounded with a sleep\" in a speech that begins \"Our revels are 
+now ended.\" For 10 points, name this character who allows Ferdinand to marry his daughter Miranda, a 
+former Duke of Milan who uses magic to control Ariel and Caliban in Shakespeare's  
+The Tempest 
+. 
+ANSWER:  
+Prospero 
+062-09-12-19107 
+7. In one myth, this deity's mother fasted for a year so he could be born, but he did not assume his present 
+form until Shani looked at him. This deity slashed the face of the moon after it laughed at him for using a 
+serpent to bandage up his sweet-filled stomach. In similar myths, this figure was consoled by Narada, 
+became the commander of the celestial armies, and outsmarted his brother Skanda in a contest to 
+circumnavigate the world three times. This figure did not allow Shiva to enter his house, and so Shiva 
+decapitated him. For 10 points, name this remover of obstacles in Hinduism, a god whose decapitated head 
+was replaced by that of an elephant. 
+ANSWER:  
+Ganesh 
+a [or  
+Ganapati 
+; or  
+Vinayaka 
+; or  
+Pillaiyar 
+; or  
+Vighnesha 
+; or  
+Vighneshvara 
+] 
+064-09-12-19108 
+8. In his final years, this composer completed his Opus 73, a set of seven \"moods\" for piano that includes 
+the pieces \"Homage to Chopin\" and \"Night Ride.\" This composer adapted the melody of the halling for 
+many of the twenty-five folksongs and dances that make up his Opus 17. Simon Barere died while 
+performing this composer's only piano concerto, which imitates the beginning of Schumann's piano 
+concerto and is in A minor. This composer included his works \"Arietta,\" \"March of the Dwarfs,\" and 
+\"Wedding Day at Troldhaugen, in his collection of sixty-six short  
+Lyric pieces 
+. This composer depicted the 
+rising of the sun over the Sahara desert in \"Morning Mood,\" part of his incidental music to  
+Peer Gynt 
+. For 
+10 points, name this composer of \"In the Hall of the Mountain King,\" a Romantic composer from Norway. 
+ANSWER: Edvard  
+Grieg 
+004-09-12-19109 
+9. This quantity is equal to the molar mass times the difference in specific heat between a constant pressure 
+and constant volume process. The specific heat capacity of a crystal can be approximated by three times 
+this quantity, divided by the molar mass, according to the Dulong-Petit Law. It is equivalent to the product 
+of Avogadro’s number and the Boltzmann constant, and equals 8.314 joules per mole Kelvin. It is 
+multiplied by temperature in the Arrhenius equation, the Nernst equation, and the equation that describes its 
+namesake fluids. For 10 points, what fundamental constant symbolized R is used to unify such equations as 
+Charles' Law, Gay-Lussac's Law, and Boyle's Law? 
+ANSWER: ideal  
+gas constant 
+ [or universal  
+gas constant 
+; prompt on   before mentioned] 
+R 
+034-09-12-19110 
+National All-Star Academic Tournament     Round 19     Page  2 of 12 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+10. One person nominated by this group was known for his longtime feud with Secretary of the Navy 
+Gideon Welles. That man was John P. Hale. The political cartoon \"Shooting the Christmas Turkey\" shows 
+another candidate from this party as a fox grabbing the turkey while two candidates from other parties 
+bicker. This group's slogan was coined by Salmon Chase and they nominated one candidate at Lafayette 
+Square, Buffalo. Conscience Whigs and Barnburners were the major factions of this group. In 1848, they 
+nominated Martin Van Buren for the presidency. For 10 points, name this 19th century American political 
+party that opposed the expansion of slavery. 
+ANSWER:  
+Free Soil 
+ Party 
+064-09-12-19111 
+11. A 1931 conflict regarding this river dealt with the construction of a new toll bridge, which angered 
+Governor Ross Sterling. Forks in this river include Prairie Dog Town Fork. General Lucius D. Clay 
+managed the construction of the Denison Dam on this river. This river was once jammed by a collection of 
+fallen trees running over 150 miles until Captain Henry Miller Shreve cleared the “Great Raft” jamming 
+this river and its distributary, the Atchafalaya, in Louisiana. While also flowing through Arkansas, it once 
+separated U.S. and Spanish territory as declared in the Adams-Onis Treaty. For 10 points, name this 
+colorfully named river, a tributary of the Mississippi, which forms the boundary between Texas and 
+Oklahoma. 
+ANSWER:  
+Red 
+ River 
+052-09-12-19112 
+12. One story by this author is punctuated by the sound of corks popping out of bottles placed next to a fire, 
+and ends with Crofton approving a poem recited by Joe Hynes. In another story by this author, Maria loses 
+a plum cake on a tram and sings \"I Dreamt That I Dwelt in Marble Halls\" after touching a \"soft wet 
+substance\" while blindfolded. This author described the sudden revelations that strike many of his 
+characters as \"epiphanies.\" In another of this author's stories, Bartell D'Arcy's song \"The Lass of Aughrim\" 
+causes the protagonist's wife Gretta to remember her young lover Michael Furey. For 10 points, name this 
+author of \"Clay,\" \"Ivy Day in the Committee Room,\" and \"The Dead,\" which appear in his collection  
+Dubliners 
+. 
+ANSWER: James  
+Joyce 
+015-09-12-19113 
+13. Thirty brief interludes about this figure, some of which are meetings with Michele Besso, appear in a 
+book of this man's \"Dreams\" by Alan Lightman. John Statchel and Martin Klein edited several volumes of 
+this man's writings for his namesake \"Papers Project.\" Along with Bertrand Russel, this man drafted a 
+manifesto that predicated the Pugwash Conferences and calls for people to \"Remember [their] humanity, 
+and forget the rest\" to avert the \"utter disaster\" of nuclear war. Another document written by this man and 
+Leo Szilard called on FDR to begin work on an atomic bomb before Nazi Germany could. For 10 points, 
+name this former patent clerk and anti-nuclear activist, a legendarily intelligent German physicist who 
+developed the theory of relativity. 
+ANSWER: Albert  
+Einstein 
+003-09-12-19114 
+National All-Star Academic Tournament     Round 19     Page  3 of 12 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+14. The failed Pombo Amendment aimed to \"improve deterrence\" of this practice. The Page Act allowed 
+searches of ships if this activity was suspected. A 1986 act of Congress gave amnesty to people who had 
+been doing it since 1982. California's Proposition 187 prohibited medical care to people engaging in this 
+activity, which was first defined by the Chinese Exclusion Act. The bracero program was ended partly 
+because there was no good way to separate the braceros from individuals engaging in this activity. For 10 
+points, name this activity protested by the Minutemen, which is the undocumented entry of foreign 
+nationals into the United States. 
+ANSWER:  
+illegal immigration 
+ [or obvious equivalents] 
+003-09-12-19115 
+15. This author described his longtime inability to write about his adopted home of California in the 
+introduction to \"Christ Walked Down Market Street.\" In one of his novels, the hitman Albert Cluveau is 
+hired to kill the black political leader Ned; in another novel by this author, the gift of a radio allows the 
+teacher Grant Wiggins to connect with his student, who has been compared to a hog by his attorney. He 
+claimed that classical music cannot describe the Louisiana State Penitentiary as well as the blues in his 
+collection  
+Mozart and Leadbelly 
+, and wrote about a character who leads a march to Bayonne to protest a 
+segregated water fountain at the age of one hundred and ten. For 10 points, name this author who wrote 
+about the falsely convicted Jefferson in his tales of black life in Louisiana, which include  
+The 
+Autobiography of Miss Jane Pittman 
+ and  
+A Lesson Before Dying. 
+ANSWER: Ernest James  
+Gaines 
+019-09-12-19116 
+16. This work notes that precious metals such as gold and silver do not rot, thus they can be used in 
+exchange for goods that do. This work supports the ability for men to “impound” as much as can be reaped 
+from his labor in its section “Of Property.” Published with a work that refutes every point in Filmer’s  
+Patriarcha 
+, this work claims that by overstepping its power, a state voids the social contract. Stating that 
+the state of nature “however free,” is “full of continual dangers,” for 10 points, name this influential work 
+of political philosophy by John Locke. 
+ANSWER: “ 
+Second Treatise of Government 
+” [prompt on  
+Two Treatises of Government 
+, and cut off 
+anyone who tries to supply the full title; accept \" 
+Second Treatise on Government 
+\"; accept descriptive 
+answers] 
+020-09-12-19117 
+17. In 1947, political dissidents in this nation were massacred in what is known as the 228 incident. 
+European explorers encountered the Ami and Atayal indigenous tribes while settling this modern nation 
+and the western portion of this nation contains the strategically important Pescadores Islands. This nation 
+was the home to the Dutch Fort Zeelandia, although it was eventually captured following a long siege led 
+by Koxinga. Later, this nation became one of the Asian Economic Tigers and during the Cold War it was 
+controlled tightly by the KMT party. For 10 points, name this island nation once known as Formosa. 
+ANSWER:  
+Taiwan 
+ [or  
+Formosa 
+ early] 
+064-09-12-19118 
+National All-Star Academic Tournament     Round 19     Page  4 of 12 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+18. One of this novel's narrators is infuriated at the sound of an adze going \"one lick less,\" and imagines 
+protecting his mother by climbing up a hill and throwing rocks at other people's faces. At the end of this 
+novel, another character repeats the words \"Yes yes yes yes yes\" while being taken to an insane asylum for 
+setting fire to Gillespie's barn. A carpenter in this novel has cement poured on his broken leg at Mottson 
+after his father trades for a new team of mules from Flem Snopes. The central family of this novel includes 
+the illegitimate son of Reverend Whitfield, a boy who narrates a chapter consisting of the sentence \"My 
+mother is a fish,\" and a father who finally procures false teeth after arriving in Jefferson. For 10 points, 
+name this novel about Vardaman, Dewey Dell, Cash, Darl, and Anse Bundren's journey to bury their 
+matriarch Addie, written by William Faulkner. 
+ANSWER:  
+As I Lay Dying 
+024-09-12-19119 
+19. Two models of this action are the zipper and sinking hypotheses. Lactoferrin stimulates this activity and 
+sometimes can be found in an organelle resulting from this. C3b is one element that can cause opsonization 
+to better allow for this process to occur. Like related processes, it is triggered by Fc receptors. Microglia, 
+neutrophils and monocytes are cells that perform this action. Some protists use this process to acquire food, 
+but its also used as immune response against bacteria. For 10 points, name this form of endocytosis where a 
+cell engulfs a particle or other cell. 
+ANSWER:  
+phagocytosis 
+001-09-12-19120 
+20. The Repertory Grid is a theory of this phenomenon which was devised by George Kelly and uses factor 
+analysis to determine it. One person to study this posited the “lexical hypothesis” which created broad 
+classifications of cardinal, central, and secondary traits. Gordon Allport was an early researcher of \"trait 
+theory\" in this field, and Raymond Cattell developed a 16 factor model of it. One model of this 
+phenomenon was promulgated by Lewis Goldberg, is remembered with the OCEAN mnemonic, and 
+includes the divisions Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism. Those 
+are known as the Big Five factors of this concept. For 10 points, name this psychological phenomenon 
+which is measured by a Minnesota Multiphasic Inventory. 
+ANSWER:  
+personality 
+015-09-12-19121 
+21. In the early fifteenth century, supporters of the Count of Armagnac fought a civil war against supporters 
+of the ruler of this territory. The Cistercian order was founded in this territory's Cîteaux monastery. Claus 
+Sluter sculpted the  
+Well of Moses 
+ for this territory's monastery Charteuse de Champmol. The monastery of 
+Cluny was founded in this territory. The wars named for this territory effectively ended after the Battle of 
+Nancy, which resulted in the death of this region's ruler Charles the Bold. For 10 points, name this French 
+territory ruled by Philip the Good, whose capital was Dijon. 
+ANSWER: Duchy of  
+Burgundy 
+004-09-12-19122 
+22. In this novel, the grocer Greff hangs himself in an ingenious manner that involves a counterweight of 
+potatoes and a cacophony of noise. The protagonist is arrested after Gottfried von Vittlar's testimony, and 
+one character in this novel dies because he falls in love with a ship's figurehead named Niobe. Another 
+character dies by choking when he swallows a party pin. The protagonist's lovers include Sister Dorothea, 
+whose severed finger he later finds, and Maria, who gives birth to his son Kurt. The protagonist of this 
+novel can shatter glass with his voice and stops growing at the age of three. For 10 points, name this novel 
+about Oskar Matzerath [MAHT-zer-aht] by Günter Grass. 
+ANSWER:  
+The  Tin Drum 
+ [or  
+Die  Blechtrommel 
+] 
+024-09-12-19123 
+National All-Star Academic Tournament     Round 19     Page  5 of 12 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+23. Sufferers of this disease are unable to produce hypothiocyanate, and eighty percent of patients with this 
+disease eventually harbor  
+P. aeruginosa 
+ by age 18. Sufferers also have congenital absence of the vas 
+deferens, and screening for this disease involves measuring an elevated level of immunoreactive 
+trypsinogen followed by a sweat test. The gene mutated in this disease produces an functional protein that 
+does not fold perfectly due to a delta-508 deletion; that gene is a chloride channel. For 10 points, name this 
+genetic disease which results in the buildup of thick mucus in the lungs. 
+ANSWER:  
+cystic fibrosis 
+ [or  
+CF 
+] 
+048-09-12-19124 
+National All-Star Academic Tournament     Round 19     Page  6 of 12 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+National All-Star Academic Tournament 
+Round 19 
+Bonuses 
+1. Inverting this property is the same as reversing all spatial coordinates in a system and, for many systems, 
+is the same as replacing particles with their corresponding anti-particles. For 10 points each: 
+[10] Name this property that was thus long considered to comprise a fundamental symmetry along with 
+charge conjugation, or C. 
+ANSWER: spatial  
+parity 
+ [prompt on  ] 
+P 
+[10] The first violation of CP symmetry was detected in the kayon decays because kayons contain this 
+quark. Named because it imparts to particles abnormally long lifetimes, it comprises the second generation 
+along with the charm quark. 
+ANSWER: the  trange quark 
+s 
+[10] Sakharov included CP violation as one of the three conditions for primordial production of these 
+subatomic particles. They are composed of three quarks and include the proton and neutron. 
+ANSWER:  
+baryon 
+s 
+064-09-12-19201 
+2. This collection’s penultimate work is an epic poem supposedly written by Mr. Jonathan Swift Somers 
+which was planned for twenty four books but ends abruptly with the phrase “Bent on the.” For 10 points 
+each: 
+[10] Name this collection which includes the poems “Professor Newcomer,” “Indignation Jones,” and 
+“Sexsmith the Dentist.” 
+ANSWER:  
+Spoon River Anthology 
+[10]  
+Spoon River Anthology 
+ was written by this American poet who also wrote a biography of Vachel 
+Lindsay. 
+ANSWER: Edgar Lee  
+Masters 
+[10] This first poem of  
+Spoon River 
+ asks “Where are Elmer, Herman, Bert, Tom and Charley” and 
+concludes that they are “sleeping, sleeping, sleeping” at the title location. 
+ANSWER: “The  
+Hill 
+” 
+015-09-12-19202 
+3. One example of these structures is M87. They comprise the convergent, left branch of the Hubble tuning 
+fork. For 10 points each: 
+[10] Name this type of galaxy that has no spiral structure and looks smooth through a telescope. 
+ANSWER:  
+elliptical 
+ galaxies 
+[10] The Faber-Jackson relation for elliptical galaxies relates the velocity dispersion to this measure of the 
+energy radiated per unit time. 
+ANSWER: the  
+luminosity 
+ [prompt on  ] 
+L 
+[10] The velocity dispersion can also be used to determine the mass of an elliptical galaxy by using this 
+theorem which for self-gravitating bodies states that the total kinetic energy is half the gravitational 
+potential energy. 
+ANSWER: the  
+virial 
+ theorem 
+001-09-12-19203 
+National All-Star Academic Tournament     Round 19     Page  7 of 12 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+4. This painting was exhibited along with its artist's  
+Le Pont de L’Europe 
+ at the third Impressionist 
+exhibition. For 10 points each: 
+[10] Name this 1877 painting that portrays an elegantly dressed couple carrying an umbrella on a sidewalk 
+near the Place de Dublin, one of the new boulevards designed by Baron Haussmann. 
+ANSWER:  
+Paris  Street,  Rainy Day 
+ [or  
+Paris : A  Rainy Day 
+; or  
+Paris  Street,  Rainy Weather 
+; or  
+Rue de  
+Paris temps de pluie ,  
+; or  
+La  Place de l'Europe, temps de pluie 
+] 
+[10] The painter of  
+Paris Street, Rainy Day 
+, Gustave Caillebotte, is depicted wearing a straw hat in the 
+bottom right of  
+The Luncheon of the Boating Party 
+, a canvas by this artist of  
+Girl with a Watering Can 
+. 
+ANSWER: Pierre-Auguste  
+Renoir 
+[10] Caillebotte paid the rent for Claude Monet's Paris studio, but many of Monet's best-known works, such 
+as his  
+Lily Pads 
+ and  
+Haystacks 
+ series, were executed at his home in this French town. 
+ANSWER:  
+Giverny 
+ (ZHEE-vair-nee) 
+004-09-12-19204 
+5. In this process, aconitase dehydrates and rehydrates the namesake molecule to produce an isomer of it. 
+For 10 points each: 
+[10] Name this process whose intermediates include oxaloacetate and malate, the latter of which is 
+converted to fumarate using FAD. 
+ANSWER:  
+citric acid 
+ cycle [or  
+Krebs 
+ cycle; or  
+TCA 
+ cycle] 
+[10] This molecule formed from pyruvate enters the Krebs cycle by combining with oxaloacetate to 
+produce citrate. 
+ANSWER:  
+acetyl CoA 
+ [or  
+acetyl coenzyme A 
+] 
+[10] If oxaloacetate is not available to react with it, then acetyl CoA enters pathways that result in ketosis 
+and acidosis, conditions common in sufferers of this disease in which the body cannot regulate its blood 
+sugar levels. 
+ANSWER:  
+diabetes 
+032-09-12-19205 
+6. A 1790s US insurrection was caused by an unpopular excise tax. For 10 points each: 
+[10] Name that rebellion in Western Pennsylvania, which was named for a certain beverage. 
+ANSWER:  
+Whiskey 
+ Rebellion 
+[10] Washington put down the rebellion with the aid of this man, who operated in the southern theater of 
+the Revolutionary War. His nickname came from his competent equestrian skills. 
+ANSWER: Henry  
+Lee 
+ III [or \"Lighthorse Harry\"  
+Lee 
+] 
+[10] The rebellion started after shots were fired at this Pennsylvania tax collector while he was leading a 
+US marshal through the area. 
+ANSWER: John  
+Neville 
+064-09-12-19206 
+7. This character's lover describes her as \"a rebel from the waist down.\" For 10 points each: 
+[10] Name this lover of Winston Smith in George Orwell's  
+1984 
+. 
+ANSWER:  
+Julia 
+[10] In  
+1984 
+, Oceania is a dictatorship ruled by this possibly mythical founder of the Party, who is opposed 
+by Emmanuel Goldstein. Posters throughout Oceania warn that he \"is watching you.\" 
+ANSWER:  
+Big Brother 
+[10] Julia belongs to this youth organization, whose members wear red sashes around their waists 
+symbolizing their chastity, and report people who have intercourse to Big Brother. 
+ANSWER: Junior  
+Anti-Sex League 
+059-09-12-19207 
+National All-Star Academic Tournament     Round 19     Page  8 of 12 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+8. Along with Jean-Pierre Gorin, this man founded the Dziga Vertov group which paid homage to the great 
+Russian director. For 10 points each: 
+[10] Name this French filmmaker whose films include a dystopian film noir about secret agent Lemmy 
+Caution entitled  
+Alphaville 
+, a surrealistic 1987 version of  
+King Lear 
+, and a film about a playwright’s 
+estrangement from his Brigitte Bardot-played wife,  
+Contempt 
+. 
+ANSWER: Jean-Luc  
+Godard 
+[10] Godard's most important film is this 1960 movie starring Jean-Paul Belmondo as a criminal who 
+idolizes Humphrey Bogart and is killed after being betrayed by his American girlfriend Patricia. 
+ANSWER:  
+Breathless 
+ [or  
+A  bout de soufflé 
+] 
+[10] Godard was a director from the New Wave film movement of the late 1950s and 1960s, which took 
+place in this country, and included such directors as Francois Truffaut and Alain Resnais. 
+ANSWER:  
+France 
+ [or  
+French Republic 
+; or  
+République française 
+] 
+052-09-12-19208 
+9. For 10 points each, answer the following about wedding gifts that really should have been sent back. 
+[10] Hephaestus gave this cursed object as a wedding gift to Cadmus's wife. Later, it was used to bribe 
+Eriphyle into convincing her husband Amphiaraus to go to war against Thebes. 
+ANSWER:  
+necklace of Harmonia 
+ [or equivalents] 
+[10] This daughter of King Creon of Corinth perished along with her father after trying on a cursed dress 
+given as a wedding gift by Medea, the former wife of Jason. 
+ANSWER:  
+Glauce 
+ [or  
+Creusa 
+] 
+[10] Eschewing the gifts for the bride and groom, Eris rolled this object, marked \"For the Fairest,\" into the 
+wedding of Peleus and Thetis. Aphrodite, Athena, and Hera all laid claim to it. 
+ANSWER: golden  
+apple of discord 
+ [prompt on  
+apple 
+; prompt on  
+golden apple 
+] 
+003-09-12-19209 
+10. In the late eighteenth century, a controversy over this belief arose between Friedrich Jacobi and Moses 
+Mendelssohn. For 10 points each: 
+[10] Name this belief which equates God with the universe. Unlike theism, it denies that a personal God 
+who transcends the world exists. 
+ANSWER:  
+pantheism 
+[10] This seventeenth century Dutch philosopher defended pantheism in his  
+Ethics 
+. 
+ANSWER: Baruch  
+Spinoza 
+[10] Charles Hartshorne and Alfred North Whitehead supported this alternative to pantheism, which 
+believes that God not only interpenetrates all of Nature but also transcends it. 
+ANSWER:  
+panentheism 
+004-09-12-19210 
+National All-Star Academic Tournament     Round 19     Page  9 of 12 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+11. In 2005 a group of MIT students demonstrated that this device was theoretically possible, but only if it 
+used an array of flat mirrors instead of a giant parabolic mirror. For 10 points each: 
+[10] Name this ancient device that, according to legend, was used to burn an invading Roman fleet. It was 
+probably just an exaggeration made up by a Byzantine writer, the real work being done by arrows tipped 
+with Greek fire. 
+ANSWER: Archimedes's  
+death ray 
+[10] Archimedes's death ray, or the more likely substitute of arrows and Greek fire, was used during the 
+Roman siege of Syracuse, a city on this island that had earlier been the target of a disastrous Greek 
+\"expedition.\" 
+ANSWER:  
+Sicily 
+[10] The siege of Syracuse began after a power struggle resulting from the death of this ninety-year old 
+tyrant, who had managed to keep Syracuse out of the First Punic War by signing a 263 BC treaty with 
+Rome. 
+ANSWER:  
+Hiero II 
+n   [prompt on  
+Hiero 
+n] 
+003-09-12-19211 
+12. He worked with Lindahl and Bowen on a set of criteria important to welfare economics and applied Le 
+Chatelier's principle of chemical equilibrium to economics . For 10 points each: 
+[10] Name this man who influenced whole generations of economists with his textbook  
+Economics: An 
+Introductory Analysis 
+. 
+ANSWER: Paul Anthony  
+Samuelson 
+[10] Paul Samuelson developed much of the theory of this type of good, which is non-excludable and 
+non-rivalrous. Examples include street signs and air. 
+ANSWER:  
+public 
+ goods 
+[10] Much of Samuelson's textbook consists of versions of this man's theories. He argued for government 
+intervention into the economy in his landmark  
+The General Theory of Employment, Interest and Money 
+. 
+ANSWER: John Maynard  
+Keynes 
+059-09-12-19212 
+13. This novel was originally published as  
+Number 44 
+, although it was renamed and heavily edited by 
+Albert Bigelow Paine. For 10 points each: 
+[10] Name this book in which Satan visits Eseldorf and destroys Theodor’s faith in humanity. 
+ANSWER:  
+The  Mysterious Stranger 
+[10] This other book by Mark Twain mocks the belief in innate racial superiority by describing a murder 
+committed by Tom Chambers, a nearly white slave who was switched at birth with the son of Judge 
+Driscoll. 
+ANSWER:  
+Pudd’nhead Wilson 
+[10] In  
+The Adventures of Tom Sawyer 
+, this character announces his intent to slit the Widow Douglas’ 
+nostrils for having him horsewhipped. Muff Potter was nearly hanged for the murder of Dr. Robinson, a 
+crime for which this character was actually responsible. 
+ANSWER: Injun  
+Joe 
+030-09-12-19213 
+National All-Star Academic Tournament     Round 19     Page  10 of 12 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+14. This battle took place three years after the massacre of Arthur St. Clair’s army by the forces of Little 
+Turtle. For 10 points each: 
+[10] Name this 1794 victory for Anthony Wayne that took place in Northern Ohio. 
+ANSWER: Battle of  
+Fallen Timbers 
+[10] The Battle of Fallen Timbers led to the signing of this 1795 treaty that saw Native American leaders 
+cede territory in present day Michigan, Ohio, and Illinois. 
+ANSWER: Treaty of  
+Greenville 
+[10] 27 years after the Battle of Fallen Timbers, this 1811 battle saw forces of Tenskwatawa defeated by 
+William Henry Harrison during Tecumseh’s War. 
+ANSWER: Battle of  
+Tippecanoe 
+064-09-12-19214 
+15. The targets of these events had to wear a  
+sanbenito 
+ and carry a taper of yellow wax. For 10 points each: 
+[10] Name these public ceremonies performed by the Spanish Inquisition, in which accused heretics who 
+refused to confess were burned alive. 
+ANSWER:  
+auto-da-fé 
+ [or  
+autos-da-fé 
+; or  
+act of faith 
+; or  
+acts of faith 
+] 
+[10] One target of the Spanish Inquisition was this group of Spanish and Portuguese Jews, who pretended 
+to convert to Christianity in order to save their lives but secretly practiced Judaism. This group's name 
+originated as a Spanish epithet meaning \"swine.\" 
+ANSWER:  
+marrano 
+s 
+[10] This Dominican friar staged the LaGuardia trial to convince Ferdinand and Isabella to expel the Jews 
+from Spain. His cruelty against marranos as the first head of the Spanish Inquisition may have stemmed 
+from his grandmother's status as a Jewish convert. 
+ANSWER: Tomas de  
+Torquemada 
+004-09-12-19215 
+16. One work by this man shows the subject holding out his right hand while he holds the title object in his 
+left hand. For 10 points each: 
+[10] Name this \"Elder\" Greek sculptor of the  
+Discophoros 
+ and the  
+Doryphorus 
+ or  
+Spear-Bearer 
+. 
+ANSWER:  
+Polykleitos 
+[10]  
+Discophoros 
+ should not be confused with  
+Discobolus 
+, a sculpture of a man preparing to throw a 
+discus, which was produced by this other Greek sculptor. 
+ANSWER:  
+Myron 
+[10] Polykleitos's  
+Doryphorus 
+ exemplifies the aesthetic theory laid out in his  
+Kanon 
+, central to which is 
+this type of pose in which a figure rests his weight on one leg so that the shoulders and hips are twisted 
+relative to each other. 
+ANSWER:  
+contrapposto 
+064-09-12-19216 
+17. Many chemical compounds possess hydrophobic and hydrophilic regions. For 10 points each: 
+[10] Detergents and shampoos contain these compounds that lower the surface tension of a liquid. 
+ANSWER:  
+surfactant 
+s 
+[10] Surfactants form these spherical structures that trap hydrophobic material in the interior and surround 
+it with the hydrophilic region of the surfactant, where it can then be washed away with water. 
+ANSWER:  
+micelle 
+s 
+[10] These other spherical lipid structures are similar to micelles except they are a bilayer. They are often 
+used for transfections and drug delivery. 
+ANSWER:  
+liposome 
+s 
+064-09-12-19217 
+National All-Star Academic Tournament     Round 19     Page  11 of 12 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+18. This nation contains the eastern portion of the Zagros mountains. For 10 points each: 
+[10] Name this nation that also contains the large cities of Esfahan, Tabriz, and Tehran. 
+ANSWER: Islamic Republic of  
+Iran 
+[10] This other mountain range in Iran contains Mount Damavand and runs across northern Iran. 
+ANSWER:  
+Alborz 
+ mountains 
+[10] The Alborz mountains skirt the shore of this sea that indents northern Iran. Its northern end borders 
+Russia. 
+ANSWER: the  
+Caspian 
+ Sea 
+026-09-12-19218 
+19. One example of these is the heat equation. Separable ones can be solved using separation of variables. 
+For 10 points each: 
+[10] Name this equations that involve an unknown function and its derivatives. They can be which can be 
+ordinary or partial. 
+ANSWER:  
+differential equation 
+s [accept  
+DE 
+s; accept ordinary  
+differential equation 
+s or O 
+DE 
+s; accept 
+partial  
+differential equation 
+s or P 
+DE 
+s)] 
+[10] Differential equations can be classified by this value, dictated by the highest derivative that appears in 
+the reduced equation. For a polynomial, it is equal to the power of the highest-degree non-zero term. 
+ANSWER: the  
+order 
+[10] This function is the solution y of x of the separable, first-order differential equation y-prime plus y 
+equals 0. 
+ANSWER: the  
+negative exponential 
+ function (or  
+decay 
+ing  
+exponential 
+; accept answers of the form 
+\"constant times   to the  
+e minus 
+ x\"; prompt on  
+exponential 
+) 
+059-09-12-19219 
+20. Commentaries on this book have included those written by Ho-shang Kung and Wang Pi. For 10 points 
+each: 
+[10] Name this text that introduced the concept of ziran, or naturalness, which was allegedly written for the 
+border guard Yin Xi. 
+ANSWER:  
+Tao Te Ching 
+ [or  
+Lao Tzu 
+] 
+[10] This man probably wrote the  
+Tao Te Ching 
+, which is sometimes instead named after him, and he is an 
+important figure in Taoism. 
+ANSWER:  
+Lao Tzu 
+ [or  
+Laozi 
+] 
+[10] This Taoist philosopher is often quoted by anarchists and evolutionists alike, once presumed to know 
+what fish enjoy, and experienced the oft-written about \"Butterfly Dream.\" 
+ANSWER:  
+Zhuangzhi 
+ [or  
+Chuang Tsu 
+; or Master  
+Chuang 
+] 
+023-09-12-19220 
+21. The protagonist of this novel falls in love with Catherine Maheu, a girl who dies of suffocation after a 
+mine accident. For 10 points each: 
+[10] Name this novel about Etienne Lantier, the thirteenth in the Rougon-Macquart series. 
+ANSWER:  
+Germinal 
+[10] This author of  
+Nana 
+ and  
+Germinal 
+ wrote about a woman who plots with Laurent to kill her husband 
+and cousin Camille in  
+Therese Raquin 
+. 
+ANSWER: Emile  
+Zola 
+[10] This Zola novel sees Claude Lantier become obsessed with creating a perfect work of art and his 
+eventual suicide despite the best efforts of his wife, Christine Hallegrain. 
+ANSWER:  
+The  Masterpiece 
+040-09-12-19221 
+Powered by TCPDF (www.tcpdf.org) 
+National All-Star Academic Tournament     Round 19     Page  12 of 12 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 

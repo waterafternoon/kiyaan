@@ -1,0 +1,495 @@
+2013 VHSL Regular Season 1 
+Round 10 
+First Period, Fifteen Tossups 
+1. A peak in this mountain range is Going-to-the-Sun Mountain. Despite its name, the amusingly named 
+“Mount Massive” is only the second highest peak in this range. Katharine Lee Bates wrote the poem 
+“America the Beautiful” after ascending a peak in this range. Its highest peak is Mount Elbert, and it 
+contains such national parks as Banff and Grand Teton. For 10 points, name this mountain range which 
+includes Pike’s Peak and other Colorado mountains. 
+ANSWER:  
+Rocky 
+ Mountains [or the  
+Rockies 
+; or  
+Lewis 
+ Range until it is read] 
+052-13-90-10101 
+2. One episode of this novel sees the attempted rape of the schoolteacher Fern Mullins by Cyrus Bogart, 
+leading to charges of immorality towards Fern. The protagonist of this novel realizes that she is not in love 
+with Guy Pollock when he states that he and she both want, “....to go back to an age of tranquility and 
+charming manners.” In this work, Carol Kennicott’s attempt to stage Shaw’s  
+Androcles and the Lion 
+ is 
+vetoed in a small Minnesota town. For 10 points, name this novel centering on the titular thoroughfare in 
+the town of Gopher Prairie, a work of Sinclair Lewis. 
+ANSWER:  
+Main Street 
+030-13-90-10102 
+3. This coach’s players on his “Untouchables” squad included Tony Delk and Antoine Walker. This man’s 
+son is currently coaching the Minnesota Gophers basketball team. When coaching the Boston Celtics, he 
+told fans that “Larry Bird is not walking through that door.” This man’s title winning players included 
+Peyton Siva and Russ Smith. For 10 points, name this coach who won the 2013 NCAA Division I 
+basketball championship with the Louisville Cardinals. 
+ANSWER: Richard “Rick”  
+Pitino 
+052-13-90-10103 
+4. A massive fight called the  
+Prioritatsstreit 
+ over who could claim this title raged between British and 
+German allies of the two men in contention during the early 1700s. One person who laid claim to this title 
+justified it by pointing to his dot notation and work on fluxions and fluents. The other used as evidence his 
+first publication and superior notation involving dx. For 10 points, identify this honorific that should go to 
+Isaac Newton or Gottfried Leibniz, for their pioneering work in a subfield of math involving integration 
+and differentiation. 
+ANSWER:  
+inventor 
+ of  
+calculus 
+233-13-90-10104 
+5. The Lorentz force of a particle is proportional to the electric field plus this operation performed on 
+velocity and the magnetic field. The curl is this operation performed between a vector and its partial 
+derivatives. Torque is equal to this operation on force and displacement. The right hand rule is useful in 
+finding the direction of the vector that results from this operation. For 10 points, name this operation 
+performed on vectors which returns a vector unlike the dot product. 
+ANSWER:  
+cross product 
+ [or  
+vector product 
+ before “vector”] 
+121-13-90-10105 
+2013 VHSL Regular Season 1     10     Page  1 of 10 
+6. In one work set in this state, the itenerant preacher Bessie convinces Dude to marry her by purchasing a 
+new Ford. That work set in this state sees the burning of Jeeter Lester’s home and is Erskine Caldwell’s  
+Tobacco Road 
+. This state was the location of a road trip that includes the cat Pitty Sing and culminates in 
+the murder of a family by The Misfit in Flannery O’Connor’s story “A Good Man is Hard to Find.” For 10 
+points, name this southern state that was the location of Tara in Margaret Mitchell’s novel  
+Gone With the 
+Wind 
+. 
+ANSWER:  
+Georgia 
+030-13-90-10106 
+7. Although it is not traversal, for trees, this operation can be performed depth-first or breadth-first. The 
+edit distance is often incorporated when performing this operation on strings. The binary type of this 
+operation reduces an array by half on every iteration, and is performed on a sorted array. In the worst case, 
+the naïve linear type of this operation has to compare every element in a list. For 10 points, identify this 
+basic computer operation that attempts to find a specified item in a list. 
+ANSWER:  
+search 
+ing [do not accept \"sorting\"] 
+066-13-90-10107 
+8. In a poem about one of these locations, the speaker tells us “thy memory be as a dwelling place/for all 
+sweet sounds and harmonies” and that it was five years since he had visited the River Wye. In one novel, 
+the Tilneys own this type of building, which is visited by Catherine Moreland. Many famous British 
+authors have memorials located in The Poet’s Corner, a section of one of this type of building. For 10 
+points, name this type of religious building, one of which is found in Westminster. 
+ANSWER:  
+abbey 
+s 
+140-13-90-10108 
+9. One example of these devices is used to measure ligand binding constants and uses isothermal titration. 
+Another example of these devices contains a sample pan and a reference pan and uses differential scanning. 
+Another type contains a rigid vessel in which a reaction is ignited, allowing it to change the temperature of 
+a water jacket - that is the bomb type. For 10 points, name these devices that can be used to measure the 
+heat of a chemical reaction, a common example of which can be created with a coffee cup. 
+ANSWER:  
+calorimeter 
+048-13-90-10109 
+10. After Timothy Pickering was dismissed, this man replaced him as Secretary of State for a year before 
+being sworn into a new role right before the end of John Adams' presidency. With Charles C. Pinckney and 
+Elbridge Gerry, this man took part in a diplomatic mission to France that became the XYZ Affair. This man 
+initiated the process of judicial review with his decision in  
+Marbury v. Madison. 
+ For 10 points, name this 
+longest-serving Chief Justice of the Supreme Court. 
+ANSWER: John  
+Marshall 
+023-13-90-10110 
+11. The fruiting body of one phylum of these organisms is called the basidiocarp and other phylums include 
+Ascomycota. These organisms have a branching filamentous structure called hyphae, which is collected in 
+mycelium. The cell wall of these organisms is made from chitin. These organisms form a symbiotic 
+relationship with plant roots in mycorrhizae and with a photosynthetic organism, like green algae, in 
+lichens. For 10 points, name this kingdom that includes yeasts, molds, and mushrooms. 
+ANSWER:  
+fungi 
+ [or  
+fungus 
+] 
+066-13-90-10111 
+2013 VHSL Regular Season 1     10     Page  2 of 10 
+12. Formally, this case is taken by the prepositions meaning \"on the other side,\" \"instead,\" \"in spite,\" and 
+\"during,\" which are \"jenseits,\" \"anstatt,\"\"trotz,\" and \"während.\" In spoken German, prepositions which take 
+this case in writing are often paired with the dative instead. Usually, nouns whose nominative form ends 
+with \"s\" or \"z\" will form the \"s\" or \"es\" ending in this case. For 10 points, name this German noun case 
+used to show possession. 
+ANSWER: German  
+genitive 
+ case [or  
+genitiv 
+] 
+019-13-90-10112 
+13. One method of doing this attaches a SmartBell to either side of the sample. The PGM IonTorrent and 
+ABI SOLID are two other methods of performing this technique, another method of which relies on 
+assembling long contigs. Fluorescently labelled dideoxy chemicals enabled the automation of the “Sanger” 
+method of doing this, which was used both in a “Shotgun” effort by Celera and an NIH effort to apply this 
+technique to humans. For 10 points, name this technique which determines the order of bases in a DNA 
+sample. 
+ANSWER: DNA  
+sequencing 
+048-13-90-10113 
+14. Tensions leading to this war increased when John Pym engineered the execution of the Earl of 
+Strafford. Another cause of this war was the \"Eleven Years' Tyranny.\" During this war, a victory at 
+Marston Moor encouraged reforms that created the New Model Army, whose subsequent victory at the 
+Battle of Naseby turned the tide in favor of the Roundheads against the Cavaliers. For 10 points, name this 
+conflict that resulted in the execution of Charles I and the Protectorate of Oliver Cromwell. 
+ANSWER:  
+English Civil War 
+080-13-90-10114 
+15. Frits Zernike and Georges Nomarski both developed methods used for this device: phase contrast and 
+differential interference contrast. Most modern forms of one type of this device use Köhler illumination. 
+This device was popularized by a publication of Robert Hooke that coined the term \"cell\". Major 
+improvements to this device were made by Anton von Leeuwenhoek. For 10 points, identify this device 
+that is used to magnify really small objects, like bacteria. 
+ANSWER: light  
+microscope 
+066-13-90-10115 
+2013 VHSL Regular Season 1     10     Page  3 of 10 
+2013 VHSL Regular Season 1 
+Round 10 
+Directed Round 
+1A.  What member of the Combatant Clergy Association won the 2013 elections to succeed Ahmadinejad 
+as President of Iran? 
+ANSWER: Hassan  
+Rouhani 
+1B.  What Union general commanded the Army of the Potomac at battles like the Bristoe Campaign and 
+Gettysburg? 
+ANSWER: George Gordon  
+Meade 
+2A.  What rhetorical device is used when a speaker addresses someone or something not present? 
+ANSWER:  
+apostrophe 
+2B.  Mont Blanc and the Matterhorn are two peaks of what European mountain range? 
+ANSWER:  
+Alps 
+3A.  This is a 20-second calculation question. At a constant flow rate, it takes 60 hours to fill a right 
+cylindrical water tank. How long would it take to fill a conical water tank with the same base radius and 
+twice the height? 
+ANSWER:   hours 
+40 
+3B.  This is a 20-second calculation question. What is the value of cos(x) to the 4th power minus sin(x) to 
+the fourth power, if x equals 15 degrees? 
+ANSWER: the square  
+root 
+ of  
+3, over 2 
+ [or  
+radical 3, over 2 
+] 
+4A.  Photodissociation of chlorofluorocarbons depletes what molecule principally found in the 
+stratosphere? 
+ANSWER:  
+ozone 
+ [or  
+O 
+3 
+] 
+4B.  What outermost layer of the sun is very visible during a solar eclipse? 
+ANSWER:  
+corona 
+5A.  Which character from American literature befriends Queequeg and is the only survivor of the  
+Pequod 
+’s doomed voyage? 
+ANSWER:  
+Ishmael 
+5B.  What father of Muhammad’s wife Aisha is believed by Sunni Muslims to be the rightful successor to 
+Muhammad? 
+ANSWER:  
+Abu Bakr 
+6A.  What Egyptian goddess of love and joy is often depicted as a cow? 
+ANSWER:  
+Hathor 
+6B.  What German composer evoked his imaginary alter egos Eusebius and Florestan in numerous pieces 
+and also married Clara Wieck? 
+ANSWER: Robert  
+Schumann 
+7A.  What term denotes the process in which stem cells become specific cell types as well as the process of 
+taking the derivative? 
+ANSWER:  
+differentiation 
+7B.  What substances, like bromothymol blue and methyl red, change color at particular pH values? 
+ANSWER:  
+indicator 
+2013 VHSL Regular Season 1     10     Page  4 of 10 
+8A.  In August 2013, Amazon CEO Jeff Bezos purchased what newspaper for 250 million dollars cash? 
+ANSWER:  
+The Washington  Post 
+ [or  
+WP 
+] 
+8B.  Igor Stravinsky titled his ballet about Prince Ivan after what avian from Slavic myth? 
+ANSWER: The  
+Firebird 
+9A.  This is a 30-second calculation question. Find the inverse of the function \"y = 2 x plus 3.\" 
+ANSWER: x equals quantity  
+y minus 3, over 2 
+ [or x equals  
+one-half 
+ quantity  
+y minus 3 
+; or x =  
+(y-3)/2 
+; or 
+x equals  
+one-half y minus 1.5 
+] 
+9B.  This is a 30-second calculation question. Using the 68-95-99.7 rule, what is the percentage of data in a 
+normal distribution with a z-score greater than -1 and less than 3? Express your answer to two decimal 
+places. 
+ANSWER:  
+83.85 
+% 
+10A.  What 732 CE victory in France for Charles Martel established the boundary of Muslim Europe? 
+ANSWER: Battle of  
+Tours 
+ [or Battle of  
+Poitiers 
+] 
+10B.  What country was first led by Syngman Rhee and saw its president Park Chung-hee assassinated in 
+1979? 
+ANSWER:  
+South Korea 
+2013 VHSL Regular Season 1     10     Page  5 of 10 
+2013 VHSL Regular Season 1 
+Round 10 
+Third Period, Fifteen Tossups 
+1. This architect designed a museum in the shape of a cubic pyramid in Doha, Qatar. This man devised a 
+plan to redesign many buildings in Oklahoma City, and he designed a flawed skyscraper that dropped 
+window panes whenever it got windy. This architect of the Hancock Tower designed the Rock and Roll 
+Hall of Fame in Cleveland and the East Building of the National Gallery of Art. For 10 points, name this 
+Chinese-American architect who designed the glass pyramid at the Louvre. 
+ANSWER: Ieoh Ming  
+Pei 
+227-13-90-10117 
+2. This artist depicted his wife, Jo, sitting at a table with a cup of coffee under two rows of lights in  
+Automat. 
+ Another painting by this man shows two women sitting at a table ready to eat the title food, which 
+is advertised by a red neon sign in the background. This man painted an advertisement for Phillies cigars on 
+top of a building, in which three people sit around a triangular counter on a dark night. For 10 points, name 
+this American painter of  
+Chop Suey 
+ and  
+Nighthawks. 
+ANSWER: Edward  
+Hopper 
+227-13-90-10118 
+3. The hero of this literary work becomes king after Hygelac dies in battle. In this work, Unferth gives the 
+hero a sword that turns out to be completely useless on the hero’s next opponent. In one battle in this text, 
+the hero wins by ripping off the arm of his opponent. Seamus Heaney made a famous translation of this 
+epic poem, whose hero dies after defeating a dragon. Earlier, that hero travels to Hall Heorot and slays the 
+monster Grendel. For 10 points, name this Old English poem about the King of the Geats. 
+ANSWER:  
+Beowulf 
+140-13-90-10119 
+4. This character poses as an Italian priest to take the train with his friend. He sets up a wax dummy to fool 
+Colonel Sebastian Moran and frequently uses cocaine by injecting it in a “seven-per-cent solution.” In 
+“The Final Problem,” this hero and brother of Mycroft seemingly dies after falling at Reichenbach Falls 
+when fighting his nemesis, Professor Moriarty. For 10 points, name this partner of Dr. Watson, a brilliant 
+detective created by Arthur Conan Doyle. 
+ANSWER:  
+Sherlock 
+ Holmes [or Sherlock  
+Holmes 
+] 
+052-13-90-10120 
+5. This man wrote a story in which a lawyer spends fifteen years in a garden house as part of a bet with a 
+lawyer. In a play by this writer, the author Boris Trigorin abandons the actress Nina, who is presented with 
+the dead title bird by the infatuated Konstantin. This playwright names a concept that a gun shown in the 
+first act must go off in the third act. For 10 points, name this Russian playwright whose works include  
+The 
+Cherry Orchard 
+ and  
+The Seagull 
+. 
+ANSWER: Anton Pavlovich  
+Chekhov 
+023-13-90-10121 
+2013 VHSL Regular Season 1     10     Page  6 of 10 
+6. In one play, this character interprets a thunderstorm as a sign of his impending death, prompting him to 
+give his burial site as a gift to Athens. He spends most of that play in a grove sacred to the Furies near 
+Colonus. In an earlier play, he learns that he was adopted by Merope and Polybus, wins a fight at a 
+crossroad by killing Laius, marries Jocasta, and solves the riddle of the Sphinx. For 10 points, name this 
+title character of two of Sophocles's Theban plays, a Greek who unwittingly killed his father and married 
+his mother. 
+ANSWER:  
+Oedipus 
+ [or  
+Oedipus  Rex 
+; or  
+Oedipus  at Colonus 
+] 
+029-13-90-10122 
+7. During the Civil War, this man was nicknamed the \"Boy General\" and, with David Gregg, held off Jeb 
+Stuart's forces on the third day of the Battle of Gettysburg. This man did not follow Alfred Terry's hammer 
+and anvil plan when he initiated the battle that led to his death. This man led the Seventh Cavalry in that 
+battle against people led by Crazy Horse and Sitting Bull. For 10 points, name this United States army 
+officer whose fight at Little Bighorn is known as his \"Last Stand.\" 
+ANSWER: George Armstrong  
+Custer 
+023-13-90-10123 
+8. This actor played a thief who teams up with Perry van Shrike in a movie whose sections are named after 
+Raymond Chandler stories. In another film, this actor asks, \"Is it better to be feared or respected? I say, is it 
+too much to ask for both?\" This actor, who starred alongside Val Kilmer in  
+Kiss Kiss Bang Bang, 
+ played a 
+man who builds a device \"in a CAVE! with a BOX OF SCRAPS!\", to the consternation of Obadiah Stane. 
+For 10 points, name this actor who starred as Tony Stark in  
+Iron Man. 
+ANSWER: Robert  
+Downey 
+, Jr. 
+080-13-90-10124 
+9. In this work, Steelkit leads a mutiny aboard the  
+Town-Ho 
+. Fedallah the Parsee interprets a dream in this 
+work in which he predicts that only hemp will kill one of the characters. One character in this work prays to 
+the “little black god” named Yojo and that character saves Tashtego. Starbuck is the chief mate in this 
+work that also sees the death of Queequeg. For 10 points, name this novel in which Ishmael sails with 
+Captain Ahab aboard the  
+Pequod 
+ in a search for a great whale, a work by Herman Melville. 
+ANSWER:  
+Moby Dick 
+030-13-90-10125 
+10. Upon arriving at this place, Gareth was given the name “Beaumains” and forced to work in the kitchen. 
+This location was home to a table given as a wedding gift by Leodegrance, as well as a chair which brought 
+instant death to all but the most virtuous. An inhabitant of this location accidentally slept with Elaine while 
+carrying on an affair with Guinevere. For 10 points, name this location where Gawain, Lancelot, and King 
+Arthur held court. 
+ANSWER:  
+Camelot 
+190-13-90-10126 
+11. The appendages of animals in this phylum can be biramous or uniramous. The fluid in the circulatory 
+system of many animals in this phylum is the hemocyanin-containing hemolymph, which is blue when 
+oxygenated. A class in this phylum commonly uses book lungs for respiration. The exoskeleton of animals 
+in this phylum is divided into the head, thorax and abdomen. For 10 points, identify this phylum of 
+segmented invertebrates that includes crustaceans and arachnids. 
+ANSWER:  
+arthropod 
+s [or  
+Arthropoda 
+] 
+066-13-90-10127 
+2013 VHSL Regular Season 1     10     Page  7 of 10 
+12. This body of water's historical names include Girkansk, meaning \"Land of Wolves.\" Demand for 
+beluga caviar, primarily found in this lake, has endangered its sturgeon. The Talish and Elburz Mountains 
+are located along the south of this body of water. The Volga River empties into this body of water after 
+flowing through Astrakhan. For 10 points, name this largest totally-enclosed body of water on earth, a lake 
+or sea that borders Azerbaijan, Turkmenistan, and Iran. 
+ANSWER:  
+Caspian Sea 
+080-13-90-10128 
+13. One of these beings is the subject of a mural in Sky Haven Temple. An attack by one of them on 
+Helgen enabled a prisoner to escape his execution. The  
+Dawnguard 
+ add-on introduced a purple \"legendary\" 
+variety of this creature. Paarthunax and the World-Eater Alduin are examples of these creatures, whose 
+souls can be absorbed enabling access to powerful shouts. For 10 points, identify these creatures the 
+protagonist of  
+Skyrim 
+ was \"born\" to slay, which fly around and breathe fire. 
+ANSWER:  
+dragon 
+s [or  
+Dov 
+ah if the answerer speaks the dragon language] 
+233-13-90-10129 
+14. A potential derived from this law is added to the Hamiltonian of the QHO to distinguish it from a 
+simple particle-in-a-box. As a differential equation, this law can be solved by setting omega equal to the 
+square root of k over m, giving the position function equal to the sine of omega times time. Stress is 
+proportional to strain, according to this law. It's often written with a negative sign to denote that restoring 
+force is opposite the extension. For 10 points, name this law written F equals k x that applies to springs. 
+ANSWER:  
+Hooke 
+'s Law 
+190-13-90-10130 
+15. The fallibility of these things is demonstrated in the \"lost in the mall\" experiment, which was performed 
+by a psychologist who often testifies as to the unreliability of these things, Elizabeth Loftus. In the 1980s, 
+Loftus denounced the craze for \"recovered\" versions of these things, which fueled panic over alleged 
+Satanic abuse. For 10 points, identify these phenomena of the human brain which can be retrieved from 
+\"short-term\" or \"long-term\" storage. 
+ANSWER:  
+memories 
+ [or  
+memory 
+] 
+019-13-90-10131 
+2013 VHSL Regular Season 1     10     Page  8 of 10 
+2013 VHSL Regular Season 1 
+Round 10 
+Tiebreaker Questions 
+1. He wrote a poem about how the bonnet of a woman in church has a louse in it. He wrote a poem in 
+which the title character rides away from witches at Alloway Kirk. Another of his poems says the “best laid 
+schemes of [the title animal] and men” often go awry. One of this man’s poems doubles as lyrics for a New 
+Years’ song. For 10 points, “Tam o’Shanter,” “To a Mouse” and “Auld Lang Syne,” were all written by 
+what Scottish poet? 
+ANSWER: Robert  
+Burns 
+ [or Robbie  
+Burns 
+] 
+153-13-90-10132 
+2. In pyrosequencing, the creation of this molecule by a namesake sulfurylase generates a signal by 
+activating luciferase. The sodium-potassium pump consumes large quantities of this molecule. This 
+molecule is created by a rotor-like protein that has an F0 base-piece and an F1 domain, which is driven by a 
+proton gradient created by the electron transport chain. 34 molecules of it are created by the complete 
+oxidation of glucose. For 10 points, name this primary energy currency of the cell. 
+ANSWER:  
+ATP 
+ [or  
+adenosine triphosphate 
+] 
+048-13-90-10133 
+3. This man grew up in a house owned by Jonas Clarke, where messengers later warned him about 
+advancing troops. This man was involved in wine smuggling with his ship,  
+Liberty. 
+ In Lexington, this man 
+and Samuel Adams learned about the advance of the British from Paul Revere. This man apocryphally 
+claimed that a monarch would have no trouble reading his name on a document. For 10 points, name this 
+Revolutionary leader who was the first to sign the Declaration of Independence. 
+ANSWER: John  
+Hancock 
+023-13-90-10134 
+4. Carmichael numbers are examples of these numbers that satisfy the relation a to the n is equal to a, mod 
+n, which is equivalent to erroneously satisfying Fermat's little theorem. Because checking for divisibility by 
+them would be redundant, these numbers are crossed out in a sieve named for a Greek mathematician. 
+According to the fundamental theorem of arithmetic, these numbers can be written as the product of two or 
+more primes. For 10 points, identify these numbers which have factors other than one and themselves. 
+ANSWER:  
+composite 
+ numbers 
+233-13-90-10135 
+5. This monarch stripped art historian Anthony Blunt of his knighthood after he was unmasked as a spy. 
+This monarch proclaimed one year of her reign to be an \"annus horribilis,\" in part due to a Windsor Castle 
+fire . While this monarch was on vacation in Balmoral, Dodi Fayed and this woman's former 
+daughter-in-law were killed after paparazzi pursued them in Paris. Margaret Thatcher and Tony Blair were 
+two of this monarch's many Prime Ministers. For 10 points, name this British queen. 
+ANSWER:  
+Elizabeth II 
+ [prompt on  
+Elizabeth 
+] 
+020-13-90-10136 
+What French philosopher wrote about his namesake “wager” on God’s existence in his  
+Pensees? 
+(pen-SAYS) 
+ANSWER: Blaise  
+Pascal 
+2013 VHSL Regular Season 1     10     Page  9 of 10 
+This is a calculation question. If four hats of different sizes are distributed randomly to four gnomes of 
+different ages, what is the probability that the oldest gnome will get the largest hat, the next oldest gnome 
+will get the next largest hat, and so on? 
+ANSWER:  
+1/24 
+Powered by TCPDF (www.tcpdf.org) 
+2013 VHSL Regular Season 1     10     Page  10 of 10 

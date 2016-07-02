@@ -1,0 +1,740 @@
+NASAT 2011 
+Round 5 
+Tossups 
+1. For Sturm-Liouville problems to be of this type, the two boundary conditions must be linearly 
+independent. This word also describes points at which all coefficient functions in a standard form 
+differential equation are analytic. In both of those definitions, this word contrasts with singular, as it also 
+does to describe matrices that have inverses. All vertices have the same degree in this sort of graph. This 
+word also describes expressions that, like grammars, can define the languages of finite automata; those 
+expressions are often used in string matching. For 10 points, identify this word that also applies to polygons 
+in which the side lengths and angle measures are all equal. 
+ANSWER:  
+regular 
+003-11-30-05102 
+2. The last ruler of one branch of these people fled battle after watching his brother Tzazo cut down at 
+Tricamarum. Tribes of these people included the Hasdingi and the Silingi. Belisarius’s first great campaign 
+was against a kingdom of these people led by Gelimer. These believers in Arianism persecuted other 
+Christians after sacking Carthage and making it the capital of their North African kingdom. A letter sent by 
+Licinia Eudoxia requesting assistance from their leader Gaiseric led to the 455 sack of Rome. For 10 points, 
+identify this Germanic tribe whose name has become synonymous with destruction of property. 
+ANSWER:  
+Vandal 
+s 
+015-11-30-05103 
+3. One piece of this type is only forty six bars long and was written for Anton Stoll while its composer was 
+working on  
+The Magic Flute 
+. The musical analogue of anthems written by English composers, these pieces 
+include Mozart's  
+Ave verum corpus 
+, as well as a piece celebrating a gift of a golden rose for the high altar 
+of Santa Maria del Fiore. That last great isorhythmic one is called  
+Nuper rosarum flores 
+. The \"grande\" and 
+\"petit\" varieties of these pieces were mastered by Jean-Baptiste Lully, who included soloists in them. First 
+composed by the Notre Dame school and later by Guillames de Machaut and Dufay, they typically 
+consisted of a discant sung over a cantus firmus. For 10 points, name this typically polyphonic setting of a 
+sacred text, one of the most popular forms of medieval music along with madrigals. 
+ANSWER:  
+motet 
+s 
+020-11-30-05104 
+4. In a novel by this author, Ephraim Jekinson scams Moses out of his money and cheats the protagonist out 
+of a horse. That novel ends with George’s marriage to Arabella Wilmot and the revelation that Sophia is 
+actually married to Mr. Burchell’s alter ego, Squire Thornhill. In one of this author’s plays, two men at the 
+Three Pigeons pub are tricked into staying at a mansion that they believe is an inn, causing them to treat the 
+owners like servants. In that play, Hastings and his lover Constance steal some jewels with Tony Lumpkin, 
+and Charles Marlow is wooed by a woman disguised as a barmaid. For 10 points, name this author who 
+created Dr. Primrose and Kate Hardcastle in  
+The Vicar of Wakefield 
+ and  
+She Stoops to Conquer 
+. 
+ANSWER: Oliver  
+Goldsmith 
+079-11-30-05105 
+NASAT 2011     Round 5     Page  1 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+5. This artist created a model with a scimitar and broken lance which was to be the basis for a never 
+realized fifty-four foot high statute of Mars. This man, along with his patron, helped restore the Etruscan  
+Chimera d’Arezzo 
+. He created a marble crucifix for his own tomb but now resides in the Escorial. His 
+portrait work includes a bust of Bindo Altoviti and one of Cosimo I. An antlered stag sticks out above a 
+female nude in his bronze  
+Nymph of Fontainbleau 
+. One of his more famous bronze works shows one title 
+figure holding a sword and the head of the other figure. For 10 points, name this sculptor and goldsmith 
+who created a saltcellar for Francis I and  
+Perseus With the Head of Medusa 
+. 
+ANSWER: Benvenuto  
+Cellini 
+001-11-30-05106 
+6. Arora's PTAS uses quadtrees to attack a restrict case of this issue, which is the target of the Christofides 
+algorithm. A historical bound on it is given by the Held-Karp algorithm. If the triangle inequality holds, 
+then the restricted case is known as metric; further constraints yield the Euclidean version of this problem. 
+One solution to this problem is the \"nearest neighbor\" algorithm, though that solution is only optimal in 
+certain cases. An early description of this problem included hypothetical routes through towns in Germany 
+and Switzerland. For 10 points, name this optimization problem in computer science in which a merchant 
+must determine the shortest path that will take him to each city in a route exactly once. 
+ANSWER:  
+traveling salesman 
+ problem 
+081-11-30-05107 
+7. Cities lying on this body of water include Bol and N’guigmi. When its water levels are high, its water is 
+diverted through a string of basins called the Soro, and its water is also discharged into the Bodélé 
+Depression. It is partially fed by the Yobe River, but primarily by the Chari River, and it separated into 
+northern and southern basins by the Great Barrier. In the 1960s, there was a proposal to divert the Ubangi 
+River into this lake to maintain its volume. For 10 points, name this shrinking lake which borders Niger, 
+Nigeria, Cameroon, and its namesake country. 
+ANSWER: Lake  
+Chad 
+024-11-30-05108 
+8. One disorder that causes increased levels of this compound results from a mutation in the cMOAT gene, 
+while another is caused by mutations leading to decreased UGT1. Besides Dubin-Johnson, Gilbert, and 
+Rotor’s syndrome, inactivating mutations in UDP glucoronosyltransferase lead to accumulation of the 
+unconjugated form of this substance in Crigler-Najjar syndrome. Lab tests usually measure both the direct 
+and indirect versions of this open-chain polypyrrole. Exposing this substance to light transforms it from the 
+ZZ to EE isomer, which is why ultraviolet light is a treatment for the accumulation of this substance in 
+newborns. For 10 points, name this product of heme metabolism, which when elevated causes jaundice. 
+ANSWER:  
+bilirubin 
+ [or conjugated, unconjugated, direct or indirect  
+bilirubin 
+] 
+048-11-30-05109 
+9. In one story by this author, a man reading a book in a green armchair overlooking a park is attacked by a 
+character from his book. He also wrote a story about a brother and a sister abandoning their house and 
+throwing away the key because they are frightened by mysterious noises. This author of \"The Continuity of 
+Parks\" and \"House Taken Over\" wrote a story in which the narrator switches places with an animal in the 
+Jardin des Plantes. This author of \"Axolotl\" also wrote a story whose name literally translates as \"The 
+Droolings of the Devil\" and which is the basis for Antonioni's film  
+Blowup 
+. For 10 points, name this 
+Argentine writer also known for a novel which can be read in two different orders,  
+Hopscotch 
+. 
+ANSWER: Julio  
+Cortazar 
+024-11-30-05110 
+NASAT 2011     Round 5     Page  2 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+10. Supporters of two different men of this name fought at the Battle of Sauchieburn, where the Homes and 
+Hepburns killed the third holder of this name and elevated the fourth. An earlier holder of this name was 
+assassinated by Walter, the Earl of Atholl, and wrote the  
+Kingis Quair. 
+ The fourth holder of this name 
+allied with France and was thus killed by Thomas Howard, the earl of Surrey, in 1513 after fighting English 
+longbills at Flodden Field. The sixth king of this name, through his descent from the fourth’s marriage to 
+Margaret Tudor, added a new kingdom to his realms. For 10 points, identify this common name for kings 
+of Scotland, one of whom became England’s first Stuart monarch. 
+ANSWER:  
+James 
+019-11-30-05111 
+11. Svensson proposed a \"foolproof\" way of dealing with this issue, which is also addressed by Gesell's 
+carry tax. Pigou argued that a low wage rate and the real balance effect could counteract this situation. This 
+situation is represented as an intersection of the IS curve with a flat LM curve. Money and bonds are 
+essentially substitutes when this situation occurs. Traditionally defined as a situation in which the demand 
+for money is infinitely elastic, it occurred in Japan in the 1990s when interest rates dropped almost to zero. 
+For 10 points, name these situations where monetary policies do little to change demand and growth. 
+ANSWER:  
+liquidity trap 
+001-11-30-05112 
+12. This artist showed a group of individuals holding snakes in  
+The Brazen Serpent 
+, while some of his 
+earliest works are portraits of Margareta and Frans Synders. This artist wears a gold medal he was 
+presented with while he touches a petal in his  
+Self Portrait with a Sunflower 
+. He painted many portraits of 
+Henrietta Maria, along with a triple portrait of her husband in which the two outer personages stare at the 
+central subject. Another of his works shows a ruler standing on the left at the hunt with a walking stick, red 
+pants, and a black hat while his servant stands to the right attending to his horse. For 10 points, name this 
+17th century Flemish artist known for his portraits of the English king Charles I. 
+ANSWER: Anthony van  
+Dyck 
+064-11-30-05113 
+13. This man was once forced to spend a night with Echidna in order to retrieve his horses. In another story, 
+he was robbed and mocked by the monkey-like Cercopes. In a wrestling match, he broke off the horn of the 
+river-god Achelous. He rescued princess Hesione from a sea-monster, and along with Telamon, he 
+organized an expedition to sack Troy. During one feat, he lost a toe to a gigantic crab, but triumphed with 
+the help of his nephew Iolaus. This hero used noise makers to slay the Stymphalian Birds, clubbed the 
+Nemean lion, and killed the Hydra. For 10 points, name this Greek hero who completed twelve labors. 
+ANSWER:  
+Heracles 
+ [or  
+Hercules 
+] 
+080-11-30-05114 
+14. In one episode in this novel, the password \"Zeno of Elia\" is meant to be used in a clandestine suitcase 
+exchange at a train station. One character in this novel visits the Director General of the State Police 
+Archives while infiltrating the totalitarian nation of Ircania as a double agent for Ataguitania. One 
+antagonist in this novel is the translator Ermes Marana, and another character wants to create a machine 
+that condenses literature into a series of numbers. Lotaria's sister Ludmilla becomes the protagonist's love 
+interest after a defective mystery story becomes confused with the novel  
+Outside the Town of Malbork 
+. For 
+10 points, name this novel written in second person in which The Reader tries to finish a series of ten 
+novels, a work by Italo Calvino. 
+ANSWER:  
+If on a Winter's Night a Traveller 
+ [or  
+Se una Notte D’inverno un Viaggiatore 
+] 
+022-11-30-05115 
+NASAT 2011     Round 5     Page  3 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+15. This thinker called the U.S. Declaration of Independence a \"hodgepodge of confusion\" in his \"Short 
+Review of the Declaration.\" He outlined seven criteria, including intensity, duration, and certainty, for the 
+desirability of a given action. He rejected the idea of natural rights, since rights themselves can only be 
+granted by the law. This man attacked another author's \"antipathy to reform\" of the laws in a critique of 
+William Blackstone's  
+Commentaries 
+. He formulated the \"felicific calculus\" and wrote the  
+Fragment on 
+Government 
+, in addition to championing the \"greatest happiness principle.\" For 10 points, name this 
+founder of Utilitarianism. 
+ANSWER: Jeremy  
+Bentham 
+033-11-30-05116 
+16. This event inspired William Hogan and 500 followers to hijack a Northern Pacific Railway train. Jack 
+London participated in one faction of this event named for \"General\" Kelly. It was led by Christopher 
+Columbus Jones, Carl Browne, and a Populist sand quarry owner who named his son Legal Tender in 
+response to the Panic of 1893. This \"Commonweal of Christ\" demanded \"Peace on Earth, Goodwill to Men, 
+but Death to Interest on Bonds\" in Massillon, Ohio, where they and a hundred followers demanded that the 
+government finance more public works projects. For 10 points, name this 1894 march to Washington, D.C., 
+where its namesake was arrested for trespassing on the Capitol lawn. 
+ANSWER:  
+Coxey 
+’s Army 
+079-11-30-05117 
+17. In one scene from this novel, Annixter describes his transformation to his eventual wife Hilma Tree. 
+During that scene, he quotes Vanamee who himself had been violently shaken by the death of his lover 
+Angele Varian. Part of this novel is told through the point of view of a poet who wrote “The Toilers” while 
+living on El Rancho de los Muertos. The protagonist's son Lyman is hired as the main lawyer of a group 
+called \"The League\" who are opposed by the machinations of S. Berhman. Its protagonist, Magnus Derrick, 
+leads a group of ranchers against the growth of the monopolistic railroad. Intended as part of a trilogy with 
+the novels  
+The Pit 
+ and  
+The Wolf 
+, for 10 points, name this novel by Frank Norris. 
+ANSWER:  
+The  Octopus : A Story of California 
+064-11-30-05118 
+18. The newspaper  
+Consultation 
+ was a major organ of this movement. A key action of this group was a 
+revolt in Rezna that led to the restoration of the constitution of 1876. This group's ascent to power was 
+spearheaded by the 3rd Army Corps, whose Liberty Society spurred the rival League of Private Initiative 
+and Decentralization to merge with the Committee of Union and Progress. Ahmed Riza and Prince 
+Sabehedeen led this group, which took de facto control of the government in a 1908 revolution and 
+introduced modernizations to education and women's rights. For 10 points, name this faction that led the 
+Ottoman Empire into World War I and laid the groundwork for the rise of Mustafa Kemal. 
+ANSWER:  
+Young Turks 
+ [or  
+Jonturkler 
+] 
+019-11-30-05119 
+19. This work's theme of righteousness can be seen in a passage which describes how God will give to each 
+person according to what he has done, though it also encourages the title recipients to give their bodies as 
+living sacrifices. This book is better known for its third chapter, which says all have sinned and fallen short 
+of the glory of God, as well as its tenth chapter, which includes a request to confess \"Jesus is Lord.\" It ends 
+with an expression of its author's desire to visit the inhabitants of a city who are this letter's audience, 
+though the author's actual visit ended with his beheading during the reign of Nero. For 10 points, name this 
+epistle written by Paul to the inhabitants of the capital of a namesake Empire led by the Caesars. 
+ANSWER: Epistle to the  
+Romans 
+059-11-30-05120 
+NASAT 2011     Round 5     Page  4 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+20. For a solid-liquid suspension, Ralph Bagnold defined a \"dynamic\" version of this force and 
+characterized its \"effective angle\" as the arctangent of the ratio of the normal and shear stresses. The 
+Bilman-Sorine Model modifies the Dahl Model to account for this force's decrease with increasing velocity 
+in the low-velocity regime, an effect discovered by Richard Stribeck. Counterintuitively, it is independent 
+of cross-sectional area by Amontons' Second Law. Amontons' First Law, rediscovered by Charles 
+Coulomb, states that the magnitude of this force is proportional to the normal force. For 10 points, name 
+this force that retards the sliding of two surfaces across each other. 
+ANSWER:  
+friction 
+003-11-30-05121 
+21. This author wrote a novel in which Hubert goes crazy after his son's death and creates a phony 
+construction firm staffed by fictional Russian workers, which becomes the \"Dead Souls\" scandal. In that 
+book the nun Sister Rahel befriends Leni Pfeiffer. The title character of another of his novels is heartbroken 
+when his lover Maria Derkum marries Prelate Zupfner. This author of  
+Group Portrait with Lady 
+ wrote a 
+novel in which Johanna breaks out of an asylum on a mission to shoot the gym teacher Old Wobbly. The 
+destruction of St. Anthony's Abbey abbey is a plot point in his novel about the Faehmel family. For 10 
+points, name this German author of  
+ The Clown 
+ and  
+Billiards at Half-Past Nine 
+. 
+ANSWER: Heinrich  
+Boll 
+040-11-30-05122 
+22. One ruler of this name signed the Treaty of Senlis with Charles VIII and married off his daughter and 
+grandson to Ladislaus II and Sigismund I. That figure lost his commander Heinrich von Fürstenberg on the 
+battlefield of Dornach after the Gemeiner Pfennig tax portion of his Imperial Reform did not sit well with 
+the Swiss. An abortive rescue attempt of another ruler with this name was led by Felix Salm-Salm; that 
+ruler had his navy circumnavigate the globe under the Novara Expedition and married the daughter of King 
+Leopold I of Belgium, later christened Carlota. A marriage of his son Philip to Joanna of Castile enabled a 
+Holy Roman Emperor of this name to expand the Hapsburg line to Spain. For 10 points, identify this name 
+also shared by an assassinated Emperor of Mexico. 
+ANSWER:  
+Maximilian 
+ [prompt on  
+Max 
+] 
+020-11-30-05123 
+23. One of these enzymes associates with a donut-shaped dimer known as the sliding clamp, made up of 
+two beta subunits of its holoenzyme. Another of these enzymes, when cleaved by subtilisin, produces a 
+C-terminal fragment known as the Klenow fragment. Arthur Kornberg discovered the first of these 
+enzymes used in Sanger sequencing. The synthesis of two \"bypass\" ones is induced by the SOS response, 
+and one of those forms a namesake mutasome that incorrectly adds guanine opposite a thymine residue 
+about half as often as it correctly adds adenine. For 10 points, name this family of enzymes that aids in 
+DNA replication by pairing the template strand's nucleotides to free nucleotides, one of which from  
+Thermus aquaticus 
+ is used in PCR. 
+ANSWER:  
+DNA polymerase 
+ [or  
+Pol 
+; prompt on  
+polymerase 
+] 
+003-11-30-05124 
+NASAT 2011     Round 5     Page  5 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+NASAT 2011 
+Round 5 
+Bonuses 
+1. This king supported his predecessor Richard II’s siege of Vilnius. For 10 points each: 
+[10] Name this first Lancastrian king, who defeated the Earl of Northumberland at Bramham Moor and 
+whose son won the Battle of Agincourt. 
+ANSWER:  
+Henry IV 
+[10] Henry IV quashed the fifteen year uprising of this enigmatic Welsh hero. 
+ANSWER: Owen  
+Glendower 
+ [or Owain  
+Glyndwr 
+] 
+[10] This Northymberland noble joined Owen’s rebellion, but was defeated when he took an arrow to the 
+mouth at the Battle of Shrewsbury. 
+ANSWER: Henry Hotspur  
+Percy 
+ [or Harry  
+Hotspur 
+] 
+015-11-30-05201 
+2. Characters in this opera include the painter Marcello and the singer Musetta, who live in poverty in a 
+garret. For 10 points each: 
+[10] Name this Puccini opera about the lives of poor artists in Paris. 
+ANSWER:  
+La  Boheme 
+[10] This seamstress and lover of Rodolfo dies of the consumption at the conclusion of  
+La Boheme 
+. 
+ANSWER:  
+Mimi 
+[10] This philosopher sings a farewell aria to his coat, which he pawns to buy medicine for Mimi. 
+ANSWER:  
+Colline 
+015-11-30-05202 
+3. Thomas Paine's  
+The Rights of Man 
+ was a response to this man. For 10 points each: 
+[10] Identify this conservative thinker who wrote  
+Reflections on the Revolution in France 
+. 
+ANSWER: Edmund  
+Burke 
+[10] In a book that pairs this concept with beauty, Burke claimed that reason does not affect our passion as 
+extensively as believed. In that book, Burke claims that this concept supplies terror and compulsion into the 
+reader. 
+ANSWER:  
+sublime 
+[10] Edmund Burke's  
+Article of Charge High Crimes and Misdemeanors 
+ attacked this man, the governor 
+General of Bengal. He also criticized him in  
+The Nawab of Arcot's Debts 
+. 
+ANSWER: Warren  
+Hastings 
+033-11-30-05203 
+4. Fata jumps to her death during her wedding procession to avoid marrying a man she does not love, and 
+the peasant Radisav is impaled on the title object. For 10 points each: 
+[10] Name this novel in which Mehmed Pasha Sokolli orders Abidaga to construct the title structure at 
+Visegard, the place where he was separated from his mother. 
+ANSWER:  
+The  Bridge on the Drina 
+ [or  
+The  Bridge Over the Drina 
+; or  
+Na  Drini Cuprija 
+] 
+[10] This Serbian author wrote  
+The Bridge on the Drina 
+ as part of his Bosnian Trilogy. He wrote about the 
+cutthroat moneylender Raika Radakovich in his novel  
+The Woman from Sarajevo 
+. 
+ANSWER: Ivo  
+Andric 
+[10] Andric wrote about Sayid Pasha's pet in a novel titled after this animal. George Orwell wrote an essay 
+about \"shooting\" one of these animals. 
+ANSWER:  
+elephant 
+024-11-30-05204 
+NASAT 2011     Round 5     Page  6 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+5. It equals the sum from   equals one to infinity of the quantity one over  . For 10 points each: 
+k k 
+[10] Name this divergent series. 
+ANSWER:  
+harmonic 
+ series 
+[10] The harmonic series can be shown to be divergent because the integral of one over  
+k dk 
+ equals this 
+function of  , which also does not converge. 
+k 
+ANSWER:  
+natural log 
+arithm [or  ; prompt on  
+ln log 
+arithm] 
+[10] This complex generalization of the harmonic series equals the sum from   equals one to infinity of the 
+k 
+quantity one over   to the  . 
+k s 
+ANSWER:  
+Riemann zeta 
+ function [prompt on  
+Riemann 
+ function; prompt on  
+zeta 
+ function] 
+003-11-30-05205 
+6. This levy was first imposed in the U.S. by the Revenue Act of 1861. For 10 points each: 
+[10] Name this type of tax that was first permanently imposed in the U.S. by the Sixteenth Amendment. 
+ANSWER:  
+income 
+ tax 
+[10] The income tax had previously been ruled unconstitutional in this 1895 case. Decided during the Fuller 
+court, it struck down elements of the Tax Act of 1894. 
+ANSWER:  
+Pollock  v. Farmers’ Loan and Trust Co. 
+[10] Among the dissenters in  
+Pollock 
+ was this justice, more notable as the lone dissenter in the  
+Civil Rights 
+Cases 
+. His grandson of the same name also served as a Supreme Court justice. 
+ANSWER: John Marshall  
+Harlan 
+064-11-30-05206 
+7. One method to compute this quantity is to draw a circle around the atom in question and count the 
+number of electrons enclosed within. For 10 points each: 
+[10] Identify this parameter that assumes that electrons are shared equally in a covalent bond and is 
+computed by taking the number of valence electrons, subtracting the lone pair electrons, and subtracting 
+half of the number of bonds. 
+ANSWER:  
+formal charge 
+[10] Formal charge does not explain the distribution of electrons about an atom very well. This physicist, 
+who described the linear combination of atomic orbitals, had better ideas. He also described a set of rules to 
+calculate the effective nuclear charge. 
+ANSWER: John Clarke  
+Slater 
+[10] Slater's rules for effective nuclear charge, when applied to [d] and [f] group atoms, sum the 
+contributions of the principal quantum number and this one, whose permissible values range from 0 to n-1. 
+ANSWER:  
+azimuthal 
+ quantum number [or orbital  
+angular momentum 
+ quantum number; or  ; prompt on 
+l 
+\"second quantum number\"] 
+020-11-30-05207 
+NASAT 2011     Round 5     Page  7 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+8. In this work, the author claims that certain people have gyroscopes metaphorically implanted in them, 
+while another group has an inner radar. For 10 points each: 
+[10] Name this book, primarily written by David Riesman, that classifies people as inner-directed or 
+other-directed. 
+ANSWER:  
+The  Lonely Crowd 
+[10] Riesman also wrote a \"critical interpretation\" of this earlier American thinker, who argued that 
+businessmen deliberately sabotage production to keep prices high in  
+The Theory of Business Enterprise 
+. 
+ANSWER: Thorstein  
+Veblen 
+[10] In  
+The Theory of the Leisure Class 
+, Veblen argued that man's innate drive for increased status caused 
+people to perform this type of waste and consumption instead of accumulating wealth privately. 
+ANSWER:  
+conspicuous 
+ [or clear-knowledge equivalents such as \"performed where other people can see 
+it\"] 
+064-11-30-05208 
+9. Name some Hawaiian islands, for 10 points each. 
+[10] This island, also known as The Gathering Place, is home to Honolulu as well as Pearl Harbor. 
+ANSWER:  
+Oahu 
+[10] This island is separated from Oahu by the Kaiwi Channel. It is famous for being home to Father 
+Damien’s leper colony. 
+ANSWER:  
+Molokai 
+[10] This island, nicknamed The Forbidden Isle, is the smallest of the inhabited islands of Hawaii. 
+ANSWER:  
+Niihau 
+024-11-30-05209 
+10. He signed the Treaties of Velasco with Texas president David Burnet after losing to Sam Houston at 
+San Jacinto. For 10 points each: 
+[10] Name this one legged Mexican general who led the country as president or dictator off and on from 
+1833 to 1855. 
+ANSWER: Antonio de Padua María Severino López de  
+Santa Anna 
+ y Pérez de Lebrón 
+[10] Santa Anna got his start backing this emperor, who designed the flag of Mexico and ruled briefly from 
+1822 to 1823. 
+ANSWER: Augustin de  
+Iturbide 
+[10] Santa Anna was finally overthrown by Benito Jaurez and this man, who served as president for three 
+years until he was replaced by Jaurez. 
+ANSWER: Ignacio  
+Comonfort 
+015-11-30-05210 
+NASAT 2011     Round 5     Page  8 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+11. James Beck was among the most vocal critics of a long-term restoration project; those criticisms 
+ultimately led to fifteen petitions in 1987 from American artists urging that restoration to stop. For 10 
+points each: 
+[10] Along with Leonardo's  
+Last Supper 
+, the frescoes created by Michelangelo for this building were at the 
+center of the controversy. Those frescoes include  
+The Creation of Adam 
+ and  
+The Last Judgment 
+. 
+ANSWER:  
+Sistine Chapel 
+ [do not accept \"ceiling of the Sistine Chapel,\" as  
+The Last Judgment 
+ is a wall 
+fresco] 
+[10] This artist's depiction of the calling of Peter and Andrew was among the restored works. Nicknamed 
+because of his goldsmith father, this artist was known for inserting portraits of patrons into religious scenes 
+like his fresco cycle of the life of Mary and St. John the Baptist for the choir of Santa Maria Novella. 
+ANSWER: Domenico  
+Ghirlandaio 
+[10] Among the artists who signed those petitions was this member of the New York School best known 
+for a series of  
+Elegies to the Spanish Republic 
+. 
+ANSWER: Robert  
+Motherwell 
+003-11-30-05211 
+12. This group of cells is broadly divided into granulocytes and agranulocytes. For 10 points each: 
+[10] Name this component of the blood, sometimes referred to as leukocytes, which contain immune cells 
+like neutrophils and macrophages. 
+ANSWER:  
+white blood 
+ cells 
+[10] Among the components of white blood cells is this type of cell that releases histamine during an 
+allergic response. 
+ANSWER:  
+mast 
+ cell [or  
+mastocyte 
+; or  
+labrocyte 
+] 
+[10] Another type of white blood cell is this one, which contains major basic protein, reacts to parasitic 
+pathogens, and is stained by a certain type of namesake fluorescent red dye. 
+ANSWER:  
+eosinophil 
+064-11-30-05212 
+13. The central event of this work is scheduled to occur on a woman's 22nd birthday. For 10 points each: 
+[10] Name this play by Garcia-Lorca in which Leonardo Felix kills and is killed by a romantic rival. 
+ANSWER:  
+Blood Wedding 
+ or  
+Bodas de Sangre 
+[10] In  
+ Blood Wedding 
+ \"The Mother\" constantly repeats a lullaby about this type of animal who is afraid of 
+water. Steinbeck wrote about one named Gabilan. 
+ANSWER:  
+horse 
+ [prompt on pony] 
+[10] This play completes Garcia Lorca's rural trilogy; in it, the title character strangles her husband to death 
+due to her inability to have a child. 
+ANSWER:  
+Yerma 
+088-11-30-05213 
+NASAT 2011     Round 5     Page  9 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+14. Its beginning was heralded by the Secret Speech, which ushered in the process of de-Stalinization. For 
+10 points each: 
+[10] Name this period of liberalization within the Soviet Union. It began in the mid-1950s and saw the 
+release of political prisoners and the elimination of most publishing restrictions. 
+ANSWER: the  
+Thaw 
+[10] The Thaw occurred during this Premier’s time in office. His decision to send nuclear weapons to Cuba 
+nearly sparked a war with the United States. 
+ANSWER: Nikita Sergeyevich  
+Krushchev 
+[10] The Thaw is widely considered to have ended when two writers were convicted of publishing 
+anti-Soviet material in 1966 and sentenced to hard labor. Name either. 
+ANSWER: Andrei  
+Sinyavsky 
+ or Yuli  
+Daniel 
+100-11-30-05214 
+15. The skeleton of Don Alexandro Aranda is displayed as a ship's figurehead in this work. For 10 points 
+each: 
+[10] Name this story in which Captain Amaso Delano is puzzled by the title captain's behavior after 
+boarding the merchant ship the San Dominick only to learn that slaves had taken command of the ship. 
+ANSWER: \" 
+Benito Cereno 
+\" 
+[10] \"Benito Cereno\" was written by this American author who wrote about a man who constantly repeats 
+“I would prefer not to” work in his short story “Bartleby, the Scrivener.” 
+ANSWER: Herman  
+Melville 
+[10] This slave leads the revolt on board the San Dominick and constantly stands next to Benito Cereno 
+while he is talking with Delano to prevent him from revealing the rebellion. 
+ANSWER:  
+Babo 
+064-11-30-05215 
+16. These idealized objects absorb all electromagnetic radiation. For 10 points each: 
+[10] Name these objects whose emission is described by Planck’s law. 
+ANSWER:  
+blackbody 
+[10] This law gives the maximum intensity of a blackbody for a given temperature. 
+ANSWER:  
+Wien 
+’s displacement law 
+[10] The black body spectrum was derived by assuming photons are in this sort of system. The 
+eigenenergies of this system are h-bar squared times the wavenumber squared divided by the quantity of 
+two times the mass. 
+ANSWER:  
+particle in a box 
+ [accept  
+infinite potential well 
+; accept  
+infinite square well 
+; prompt on partial 
+answers] 
+107-11-30-05216 
+17. This novel is narrated by a man living in a replica of the Alhambra in Andalusia who is the last 
+remaining member of the Portuguese de Gama-Zogoiby family. For 10 points each: 
+[10] Identify this 1997 novel, the first written by the author after a fatwa was issued against him for his 
+previous work. 
+ANSWER:  
+The  Moor’s Last Sigh 
+[10]  
+The Moor’s Last Sigh 
+ is a novel by this Indian author of  
+The Satanic Verses 
+. 
+ANSWER: Salman  
+Rushdie 
+[10] This is the name of the protagonist of Rushdie's magnum opus,  
+Midnight's Children 
+. He is exchanged 
+at birth by his nurse, Mary Pereira. 
+ANSWER:  
+Saleem 
+ Sinai [prompt on  
+Sinai 
+] 
+094-11-30-05217 
+NASAT 2011     Round 5     Page  10 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+18. Answer some questions about mysticism for 10 points each. 
+[10] This field of Jewish mysticism calls the essence of God \"Ein Sof,\" which has ten emanations called 
+Sefirot. 
+ANSWER:  
+Kabbalah 
+[10] A saint of this name from Siena described her “mystical marriage” to Jesus. A saint of this name from 
+Alexandria was condemned to death on a wheel. 
+ANSWER:  
+Catherine 
+[10] This Armenian mystic developed the “fourth way” and accumulated a group of notable followers 
+including Jean Toomer and Katherine Mansfield. 
+ANSWER: George  
+Gurdjieff 
+015-11-30-05218 
+19. This composer wrote an opera about Christopher Columbus and a trilogy of mini-operas based on the 
+stories of Europa, Ariadne, and Theseus. For 10 points each: 
+[10] Name this composer of the piano suite  
+Saudades do Brazil 
+ and the ballet  
+The Ox on the Roof 
+. 
+ANSWER: Darius  
+Milhaud 
+[10] Milhaud is probably best known for this ballet, which draws its material from African mythology. This 
+ballet contains many jazz-inspired melodies and idioms. 
+ANSWER:  
+La  creation du monde 
+ [or  
+The  creation of the world 
+] 
+[10] Milhaud was a member of this numerically-titled group of French composers, which also included 
+Arthur Honegger, Francis Poulenc, and Germaine Tailleferre. 
+ANSWER:  
+Les six 
+ or the  
+Groupe des six 
+095-11-30-05219 
+20. This story is the namesake of a collection that also includes the author’s “The Decline and Fall of 
+Frankie Buller” and “The Disgrace of Jim Scarfedale.” For 10 points each: 
+[10] Identify this short story where the narrator intentionally loses a race after being sent to a Borstal. 
+ANSWER: “The  
+Loneliness of the Long Distance Runner 
+” 
+[10] “The Loneliness of the Long Distance Runner” was written by Alan Sillitoe, a member of this British 
+literary group. Their name comes from a review of John Osborne's play  
+Look Back in Anger 
+. 
+ANSWER: the  
+Angry Young Men 
+[10] Premiering a year after  
+Look Back in Anger 
+, this other John Osborne play sees Archie, the son of Billy 
+Rice, do a rendition of the song “Why Should I Care?” Several scenes are set at a music hall. 
+ANSWER:  
+The  Entertainer 
+094-11-30-05220 
+21. Name these saints of the early church for 10 points each. 
+[10] This bishop of Hippo described his youthful dabbling in Manichaeism and his relationship with his 
+mother Monica in his  
+Confessions 
+. 
+ANSWER: Saint  
+Augustine 
+ of Hippo 
+[10] A saint of this name from Alexandria is considered a founder of monasticism. He is praised for 
+resisting several temptations while wandering in the desert. 
+ANSWER: Saint  
+Anthony 
+[10] This mother of Constantine the Great was credited with finding the True Cross while building a church 
+in Jerusalem. 
+ANSWER: Saint  
+Helen 
+a 
+015-11-30-05221 
+Powered by TCPDF (www.tcpdf.org) 
+NASAT 2011     Round 5     Page  11 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 

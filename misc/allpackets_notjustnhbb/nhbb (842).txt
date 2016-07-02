@@ -1,0 +1,500 @@
+VHSL Regionals 2014 
+Round 3 
+First Period, Fifteen Tossups 
+1. The text of the Monroe Doctrine was mainly authored by this man while he was Secretary of State. This 
+man won an election that included William Crawford as a candidate. He is the only President to follow his 
+time in office by serving in the House of Representatives. Henry Clay agreed to serve as the Secretary of 
+State for this President, in return for swinging the election of 1824. For 10 points, name this man who used 
+the \"Corrupt Bargain\" to defeat Andrew Jackson and was the first son of a President to hold the office. 
+ANSWER: John  uincy  
+Q Adams 
+ [prompt on  
+Adams 
+; do not accept \"John Adams\"] 
+023-13-96-03101 
+2. A character in this opera insists, \"L'amour, l'amour t'attend\" in an aria beginning \"Votre toast.\" Act III of 
+this opera takes place at a smuggler's camp in the mountains. In Act I of this opera, a worker in a cigarette 
+factory throws a flower to her eventual lover, but explains that love is a \"rebellious bird\" in her Habanera 
+(hah-bahn-AIR-uh) aria. This opera's most famous aria is sung by Escamillo (ess-cah-MEE-yoh), a toreador 
+who wins the love of a Spanish gypsy. For 10 points, name this opera composed by Georges Bizet. 
+ANSWER:  
+Carmen 
+190-13-96-03102 
+3. This conflict saw the last sitting British monarch lead an army in battle, which occurred at Dettingen. 
+The first major clash in this conflict occurred at the battle of Mollwitz. Frederick the Great had promised 
+one side in this war neutrality if part of Silesia was given to Prussia, but that solution was rejected by a 
+Hapsburg monarch. This war ended in 1748 with the treaty of Aix-la-Chapelle (EYE-lah-shuh-PELL). For 
+10 points, name this war sparked by the Pragmatic Sanction's elevation of Maria Theresa to the throne. 
+ANSWER: War of the  
+Austrian Succession 
+230-13-96-03103 
+4. A man in this novel is seen at night walking with a candle into an empty room to signal that food has 
+been left for a convict. This novel's epilogue reveals that \"Vandaleur\" embezzled money in Costa Rica. 
+This novel reveals that a butterfly-obsessed man named Jack Stapleton kidnapped his own wife and used 
+phosphorus to evoke the frightening appearance of a legendary monster that supposedly killed Sir Charles 
+in a moor. For 10 points, name this Sherlock Holmes novel whose culprit was not, in fact, the title dog. 
+ANSWER:  
+The  Hound of the Baskervilles 
+020-13-96-03104 
+5. A Middle Ages trade route in this country was changed in 1950 into a 210-mile scenic drive called the 
+Romantic Road. This country's largest amusement park is called Europa-Park. The capital of this country is 
+home to Museum Island, which includes the Pergamon Museum. This country was where one of the first 
+cuckoo clocks was made; that occurred in its Black Forest. For 10 points, name this country that inspired 
+Sleeping Beauty's Castle with its Bavarian Neuschwanstein (noish-VON-shtein) Castle. 
+ANSWER: Federal Republic of  
+Germany 
+ [or Bundesrepublik  
+Deutschland 
+] 
+023-13-96-03105 
+VHSL Regionals 2014     3     Page  1 of 10 
+6. The Chinese creator gods Fuxi (FOO-shee) and Nuwa are sometimes depicted with the body parts of 
+these creatures. Cadmus and Harmonia took the form of these creatures at the end of their lives. Tiresias 
+was turned into a woman upon attacking two of them mating. The caduceus depicts two of these animals, 
+as does the rod of Asclepius. One of these animals resided at Delphi and was slain by Apollo. For 10 
+points, name this animal, mythological ones of which include Python. 
+ANSWER:  
+snake 
+s [or  
+serpent 
+s; or  
+dragon 
+s] 
+140-13-96-03106 
+7. Patients that have alkaptonuria excrete urine with this color. Manganese dioxide and silver sulfide are 
+both this color. Rapidly water-cooled rhyolitic flows form a glass with this color. An astronomical object 
+named for this color can be described by charge, mass, and spin according to the no-hair theorem. The 
+gravity of that object is impossible to escape at sub-luminal speeds within the event horizon. For 10 points, 
+identify this color which absorbs all light that shines upon it, unlike white. 
+ANSWER:  
+black 
+ [or  
+black 
+ holes; or  
+black 
+ urine disease] 
+239-13-96-03107 
+8. A series of bombings in this country occurred during the \"Hot Summer\" and were triggered by the influx 
+of \"retornados.\" The song \"And After the Farewell\" was the signal to begin a revolution in this country, 
+which was led by the MFA and overthrew Marcelo Caetano. This country was led by Antonio Salazar's 
+Estado Novo, and during its liberalization, its colonies in Mozambique and Goa achieved independence. 
+For 10 points, name this country whose autonomous regions include Madeira and the Azores. 
+ANSWER:  
+Portugal 
+048-13-96-03108 
+9. This philosophical school was referred to as a \"new name for some old ways of thinking\" in a book 
+written by the author of \"What is an Emotion?\" Many proponents of it were members of the Metaphysical 
+Club. Texts written by proponents of this school include \"How to Make Our Ideas Clear,\"  
+The Varieties of 
+Religious Experience, 
+ and  
+Democracy and Education 
+. For 10 points, name this philosophical school 
+practiced by Charles Sanders Peirce (PURSE), William James, and John Dewey, which values practical 
+action. 
+ANSWER:  
+pragmatism 
+052-13-96-03109 
+10. This character insults a \"miserable, tub-trading\" group of people as \"sniveling cowards with their 
+longbows and black arrows.\" This character was wounded by Girion, a ruler of Dale, whom he then killed. 
+Another character talks to this creature and calls him \"the Stupendous\" and \"the Unassessably Wealthy.\" At 
+the end of a 2013 film, this creature, voiced by Benedict Cumberbatch, leaves Lonely Mountain and heads 
+toward Lake Town. For 10 points, name this dragon whose \"Desolation\" subtitles the second movie in  
+The 
+Hobbit 
+ series. 
+ANSWER:  
+Smaug 
+023-13-96-03110 
+11. A graph-searching method that implements one of these data structures minimizes the number of nodes 
+visited, and is called breadth-first search. Circular buffers and linked lists are typically implemented using 
+this type of data structure. Dijkstra's (DYKE-strah's) algorithm uses their priority type. A deque (DECK) is 
+a double-ended one of these structures. They store data such that the first element inserted is the first 
+element removed. For 10 points, name this data structure which resembles a ticketing line. 
+ANSWER:  
+queue 
+190-13-96-03111 
+VHSL Regionals 2014     3     Page  2 of 10 
+12. Several characters in this play appear in a 2010 sequel by Bruce Norris. A character in this play 
+entertains going into business with Bobo, and the role of Mrs. Johnson is eliminated in some stagings of 
+this play. Karl Linder attempts to talk several characters against moving into Clybourne Park in this play, in 
+which the Nigerian student Joseph Asagai is one of Beneatha's suitors. Walter dreams of owning a liquor 
+store in this play. For 10 points, name this play about the travails of the Younger family, a work by 
+Lorraine Hansberry. 
+ANSWER:  
+A  Raisin in the Sun 
+030-13-96-03112 
+13. This statement can be derived by applying Gauss's law to a spherical surface. One constant in this law is 
+often rewritten as one over four pi times the permittivity of free space, and dividing it by charge gives the 
+electric field of a point charge. The constant of proportionality for this statement is symbolized k, and its 
+value is equal to nine times ten to the nine. It states that force is proportional to the inverse-square of 
+distance. For 10 points, name this statement that gives the electrostatic force between two charges. 
+ANSWER:  
+Coulomb 
+'s law 
+226-13-96-03113 
+14. At the beginning of this novel, an old man spreads gossip about a young woman lying on the back of a 
+reddleman's wagon, after which it is found that she ran away before her marriage. The marriage of Wildeve 
+and Thomasin is facilitated early in this novel. The title character's mother dies of snakebite in this novel, 
+followed soon by his wife Eustacia Vye, who drowns while trying to escape rural life. For 10 points, name 
+this novel that describes Clym Yeobright’s arrival in his hometown of Egdon Heath, a work by Thomas 
+Hardy. 
+ANSWER:  
+The  Return of the Native 
+140-13-96-03114 
+15. The competition for designing what became this monument was overseen by George Howe. This 
+monument was built by the MacDonald Construction Company and used the Pittsburgh-Des Moines Steel 
+Company for its stainless steel exterior. This monument was one of the first solo designs done by Finnish 
+architect Eero Saarinen. Underneath this monument is the Museum of Westward Expansion. For 10 points, 
+name this 630-foot tall and 630-foot wide catenary arch located next to the Mississippi River in St. Louis. 
+ANSWER:  
+Gateway 
+ Arch 
+023-13-96-03115 
+VHSL Regionals 2014     3     Page  3 of 10 
+VHSL Regionals 2014 
+Round 3 
+Directed Round 
+1A.  What American river runs past the city of Lake Havasu and through the Grand Canyon? 
+ANSWER:  
+Colorado 
+ River 
+1B.  What curve names a class of galaxies lying on the fork of Hubble's sequence and has a variety named 
+for Archimedes? 
+ANSWER:  
+spiral 
+2A.  In statistics, what name is given to the default hypothesis which states that no relationship exists 
+between two measured variables and which the experimenter seeks to reject? 
+ANSWER:  
+null 
+ hypothesis [or  
+H naught 
+; or  
+H sub zero 
+] 
+2B.  What English chemist was the first to isolate oxygen, which he termed “dephlogisticated air”? 
+ANSWER: Joseph  
+Priestley 
+3A.  This is a 20-second calculation question. What number is in the top-left corner of the inverse of the 
+matrix whose first row is [4 5] and whose second row is [2 3]? 
+ANSWER:  
+1.5 
+ [or  
+3/2 
+; or  
+1 ½ 
+] 
+3B.  This is a 20-second calculation question. Convert the polar coordinates “r = 4, theta = 3 pi over 4” to 
+rectangular coordinates. 
+ANSWER: (  times the square  
+-2 root 
+ of  ,   times the square  
+2 2 root 
+ of  ) [or x =  
+2 -2 root 2 
+, y =  
+2 root 2 
+ ] 
+4A.  What Pope was replaced by Pope Francis after stepping down in 2013? 
+ANSWER:  
+Benedict XVI 
+ [or Joseph Aloisius  
+Ratzinger 
+; prompt on  
+Benedict 
+] 
+4B.  What American singer-songwriter has recorded the hits \"Grenade,\" \"The Lazy Song,\" and \"Locked 
+Out of Heaven\"? 
+ANSWER: Bruno  
+Mars 
+5A.  What Swiss psychiatrist speculated about the existence of universal archetypes in what he called the 
+\"collective unconscious?\" 
+ANSWER: Carl  
+Jung 
+5B.  What early English novelist wrote  
+Captain Singleton 
+ and  
+Moll Flanders? 
+ANSWER: Daniel  
+Defoe 
+6A.  What difficult set of nineteen solo piano compositions by Franz Liszt incorporates elements of his 
+native country’s music? 
+ANSWER:  
+Hungarian Rhapsodies 
+6B.  What lengthy retreat across China was performed by Mao Zedong's Red Army from 1933 to 1935? 
+ANSWER:  
+Long March 
+7A.  What mountain range that runs along the Mediterranean coast of Northern Africa has its highest point 
+at Toubkal (toob-KAHL)? 
+ANSWER:  
+Atlas 
+ Mountains 
+7B.  What Shoshone (shuh-SHOW-nee) woman served as a translator and guide for the Lewis and Clark 
+Expedition? 
+ANSWER:  
+Sacajawea 
+VHSL Regionals 2014     3     Page  4 of 10 
+8A.  What female impressionist painted  
+The Child's Bath 
+ and  
+The Boating Party 
+? 
+ANSWER: Mary  
+Cassatt 
+8B.  In May of 2013, mayor Dave Bing announced that what American city was forced to declare 
+bankruptcy? 
+ANSWER:  
+Detroit 
+9A.  This is a 30-second calculation question. Two adjacent angles in a parallelogram have measures “x + 
+20” degrees and “4x - 40” degrees. What is the measure of the larger angle? 
+ANSWER:  
+120 
+ degrees 
+9B.  This is a 30-second calculation question. A bag has ten ping pong balls in it, numbered one through ten 
+inclusive. Three people each draw a ball from the bag without replacement. What is the probability that 
+each of them drew an odd number? 
+ANSWER:  
+1/12 
+10A.  What eighteenth-century British empiricist denied the existence of miracles in a section of his treatise 
+An Enquiry Concerning Human Understanding? 
+ANSWER: David  
+Hume 
+10B.  What is the name given to the glass tube with a stopcock at the bottom that is used to dispense one 
+solution into another during titration? 
+ANSWER:  
+burette 
+VHSL Regionals 2014     3     Page  5 of 10 
+VHSL Regionals 2014 
+Round 3 
+Third Period, Fifteen Tossups 
+1. cAMP (CAMP) and a cyclic nucleotide with this nucleobase are important secondary messengers. A 
+nucleoside triphosphate with this nucleobase is one of the outputs of the citric acid cycle; that triphosphate 
+is converted to ATP by NDK. This purine has an oxygen attached to its pyrimidine ring. Three hydrogen 
+bonds connect this nucleobase to cytosine. For 10 points, name this nucleobase represented with a G. 
+ANSWER:  
+guanine 
+ [or   until it is read] 
+G 
+066-13-96-03117 
+2. This disease was the subject of a scandal discussed in  
+The Drum 
+ and exposed by Peter Buxtun. A 1972 
+expose by the  
+Washington Star 
+ discussed 399 men with this disease, which spurred the passage of the 
+National Research Act of 1974 and the rise of institutional review boards. This disease was given to Macon 
+County sharecroppers who were told they had \"bad blood\" and denied penicillin. For 10 points, name this 
+disease, the subject of an unethical study on black men conducted at the Tuskegee Institute. 
+ANSWER:  
+syphillis 
+019-13-96-03118 
+3. Near the end of this novel, Sister Gudule (goo-DOOL) discovers that she is the mother of a woman about 
+to be executed for murdering Captain Phoebus. A goat named Djali accompanies a major character in this 
+novel. Claude Frollo raises this novel's title character and becomes obsessed with a gypsy named La 
+Esmerelda. The title character of this novel is elected \"Pope of Fools\" at the beginning for being the ugliest 
+person in Paris. For 10 points, name this Victor Hugo novel about Quasimodo, a bellringer in the title 
+cathedral. 
+ANSWER:  
+The  Hunchback of Notre Dame 
+ [or  
+Notre-Dame de Paris 
+] 
+080-13-96-03119 
+4. In a scene in this play, a character pulls the trigger of a gun which shoots an umbrella. Another character 
+in this play claims that he married his wife due to her hysterical pregnancy. A character in this play claims 
+that his son was killed in a car accident while attempting to avoid a porcupine. Absurd games such as 
+\"Humiliate the Host\" and \"Get the Guests\" are played throughout this play. For 10 points, name this play in 
+which Nick and Honey visit Martha and George, written by Edward Albee. 
+ANSWER:  
+Who's Afraid of Virginia Woolf? 
+227-13-96-03120 
+5. Eustace of Boulogne tried to convince a commander during this battle to retreat right before Eustace was 
+severely wounded. The victors of this battle pursued the other side into the Malfosse. During this battle, a 
+defensive position was taken by the eventual losing side on Senlac Hill. The winning commander of this 
+battle used fake retreats to draw soldiers out, and the losing commander may be depicted dying from an 
+arrow to the eye on the Bayeux Tapestry. For 10 points, name this battle lost by Harold Godwinson to the 
+Normans under William the Conqueror in 1066. 
+ANSWER: Battle of  
+Hastings 
+023-13-96-03121 
+VHSL Regionals 2014     3     Page  6 of 10 
+6. The protagonist of this book is chided for reading a book of birds with Arctic scenes. It ends by 
+describing the fate of a man who proposed to the protagonist and is dying as a missionary in India. The 
+protagonist goes to live with St. John Rivers and his sisters after leaving her employer at Thornfield Hall. 
+Thornfield is eventually burned down by her employer's crazy wife, Bertha Mason. For 10 points, name 
+this novel by Charlotte Brontë, whose title character marries Mr. Rochester. 
+ANSWER:  
+Jane Eyre 
+121-13-96-03122 
+7. This indicative tense's third-person plural conjugation is the basis of the subjunctive forms in another 
+tense. The third-person singular conjugation in this Spanish verb tense adds a \"y\" when the verb has two 
+consecutive vowels. Verbs that end in \"-car\" replace the \"c\" with a \"q\" in the first person in this tense. In 
+this tense, the verbs \"ser\" and \"ir\" (EAR) are conjugated the same: \"fui,\" (FWEE) \"fuiste,\" (FWEE-stay) 
+\"fue,\" (FWAY) and so on. This tense should be used only if the action was completed. For 10 points, name 
+this past tense in Spanish contrasted with the imperfect tense. 
+ANSWER: Spanish  
+preterite 
+ [or el  
+preterito 
+; do not accept or prompt on \"past\"] 
+190-13-96-03123 
+8. Structures created by this phenomenon are known as ventifacts. A type of transport via this phenomenon 
+is known as saltation. This phenomenon is the primary driving force behind surface ocean currents. The 
+Beaufort scale is used to classify this phenomenon based on observed sea conditions. This phenomenon is 
+responsible for creating aeolian landforms, such as dunes and sand-blasted rocks. For 10 points, name this 
+phenomenon that results from the uneven heating of Earth's surface 
+ANSWER:  
+wind 
+066-13-96-03124 
+9. This poem begins with the word \"Andra,\" meaning \"the man.\" The protagonist of this poem angrily 
+reminds Eurycleia (yur-uh-CALY-uh) that he built his bridal bed around the immobile stump of an olive 
+tree. On Phaeacia (fye-EY-kih-uh), the protagonist of this poem tells Nausicaa's father of his encounters 
+with the Laestrygonians (LYE-struh-GOH-nee-unz) and Lotus Eaters. At the beginning of this poem, 
+Athena takes the form of Mentor to guide Telemachus, who is angry at the suitors of his mother, Penelope. 
+For 10 points, name this poem about a Greek king's return from Troy to Ithaca. 
+ANSWER:  
+The  Odyssey 
+080-13-96-03125 
+10. A difference of opinion exists between using \"qabd\" (KAH-bid) or \"sadl\" (SAH-dil) positioning during 
+one portion of this action. This action is immediately preceded by an optional \"iqama\" (EE-kah-mah), and 
+one ends it by performing \"tasleem\" on at least one side of the body. Examples of this action include \"fajr\" 
+(FAH-jur), which is performed after \"suhoor\" and before sunrise during Ramadan. Each \"rak'ah\" of this 
+action begins with a declaration of \"Allahu Akbar.\" This action is the second pillar of Islam. For 10 points, 
+identify this action which is performed five times a day by Muslims. 
+ANSWER: daily  
+prayer 
+ [or word forms; or  
+salaah 
+; or  
+salaat 
+; or  
+dhuhr 
+ until \"fajr\" is read; or  
+asr 
+ until 
+\"fajr\" is read; or  
+maghrib 
+ until \"fajr\" is read; or  
+isha 
+ until \"fajr\" is read; or  
+fajr 
+ until it is read] 
+189-13-96-03126 
+11. Sir Thomas Wyatt translated some of these poems written by Ronsard into English. Sir Philip Sydney's  
+Astrophel and Stella 
+ is a sequence of this kind of poem. A collection of these kinds of poems \"from the 
+Portugese\" was written by Elizabeth Barrett Browning, and an author who wrote one hundred fifty-four of 
+these kinds of poems addressed some to the \"Dark Lady.\" Shakespeare's poems of this kind include \"Shall I 
+Compare Thee to a Summer's Day?\" For 10 points, name this type of poem that consists of fourteen lines. 
+ANSWER:  
+sonnet 
+s 
+186-13-96-03127 
+VHSL Regionals 2014     3     Page  7 of 10 
+12. The use of these drugs during pregnancy correlates with persistent pulmonary hypertension in 
+newborns. Suddenly stopping the use of one of these drugs can cause \"zaps\" as part of their namesake 
+discontinuation syndrome. Like tricyclics, these drugs can be used to treat obsessive-compulsive disorder. 
+Drugs in this class include fluoxetine and paroxetine. For 10 points, name this class of drugs which inhibit 
+the removal of a certain neurotransmitter from the synapse and are used to treat depression. 
+ANSWER:  
+SSRI 
+s [or  
+selective serotonin reuptake inhibitors 
+; or  
+serotonin-specific reuptake inhibitors 
+] 
+048-13-96-03128 
+13. This man was friends with his rival Luz Long, whom this man defeated to win the long-jump. This man 
+set or tied four world records in less than an hour while running for Ohio State at the Big Ten track and 
+field championships, and some of his feats were shown in Leni Riefenstahl's documentary  
+Olympia. 
+ For 10 
+points, name this African-American track and field athlete whose four gold medals at the 1936 Berlin 
+Olympics thwarted Hitler's attempt to demonstrate Aryan superiority. 
+ANSWER: Jesse  
+Owens 
+030-13-96-03129 
+14. A character in this novel refuses to lie down on the bottom of a boat because it goes against his military 
+training. General Webb is the incompetent commander of Fort Edward in this novel, and much of it centers 
+on Major Duncan Heyward's journey to take the Munro sisters to their father at Fort William Henry. Magua 
+is shot at the conclusion of this book, in which Uncas is the title character. For 10 points, name this novel in 
+which Natty Bumppo is known as Hawkeye, a work by James Fenimore Cooper. 
+ANSWER:  
+The  Last of the Mohicans 
+030-13-96-03130 
+15. The severity of this disease is measured on the EDSS scale. A classic symptom of this disease is 
+Lhermitte's (LARE-meet's) sign. Its treatments includes a random polymer of four amino acids called 
+glatiramir acetate, which shifts the Th1 response to a Th2 response. Oligodendrocytes are lost in this 
+disease, which can be diagnosed by looking for white matter plaques on MRI. For 10 points, name this 
+autoimmune disease which destroys the myelin sheaths surrounding neurons. 
+ANSWER:  
+multiple sclerosis 
+ [or  
+MS 
+] 
+048-13-96-03131 
+VHSL Regionals 2014     3     Page  8 of 10 
+VHSL Regionals 2014 
+Round 3 
+Tiebreaker Questions 
+1. When cells in this tissue die, they are surrounded by macrophages forming a crown-like structure. A side 
+effect of HIV protease inhibitors is a redistribution of this tissue. It’s not bone marrow, but the stromal 
+vascular fraction of this tissue is a great source of mesenchymal stem cells. This type of tissue produces 
+leptin and is divided into white and brown types. It is also known as adipose tissue. For 10 points, name 
+this type of connective tissue which stores lipids. 
+ANSWER: body  
+fat 
+ tissue [or  
+adipose 
+ tissue until it is read] 
+048-13-96-03132 
+2. Eight men died trying to end this event in Operation Eagle Claw. Frank Reynolds was the original host 
+of a show started during this event; that show, later hosted by Ted Koppel, was ABC's  
+Nightline. 
+ Six 
+people escaped this event thanks to the Canadian Caper. This event was ended minutes after the 
+inauguration of Ronald Reagan. For 10 points, name this event during the Carter administration that lasted 
+for 444 days and included fifty-two Americans being held against their will in Tehran. 
+ANSWER:  
+Iran hostage 
+ crisis 
+023-13-96-03133 
+3. These objects are roughly 1.5 times as common as their counterparts among substances in the 
+hypothetical \"island of stability\". These particles, which consist of two down quarks and an up quark, 
+release an antineutrino when they decay, which happens with a half-life of about 10 minutes. Discovered 
+by James Chadwick in 1932, they contribute to the mass number, but not the atomic number, of an element. 
+For 10 points, name this elementary particle with no electric charge, found in the nucleus along with the 
+proton. 
+ANSWER:  
+neutron 
+132-13-96-03134 
+4. A way to find this value is to take the sum of the first ionization energy and electron affinity and divide 
+by two. The Allen scale for finding this value has its lowest end at cesium, which differs from a more 
+common scale for this value that gives its lowest value, 0.7, to francium. That common scale for this value 
+assigns its highest value, 3.98, to fluorine and is named for Linus Pauling. A large difference in this value 
+between molecules usually results in an ionic bond. For 10 points, name this ability of atoms to attract 
+shared electrons. 
+ANSWER:  
+electronegativity 
+023-13-96-03135 
+5. This man wrote a poem about poetry with the section \"It Must Be Abstract,\" entitled  
+Notes Toward a 
+Supreme Fiction. 
+ \"The wilderness rose up to\" the title object of one of his poems, causing the wilderness to 
+become \"no longer wild.\" In addition to that poem about an object \"like nothing else in Tennessee,\" this 
+man wrote a poem that begins, \"Call of the roller of big cigars,\" and states, \"Let be be finale of seem.\" For 
+10 points, name this American poet who wrote \"Anecdote of the Jar\" and \"The Emperor of Ice Cream.\" 
+ANSWER: Wallace  
+Stevens 
+030-13-96-03136 
+This is a calculation question. You roll two N-sided dice, with faces numbered one through N. What is the 
+smallest value of N for which the expected value of the dice’s sum is greater than 6? 
+ANSWER:  
+6 
+VHSL Regionals 2014     3     Page  9 of 10 
+What vector is defined as the shortest linear distance between two points? 
+ANSWER:  
+displacement 
+ vector 
+Powered by TCPDF (www.tcpdf.org) 
+VHSL Regionals 2014     3     Page  10 of 10 

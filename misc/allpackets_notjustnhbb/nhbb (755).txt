@@ -1,0 +1,506 @@
+2014 Michigan States 
+Round 8 
+1. In 1843, Georg Carstensen started the amusement park found in this city called Tivoli Gardens. This city, 
+the largest on the island of Zealand, is home to the \"free town\" Christiania. The Oresund Bridge connects 
+this city to Malmo. Edvard Eriksen created a sculpture in this city's harbor of a woman seated on a rock. 
+For 15 points, name this Scandinavian capital city that is connected by a bridge to Sweden, and whose 
+statue of  
+The Little Mermaid 
+ was inspired by Hans Christian Andersen. 
+ANSWER:  
+Copenhagen 
+ [or  
+Kobenhavn 
+] 
+023-13-104-08101 
+BONUS: The poet and essayist Jose Marti (mar-TEE) is a national hero of what island? 
+ANSWER:  
+Cuba 
+014-13-104-0810-11 
+2. A converted palace in this country serves as a part of its Hermitage Museum. An 85-meter tall statue of a 
+woman with wings and a raised arm holding a sword located in this country is called \"The Motherland 
+Calls.\" In the sixteenth century, a cathedral was built in this country that now comprises nine chapels each 
+topped with a colorful onion dome. For 15 points, name this country where St. Basil's Cathedral in Red 
+Square is located, only a short distance from the Kremlin. 
+ANSWER:  
+Russia 
+n Federation [or  
+Rossiya 
+; or  
+Rossiyskaya Federatsiya 
+] 
+023-13-104-08102 
+BONUS: What vector is defined as the shortest linear distance between two points? 
+ANSWER:  
+displacement 
+ vector 
+014-13-104-0810-11 
+3. It's not Jude, Hebrews, or Revelation, but Martin Luther attempted to remove this book from canon, 
+believing it contradicted the beliefs of sola gratia (GRAH-tee-uh) and sola fide (FEE-day). This book's 
+second chapter contains the line, \"faith without works is dead.\" This book also contains the guidelines for 
+the anointing of the sick. For ten points, name this New Testament book, believed to have been written by a 
+half-brother of Jesus. 
+ANSWER: Epistle of  
+James 
+225-13-104-08103 
+BONUS: What simple device used to simulate computer algorithms consists of a strip of tape and a 
+read-write head? 
+ANSWER:  
+Turing machine 
+014-13-104-0810-11 
+4. This school won its first NCAA basketball championship in 1974 under Norm Sloan. This university 
+plays the annual Textile Bowl against Clemson and plays in Carter Finlay Stadium. Russell Wilson 
+transferred to the University of Wisconsin from this school, which was coached to the 1983 NCAA 
+basketball championship by Jim Valvano. For 15 points, name this ACC school that is located in Raleigh 
+and is nicknamed the Wolfpack. 
+ANSWER:  
+North Carolina State 
+ University [or  
+NC State 
+; do not accept or prompt on \"North Carolina\" 
+or \"UNC\"] 
+030-13-104-08104 
+2014 Michigan States     8     Page  1 of 8 
+BONUS: The Miller’s Tale is the most famous example of what genre of ribald stories with a French 
+name? 
+ANSWER:  
+fabliau 
+x 
+014-13-104-0810-11 
+5. A post-credit scene for this movie shows Hannibal Chau wondering where one of his gold-plated shoes 
+has gone. Yancy's death leads the main character of this movie to work on a defensive wall. Hermann 
+Gottlieb and Newton Geiszler are scientists who study certain creatures in this movie. Stacker Pentecost 
+runs the Jaeger forces, which fight Kaijus in this movie. For 15 points, name this 2013 Guillermo del Toro 
+movie in which large manned robots fight against giant extraterrestrial monsters. 
+ANSWER:  
+Pacific Rim 
+023-13-104-08105 
+BONUS: What German philosopher wrote  
+Thus Spoke Zarathustra 
+ and examined the Dionysian and 
+Apollonian dichotomy in  
+The Birth of Tragedy 
+? 
+ANSWER: Friedrich  
+Nietzsche 
+030-13-104-0810-11 
+6. A data structure used to efficiently perform this operation can use linear probing to implement open 
+addressing or implement chaining to resolve collisions. That data structure used to perform this operation is 
+a hash table. The linear, or serial, form of this operation simply steps through an array one item at a time 
+while its binary form requires an array that has already been sorted. For 15 points, identify this operation in 
+which an algorithm looks for a specified piece of data. 
+ANSWER:  
+search 
+ing [or obvious equivalents, such as  
+lookup 
+; prompt on  
+hash 
+ing] 
+066-13-104-08106 
+BONUS: What former governor of Kansas and current secretary of Health and Human Services has faced 
+criticism for the shortcomings of the healthcare.gov website? 
+ANSWER: Kathleen  
+Sebelius 
+ [or Kathleen  
+Gilligan 
+] 
+030-13-104-0810-11 
+7. Every entire function can be written as a power series with this property on the complex plane. A 
+complete metric space is one where Cauchy sequences have this property. The Weierstrass M-test can show 
+whether something has the uniform type of this property. Geometric series will always have this property if 
+the common ratio has absolute value between zero and one, and the harmonic series does not possess it. For 
+15 points, name this opposite of divergence. 
+ANSWER:  
+convergence 
+ [or  
+has a limit 
+] 
+121-13-104-08107 
+BONUS: This is a 20-second calculation question. If the base y logarithm of 64 equals 3/2, what is y? 
+ANSWER:  
+16 
+003-13-104-0810-11 
+8. A director in this country was assassinated in 2004 for his film  
+Submission, 
+ criticizing Muslim society. 
+The VVD party currently leads this country, despite conflict with Geert Wilders's PVV party in 2012. This 
+country's Princess Margriet was born in Canada during World War II. Operation Market Garden took place 
+in Germany and this country, where the International Court of Justice and International Criminal Court are 
+headquartered. Two days after World War II ended, Indonesia declared independence from this country. 
+For 15 points, name this country where Queen Beatrix abdicated in 2013. 
+ANSWER: Kingdom of the  
+Netherlands 
+ [or  
+Holland 
+; or Koninkrijk der  
+Nederlanden 
+] 
+190-13-104-08108 
+2014 Michigan States     8     Page  2 of 8 
+BONUS: What type of goods named after an American economist are favored at high prices due to their 
+symbol as high-status commodities? 
+ANSWER:  
+Veblen 
+ goods 
+227-13-104-0810-11 
+9. Sonia Johnson was excommunicated by the Mormon church for supporting this initiative, which is the 
+subject of the legally controversial \"three-state strategy.\" Five states which ratified this law re-voted to 
+rescind ratification in the subsequent years. This initiative was campaigned against by the Eagle Forum of 
+Phyllis Schlafly, and this amendment's text was written by Alice Paul in 1923, even though it picked up 
+support in the 1970s. For 15 points, identify this bill outlawing all discrimination based on sex, which fell 
+just short of becoming a Constitutional amendment. 
+ANSWER: the  
+ERA 
+ [or  
+Equal Rights 
+ Amendment] 
+019-13-104-08109 
+BONUS: Name the country that shares the Gobi Desert with its neighbor China. 
+ANSWER:  
+Mongolia 
+ [or  
+Mongol Uls 
+] 
+023-13-104-0810-11 
+10. In one novel by this author, a woman decides to go to the Remembrance Week boat races instead of 
+immediately arranging for the burial of her dead husband. In that novel by him, the note \"done because we 
+are too menny\" is left by Little Father Time, who kills his two brothers and hangs himself. In an only 
+slightly-less-dreary novel by this author, the title character is replaced by his Scottish competitor Donald 
+Farfrae soon after auctioning off his own wife and daughter. For 15 points, name this novelist who wrote  
+Jude the Obscure 
+ and  
+The Mayor of Casterbridge. 
+ANSWER: Thomas  
+Hardy 
+020-13-104-08110 
+BONUS: Students of what language use the acronym DR. and MRS. VANDERTRAMP to memorize verbs 
+that are conjugated in  
+passe compose 
+ with \"etre\" and not \"avoir?\" 
+ANSWER:  
+French 
+ language [or le  
+francais 
+; or la langue  
+francaise 
+] 
+153-13-104-0810-11 
+11. In one of this man's stories, a husband calls roadside diners \"dog-wagons\" to annoy his wife, who 
+insults his driving ability in turn, as they drive out to grab \"A Couple of Hamburgers.\" With E.B. White's 
+help, this writer joined the editorial staff of  
+The New Yorker, 
+ where he sometimes published his threadbare 
+cartoons illustrating interactions between couples. A man faces a firing squad and pilots a two-person 
+fighter jet in his most famous story, about an average man with crazy daydreams. For 15 points, name this 
+humorist who wrote \"The Secret Life of Walter Mitty.\" 
+ANSWER: James  
+Thurber 
+020-13-104-08111 
+BONUS: This is a 20-second calculation question. What is the expected number of heads that show up in 
+three independent tosses of an unfair coin that shows heads 60% of the time? 
+ANSWER:  
+1.8 
+ [or  
+9/5 
+] 
+003-13-104-0810-11 
+2014 Michigan States     8     Page  3 of 8 
+12. The protein Cdc20 is not activated until the start of this stage. The cyclosome is also known as a 
+complex that promotes this stage by breaking down securin. This stage occurs due to the removal of tubulin 
+monomers from the \"plus\" end of a microtubule by the kinetochore (kin-ET-oh-core). Errors in this phase 
+of mitosis can lead to Down's Syndrome and other nondisjunctions. For 15 points, name this stage of 
+mitosis in which sister chromatids are segregated to opposite sides of the cell and which occurs between 
+metaphase and telophase. 
+ANSWER:  
+anaphase 
+ [prompt on  
+mitosis 
+ until it is read] 
+190-13-104-08112 
+BONUS: This is a 20-second calculation question. Segment BC is a diameter of circle O and A is a point 
+on the circumference of O. If the ratio of the measure of angle ABC to that of angle ACB is 2, what is the 
+measure of angle ABC? 
+ANSWER:   degrees [or  
+60 pi over 3 
+ radians] 
+003-13-104-0810-11 
+13. In a story by this author, Boris's prioress aunt arranges his marriage and turns out to have switched 
+places with her pet monkey. In another, a woman flees Paris with only a lottery ticket to become the maid 
+of two elderly Norwegians. Her collection  
+Anecdotes of Destiny 
+ contains stories like “Babette's Feast.” 
+This writer's memoirs describe life on a Kenyan coffee plantation before she returned to Denmark. For 15 
+points, name this author of  
+Out of Africa 
+ and  
+Seven Gothic Tales. 
+ANSWER: Isak  
+Dinesen 
+ [or Karen  
+Blixen 
+] 
+121-13-104-08113 
+BONUS: What artist created controversy over the exhibition of his paintings  
+Olympia 
+ and  
+Luncheon on the 
+Grass? 
+ANSWER: Edouard  
+Manet 
+140-13-104-0810-11 
+14. A Shinto goddess of this object was the sister of Susanoo and Tsukiyomi and was named Amaterasu. 
+Another god of this object had to defeat the evil serpent Apep every day as he passed through the 
+underworld; that god of this object was at one point combined with the god Amun. A third god of this 
+object had a son named Phaeton lose control of his light-bringing chariot. For 15 points, name this 
+astronomical object whose representative gods included the Egyptian Ra and Greek Helios. 
+ANSWER:  
+Sun 
+ gods [or  
+solar 
+ gods] 
+023-13-104-08114 
+BONUS: What princess of Hyrule titles a video game series in which she is often saved from Ganondorf by 
+Link? 
+ANSWER:  
+Zelda 
+023-13-104-0810-11 
+15. The use of these drugs during pregnancy correlates with persistent pulmonary hypertension in 
+newborns. Suddenly stopping the use of one of these drugs can cause \"zaps\" as part of their namesake 
+discontinuation syndrome. Like tricyclics, these drugs can be used to treat obsessive-compulsive disorder. 
+Drugs in this class include fluoxetine and paroxetine. For 15 points, name this class of drugs which inhibit 
+the removal of a certain neurotransmitter from the synapse and are used to treat depression. 
+ANSWER:  
+SSRI 
+s [or  
+selective serotonin reuptake inhibitors 
+; or  
+serotonin-specific reuptake inhibitors 
+] 
+048-13-104-08115 
+2014 Michigan States     8     Page  4 of 8 
+BONUS: What leader of Israeli forces in the 1948 Arab-Israeli War served as the first prime minister of 
+Israel? 
+ANSWER: David  
+Ben-Gurion 
+015-13-104-0810-11 
+16. This artist painted  
+San Giorgio Maggiore  
+(MUH-jor-ay) 
+ at Dusk 
+ during his 1908 trip to Venice. Louis 
+Leroy mocked this artist's painting of a boat completely in black rowing toward the shore, illuminated by a 
+very bright orange sun. In two series, he painted the Houses of Parliament and the Rouen (WOO-ahn) 
+Cathedral at different times of day. This artist painted  
+The Japanese Bridge 
+ near his home in Giverny 
+(JIV-air-nee). His popular subjects included poplars and haystacks. For 15 points, name this painter of  
+Impression, Sunrise 
+ and many depictions of water-lilies. 
+ANSWER: Claude  
+Monet 
+190-13-104-08116 
+BONUS: This is a calculation question. If a line in the plane has slope negative three, what is cosine of the 
+angle it makes with the x-axis? 
+ANSWER:  
+1 over 
+ square  
+root 
+ of  
+10 
+ [or square  
+root 
+ of  ,  
+10 over 10 
+] 
+233-13-104-0810-11 
+17. The influence of this group increased when Peter Porter took over the House Committee on Foreign 
+Affairs and Langdon Cheves became the chairman of the House Ways and Means Committee. John 
+Randolph coined this term, which denoted a group of politicians from Southern and Western states. Some 
+elements of this faction, led by Henry Clay, agitated for an invasion of Canada. For 15 points, identify 
+these Democratic-Republicans who convinced James Madison to enter a conflict with Britain in 1812. 
+ANSWER: war  
+hawk 
+s 
+020-13-104-08117 
+BONUS: Identify the George Gerswhin opera set in \"Catfish Row\" of Charleston, South Carolina, which 
+includes the songs \"It Ain't Necessarily So\" and \"Summertime\" performed by an exclusively black cast of 
+major characters. 
+ANSWER:  
+Porgy and Bess 
+019-13-104-0810-11 
+18. Sir Thomas Wyatt translated some of these poems written by Ronsard into English. Sir Philip Sydney's  
+Astrophel and Stella 
+ is a sequence of this kind of poem. A collection of these kinds of poems \"from the 
+Portugese\" was written by Elizabeth Barrett Browning, and an author who wrote one hundred fifty-four of 
+these kinds of poems addressed some to the \"Dark Lady.\" Shakespeare's poems of this kind include \"Shall I 
+Compare Thee to a Summer's Day?\" For 15 points, name this type of poem that consists of fourteen lines. 
+ANSWER:  
+sonnet 
+s 
+186-13-104-08118 
+BONUS: Name the national monument in South Dakota that was built by Gutzon Borglum. 
+ANSWER: Mount  
+Rushmore 
+023-13-104-0810-11 
+19. This politician made a gaffe by saying no one was the “suppository of all wisdom.” In a 2009 
+leadership ballot, he beat Malcolm Trumbull to become Opposition Leader, a role in which he was accused 
+of misogyny by Julia Gillard. In his country’s September 2013 election, he led the Liberal-National 
+Coalition to victory over Kevin Rudd’s Labor Party. For 15 points, name this current Prime Minister of 
+Australia. 
+ANSWER: Anthony John “Tony”  
+Abbott 
+153-13-104-08119 
+2014 Michigan States     8     Page  5 of 8 
+BONUS: What name is given to the area around the equator characterized by weak winds, which was 
+called the doldrums by sailors? 
+ANSWER:  
+ITCZ 
+ [or  
+Intertropical Convergence Zone 
+] 
+014-13-104-0810-11 
+20. Leonard Glen Francis is accused of bribing senior intelligence officials in this organization. In an attack 
+on Barawe, this organization failed to capture Abdulkadir Mohamed Abdulkadir, an Al-Shabaab leader. 
+That assault was carried out by the same unit that descended on Abottabad in 2011 to kill Bin Laden. For 
+15 points, name this branch of the United States military whose special forces are the SEALs. 
+ANSWER: United States  
+Navy 
+ [or  
+USN 
+; prompt on United States  
+military 
+ and equivalents] 
+153-13-104-08120 
+BONUS: This is a calculation question. If f of x equals \"2x plus 7\" and g of y equals \"y squared minus 4\", 
+then what is f of g of 7? 
+ANSWER:  
+97 
+003-13-104-0810-11 
+21. This statement will be tested in late 2014 by the French project MICROSCOPE, which intends to set 
+even lower limits on the Eotvos (ET-vish) parameter. One version of this statement includes local Lorentz 
+invariance and local positional invariance. A less rigorous version of it holds that the ratio of mass to 
+weight is locally constant, and includes the universality of free fall. For 15 points, name this principle 
+stating that uniform acceleration and the effects of a gravitational field are indistinguishable. 
+ANSWER:  
+equivalence 
+ principle [or weak  
+equivalence 
+ principle; or strong  
+equivalence 
+ principle; or 
+Galilean-Newtonian  
+equivalence 
+ principle; or Einstein  
+equivalence 
+ principle; or  
+universality 
+ of  
+free fall 
+until it is read] 
+003-13-104-08121 
+BONUS: What Nazi Field Marshal was known as the Desert Fox for his tank warfare tactics in the North 
+African theater of World War II? 
+ANSWER: Erwin  
+Rommel 
+015-13-104-0810-11 
+22. An author from this nation wrote a poem whose title action takes place “at five in the afternoon”; that 
+author also created characters such as Angustias, Pepe el Romano, and the Bridegroom. Those characters 
+from this nation appear in  
+The House of Bernarda Alba 
+ and  
+Blood Wedding 
+. Another character created by 
+an author from this nation falls in love with Dulcinea and battles windmills. For 15 points, identify this 
+home nation of Federico Garcia Lorca and Miguel de Cervantes. 
+ANSWER: Kingdom of  
+Spain 
+ [or Reino de  
+España 
+] 
+226-13-104-08122 
+BONUS: What Chilean island is known for its moai (MOH-eye) statues? 
+ANSWER:  
+Easter 
+ Island [or  
+Rapa Nui 
+; or Isla de  
+Pascua 
+] 
+023-13-104-0810-11 
+23. When cells in this tissue die, they are surrounded by macrophages forming a crown-like structure. A 
+side effect of HIV protease inhibitors is a redistribution of this tissue. It’s not bone marrow, but the stromal 
+vascular fraction of this tissue is a great source of mesenchymal stem cells. This type of tissue produces 
+leptin and is divided into white and brown types. It is also known as adipose tissue. For 15 points, name 
+this type of connective tissue which stores lipids. 
+ANSWER: body  
+fat 
+ tissue [or  
+adipose 
+ tissue until it is read] 
+048-13-104-08123 
+2014 Michigan States     8     Page  6 of 8 
+BONUS: What language is written in the \"hangul\" alphabet derived by King Sejong? 
+ANSWER:  
+Korean 
+019-13-104-0810-11 
+24. This short story features a secret which is found out by \"gold, and the power of a woman's will.\" Its 
+main character is accused of romancing the daughter of his \"semi-barbaric\" king. In this short story, the 
+princess tells the main character to choose the right-most option in a ceremony which will end in either 
+death or marriage to another woman for the protagonist. For 15 points, name this short story by Frank R. 
+Stockton in which two identical doors conceal the title options. 
+ANSWER: \"The  
+Lady, or the Tiger? 
+\" 
+088-13-104-08124 
+BONUS: What beast did Bellerophon kill for King Iobates, with the help of Pegasus and a leaden spear? 
+ANSWER:  
+Chimera 
+190-13-104-0810-11 
+25. A woman in this play listens to a recording of the Varsouviana that always ends with a gunshot, 
+reminding her of the suicide of her closeted gay husband, Allan Grey. This play is set in the Elysian Fields, 
+where a woman recently arrived from Laurel enters into a relationship with Mitch. In this play, a Southern 
+aristocrat who has lost her plantation, Belle Reve, is disgusted to find her sister Stella married to a \"brute.\" 
+For 15 points, name this Tennessee Williams play about Blanche DuBois's conflicts with Stanley Kowalski. 
+ANSWER:  
+A  Streetcar Named Desire 
+080-13-104-08125 
+00--20-0810-11 
+26. This state has the largest sea cave in the United States, which has a two-hundred-foot elevator down to 
+its lookout to watch Steller sea lions. This state is the westernmost of the two states that do not allow most 
+drivers to pump their own gas. A 125-foot column inspired by Trajan's column is located in this state's city 
+of Astoria. The Phantom Ship and Old Man of the Lake are both located in this state, where a caldera filled 
+with water, creating Crater Lake. For 15 points, name this state in the Pacific Northwest where the 
+Willamette Valley was the end of a namesake pioneer trail. 
+ANSWER:  
+Oregon 
+023-13-104-08126 
+00--20-0810-11 
+2014 Michigan States     8     Page  7 of 8 
+2014 Michigan States 
+Round 8 
+Extras 
+27. Ella Fitzgerald met her second husband while on tour with this man's band. This musician had to leave 
+Cab Calloway's band after attacking him with a switchblade. Chano Pozo played the drums on some of his 
+Afro-Cuban pieces, like \"Manteca.\" He composed such jazz standards as \"Groovin' High\" and \"Salt 
+Peanuts.\" This composer of \"A Night in Tunisia\" helped establish bebop along with Charlie Parker. He was 
+known for his glasses and puffed-up cheeks. For 15 points, name this jazz musician most famous for his 
+bent trumpet. 
+ANSWER: John Birks \"Dizzy\"  
+Gillespie 
+080-13-104-08127 
+00--20-0810-11 
+28. The  
+Heliconius 
+ genus of these organisms exhibits convergent evolution of warning signals that is 
+typical of both Batesian and Mullerian mimicry. These Lepidopterans have long antennae that resemble a 
+slender club. The pupal stage of these organisms is spent in a chrysalis. A species of these organism that 
+feeds on milkweeds is famous for migrating from Canada to Mexico and is the monarch. For 15 points, 
+identify these winged creatures that emerge from a caterpillar's cocoon, like moths. 
+ANSWER:  
+butterfly 
+ [or  
+butterflies 
+] 
+066-13-104-08128 
+Powered by TCPDF (www.tcpdf.org) 
+2014 Michigan States     8     Page  8 of 8 

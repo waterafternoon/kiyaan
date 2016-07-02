@@ -1,0 +1,710 @@
+2014 OAC 
+Packet 5 
+CATEGORY ROUND 
+American Literature: Science Fiction 
+Team A: What polymath holds the record for most different Dewey Decimal categories published under by 
+one person, and wrote fiction such as the  
+I, Robot 
+ series? 
+ANSWER: Isaac  
+Asimov 
+Team B: What political fiction writer used science-fiction settings for her  
+Anthem 
+ and  
+Atlas Shrugged? 
+ANSWER: Ayn  
+Rand 
+ [or Alissa  
+Rosenbaum 
+] 
+Tossup: The main character in this novel thinks that his infatuation with Luba Luft might be mistaken for 
+his love of  
+The Magic Flute 
+. This novel ends with Iran, the protagonist's wife, ordering mechanical flies for 
+a synthetic toad that the protagonist found during his sojourn into the Oregon desert to meditate. The 
+protagonist of this novel is disappointed that Iran misuses her mood organ, and he lusts after Rachel Rosen. 
+Name this novel about bounty hunter Rick Deckard, loosely adapted into the film  
+Blade Runner 
+ and written 
+by Philip K. Dick. 
+ANSWER:  
+Do Androids Dream of Electric Sheep? 
+ [prompt on  
+Blade Runner 
+until it is read] 
+Mathematics: Numbers 
+Team B: This is a 20-second calculation question. If a data set consists of 5 distinct positive integers, with 
+mean 7, what is the largest the median could be? 
+ANSWER:  
+9 
+Team A: This is a 20-second calculation question. Diamonds are removed from a standard deck of cards 
+until the probability of drawing a diamond is less than 1/6. How many diamonds are removed? 
+ANSWER:  
+6 
+Tossup: The generating function for these numbers is x times quantity x plus one all over quantity one 
+minus x cubed. The sum of the first n of these numbers is equal to n times n plus one times two n plus 1 all 
+over six. The sum of the first n odd numbers is the nth of these numbers, and these numbers are congruent 
+to 0 or 1 mod 4. These numbers are the only ones that return an integer when raised to the one-half power. 
+Name these numbers found by multiplying an integer by itself, whose first few entries are 1, 4, 9. 
+ANSWER:  
+square 
+ numbers 
+2014 OAC     5     Page  1 of 17 
+World History: European cities 
+Team A: What city, called the \"Florence on the Elbe,\" was beautified during the reign of Augustus the 
+Strong? 
+ANSWER:  
+Dresden 
+Team B: What Spanish city was the capital of Christian Spain prior to the expansion of Madrid? 
+ANSWER:  
+Toledo 
+Tossup: A battle fought near this city shortened the reign of a native monarch, causing the bestowing of the 
+nickname \"The Winter King.\" In this city, Frederick V was crowned a year before losing outside its walls at 
+White Mountain to Holy Roman Emperor Ferdinand II. Protestants in this city said that a pile of manure 
+saved two regents and a secretary after they fell from its chancellery tower in 1618. Name this historical 
+capital of Bohemia, where the Thirty Years's War was sparked by a defenestration. 
+ANSWER:  
+Prague 
+ [or  
+Praha 
+] 
+Fine Arts: Symphonists 
+Team B: Identify the Austrian composer whose B minor eighth symphony has only two complete 
+movements, leading to its popular nickname. 
+ANSWER: Franz  
+Schubert 
+Team A: Name the composer of the  
+Leningrad Symphony, 
+ famous for constantly being singled out for 
+Soviet censorship. 
+ANSWER: Dmitri  
+Shostakovich 
+Tossup: Hans Richter called this composer's A-flat major symphony \"the greatest symphony of modern 
+times.\" Daniel Barenboim conducted his wife, Jacqueline du Pré, in a famous performance of this 
+composer's cello concerto. He used musical cryptograms to portray his friends and family in movements 
+like \"Nimrod.\" His most famous composition is part of a set of six marches. Name this English composer of 
+the  
+Enigma Variations 
+ and \"Pomp and Circumstance,\" which is often played at graduations. 
+ANSWER: Sir Edward William  
+Elgar 
+2014 OAC     5     Page  2 of 17 
+Life Sciences: Pharmaceuticals 
+Team A: Statins reduce the concentration of what steroid lipid which normally maintains the fluidity of the 
+cell membrane? 
+ANSWER:  
+cholesterol 
+Team B: Heparin and warfarin can be used biologically to impair the rate of what process, which is 
+defective in hemophiliacs? 
+ANSWER: blood  
+coagulation 
+ [or blood  
+clot 
+ting; or word forms] 
+Tossup: The use of these drugs during pregnancy correlates with persistent pulmonary hypertension in 
+newborns. Suddenly stopping the use of one of these drugs can cause \"zaps\" as part of their namesake 
+discontinuation syndrome. Like tricyclics, these drugs can be used to treat obsessive-compulsive disorder. 
+Drugs in this class include fluoxetine and paroxetine. Name this class of drugs which inhibit the removal of 
+a certain neurotransmitter from the synapse and are used to treat depression. 
+ANSWER:  
+SSRI 
+s [or  
+selective serotonin reuptake inhibitors 
+; or  
+serotonin-specific reuptake inhibitors 
+] 
+World Literature: Literary Genres 
+Team B: This genre of drama shows its main character's downfall brought about by an inherent flaw or 
+through circumstance. 
+ANSWER:  
+tragedy 
+ [or  
+tragedies 
+] 
+Team A: Name the genre of allegorical literature that often features speaking animals or inanimate objects. 
+ANSWER:  
+fable 
+s 
+Tossup: An example of these types of books was written by Benvenuto Cellini and describes the conjuring 
+of devils in the Coliseum. In an American one of these books, the author urges “frugality” and “industry,” 
+telling readers to “lose no time.” Famous examples include one written by Benjamin Franklin, in which he 
+describes his “thirteen virtues,” and a text called  
+Confessions 
+ by St. Augustine. Name this type of book in 
+which a person writes about his or her own life. 
+ANSWER:  
+autobiography 
+ [prompt on  
+biography 
+] 
+2014 OAC     5     Page  3 of 17 
+US Government/Economics: Speaking 
+Team A: What Justice made a joke about law schools in January 2013, the only time he has spoken during 
+an oral argument at the Supreme Court in the last eight years? 
+ANSWER: Clarence  
+Thomas 
+Team B: What conservative justice denounced the decision against the Defense of Marriage Act as \"real 
+cheek\" in his dissent to  
+U.S. v. Windsor 
+? 
+ANSWER: Antonin  
+Scalia 
+Tossup: This speech praises John Serrano for giving one of his pizzeria employees a raise, and it compares 
+bad workplace policies to an episode of  
+Mad Men. 
+ This speech ends with a long story about wounded 
+soldier Cory Remsburg, and it begins by claiming that America, not China, is now \"the world's number one 
+place to invest.\" It was responded to by multiple people, including Cathy McMorris Rodgers and, 
+representing the Tea Party, Mike Lee. Name this January 28, 2014, speech given to a joint session of 
+Congress by Barack Obama. 
+ANSWER: the 2014  
+State of the Union 
+ Address 
+Physical Sciences: The Atmosphere 
+Team B: At what boundary in the atmosphere, found just below the stratosphere, does temperature stop 
+decreasing, and start increasing, with height? 
+ANSWER:  
+tropopause 
+Team A: What third most common gas in the atmosphere is a noble gas mostly formed by the decay of 
+potassium-40? 
+ANSWER:  
+argon 
+ [or  
+Ar 
+] 
+Tossup: Structures created by this phenomenon are known as ventifacts. A type of transport via this 
+phenomenon is known as saltation. This phenomenon is the primary driving force behind surface ocean 
+currents. The Beaufort scale is used to classify this phenomenon based on observed sea conditions. This 
+phenomenon is responsible for creating aeolian landforms, such as dunes and sand-blasted rocks. Name this 
+phenomenon that results from the uneven heating of Earth's surface. 
+ANSWER:  
+wind 
+2014 OAC     5     Page  4 of 17 
+World Geography: Amusement Parks 
+Team A: Happy Children House is an amusement park in what Asian capital city, located near Damavand 
+in the Alborz Mountains? 
+ANSWER:  
+Tehran 
+Team B: Joyland is an amusement park in Lahore, the capital of what most populous Pakistani province? 
+ANSWER:  
+Punjab 
+Tossup: The western part of this city is called the Tama Area, and it is the site of an amusement park called 
+Sanrio Puroland. This city has many museums located in its Ueno (oo-EY-noh) Park, including the 
+National Museum of Western Art. Shopping can be done in this city's commercial district called Ginza. The 
+second-tallest structure in the world is this city's namesake Skytree. This city's Imperial Palace is in its 
+Chiyoda ward, and Shibuya is the site of its Meiji (MAY-jee) Shrine. Name this city that has the largest 
+metropolitan area in the world and is the most populous in Japan. 
+ANSWER:  
+Tokyo 
+American History: Killers 
+Team B: What Palestinian killed Robert Kennedy during the later's 1968 presidential campaign? 
+ANSWER: Sirhan  
+Sirhan 
+Team A: What Dallas nightclub owner killed John F. Kennedy's assassin, Lee Harvey Oswald? 
+ANSWER: Jack  
+Ruby 
+ [or Jacob  
+Rubenstein 
+] 
+Tossup: This man confessed to using a fence post to kill Margret Whitehead. Much information about his 
+background comes from a text published by Thomas Ruffin Gray. After seeing a solar eclipse, this man 
+began to contact such comrades as Henry, Hark, Nelson, and Sam. This man's \"confessions\" were 
+published by a white lawyer. His forces killed over fifty whites in Southampton County, while not 
+distinguishing women and children. Name this slave who led an 1831 rebellion in Virginia. 
+ANSWER: Nat  
+Turner 
+2014 OAC     5     Page  5 of 17 
+Alphabet Round - Letter S 
+1. What world leader used Sergei Kirov's assassination as the pretext for his Great Purge? 
+2. The east coast of what island is home to the active volcano Mt. Etna? 
+3.  
+(THREE WORD ANSWER) 
+ What Miles Davis album includes a jazz arrangement of the \"Concierto de Aranjuez?\" 
+4. What transition metal has the atomic symbol Ag? 
+5. What term denotes the weekly day of rest in Judaism and Christianity? 
+6.  
+(TWO WORD ANSWER) 
+ What composition by Hector Berlioz includes movements named \"March to the Scaffold\" and 
+\"Dream of a Witches' Sabbath?\" 
+7. What \"Magnificent\" sultan ruled the Ottoman Empire during its zenith in the 16th century? 
+8. What poetic form has \"Petrarchan\" and \"Shakespearean\" varieties? 
+9. What nonessential organ replenishes the body's supply of red blood cells? 
+10. In Catholicism, the process of canonization is required for one to be recognized as what sort of person? 
+11. What author of  
+The Rediscovery of Mind 
+ advanced the \"Chinese room\" argument against the possibility of artificial 
+intelligence? 
+12. The velocity is the vector analogue of what scalar property of an object? 
+13. Andrew Johnson's dismissal of what Secretary of War led to his impeachment trial? 
+14. Dutch is the official language of what country on the northern coast of South America? 
+15. What contemporary of Shakespeare wrote  
+The Faerie Queene? 
+16. The Great White Spot is a feature of what gas giant? 
+17. What Russian composer is best known for ballets like  
+The Firebird 
+ and  
+The Rite of Spring? 
+18. What US government body currently contains Dick Durbin and John Cornyn? 
+19.  
+(TWO WORD ANSWER) 
+ What Lakota chieftain was killed for fear that he would join the Ghost Dance movement? 
+20. What English word is used as an epithet for the tragic Irish heroine Deirdre? 
+2014 OAC     5     Page  6 of 17 
+Alphabet Round - Letter S ANSWERS 
+1. Joseph  
+Stalin 
+ [or Iosif Vissarionovich  
+Stalin 
+] 
+2.  
+Sicily 
+3.  
+Sketches of Spain 
+4.  
+silver 
+5.  
+sabbath 
+ [or  
+shabbat 
+] 
+6.  
+Symphonie Fantastique : Episode de la vie d'un artiste ... en cinq parties 
+7.  
+Suleiman 
+8.  
+sonnet 
+9.  
+spleen 
+10.  
+saint 
+11. John  
+Searle 
+12.  
+speed 
+13. Edwin McMasters  
+Stanton 
+14. Republic of  
+Surinam 
+e 
+15. Edmund  
+Spenser 
+16.  
+Saturn 
+17. Igor  
+Stravinsky 
+18.  
+Senate 
+19.  
+Sitting Bull 
+ [or  
+Slon-he 
+] 
+20.  
+sorrow 
+s 
+2014 OAC     5     Page  7 of 17 
+FINAL ROUND 
+1. This artist's \"nuclear mysticism\" period includes his version of the Crucifixion, which depicts Jesus on a 
+hypercube crucifix. This artist included twenty-eight depictions of the Venus de Milo in  
+Hallucinogenic 
+Toreador. 
+ This man collaborated with Luis Bunuel on the film  
+An Andalusian Dog. 
+ In a painting by this 
+man, ants cover the face of one of several melting clocks. Name this Spanish surrealist artist of  
+The 
+Persistence of Memory. 
+ANSWER: Salvador Domingo Felipe Jacinto  
+Dali 
+ i Domenech, 1st Marques de Dali de Pubol 
+186-14-103-05101 
+2. Forces led by this man's nephew Otto IV of Germany lost Aquitaine at the Battle of Bouvines 
+(boo-VEEN). Maud of Braose (BROWZ) accused this king of murdering his nephew Arthur of Brittany 
+and dumping his body into the Seine. Innocent III excommunicated him for opposing the appointment of 
+Stephen Langton as Archbishop of Canterbury. He was forced to sign a document by rebellious barons at 
+Runnymede. Name this King of England and brother of Richard I who signed the Magna Carta. 
+ANSWER: King  
+John 
+ [or  
+John 
+ Lackland] 
+186-14-103-05102 
+3. In this play, one of the characters visits Auerbach's Cellar. A character in this play appears as Phorkyas 
+and informs the Trojan women of Menelaus's (men-ih-LAY-us-ezz) bad intentions. Early in this play, a 
+black poodle follows the title character into his study before undergoing a metamorphosis, and the title 
+character kills Valentin prior to the death of his lover Gretchen. Name this play by Johann Wolfgang von 
+Goethe (GURR-tuh) in which the title scholar bargains with the devil. 
+ANSWER:  
+Faust 
+ [do not accept \"Doctor Faustus\"] 
+030-14-103-05103 
+4. This man ordered the imprisonment of a man who criticized his plan for industrializing \"poor and blank\" 
+lands after the Lushan conference. The Gang of Four jockeyed for power after his death. He asked citizens 
+to produce steel and not farm, resulting in a great famine. He advocated the Great Leap Forward and 
+declared war on intellectuals in the Cultural Revolution. Name this author of the  
+Little Red Book 
+ who was 
+the first chairman of Communist China. 
+ANSWER:  
+Mao 
+ Zedong [or  
+Mao 
+ Tse-Tung] 
+020-14-103-05104 
+5. This state has the largest sea cave in the United States, which has a two-hundred-foot elevator down to 
+its lookout to watch Steller sea lions. This state is the westernmost of the two states that do not allow most 
+drivers to pump their own gas. A 125-foot column inspired by Trajan's column is located in this state's city 
+of Astoria. The Phantom Ship and Old Man of the Lake are both located in this state, where a caldera filled 
+with water, creating Crater Lake. Name this state in the Pacific Northwest where the Willamette Valley was 
+the end of a namesake pioneer trail. 
+ANSWER:  
+Oregon 
+023-14-103-05105 
+6. This gland is located within the sella turcica. Cysts can be found in the pars intermedia, which separates 
+this structure's anterior and posterior sections. Cancer of this gland often leads to excess levels of ACTH 
+and Cushing's disease. It is connected to the hypothalamus through the infundibulum 
+(IN-fun-DIB-yoo-lum). It secretes hormones like oxytocin (OCK-see-TOH-sin) and vasopressin, or ADH, 
+to regulate different systems in the body. Name this gland in the brain, an important part of the endocrine 
+system. 
+ANSWER:  
+pituitary 
+ gland 
+140-14-103-05106 
+2014 OAC     5     Page  8 of 17 
+7. The MV Transpacific was responsible for transferring this substance to the Johnson Atoll as part of 
+Operation Pacer IVY. A class-action lawsuit concerning this substance was spearheaded by Hy Mayerson 
+and Victor Yannacone on behalf of Charles E. Hartz. This substance, which was used extensively during 
+Operation Ranch Hand, consisted of equal parts of 2,4,5-T and 2,4-D and got its name from the stripes on 
+the barrels containing it. Name this dangerous herbicide that was sprayed during the Vietnam War. 
+ANSWER:  
+Agent Orange 
+048-14-103-05107 
+8. This man labeled his chief theory \"genetic epistemology\" and conducted experiments to test abilities 
+such as \"conservation\" using liquid in two glasses. He believed that the processes of assimilation and 
+accommodation construct knowledge as information is organized into schemes. According to his theory, 
+object permanence is developed during the sensorimotor stage. Name this Swiss psychologist who studied 
+the development of reasoning in children. 
+ANSWER: Jean  
+Piaget 
+142-14-103-05108 
+9. This man wrote \"I do not hope to turn again” in a poem about his conversion to Anglicanism, 
+\"Ash-Wednesday.\" The speaker of a poem by this man compares the evening to a “patient etherized upon a 
+table,” and that poem contains the refrain, “In the room the women come and go, talking of Michelangelo.” 
+He wrote a seminal 1922 poem beginning, \"April is the cruelest month.\" Name this poet of \"The Love Song 
+of J. Alfred Prufrock\" and \"The Waste Land.\" 
+ANSWER: T. S.  
+Eliot 
+121-14-103-05109 
+10. This writer parodied Robert Southey in his poem  
+The Vision of Judgment 
+. This friend of Thomas Moore 
+died at Missolonghi. The title character feels guilt for Astarte's death in his “metaphysical drama”,  
+Manfred 
+. This poet exclaims “A heart whose love is innocent!” about a woman whose eyes have “all that’s best of 
+dark and bright”. This poet of “She Walks in Beauty” also wrote a satire about a womanizing Spanish 
+nobleman. Name this Romantic poet of  
+Don Juan 
+ (JEW-unn). 
+ANSWER: Lord  
+Byron 
+ [or George Gordon  
+Byron 
+, 6th Baron Byron] 
+232-14-103-05110 
+11. Eustace of Boulogne tried to convince a commander during this battle to retreat right before Eustace 
+was severely wounded. The victors of this battle pursued the other side into the Malfosse. During this 
+battle, a defensive position was taken by the eventual losing side on Senlac Hill. The winning commander 
+of this battle used fake retreats to draw soldiers out, and the losing commander may be depicted dying from 
+an arrow to the eye on the Bayeux Tapestry. Name this battle lost by Harold Godwinson to the Normans 
+under William the Conqueror in 1066. 
+ANSWER: Battle of  
+Hastings 
+023-14-103-05111 
+12. In 2012, this man ordered the bombing of a Sudanese arms factory. He has called Hassan Rouhani a 
+\"wolf in sheep's clothing\" at the U.N. He gave a wildly applauded speech to the U.S. Congress in 2011 
+where he refused to accept the pre-1967 borders for his country. His government now includes Tzipi Livni, 
+and his defense secretary is Ehud Barak of the Labor Party. Name this Likud (lick-OOD) Party leader and 
+current Prime Minister of Israel. 
+ANSWER: Benjamin \"Bibi\"  
+Netanyahu 
+027-14-103-05112 
+2014 OAC     5     Page  9 of 17 
+13. Materials with this property exhibit a phenomenon in which heat is transferred by waves called second 
+sound, resulting in a material with this property having the highest known thermal conductivity. In 2004, a 
+team at Penn State first witnessed this property in a solid, which at first was thought to be a Bose-Einstein 
+condensate. Materials with it can form a thin Rollin film and creep out of a container. This property is 
+observed below a sharp discontinuity at 2.17 Kelvin, the lambda point. Name this property observed when 
+viscosity goes to zero at low temperatures. 
+ANSWER:  
+superfluid 
+ity 
+064-14-103-05113 
+14. The ecliptic alignment of the anisotropy (an-ICE-uh-trop-ee) in this entity could violate the Copernican 
+principle. This entity is linearly polarized due to Thomson scattering. The gravitational redshift of photons 
+from this entity is described by the Sachs-Wolfe effect. Its origins lie in the recombination epoch, when 
+photons decoupled from matter. It has been mapped by WMAP and COBE and was discovered by Robert 
+Wilson and Arno Penzias at Bell Labs. Name this radiation with a temperature of 2.7 degrees Kelvin that 
+permeates the universe and is a residual of the Big Bang. 
+ANSWER:  
+CMB 
+R [or  
+cosmic microwave background 
+ radiation; or  
+relic 
+ radiation] 
+127-14-103-05114 
+15. This philosophical school was referred to as a \"new name for some old ways of thinking\" in a book 
+written by the author of \"What is an Emotion?\" Many proponents of it were members of the Metaphysical 
+Club. Texts written by proponents of this school include \"How to Make Our Ideas Clear,\"  
+The Varieties of 
+Religious Experience, 
+ and  
+Democracy and Education 
+. Name this philosophical school practiced by Charles 
+Sanders Peirce (PURSE), William James, and John Dewey, which values practical action. 
+ANSWER:  
+pragmatism 
+ [or word forms] 
+052-14-103-05115 
+16. This author wrote a play that ends with the revelation that Larry killed himself because of a crime that 
+Steve Deever was imprisoned for. In another play of his, Eddie betrays Rodolpho and Marco to 
+immigration police. This author of  
+A View from the Bridge 
+ and  
+All My Sons 
+ wrote a play in which Giles 
+Corey is crushed to death with stones and John Proctor refuses to confess to witchcraft. Name this 
+playwright of  
+The Crucible. 
+ANSWER: Arthur  
+Miller 
+232-14-103-05116 
+17. This composer's Symphony Number 4 in D minor opens with a fast movement marked  
+Lebhaft 
+(LAYB-hoft). This composer was confined to an asylum after throwing himself into the Rhine in a failed 
+suicide attempt brought on by syphilis. This composer included \"Traumerei\" (TROW-mer-ai) in a set of 
+piano pieces called \"Scenes from Childhood.\" This composer's first symphony is nicknamed the \"Rhenish.\" 
+Name this German composer who wrote a number of famous pieces for his wife, Clara Wieck. 
+ANSWER: Robert  
+Schumann 
+080-14-103-05117 
+18. This god's son Vali was turned into a wolf that kills Narfi, another son of this god. A goat was used by 
+this god in order to make Skadi laugh. Heimdall and this god are fated to kill one another during Ragnarok. 
+Frigg told this god that only mistletoe could harm her son Balder. This god's wife Sigyn (SIG-in) stays by 
+his side to catch venom that drips towards his face, which was his punishment from the Aesir (EY-seer). 
+Name this shape-shifting Norse god known for being an untrustworthy trickster. 
+ANSWER:  
+Loki 
+023-14-103-05118 
+2014 OAC     5     Page  10 of 17 
+19. A method of root-finding named for this word is identical to Newton's method, but is used when no 
+analytical derivative exists for the function. When two of these lines are drawn from a single point to a 
+circle, then the length of the segment times the length of the external segment is constant. The derivative of 
+this function of x equals this function of x times the tangent of x. This word refers to any line that passes 
+through a curve twice, and in a right triangle, this function of an angle equals the hypotenuse divided by the 
+side adjacent to the angle. Name this reciprocal of the cosine. 
+ANSWER:  
+secant 
+190-14-103-05119 
+20. Kevin McKenzie created a danced prologue specifically to show the origin of this creature. Riccardo 
+Drigo's score includes a \"grand pas de deux\" for this creature, which ceases to exist after two lovers commit 
+suicide together and are seen ascending to heaven. A man freezes after aiming his crossbow at this creature, 
+which in some productions has an evil \"black\" counterpart. Von Rothbart's sorcery caused Odette to 
+transform into this creature. Name this title animal of a Tchaikovsky ballet. 
+ANSWER: the  
+swan 
+ from  
+Swan Lake 
+020-14-103-05120 
+2014 OAC     5     Page  11 of 17 
+Alphabet Round - Letter S 
+1. What world leader used Sergei Kirov's assassination as the pretext for his Great Purge? 
+2. The east coast of what island is home to the active volcano Mt. Etna? 
+3.  
+(THREE WORD ANSWER) 
+ What Miles Davis album includes a jazz arrangement of the \"Concierto de Aranjuez?\" 
+4. What transition metal has the atomic symbol Ag? 
+5. What term denotes the weekly day of rest in Judaism and Christianity? 
+6.  
+(TWO WORD ANSWER) 
+ What composition by Hector Berlioz includes movements named \"March to the Scaffold\" and 
+\"Dream of a Witches' Sabbath?\" 
+7. What \"Magnificent\" sultan ruled the Ottoman Empire during its zenith in the 16th century? 
+8. What poetic form has \"Petrarchan\" and \"Shakespearean\" varieties? 
+9. What nonessential organ replenishes the body's supply of red blood cells? 
+10. In Catholicism, the process of canonization is required for one to be recognized as what sort of person? 
+11. What author of  
+The Rediscovery of Mind 
+ advanced the \"Chinese room\" argument against the possibility of artificial 
+intelligence? 
+12. The velocity is the vector analogue of what scalar property of an object? 
+13. Andrew Johnson's dismissal of what Secretary of War led to his impeachment trial? 
+14. Dutch is the official language of what country on the northern coast of South America? 
+15. What contemporary of Shakespeare wrote  
+The Faerie Queene? 
+16. The Great White Spot is a feature of what gas giant? 
+17. What Russian composer is best known for ballets like  
+The Firebird 
+ and  
+The Rite of Spring? 
+18. What US government body currently contains Dick Durbin and John Cornyn? 
+19.  
+(TWO WORD ANSWER) 
+ What Lakota chieftain was killed for fear that he would join the Ghost Dance movement? 
+20. What English word is used as an epithet for the tragic Irish heroine Deirdre? 
+2014 OAC     5     Page  12 of 17 
+Alphabet Round - Letter S 
+1. What world leader used Sergei Kirov's assassination as the pretext for his Great Purge? 
+2. The east coast of what island is home to the active volcano Mt. Etna? 
+3.  
+(THREE WORD ANSWER) 
+ What Miles Davis album includes a jazz arrangement of the \"Concierto de Aranjuez?\" 
+4. What transition metal has the atomic symbol Ag? 
+5. What term denotes the weekly day of rest in Judaism and Christianity? 
+6.  
+(TWO WORD ANSWER) 
+ What composition by Hector Berlioz includes movements named \"March to the Scaffold\" and 
+\"Dream of a Witches' Sabbath?\" 
+7. What \"Magnificent\" sultan ruled the Ottoman Empire during its zenith in the 16th century? 
+8. What poetic form has \"Petrarchan\" and \"Shakespearean\" varieties? 
+9. What nonessential organ replenishes the body's supply of red blood cells? 
+10. In Catholicism, the process of canonization is required for one to be recognized as what sort of person? 
+11. What author of  
+The Rediscovery of Mind 
+ advanced the \"Chinese room\" argument against the possibility of artificial 
+intelligence? 
+12. The velocity is the vector analogue of what scalar property of an object? 
+13. Andrew Johnson's dismissal of what Secretary of War led to his impeachment trial? 
+14. Dutch is the official language of what country on the northern coast of South America? 
+15. What contemporary of Shakespeare wrote  
+The Faerie Queene? 
+16. The Great White Spot is a feature of what gas giant? 
+17. What Russian composer is best known for ballets like  
+The Firebird 
+ and  
+The Rite of Spring? 
+18. What US government body currently contains Dick Durbin and John Cornyn? 
+19.  
+(TWO WORD ANSWER) 
+ What Lakota chieftain was killed for fear that he would join the Ghost Dance movement? 
+20. What English word is used as an epithet for the tragic Irish heroine Deirdre? 
+2014 OAC     5     Page  13 of 17 
+Alphabet Round - Letter S 
+1. What world leader used Sergei Kirov's assassination as the pretext for his Great Purge? 
+2. The east coast of what island is home to the active volcano Mt. Etna? 
+3.  
+(THREE WORD ANSWER) 
+ What Miles Davis album includes a jazz arrangement of the \"Concierto de Aranjuez?\" 
+4. What transition metal has the atomic symbol Ag? 
+5. What term denotes the weekly day of rest in Judaism and Christianity? 
+6.  
+(TWO WORD ANSWER) 
+ What composition by Hector Berlioz includes movements named \"March to the Scaffold\" and 
+\"Dream of a Witches' Sabbath?\" 
+7. What \"Magnificent\" sultan ruled the Ottoman Empire during its zenith in the 16th century? 
+8. What poetic form has \"Petrarchan\" and \"Shakespearean\" varieties? 
+9. What nonessential organ replenishes the body's supply of red blood cells? 
+10. In Catholicism, the process of canonization is required for one to be recognized as what sort of person? 
+11. What author of  
+The Rediscovery of Mind 
+ advanced the \"Chinese room\" argument against the possibility of artificial 
+intelligence? 
+12. The velocity is the vector analogue of what scalar property of an object? 
+13. Andrew Johnson's dismissal of what Secretary of War led to his impeachment trial? 
+14. Dutch is the official language of what country on the northern coast of South America? 
+15. What contemporary of Shakespeare wrote  
+The Faerie Queene? 
+16. The Great White Spot is a feature of what gas giant? 
+17. What Russian composer is best known for ballets like  
+The Firebird 
+ and  
+The Rite of Spring? 
+18. What US government body currently contains Dick Durbin and John Cornyn? 
+19.  
+(TWO WORD ANSWER) 
+ What Lakota chieftain was killed for fear that he would join the Ghost Dance movement? 
+20. What English word is used as an epithet for the tragic Irish heroine Deirdre? 
+2014 OAC     5     Page  14 of 17 
+Alphabet Round - Letter S 
+1. What world leader used Sergei Kirov's assassination as the pretext for his Great Purge? 
+2. The east coast of what island is home to the active volcano Mt. Etna? 
+3.  
+(THREE WORD ANSWER) 
+ What Miles Davis album includes a jazz arrangement of the \"Concierto de Aranjuez?\" 
+4. What transition metal has the atomic symbol Ag? 
+5. What term denotes the weekly day of rest in Judaism and Christianity? 
+6.  
+(TWO WORD ANSWER) 
+ What composition by Hector Berlioz includes movements named \"March to the Scaffold\" and 
+\"Dream of a Witches' Sabbath?\" 
+7. What \"Magnificent\" sultan ruled the Ottoman Empire during its zenith in the 16th century? 
+8. What poetic form has \"Petrarchan\" and \"Shakespearean\" varieties? 
+9. What nonessential organ replenishes the body's supply of red blood cells? 
+10. In Catholicism, the process of canonization is required for one to be recognized as what sort of person? 
+11. What author of  
+The Rediscovery of Mind 
+ advanced the \"Chinese room\" argument against the possibility of artificial 
+intelligence? 
+12. The velocity is the vector analogue of what scalar property of an object? 
+13. Andrew Johnson's dismissal of what Secretary of War led to his impeachment trial? 
+14. Dutch is the official language of what country on the northern coast of South America? 
+15. What contemporary of Shakespeare wrote  
+The Faerie Queene? 
+16. The Great White Spot is a feature of what gas giant? 
+17. What Russian composer is best known for ballets like  
+The Firebird 
+ and  
+The Rite of Spring? 
+18. What US government body currently contains Dick Durbin and John Cornyn? 
+19.  
+(TWO WORD ANSWER) 
+ What Lakota chieftain was killed for fear that he would join the Ghost Dance movement? 
+20. What English word is used as an epithet for the tragic Irish heroine Deirdre? 
+2014 OAC     5     Page  15 of 17 
+Alphabet Round - Letter S 
+Team Name: _________________________________________________ 
+1.   _________________________________________________ 
+2.   _________________________________________________ 
+3.   _________________________________________________ 
+4.   _________________________________________________ 
+5.   _________________________________________________ 
+6.   _________________________________________________ 
+7.   _________________________________________________ 
+8.   _________________________________________________ 
+9.   _________________________________________________ 
+10. _________________________________________________ 
+11. _________________________________________________ 
+12. _________________________________________________ 
+13. _________________________________________________ 
+14. _________________________________________________ 
+15. _________________________________________________ 
+16. _________________________________________________ 
+17. _________________________________________________ 
+18. _________________________________________________ 
+19. _________________________________________________ 
+20. _________________________________________________ 
+2014 OAC     5     Page  16 of 17 
+Alphabet Round - Letter S 
+Team Name: _________________________________________________ 
+1.   _________________________________________________ 
+2.   _________________________________________________ 
+3.   _________________________________________________ 
+4.   _________________________________________________ 
+5.   _________________________________________________ 
+6.   _________________________________________________ 
+7.   _________________________________________________ 
+8.   _________________________________________________ 
+9.   _________________________________________________ 
+10. _________________________________________________ 
+11. _________________________________________________ 
+12. _________________________________________________ 
+13. _________________________________________________ 
+14. _________________________________________________ 
+15. _________________________________________________ 
+16. _________________________________________________ 
+17. _________________________________________________ 
+18. _________________________________________________ 
+19. _________________________________________________ 
+20. _________________________________________________ 
+Powered by TCPDF (www.tcpdf.org) 
+2014 OAC     5     Page  17 of 17 

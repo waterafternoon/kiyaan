@@ -1,0 +1,558 @@
+2014 Michigan States 
+Round 23 
+1. This author wrote a satire of the misogynist mindset in a work in  
+Corbaccio 
+, or  
+The Crow. 
+ Another of his 
+poems was the basis for Chaucer's  
+The Knight's Tale 
+ and another tells the story of Trolio and Creseida. This 
+author of  
+Teseida 
+ and  
+Il Filostrato 
+ is better known for a set of stories, including that of the Patient Griselda, 
+told by ten people fleeing the plague. For 15 points, name this medieval Italian author of the  
+Decameron 
+. 
+ANSWER: Giovanni  
+Boccaccio 
+040-13-104-23101 
+One writes expressions for this quantity in mesh analysis. This quantity is measured in a circuit by using a 
+device hooked up in series that has negligible internal resistance. This quantity divided by cross-sectional 
+area gives its namesake density, symbolized J. Conventionally, its direction is defined as the flow of 
+positive charge. Power dissipated across a resistor is equal to voltage times this quantity. For 15 points, 
+identify this quantity measured in amperes. 
+ANSWER:  
+current 
+ [do not accept “current density”] 
+226-13-104-2310-11 
+2. Coenzyme Q is reduced in one step of this process. In one organelle, this process converts NADH back 
+to NAD+, and oxygen is converted into water. This system sets up a proton gradient, which forms the 
+energy that allows ATP synthase to create ATP. For 15 points, name this system found in chloroplasts and 
+mitochondria, where a chemical gradient is established through the transfer of certain negatively charged 
+particles. 
+ANSWER:  
+electron transport chain 
+ [or  
+ETC 
+] 
+140-13-104-23102 
+this character wins a game of blackjack described as \"God and Satan playing cards for human souls.\" This 
+character dramatically frees Abraham Bankier from a cattle car, later making him the manager of his 
+enamelware factory. This man is recognized as a Righteous Person at the end of his novel, whereas his foil, 
+Amon Goeth, is hanged for war crimes. For 15 points, name this Thomas Keneally-created character who 
+saves Jews in the Holocaust by writing their names on his list. 
+ANSWER: Oskar  
+Schindler 
+ [or  
+Oskar 
+ Schindler] 
+020-13-104-2310-11 
+3. This man presently collaborates with Nigel Shadbotl (SHAD-bot-ul) on a British government project to 
+open government-acquired data to public perusal. Both of this man's parents helped operate the Ferranti 
+Mark 1, the first privately built computer. This scientist created the ENQUIRE system to demonstrate 
+possible uses for hypertext, and on his later stint with CERN, he made the first client-server connection 
+over HTTP in November 1989. For 15 points, name this British computer scientist who invented the World 
+Wide Web. 
+ANSWER: Tim  
+Berners-Lee 
+019-13-104-23103 
+2014 Michigan States     23     Page  1 of 10 
+The speaker of this poem speculates about an “unhappy master whom unmerciful Disaster followed fast 
+and followed faster.” It is set in a room in which “each separate dying ember wrought its ghost upon the 
+floor.” After a tapping at the chamber door, the title character of this poem enters and perches on a “pallid 
+bust of Pallas,” reminding the speaker of his lost love Lenore. For 15 points, name this Edgar Allen Poe 
+poem about a black bird which only says “Nevermore.” 
+ANSWER: \"The  
+Raven 
+\" 
+015-13-104-2310-11 
+4. This constant is the basis for derivation of the Johnson-Nyquist noise. It's not the ideal gas constant, but 
+the product of this constant and temperature is divided by Planck's constant in the Eyring equation. For a 
+gas, the average kinetic energy is three-halves times temperature times this constant. In an equation on its 
+namesake's tombstone, this quantity multiplies the logarithm of the microcanonical partition function to 
+give entropy. For 15 points, name this constant equal to the ideal gas constant over Avogadro's number, 
+denoted \"k sub b.\" 
+ANSWER:  
+Boltzmann 
+'s constant [prompt on  
+1.3 times ten to the power of negative 23 
+8  ] 
+189-13-104-23104 
+A character is this novel is predicted to die when he sees two strange hearses. An old schoolmaster and 
+“sub-sub-librarian” supposedly compiled the section “Etymology and Extracts,” which give translations of 
+and quotations about the title animal. A man nails a gold piece to a beam and promises it to the first man to 
+see that animal will receive the coin. The narrator is the only survivor of the  
+Pequod, 
+ and opens this novel 
+with “Call me Ishmael.” For 15 points, name this Herman Melville novel about Ahab's search for the white 
+whale. 
+ANSWER:  
+Moby Dick,  or, the White Whale 
+121-13-104-2310-11 
+5. The protagonist of this book is asked for cheese when he first meets another character. That protagonist 
+is forced to kill the villainous Israel Hands. This novel begins at a tavern where blind Pew gives Billy 
+Bones the “black spot.” A supporting character in this book is the marooned Ben Gunn. The protagonist is 
+youthful Jim Hawkins, who joins a crew to discover the treasure of Captain Flint. For 15 points, name this 
+Robert Louis Stevenson novel about pirates like Long John Silver. 
+ANSWER:  
+Treasure Island 
+052-13-104-23105 
+This is the order of the smallest non-abelian group. This is the smallest number n greater than one which 
+divides n minus one factorial. The densest way to pack circles in a plane is to have each of them touch this 
+many other circles. The dual polyhedron of the cube has this many vertices, and this is the smallest perfect 
+number. This is the number of permutations of 3 elements, because it equals 3-factorial. For 15 points, give 
+this number of faces of a cube and sides of a hexagon! 
+ANSWER:  
+6 
+233-13-104-2310-11 
+6. A novel by this man tells the story of Joel Knox discovering his homosexuality while growing up in 
+Louisiana. In addition to writing  
+Other Voices, Other Rooms 
+, this man described Alvin Dewey’s tracking 
+of Perry Smith and Eugene Hickock for the murder of the Clutter family in another work. For 15 points, 
+name this author who created Holly Golightly, the author of  
+In Cold Blood 
+ and  
+Breakfast at Tiffany’s 
+ who 
+was the basis for Dill in  
+To Kill a Mockingbird 
+. 
+ANSWER: Truman  
+Capote 
+123-13-104-23106 
+2014 Michigan States     23     Page  2 of 10 
+The derivative of this quantity with respect to time gives the current. Flux through a Gaussian surface can 
+be found by totalling the amount of this quantity it encloses. A particle moving orthogonal to a magnetic 
+field will only be affected if it has a non-zero value for this quantity. Pith balls are often used to 
+demonstrate attraction or repulsion due to this quantity.For 15 points, identify this quantity measured in 
+Coulombs, which comes in positive and negative varieties. 
+ANSWER: electric  
+charge 
+233-13-104-2310-11 
+7. One character in this novelmakes a list of \"feathers in his cap\" and \"black eyes\" in his quest to become a 
+general. That character in this work is Colonel Cathcart. Milo Minderbender bombs his own 
+comrades-in-arms in this novel, whose title conundrum is that people who claim to be insane in order to 
+avoid flying missions must actually be sane. For 15 points, name this novel about Yossarian's inability to 
+leave the military during World War II, a work by Joseph Heller. 
+ANSWER:  
+Catch-22 
+030-13-104-23107 
+This character promises to help Prue stop drinking, but he learns that she has died a few days later. George 
+gives this man a dollar to wear around his neck. This husband of Chloe rescues Eva St. Clare from 
+drowning, and she, in turn, rescues him from Mr. Haley. After he refuses to reveal the whereabouts of 
+Emmeline and Cassy, who have run away, this character is beaten to death by Simon Legree. For 15 points, 
+name this slave, the title character of a novel by Harriet Beecher Stowe. 
+ANSWER: Uncle  
+Tom 
+131-13-104-2310-11 
+8. The membranes of these organisms contain a glycerol-ether bond. Some of these organisms contribute to 
+marsh gas; those are known as methanogens. The cell walls of these organisms contain 
+pseudopeptidoglycan. A common misconception is that these organisms are extremophiles. For 15 points, 
+name this domain of single-celled organisms, which were once misclassified as bacteria. 
+ANSWER:  
+Archaea 
+ [or  
+archaebacteria 
+] 
+140-13-104-23108 
+This play ends with an epilogue in which the main character appeals to both men and women to like the 
+play. The main character of this play flees to the Forest of Arden, where she disguises herself as 
+Ganymede. This play ends with the marriage of Orlando and Rosalinde, and includes a speech that contains 
+the line “all the men and women are merely players.” For 15 points, name this comedy by Shakespeare, 
+which includes the line \"All the world's a stage.\" 
+ANSWER:  
+As You Like It 
+140-13-104-2310-11 
+9. Burgess Meredith portrayed this man in a 1960s televised series. He is at times aided by the Kabuki 
+Twins and is the owner of the Iceberg Lounge. In a 1992 appearance, this man runs the Red Triangle gang, 
+plans to kidnap all the first born children, and reveals his real name to be Oswald Cobblepot. Portrayed on 
+the big screen by Danny DeVito, this man possesses an umbrella that can function as a helicopter or a 
+machine gun. For 15 points, name this Batman villain who looks like an aquatic bird. 
+ANSWER: The  
+Penguin 
+ [or  
+Oswald 
+ Chesterfield Cobblepot; or Oswald Chesterfield  
+Cobblepot 
+] 
+064-13-104-23109 
+BONUS: What theorem states that for any integer n greater than 2, no three integers can satisfy the 
+equation a to the n plus b to the n equals c to the n? 
+ANSWER:  
+Fermat's last 
+ theorem 
+014-13-104-2310-11 
+2014 Michigan States     23     Page  3 of 10 
+10. This game won the 2009 Spiel des Jahres award for its designer Donald X. Vaccarino. Each turn 
+consists of three phases often abbreviated ABC: Action, Buy and Cleanup. The basic types of cards used 
+are Action, Reaction, Curse, Treasure and Victory. Members of the last category include Duchies and 
+Provinces, with Colonies in the Prosperity expansion. For 15 points, name the card game in which players 
+buy victory points after starting with 3 estate and 7 copper cards. 
+ANSWER:  
+Dominion 
+147-13-104-23110 
+BONUS: What happened to Jaroslav Borzita of Martinitz and Vilem Slavata in Prague in 1618, thus 
+beginning the Thirty Years’ War? 
+ANSWER: they were  
+defenestrated 
+ [or they were  
+kicked out of a window 
+; or they were  
+kicked out 
+ of 
+the Bohemian Chancellory; or they  
+fell 
+ into horse manure; or same-knowledge equivalents] 
+190-13-104-2310-11 
+11. A current man to hold this position said he was once the victim of a “high-tech lynching for uppity 
+blacks.” That former Education Department official almost failed to earn this position after being accused 
+of sexual harassment by Anita Hill. Robert Bork’s nomination to this position failed during the Reagan 
+presidency. For 15 points, name this position whose first female occupant was Sandra Day O’Connor, and 
+which is currently held by men like Clarence Thomas. 
+ANSWER:  
+Supreme Court Justice 
+ [prompt on  
+judge 
+, do not accept “Chief Justice”] 
+052-13-104-23111 
+In this novel, a dispute between a wife’s brothers and husband is settled by the egwugwu, one of whom is 
+played by the protagonist. In this novel, Mr. Brown is allowed to build a church in the “Evil Forest,” 
+although that church is burned down after Rev. Smith takes over. The protagonist of this novel is exiled 
+after he violates the “Week of Peace,” and helps kill his foster son Ikemefuna. This novel is about the Igbo 
+people in Nigeria. For 15 points, name this novel about Okonkwo written by Chinua Achebe. 
+ANSWER:  
+Things Fall Apart 
+149-13-104-2310-11 
+12. This author wrote a book whose title character collects fingerprints and uncovers a mystery involving a 
+servant named Chambers and Tom Driscoll being switched at birth. In another of this man’s novels, a 
+character uses the Great Seal of England to crack nuts. He wrote a novel in which peasant boy Tom Canty 
+switches places with a son of King Henry VIII. For 15 points, name this author of  
+Pudd’nhead Wilson 
+ and  
+The Prince and the Pauper 
+. 
+ANSWER: Mark  
+Twain 
+ [or Samuel Langhorne  
+Clemens 
+] 
+052-13-104-23112 
+This man's most famous concept came from a loophole in Goldstone's theorem, and was a consequence of 
+the broken symmetry present in electroweak theory. This man teamed with Francois Englert and others to 
+elucidate a mechanism by which a field interacts with particles to give them mass. That theory was 
+validated in the CMS and ATLAS experiments, which revealed the existence of a new particle around 126 
+GeV, resulting in a 2013 Nobel for this man. For 15 points, name this physicist whose boson is often 
+referred to as the \"God particle\" by the media. 
+ANSWER: Peter  
+Higgs 
+020-13-104-2310-11 
+2014 Michigan States     23     Page  4 of 10 
+13. A character in this play notes that, “no woman should ever be quite accurate about her age. It looks so 
+calculating.” Dr. Chasuble schedules two christenings, on the same day, for two men wishing to acquire the 
+same name, but is stopped when Miss Prism explains about the handbag she’d left at Victoria Station years 
+before. Therefore, Cecily and Gwendolen can marry Jack and Algernon, who are really brothers. For 15 
+points, name this comedy written by Oscar Wilde. 
+ANSWER:  
+The  Importance of Being Earnest 
+190-13-104-23113 
+BONUS: What name is given to the heterogeneous sediment deposited by glaciers that covers structures 
+like moraines? 
+ANSWER:  
+till 
+014-13-104-2310-11 
+14. This composer's Symphony Number 4 in D minor opens with a fast movement marked  
+Lebhaft 
+(LAYB-hoft). This composer was confined to an asylum after throwing himself into the Rhine in a failed 
+suicide attempt brought on by syphilis. This composer included \"Traumerei\" (TROW-mer-ai) in a set of 
+piano pieces called \"Scenes from Childhood.\" This composer's first symphony is nicknamed the \"Rhenish.\" 
+For 15 points, name this German composer who wrote a number of famous pieces for his wife, Clara 
+Wieck. 
+ANSWER: Robert  
+Schumann 
+080-13-104-23114 
+BONUS: What type of star, which is composed of electron-degenerate matter, has an upper mass bound 
+described by the Chandrasekhar (chohn-druh-shay-KAR) limit? 
+ANSWER:  
+white dwarf 
+s 
+014-13-104-2310-11 
+15. One of Edvard Munch’s self-portraits depicts the painter between a bed and one of these objects. A 
+black one sits above a train emerging from a fireplace in a Magritte painting, and another painting that 
+features these objects shows a creature with one giant closed eye. For 15 points, name this object, several of 
+which are shown melting in Dali’s  
+The Persistence of Memory. 
+ANSWER:  
+clock 
+s 
+048-13-104-23115 
+This profession is taken up by a vacuum cleaner salesman named James Wormold in Graham Greene’s 
+novel  
+Our Man in Havana. 
+ The unassertive Mr. Verloc is the title character with this profession in a novel 
+by Joseph Conrad. Another character with this profession was created by Ian Fleming. For 15 points, name 
+this profession of James Bond. 
+ANSWER:  
+spy 
+ [or  
+secret agent 
+; or obvious equivalents] 
+014-13-104-2310-11 
+16. This party’s views were explained in the Tamworth Manifesto, and it was the target of the Midlothian 
+campaign. A leader of this party split his party by repealing the Corn Laws and earlier founded the London 
+Metropolitan Police Force. During the late 1800’s, a leader of it was the main rival of William Gladstone. 
+This party is also known as the “Tory Party.” For 15 points, name this British political party of Robert Peel 
+and Benjamin Disraeli, which opposed the Liberal Party. 
+ANSWER:  
+Conservative 
+ and Unionist Party of the United Kingdom [or  
+Tory 
+ until mentioned] 
+052-13-104-23116 
+2014 Michigan States     23     Page  5 of 10 
+In this state, hanging chads and butterfly ballots caused trouble in a Presidential election. This state has the 
+oldest, continuously inhabited settlement in America. Three wars were fought by US troops in this state 
+against the Seminoles. This state home to St. Augustine had its electoral votes go to the Republican 
+candidate after a Supreme Court ruling. For 15 points, name this southern state whose electoral votes were 
+the difference in George W. Bush beating Al Gore in the 2000 election. 
+ANSWER:  
+Florida 
+023-13-104-2310-11 
+17. This poet eulogized his friend Arthur Hugh Clough in \"Thyrsis\" and proclaimed \"Go, for they call you, 
+Shepherd, from the hill\" in \"The Scholar-Gypsy.\" A more famous poem by this poet describes the \"eternal 
+note of sadness\" heard on the Aegean by Sophocles. That poem by this man is set on a \"darkling plain\" 
+where \"ignorant armies clash by night\" and begins by stating that \"the sea is calm tonight.\" For 15 points, 
+name this poet of \"Dover Beach.\" 
+ANSWER: Matthew  
+Arnold 
+186-13-104-23117 
+This five-word question titles a children's book illustrated by Svein Nyhus. According to ethologists, 
+correct answers to this question include a rattling noise known as \"gekkering,\" a \"trisyllabic greeting 
+warble,\" and a \"ululating siren-like shriek.\" Less scientific answers posited for this question include 
+\"Ring-ding-ding-ding-dingeringeding,\" \"Wa-pa-pa-pa-pa-pa-pow,\" and \"Joff-tchoff- 
+tchoff-tchoffo-tchoffo-tchoff.\" For 15 points, what is this question about animal vocalization which 
+introduces the chorus of a 2013 YouTube hit from satirical electronic band Ylvis (ILL-viss)? 
+ANSWER: \" 
+What does the fox say? 
+\" 
+019-13-104-2310-11 
+18. Patients that have alkaptonuria excrete urine with this color. Manganese dioxide and silver sulfide are 
+both this color. Rapidly water-cooled rhyolitic flows form a glass with this color. An astronomical object 
+named for this color can be described by charge, mass, and spin according to the no-hair theorem. The 
+gravity of that object is impossible to escape at sub-luminal speeds within the event horizon. For 15 points, 
+identify this color which absorbs all light that shines upon it, unlike white. 
+ANSWER:  
+black 
+ [or  
+black 
+ holes; or  
+black 
+ urine disease] 
+239-13-104-23118 
+BONUS: What branch of mathematics studies systems which are very sensitive to their starting conditions, 
+like a double pendulum? 
+ANSWER:  
+chaos 
+ theory 
+233-13-104-2310-11 
+19. This thinker wrote the book  
+Liber Abaci 
+, which helped spread the use of Arabic numerals to Europe, 
+referring to it as the Modus Indorum. In the same book, this mathematician introduced a solution that 
+addressed the growth in population of rabbits; that solution is a series of numbers that approaches the 
+golden ratio as it progresses. For 15 points, name this Italian mathematician, best known for his namesake 
+sequence of numbers starting 1, 1, 2, 3, 5. 
+ANSWER: Leonardo  
+Fibonacci 
+ [or  
+Leonardo of Pisa 
+; or Leonardo  
+Pisano 
+; or Leonard Pisano  
+Bigollo 
+; or 
+Leonardo  
+Bonacci 
+] 
+088-13-104-23119 
+2014 Michigan States     23     Page  6 of 10 
+One can calculate the total change in this quantity for a reaction by subtracting the standard heats of 
+formation of the products from that of the reactants. This quantity minus temperature times entropy gives 
+Gibbs free energy. The order in which processes occur do not affect the total change in this state function, 
+according to Hess's Law. This quantity equals the internal energy plus pressure times volume. For 15 
+points, identify this thermodynamic quantity symbolized H. 
+ANSWER:  
+enthalpy 
+233-13-104-2310-11 
+20. At the beginning of this novel, the narrator refers to the handful of “stretchers” in one of the author’s 
+previous novels. The protagonists of this novel meet two con artists who put on the play  
+The Royal 
+Nonesuch 
+ and call themselves the Duke and the Dauphin. The title character of this novel floats down the 
+Mississippi on a raft with the escaped slave Jim. For 15 points, name this novel about a friend of Tom 
+Sawyer written by Mark Twain. 
+ANSWER:  
+The Adventures of  Huckleberry Finn 
+014-13-104-23120 
+This goddess pulled a handful of hair out of the chest of Brontes after he placed her on his knee. This 
+goddess killed the giants Otus and Ephialtes by tricking them into throwing a spear at each other. This 
+goddess sent a boar to rampage through Calydon. Actaeon was transformed into a stag after he witnessed 
+her bathing in a stream, and Leto gave birth to this goddess on Delos with her brother. For 15 points, name 
+this Greco-Roman goddess of the moon and the twin sister of Apollo. 
+ANSWER:  
+Artemis 
+ [or  
+Diana 
+] 
+227-13-104-2310-11 
+21. In HTML, a tag using an exclamation point, followed by several hyphens, serves this purpose. 
+Docstrings serve the same purpose as this type of text. In C++, text serving this purpose is set off by a slash 
+and an asterisk. A common debugging technique is doing this “out” to an line of code to determine what is 
+causing the error, as compilers do not attempt to run this code. For 15 points, name these fragments of code 
+often used as notes by programmers. 
+ANSWER:  
+comment 
+s [or  
+commenting 
+] 
+190-13-104-23121 
+Although not the spleen, these structures contain Malphigian corpuscles. This structure is affected by the 
+hormone aldosterone. The peritubular capillaries surround parts of this structure, which includes the 
+proximal and distal convoluted tubules. This unit, which contains the glomerulus and the loop of Henle, 
+filters the blood and removes waste, which becomes urine. For 15 points, name the functional unit of the 
+kidney. 
+ANSWER:  
+nephron 
+ [prompt on  
+kidney 
+] 
+140-13-104-2310-11 
+22. This artist painted the interior of a building with a green roof and red walls, inside which a waiter 
+stands next to a billiards table. The time this artist spent in Arles led to paintings such as  
+The Yellow House. 
+This artist painted a landscape dominated by large swirls in the center and a cypress tree on the left, both 
+overlooking Saint-Remy. This artist of  
+The Night Cafe 
+ depicted himself with a bandaged ear in his late 
+self-portraits. For 15 points, name this post-Impressionist artist of  
+Starry Night. 
+ANSWER: Vincent  
+van Gogh 
+140-13-104-23122 
+BONUS: Giuseppe Peano put forth a number of of what things, synonymous with postulates, from which 
+all other mathematical results can be derived? 
+ANSWER:  
+axiom 
+s 
+233-13-104-2310-11 
+2014 Michigan States     23     Page  7 of 10 
+23. Upon the donation of this opera's libretto to the Parma Museum, it was discovered that there was a 
+\"missing act\" the composer hadn't used. At the beginning of this opera, the main characters burn a 
+manuscript to keep warm. The most famous aria from this opera, \"Quando me'n vo',\" is a waltz sung by 
+Musetta to make Marcello jealous. At the end of this opera, tuberculosis claims the life of Mimi, who dies 
+in Rodolfo's arms. For 15 points, name this Puccini opera set in the Latin Quarter of Paris. 
+ANSWER:  
+La  boheme 
+ [or  
+The  Bohemians 
+] 
+224-13-104-23123 
+In an opera by this composer, Queen Tye joins the title character and his wife at the Window of Public 
+Appearances. The phrase “Bank robbery is punishable by twenty years in federal prison” is repeated in 
+another of his operas, whose libretto employs solfege symbols. That opera by him includes the section \"I 
+Feel the Earth Move\" and has its acts separated by Knee Plays. For 15 points, name this minimalist 
+composer of  
+Satyagraha Akhenaten 
+,  , and  
+Einstein on the Beach 
+. 
+ANSWER: Philip  
+Glass 
+224-13-104-2310-11 
+24. The sixth holder of this office was prophesied to take power after his mother saw a ring of flames 
+around his head. Another of these people sent the Horatii brothers to duel the Curiatii 
+(COO-ree-AH-tee-ee) to resolve a war with Alba Longa. The seventh and last of these people was 
+overthrown by Lucius Junius Brutus after his son committed the rape of Lucretia. For 15 points, identify 
+this office held by seven legendary men, the first of whom was Remus's twin Romulus. 
+ANSWER:  
+King 
+s of  
+Rome 
+ [or  
+Roman kings 
+, etc.; prompt on partial answer] 
+019-13-104-23124 
+BONUS: What Nazi official organized the logistical aspects of the Holocaust, was captured by Israeli 
+agents in Argentina, and was executed in Jerusalem following a 1961 trial? 
+ANSWER: Karl Adolf  
+Eichmann 
+030-13-104-2310-11 
+25. At one point in the work in which he appears, this character recalls his childhood admiration for a 
+certain timpanist. Earlier, he tells another character that he has just had an operation on his clavichord, and 
+he tells Mrs. Morrow that he has a brain tumor using the alias \"Rudolf Schmidt.\" He meets up with Carl 
+Luce, talks about  
+Romeo and Juliet 
+ with a nun, and has a conversation with Phoebe after being expelled 
+from Pencey. For 15 points, name this narrator of  
+The Catcher in the Rye 
+. 
+ANSWER:  
+Holden 
+ Caulfield [or  olden  
+H Caulfield 
+; prompt on  
+Caulfield 
+] 
+142-13-104-23125 
+At the end of this novella, the narrator's \"indistinct and silent\" demeanor is compared to \"the pose of a 
+meditating Buddha.\" This novella begins with a description of a \"cruising yawl\" called the  
+Nellie 
+ on the 
+Thames. One character in this novella lies to a woman by telling her that the final words of a dead man 
+were her name, when they were in fact \"The Horror! The Horror!\" For 15 points, identify this novella about 
+an ivory trader named Kurtz and a man named Marlow in the Belgian Congo, a work by Joseph Conrad. 
+ANSWER:  
+Heart of Darkness 
+189-13-104-2310-11 
+2014 Michigan States     23     Page  8 of 10 
+26. This country's Dynamo Stadium has been the locus of protests, and several unofficial gangs known as 
+\"titushki\" have attacked political opponents here. The Pravy Sektor is an extreme nationalist group in this 
+country that opposes closer ties with Europe. Government restrictions on demonstrations in this country 
+have been defied with mass demonstrations in the Maidan (my-DON). This country's prime minister is 
+Mykola Azarov, and its current president is Viktor Yanukovych. For 15 points, name this country that has 
+seen mass protests in its capital city of Kiev. 
+ANSWER:  
+Ukraine 
+030-13-104-23126 
+In a poem, this man describes a \"delicate monster\" who \"dreams of the gallows in the haze of the hookah.\" 
+T. S. Eliot's \"The Waste Land\" references this poet's line about a \"hypocritical reader, my likeness, my 
+brother!\" This poet is perhaps best known for a work containing sections such as \"Wine\" and \"Spleen and 
+Ideal,\" which influenced the Symbolists. For 15 points, identify this French poet who wrote  
+Les Fleurs du 
+Mal. 
+ANSWER: Charles  
+Baudelaire 
+126-13-104-2310-11 
+2014 Michigan States     23     Page  9 of 10 
+2014 Michigan States 
+Round 23 
+Extras 
+27. This philosophical school was referred to as a \"new name for some old ways of thinking\" in a book 
+written by the author of \"What is an Emotion?\" Many proponents of it were members of the Metaphysical 
+Club. Texts written by proponents of this school include \"How to Make Our Ideas Clear,\"  
+The Varieties of 
+Religious Experience, 
+ and  
+Democracy and Education 
+. For 15 points, name this philosophical school 
+practiced by Charles Sanders Peirce (PURSE), William James, and John Dewey, which values practical 
+action. 
+ANSWER:  
+pragmatism 
+052-13-104-23127 
+00--20-2310-11 
+Powered by TCPDF (www.tcpdf.org) 
+2014 Michigan States     23     Page  10 of 10 

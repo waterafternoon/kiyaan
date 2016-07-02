@@ -1,0 +1,721 @@
+2014 OAC 
+Packet 13 
+CATEGORY ROUND 
+American Literature: American Poets 
+Team A: Which poet and author described growing up in Stamp, Arkansas in her autobiography  
+I Know 
+Why the Caged Bird Sings? 
+ANSWER: Maya  
+Angelou 
+ [or Marguerite Ann  
+Johnson 
+] 
+Team B: Which Beat generation poet described seeing “the best minds of my generation destroyed by 
+madness” in his poem “Howl?” 
+ANSWER: Irwin Allen  
+Ginsberg 
+Tossup: This poet asserted, \\"death is the mother of beauty,\\" in a poem that describes the \\"green freedom 
+of the cockatoo upon a rug.\\" That poem by this man describes a \\"casual flock of pigeons\\" and the 
+\\"complacencies of the peignoir.\\" In another poem, he wrote of a woman who sings \\"beyond the genius of 
+the sea.\\" This author of \\"Sunday Morning\\" and \\"The Idea of Order at Key West\\" wrote the collection  
+Harmonium. 
+ Name this modernist American poet of \\"The Emperor of Ice-Cream.\\" 
+ANSWER: Wallace  
+Stevens 
+Mathematics: Functions Seen in Calculus 
+Team B: This is a 30-second calculation question. Find the exact solution of the equation 7 + 5e  = 10 
+x 
+[\"seven plus five times e to the x equals ten\"]; express your answer in terms of the natural log. 
+ANSWER:  
+ln 0.6 
+ [or  
+ln 3/5 
+ or  
+ln 3-ln 5 
+; or the  
+natural log of 3/5 
+; or the  
+natural log of 0.6 
+; or the  
+natural logarithm of 3/5 
+; or the  
+natural logarithm of 
+0.6 
+] 
+Team A: This is a 30-second calculation question. Consider the equation y equals tangent of x minus 
+quantity pi over 4. At what angle between 0 and pi radians would the graph of this equation have a vertical 
+asymptote? 
+ANSWER:  
+3 pi over 4 
+ radians [or  
+3/4 pi 
+ radians; or  
+0.75 pi radians 
+; or  
+135 
+degrees 
+] 
+Tossup: The letter c is appended to the abbreviation of this function when it is divided by x. When solving 
+a triangle, the ambiguous case arises because this function isn't one-to-one. In triangles, this function of an 
+angle, divided by the side opposite the angle, is constant. The y-coordinate of the unit circle is this function 
+of the angle. This function of pi over two radians, or ninety degrees, is one. Name this odd function defined 
+in right triangles as opposite over hypotenuse. 
+ANSWER:  
+sin 
+e 
+2014 OAC     13     Page  1 of 17 
+World History: Battles of the Ancient World 
+Team A: At what battle did a daring two-kilometer charge led by Miltiades lead to only 192 Athenian 
+deaths, compared to over 6000 Persian casulaties? 
+ANSWER: Battle of  
+Marathon 
+Team B: Which 351 BCE battle took place after Alexander the Great besieged Tyre for seven months, 
+leading to the defeat of Darius III’s army and the downfall of the Persian Empire? 
+ANSWER: Battle of  
+Gaugamela 
+ [or Battle of  
+Arbela 
+] 
+Tossup: During this battle, a detachment of Phocians were surprised by the arrival of troops led by 
+Hydarnes. Before this battle, a comment about the arrows of the other side led Dienekes to say that this 
+battle would be fought in the shade. Ephialtes betrayed the losing side of this battle by showing the other 
+side a flanking mountain path. Name this pyrrhic victory for the Persians in which their advance in Greece 
+was delayed in a narrow pass by troops under the Spartan king Leonidas. 
+ANSWER: Battle of  
+Thermopylae 
+Fine Arts: Kinds of Pieces 
+Team B: Mozart died before he could finish what kind of somber mass which commemorates the deceased? 
+ANSWER:  
+requiem 
+ mass 
+Team A: Handel's  
+Messiah 
+ is an example of what kind of piece for choirs, soloists, and orchestra, which 
+often deal with Biblical stories? 
+ANSWER:  
+oratorio 
+s 
+Tossup: Edouard Lalo wrote one of these pieces in five movements for Pablo de Sarasate called the  
+Symphonie Espagnole 
+. A set of these compositions includes one that uses rapid pizzicato to depict freezing 
+winds and another whose second movement depicts a barking dog. Those four pieces, collected in  
+The 
+Contest Between Harmony and Invention 
+, make up Antonio Vivaldi's  
+Four Seasons 
+. Name these pieces for 
+a solo string instrument playing against an orchestra. 
+ANSWER:  
+violin concertos 
+ [or  
+violin concerti 
+; prompt on  
+concerto 
+] 
+2014 OAC     13     Page  2 of 17 
+Life Sciences: Genetics 
+Team A: Give the term for a group of nucleotides which signifies an amino acid or the start and endpoints 
+of transcription. 
+ANSWER:  
+codon 
+Team B: Give the term for a group of genes under the control of a promoter, which includes the trp (TRIP) 
+and lac (LACK) ones. 
+ANSWER:  
+operons 
+Tossup: Elongation factors such as EF-Tu transport molecules to this location. GTP is hydrolyzed when 
+molecules move through this structure's A, P, and E sites. In eukaryotes, these structures are made up of 
+subunits that are 40S and 60S in size. The RNA portion of these structures is synthesized in the nucleolus. 
+Molecules including aminoacyl(uh-MEE-noh-EY-sil)-tRNA and mRNA are brought to this organelle to 
+start translation. Name these organelles, the site of protein synthesis. 
+ANSWER:  
+ribosome 
+s 
+World Literature: Shakesperean Characters 
+Team B: Which Shakesperean title character murders King Duncan and is killed by Macduff? 
+ANSWER:  
+Macbeth 
+Team A: Which title character of a Shakespeare play delivers a speech on St. Crispin’s Day asking his men 
+to go “once more into the breach” at the Battle of Agincourt? 
+ANSWER:  
+Henry V 
+ [prompt on  
+Henry 
+] 
+Tossup: As this character dies, he says farewell to his servant Strato before telling a dead man that \"I killed 
+not thee with half so good a will.\" During a funeral oration, another character continually, if sarcastically, 
+says that this person is an \"honorable man.\" After this man's wife Portia kills herself, he sees a ghost telling 
+him \"thou shalt see me at Philippi.\" He is proclaimed \"the noblest Roman of them all\" by Mark Antony. 
+Name this man who conspires with Cassius to assassinate the title character in  
+Julius Caesar. 
+ANSWER: Marcus Junius  
+Brutus 
+2014 OAC     13     Page  3 of 17 
+US Government/Economics: Models 
+Team A: The Hecksher-Ohlin model considers what general economic activity? 
+ANSWER: free  
+trade 
+Team B: John Hicks invented what model representing the relationship between interest rates and output 
+according to Keynesian theory? 
+ANSWER:  
+IS-LM 
+ model 
+Tossup: A \"leadership model\" of this situation, differing from earlier one-stage game models of it, was 
+created by Heinrich von Stackelberg. The earliest-known conception of a Nash equilibrium was formulated 
+in a model of this situation created by Augustin Cournot, in which firms choose a quantity to produce 
+simultaneously. The simplest example of this situation is a duopoly, and this market structure is the one 
+most favorable for collusion. Name these markets in which a small, non-unitary group of firms set the 
+price. 
+ANSWER:  
+oligopoly 
+ [or  
+duopoly 
+ before it is read] 
+Physical Sciences: Chemical Processes 
+Team B: What process converts ammonia into nitric acid? 
+ANSWER:  
+Ostwald 
+ process 
+Team A: What electrochemical process covers iron or steel with a zinc coating? 
+ANSWER:  
+galvanization 
+ [or word forms; prompt on “electroplating”] 
+Tossup: This compound is a byproduct in the production of the soda ash in the LeBlanc process, which is 
+subsequently removed through the Deacon process. Ethylene and this compound are reacted to form the 
+monomer in PVC. An older name for this compound is muriatic acid. A solution of this compound and 
+nitric acid can dissolve gold and platinum. Gastrin stimulates this compound’s secretion in the body. 
+Identify this acid found naturally in the stomach that has formula H Cl. 
+ANSWER:  
+hydrochloric 
+ acid [or  
+H Cl 
+ until it is read; or  
+muriatic acid 
+ until is 
+read] 
+2014 OAC     13     Page  4 of 17 
+World Geography: In the Air 
+Team A: What city's main airport at Kai Tak was replaced by a new typhoon-proof facility on the island of 
+Chek Lap Kok in 1998? 
+ANSWER:  
+Hong Kong 
+Team B: Frontier and Great Lakes airlines have their hub at what airport, the physically largest in the U.S., 
+which has attracted conspiracy theories over the design of its Jeppesen Terminal? 
+ANSWER:  
+Denver 
+ International Airport 
+Tossup: This city's Augarten park contains two half-finished anti-aircraft towers too solid to be safely 
+demolished. For many years, the world's tallest Ferris wheel was in the park called the Prater in its district 
+of Leopoldstadt. When this city's second through ninth districts were added, the old city walls were 
+replaced by the road called the Ringstrasse. The Schönbrunn Palace was the summer residence for this 
+city's Habsburg monarchs. Name this capital of Austria. 
+ANSWER:  
+Vienna 
+, Austria [or  
+Wien 
+, Österreich] 
+American History: Battles 
+Team B: What 1944 operation was the largest airborne operation in history to that point and was a failed 
+Allied attempt at crossing the Rhine? 
+ANSWER: Operation  
+Market Garden 
+Team A: What 1942 operation was a joint British-American invasion of occupied North Africa? 
+ANSWER: Operation  
+Torch 
+Tossup: A song about this war begins with a wife noting \"Reuben, Reuben, I've been thinking\" before the 
+response \"how ya gonna keep 'em down on the farm?\" A protest song about this war was called \"I Didn't 
+Raise My Boy to Be a Soldier.\" A George M. Cohan song about it begins with the lyric \"Johnny, get your 
+gun\" and has a chorus noting \"that the Yanks are coming.\" American forces in this war also sang \"It’s a 
+Long Way to Tipperary.\" Name this war during which the song \"Over There\" was written in 1917. 
+ANSWER:  
+World War I 
+ [or the  
+First World War 
+; or the  
+Great War 
+] 
+2014 OAC     13     Page  5 of 17 
+Alphabet Round - Letter A 
+1. Scorpions are members of what phylum of invertebrates with exoskeletons? 
+2. Hot Springs National Park is in what state? 
+3. What Cuban author of  
+The Palace of the White Skunks 
+ and  
+Farewell to the Sea 
+ had his writing suppressed by Castro over his 
+homosexuality, an experience recounted in his memoir  
+Before Night Falls? 
+4. What Mauryan Emperor converted to Buddhism after conquering Kalinga? 
+5. What pattern formed from diamonds derived originally from Scottish kilts and is now frequently used on socks? 
+6. What Greek goddess was known as Minerva to the Romans? 
+7. What animal is the mascot of UC Irvine and has similar characteristics to the aardvark? 
+8. What word refers to recognized configurations of stars which are not official constellations? 
+9. What member of the genus Bacillus was used as a bioweapon sent in letters in a series of 2001 attacks? 
+10. What capital of Kazakhstan is the site of the Bayterek tower? 
+11. What area was intersected by the nave in medieval cathedrals? 
+12. What literary term refers to the granting of human traits to animals or objects? 
+13. What symbol is used to denote a correction to previous text? 
+14. What device is used to measure electrical current? 
+15.  
+(MULTI-WORD ANSWER) 
+ History professor Lyman Ward is the protagonist of what novel by Wallace Stegner? 
+16. What three-letter designation is used to refer to the disease colloquially known as “Lou Gehrig’s disease”? 
+17. What colonial administrator of the Dominion of New England caused the citizens of Connecticut to hide their constitution in 
+the Charter Oak? 
+18. JFK had what disease characterized by insufficient adrenal gland activity? 
+19. What quantity from physics measures the height of a wave’s peaks? 
+20.  
+(TWO WORD ANSWER) 
+ What policy aims to give privileged treatment to minority groups suffering from discrimination? 
+2014 OAC     13     Page  6 of 17 
+Alphabet Round - Letter A ANSWERS 
+1.  
+arthropod 
+s 
+2.  
+Arkansas 
+3. Reinaldo  
+Arenas 
+4.  
+Ashoka 
+5.  
+argyle 
+6.  
+Athena 
+7.  
+anteater 
+s 
+8.  
+asterism 
+s 
+9.  
+anthrax 
+10.  
+Astana 
+11.  
+apse 
+12.  
+anthropomorphism 
+13.  
+asterisk 
+14.  
+ammeter 
+15.  
+Angle of Repose 
+16.  
+ALS 
+17. Edmund  
+Andros 
+18.  
+Addison’s 
+ disease 
+19.  
+amplitude 
+20.  
+affirmative action 
+2014 OAC     13     Page  7 of 17 
+FINAL ROUND 
+1. Invariants named for these constructs are true after every time they are executed. A type of them whose 
+name is prefixed with \"do\" checks the termination condition at the end, rather than the beginning. One can 
+go to the beginning of one of them with the \"continue\" command, or leave one entirely with the \"break\" 
+command. These constructs come in \"while\" and \"for\" types. Name these repeating pieces of code, an 
+\"infinite\" one of which will cause a program to run forever. 
+ANSWER:  
+loop 
+s [or specific answers, such as  
+for loop 
+s or  
+while loop 
+s] 
+132-14-103-13101 
+2. According to one story, this hero performed a katabasis (KAH-tuh-BAH-sis) by being eaten and 
+regurgitated by a dragon. In another story, this hero attacked Iolcus (ee-OL-kus) with Peleus after his 
+cousins were tricked into boiling his uncle, thinking that it would make him younger. This hero 
+successfully yoked two fire-breathing bulls, and he lost a sandal while helping a disguised Hera cross a 
+river. Name this husband of Medea who led the Argonauts in their quest for the Golden Fleece. 
+ANSWER:  
+Jason 
+227-14-103-13102 
+3. On a trip to Spain, this artist painted a teenage musician working in the band of the Imperial Guard in his 
+The Fifer. 
+ In one painting, this man depicted a bowl of oranges next to a blonde serving alcohol. This 
+painter used Victorine Meurent as the model for a nude woman eating next to two clothed men in his  
+Luncheon on the Grass. 
+ This man invited controversy for his painting of a lounging prostitute staring 
+defiantly at the viewer. Name this Impressionist painter of  
+Olympia. 
+ANSWER: Edouard  
+Manet 
+ [do not accept \"Monet\"] 
+186-14-103-13103 
+4. This country lost a war that started after two years of joint rule over Schleswig-Holstein. This country 
+that lost the Seven Weeks' War was ruled for nearly seventy years by Franz Joseph. A minister from this 
+country organized a meeting attended by Castlereagh and Talleyrand. In 1867, this country became part of 
+a dual monarchy with its eastern neighbor, Hungary. Name this European country served by Klemens von 
+Metternich, who used its capital to host the Congress of Vienna. 
+ANSWER: Republic of  
+Austria 
+ [or Republik  
+Oesterreich 
+] 
+023-14-103-13104 
+5. In a book by this author, the title character fights against Gamzat and Shamil. This author wrote a novel 
+whose protagonist likes to rest his feet on Gerasim’s shoulders. In another of his works, a character cries 
+out when Frou-Frou falls during a horse race. This author of  
+Hadji Murad 
+ and  
+The Death of Ivan Ilyich 
+wrote a novel in which Levin marries Kitty, and the title character kills herself by jumping under a train. 
+Name this Russian author of  
+Anna Karenina 
+. 
+ANSWER: Leo  
+Tolstoy 
+ [or Lev Nikolayevich  
+Tolstoy 
+] 
+232-14-103-13105 
+6. This river contains a seventy-five-mile stretch of rough rapids dubbed \"The Gates of Hell.\" The central 
+portion of this river's basin is known as the \"cuvette\" and contains the second-largest rainforest in the 
+world. This river splits off at a point, creating a lake-like area now known as the Malebo Pool. The Lualaba 
+is this river's largest tributary. The cities of Kinshasa and Brazzaville lie on the banks of this river, which 
+lends its name to the countries both of those cities are located in. Name this major river of central Africa, 
+the second longest on the continent. 
+ANSWER:  
+Congo 
+ River 
+230-14-103-13106 
+2014 OAC     13     Page  8 of 17 
+7. This type of literature was addressed to “Miss Nobody” and was written by Frances Burney. A famous 
+author of this type of book was the Chief Secretary to the Admiralty under Charles II. Samuel Pepys 
+(Peeps) wrote one of these in the 1600’s, describing things like the Great Fire of London. After World War 
+II, Otto Frank edited his daughter’s type of this book describing life hiding from the Nazis. Name this 
+literary genre in which the author writes about his or her daily activities. 
+ANSWER:  
+diary 
+ [or  
+journal 
+] 
+052-14-103-13107 
+8. This event was ended prematurely when Christina Maslach, who later married its organizer, objected to 
+what was going on. Conducted in the basement of Jordan Hall, this event featured a man emulating a 
+character from the film  
+Cool Hand Luke, 
+ earning him the inaccurate nickname \"John Wayne.\" Of the 
+twenty-four participants, twelve were named guards and quickly began physically abusing the others. Name 
+this 1971 Philip Zimbardo experiment testing the abuse of power, which took place at a California 
+university. 
+ANSWER:  
+Stanford prison 
+ experiment 
+052-14-103-13108 
+9. Lorenzetto sculpted the Madonna del Sasso above this man's tomb in the Pantheon in Rome. Two 
+bored-looking cherubim appear at the bottom of his altarpiece in Piacenza (pee-uh-CHEN-zuh), the  
+Sistine 
+Madonna. 
+ His painting of the  
+Disputation of the Holy Sacrament 
+ hangs directly across from his most 
+famous fresco, which depicts Plato and Aristotle walking down a staircase, surrounded by other 
+intellectuals. Name this Renaissance painter of  
+The School of Athens. 
+ANSWER:  
+Raphael 
+ [or  
+Raffaelo 
+ Sanzio de Urbino; or  
+Santi 
+] 
+190-14-103-13109 
+10. In this work, Steelkit leads a mutiny aboard the  
+Town-Ho 
+. Fedallah the Parsee interprets a dream in this 
+work in which he predicts that only hemp will kill one of the characters. One character in this work prays to 
+the “little black god” named Yojo and that character saves Tashtego. Starbuck is the chief mate in this 
+work that also sees the death of Queequeg. Name this novel in which Ishmael sails with Captain Ahab 
+aboard the  
+Pequod 
+ in a search for a great whale, a work by Herman Melville. 
+ANSWER:  
+Moby Dick 
+030-14-103-13110 
+11. This instrument was used in jazz by Stephane Grapelli and Stuff Smith. Gustav Holst wrote a double 
+concerto for this instrument for Jelly d'Aranyi and her sister Adila Fachiri. In the nineteenth century, 
+leading players of this instrument included Johannes Brahms's collaboator Joseph Joachim and the virtuoso 
+Niccolo Paganini. Name this instrument which Yehudi Menuhin and Itzhak Perlman also play using a 
+shoulder rest and a bow, which is higher pitched than the cello and viola. 
+ANSWER:  
+violin 
+019-14-103-13111 
+12. This document mandated that all foreign relations be conducted under the \"Model Treaty,\" a template 
+for bilateral agreements that focused on free trade and defined lists of contraband. This document created 
+an executive body called the Committee of the States, and the government organized under it passed the 
+Northwest Ordinance. The 1787 Shays Rebellion highlighted the weakness in this document. Name this 
+ineffectual early U.S. governing charter that was abolished in the Constitutional Convention. 
+ANSWER:  
+Articles of Confederation 
+ and Perpetual Union 
+064-14-103-13112 
+2014 OAC     13     Page  9 of 17 
+13. During his Eastern Journey, this man survived an assassination attempt in the Otsu Incident. This man 
+secretly supported a wave of pogroms in his country, and in his diary this man declared the \"Bloody 
+Sunday\" massacre to be a \"Bad Day!\" This monarch refused to accept defeat in a 1905 war with Japan until 
+his Baltic fleet was annihilated after going around the world. Name this final czar of the Romanov dynasty 
+who was executed with his family in 1917. 
+ANSWER:  
+Nicholas II 
+ Romanov [prompt on  
+Nicholas 
+] 
+002-14-103-13113 
+14. A king of this name died from food poisoning after eating an excess of lampreys. An emperor of this 
+name was forced to abdicate in 1105. A 1587 namesake war was fought between three men of this name, 
+and a French king of this name enacted the Edict of Nantes. Another person with this name was the first 
+monarch of the Tudor dynasty. Give this name shared by many European rulers, including an English king 
+with six wives. 
+ANSWER:  
+Henry 
+145-14-103-13114 
+15. Unusually, singlet oxygen and both hydrogen and hydroxyl radicals form during this type of reaction. 
+Enthalpies of reaction are usually calculated by using substance-specific enthalpies of formation or 
+enthalpies of this process. The Otto and Diesel cycles extract work from the enthalpy of this type of 
+reaction. Carbon monoxide is generated in the incomplete form of this reaction, which occurs at low 
+external oxygen concentrations. Name this exothermic reaction in which hydrocarbons produce water and 
+carbon dioxide by burning. 
+ANSWER:  
+combustion 
+ [or word forms; prompt on  
+burn 
+ing until it is read] 
+190-14-103-13115 
+16. This construction is generally used only in formal or written French, and is replaced by liberal use of 
+\"c'est\" (SEH) or \"ce\" (SUH) to start sentences in most speech. This construction involves the preposition 
+\"par\" when there is a specific action expressed, or \"de\" when a more general state of being is involved. This 
+construction is formed by conjugating the verb \"être\" (ATE-ruh) with the past participle, which agrees in 
+gender and number with the subject. Identify this French verb voice which is used to express actions done 
+to the subject by an agent. 
+ANSWER: French  
+passive 
+ voice [or la voix  
+passive 
+] 
+019-14-103-13116 
+17. Part of this man's philosophy focused on the absolute spirit gaining self awareness through thought, 
+nature, and finite spirits. Bruno Bauer and Ludwig Feuerbach were some of the so-called \"young\" 
+philosophers who examined this man's writings. Identify this German philosopher who described a thesis, 
+antithesis, and synthesis as part of his dialectic system and who wrote  
+The Philosophy of Right 
+ and  
+Phenomenology of the Mind 
+. 
+ANSWER: Georg Wilhelm Friedrich  
+Hegel 
+030-14-103-13117 
+18. At the end of this play, two characters attempt to hang themselves by taking off one of their belts, only 
+for its owner's pants to fall off. It ends with the stage direction \"They do not move,\" which follows the line 
+\"Yes, let's go.\" In this play, Pozzo appears twice carrying Lucky around on a rope. It mostly consists of the 
+discourse between two tramps who call each other Didi and Gogo, Vladimir and Estragon. Name this 
+absurdist play by Samuel Beckett in which the title character fails to make an appearance. 
+ANSWER:  
+Waiting for Godot 
+ [or  
+En Attendant Godot 
+] 
+080-14-103-13118 
+2014 OAC     13     Page  10 of 17 
+19. In a \"differential\" setup named for these objects, two of them exert opposite and unequal torques on a 
+third. The acceleration in another system with one of these objects at its apex is proportional to the 
+difference of two masses divided by their sum. Their mechanical advantage increases as more of them are 
+used at once. An idealized Atwood machine contains two weights, a string, and a massless one of these 
+objects, which are used in a block and tackle to lift objects. Name this simple machine that consists of a 
+wheel with a rope over it. 
+ANSWER:  
+pulley 
+132-14-103-13119 
+20. This compound inhibits prolactin secretion when it is released from the tubero-infun-dibular pathway. 
+The enzyme tyrosine hydroxylase plays a key role in this neurotransmitter's synthesis. The mesolimbic and 
+mesocortical pathways of the brain both use this neurotransmitter. Depletion of this neurotransmitter in the 
+substantia nigra (NYE-gruh) leads to a disease characterized by shaking and other issues with movement. 
+Identify this neurotransmitter whose deficiency is a cause of Parkinson's disease. 
+ANSWER:  
+dopamine 
+126-14-103-13120 
+2014 OAC     13     Page  11 of 17 
+Alphabet Round - Letter A 
+1. Scorpions are members of what phylum of invertebrates with exoskeletons? 
+2. Hot Springs National Park is in what state? 
+3. What Cuban author of  
+The Palace of the White Skunks 
+ and  
+Farewell to the Sea 
+ had his writing suppressed by Castro over his 
+homosexuality, an experience recounted in his memoir  
+Before Night Falls? 
+4. What Mauryan Emperor converted to Buddhism after conquering Kalinga? 
+5. What pattern formed from diamonds derived originally from Scottish kilts and is now frequently used on socks? 
+6. What Greek goddess was known as Minerva to the Romans? 
+7. What animal is the mascot of UC Irvine and has similar characteristics to the aardvark? 
+8. What word refers to recognized configurations of stars which are not official constellations? 
+9. What member of the genus Bacillus was used as a bioweapon sent in letters in a series of 2001 attacks? 
+10. What capital of Kazakhstan is the site of the Bayterek tower? 
+11. What area was intersected by the nave in medieval cathedrals? 
+12. What literary term refers to the granting of human traits to animals or objects? 
+13. What symbol is used to denote a correction to previous text? 
+14. What device is used to measure electrical current? 
+15.  
+(MULTI-WORD ANSWER) 
+ History professor Lyman Ward is the protagonist of what novel by Wallace Stegner? 
+16. What three-letter designation is used to refer to the disease colloquially known as “Lou Gehrig’s disease”? 
+17. What colonial administrator of the Dominion of New England caused the citizens of Connecticut to hide their constitution in 
+the Charter Oak? 
+18. JFK had what disease characterized by insufficient adrenal gland activity? 
+19. What quantity from physics measures the height of a wave’s peaks? 
+20.  
+(TWO WORD ANSWER) 
+ What policy aims to give privileged treatment to minority groups suffering from discrimination? 
+2014 OAC     13     Page  12 of 17 
+Alphabet Round - Letter A 
+1. Scorpions are members of what phylum of invertebrates with exoskeletons? 
+2. Hot Springs National Park is in what state? 
+3. What Cuban author of  
+The Palace of the White Skunks 
+ and  
+Farewell to the Sea 
+ had his writing suppressed by Castro over his 
+homosexuality, an experience recounted in his memoir  
+Before Night Falls? 
+4. What Mauryan Emperor converted to Buddhism after conquering Kalinga? 
+5. What pattern formed from diamonds derived originally from Scottish kilts and is now frequently used on socks? 
+6. What Greek goddess was known as Minerva to the Romans? 
+7. What animal is the mascot of UC Irvine and has similar characteristics to the aardvark? 
+8. What word refers to recognized configurations of stars which are not official constellations? 
+9. What member of the genus Bacillus was used as a bioweapon sent in letters in a series of 2001 attacks? 
+10. What capital of Kazakhstan is the site of the Bayterek tower? 
+11. What area was intersected by the nave in medieval cathedrals? 
+12. What literary term refers to the granting of human traits to animals or objects? 
+13. What symbol is used to denote a correction to previous text? 
+14. What device is used to measure electrical current? 
+15.  
+(MULTI-WORD ANSWER) 
+ History professor Lyman Ward is the protagonist of what novel by Wallace Stegner? 
+16. What three-letter designation is used to refer to the disease colloquially known as “Lou Gehrig’s disease”? 
+17. What colonial administrator of the Dominion of New England caused the citizens of Connecticut to hide their constitution in 
+the Charter Oak? 
+18. JFK had what disease characterized by insufficient adrenal gland activity? 
+19. What quantity from physics measures the height of a wave’s peaks? 
+20.  
+(TWO WORD ANSWER) 
+ What policy aims to give privileged treatment to minority groups suffering from discrimination? 
+2014 OAC     13     Page  13 of 17 
+Alphabet Round - Letter A 
+1. Scorpions are members of what phylum of invertebrates with exoskeletons? 
+2. Hot Springs National Park is in what state? 
+3. What Cuban author of  
+The Palace of the White Skunks 
+ and  
+Farewell to the Sea 
+ had his writing suppressed by Castro over his 
+homosexuality, an experience recounted in his memoir  
+Before Night Falls? 
+4. What Mauryan Emperor converted to Buddhism after conquering Kalinga? 
+5. What pattern formed from diamonds derived originally from Scottish kilts and is now frequently used on socks? 
+6. What Greek goddess was known as Minerva to the Romans? 
+7. What animal is the mascot of UC Irvine and has similar characteristics to the aardvark? 
+8. What word refers to recognized configurations of stars which are not official constellations? 
+9. What member of the genus Bacillus was used as a bioweapon sent in letters in a series of 2001 attacks? 
+10. What capital of Kazakhstan is the site of the Bayterek tower? 
+11. What area was intersected by the nave in medieval cathedrals? 
+12. What literary term refers to the granting of human traits to animals or objects? 
+13. What symbol is used to denote a correction to previous text? 
+14. What device is used to measure electrical current? 
+15.  
+(MULTI-WORD ANSWER) 
+ History professor Lyman Ward is the protagonist of what novel by Wallace Stegner? 
+16. What three-letter designation is used to refer to the disease colloquially known as “Lou Gehrig’s disease”? 
+17. What colonial administrator of the Dominion of New England caused the citizens of Connecticut to hide their constitution in 
+the Charter Oak? 
+18. JFK had what disease characterized by insufficient adrenal gland activity? 
+19. What quantity from physics measures the height of a wave’s peaks? 
+20.  
+(TWO WORD ANSWER) 
+ What policy aims to give privileged treatment to minority groups suffering from discrimination? 
+2014 OAC     13     Page  14 of 17 
+Alphabet Round - Letter A 
+1. Scorpions are members of what phylum of invertebrates with exoskeletons? 
+2. Hot Springs National Park is in what state? 
+3. What Cuban author of  
+The Palace of the White Skunks 
+ and  
+Farewell to the Sea 
+ had his writing suppressed by Castro over his 
+homosexuality, an experience recounted in his memoir  
+Before Night Falls? 
+4. What Mauryan Emperor converted to Buddhism after conquering Kalinga? 
+5. What pattern formed from diamonds derived originally from Scottish kilts and is now frequently used on socks? 
+6. What Greek goddess was known as Minerva to the Romans? 
+7. What animal is the mascot of UC Irvine and has similar characteristics to the aardvark? 
+8. What word refers to recognized configurations of stars which are not official constellations? 
+9. What member of the genus Bacillus was used as a bioweapon sent in letters in a series of 2001 attacks? 
+10. What capital of Kazakhstan is the site of the Bayterek tower? 
+11. What area was intersected by the nave in medieval cathedrals? 
+12. What literary term refers to the granting of human traits to animals or objects? 
+13. What symbol is used to denote a correction to previous text? 
+14. What device is used to measure electrical current? 
+15.  
+(MULTI-WORD ANSWER) 
+ History professor Lyman Ward is the protagonist of what novel by Wallace Stegner? 
+16. What three-letter designation is used to refer to the disease colloquially known as “Lou Gehrig’s disease”? 
+17. What colonial administrator of the Dominion of New England caused the citizens of Connecticut to hide their constitution in 
+the Charter Oak? 
+18. JFK had what disease characterized by insufficient adrenal gland activity? 
+19. What quantity from physics measures the height of a wave’s peaks? 
+20.  
+(TWO WORD ANSWER) 
+ What policy aims to give privileged treatment to minority groups suffering from discrimination? 
+2014 OAC     13     Page  15 of 17 
+Alphabet Round - Letter A 
+Team Name: _________________________________________________ 
+1.   _________________________________________________ 
+2.   _________________________________________________ 
+3.   _________________________________________________ 
+4.   _________________________________________________ 
+5.   _________________________________________________ 
+6.   _________________________________________________ 
+7.   _________________________________________________ 
+8.   _________________________________________________ 
+9.   _________________________________________________ 
+10. _________________________________________________ 
+11. _________________________________________________ 
+12. _________________________________________________ 
+13. _________________________________________________ 
+14. _________________________________________________ 
+15. _________________________________________________ 
+16. _________________________________________________ 
+17. _________________________________________________ 
+18. _________________________________________________ 
+19. _________________________________________________ 
+20. _________________________________________________ 
+2014 OAC     13     Page  16 of 17 
+Alphabet Round - Letter A 
+Team Name: _________________________________________________ 
+1.   _________________________________________________ 
+2.   _________________________________________________ 
+3.   _________________________________________________ 
+4.   _________________________________________________ 
+5.   _________________________________________________ 
+6.   _________________________________________________ 
+7.   _________________________________________________ 
+8.   _________________________________________________ 
+9.   _________________________________________________ 
+10. _________________________________________________ 
+11. _________________________________________________ 
+12. _________________________________________________ 
+13. _________________________________________________ 
+14. _________________________________________________ 
+15. _________________________________________________ 
+16. _________________________________________________ 
+17. _________________________________________________ 
+18. _________________________________________________ 
+19. _________________________________________________ 
+20. _________________________________________________ 
+Powered by TCPDF (www.tcpdf.org) 
+2014 OAC     13     Page  17 of 17 

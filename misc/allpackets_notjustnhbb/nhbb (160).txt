@@ -1,0 +1,780 @@
+National All-Star Academic Tournament 
+Round 5 
+Tossups 
+1. In one novel by this author, a historian hired to write General Llorente's memoirs seduces his employer's 
+niece, only for her to turn into the old widow Consuelo. In another novel by this author, Ixca Cienfuegos 
+searches for human sacrifices to appease his mother Teodula Moctezuma. One of this author's title 
+characters is comforted by Padilla playing tapes of his former transactions. That character appears in a 
+novel in which he marries Catalina after his true love Regina is killed by Pancho Villa, and becomes a 
+tycoon after the Mexican Revolution. For 10 points, name this Mexican author of  
+Aura, Where the Air is 
+Clear 
+, and  
+The Death of Artemio Cruz 
+. 
+ANSWER: Carlos  
+Fuentes 
+022-09-12-05102 
+2. This man painted a series of still lifes of eggplants with peppers, apples, and plums. He painted a giant 
+sign reading “Office and Plant, Eshelman, Feed” in one of his paintings of the buildings of Lancaster, 
+Pennsylvania. He painted a pair of smokestacks in the background of his  
+After All 
+ and depicted a metal 
+chimney rising past the fire escape of a tenement in  
+Modern Conveniences 
+. This artist painted a grain 
+elevator running up a white building in his  
+My Egypt 
+. Another of his paintings has cut off depictions of the 
+words “Bill” and “Carlos” and includes three instances of the title number. For 10 points, name this 
+American artist who used a William Carlos Williams poem as the basis for  
+I Saw the Figure 5 in Gold 
+. 
+ANSWER: Charles  
+Demuth 
+015-09-12-05103 
+3. One class of this type of problem is the so-called open shop problems. One major approach to handling 
+this uses a multi-layer feedback queue. An important consideration when doing this is the burst rate; some 
+methods for doing it require defining time quanta. Real-time operating systems have been known to run 
+into priority inversion problems involving this which can make preemption hazardous. Common criteria for 
+systems to do this include fairness, responsiveness, and throughput, the last of which is maximized by a 
+shortest-job-first method. A simple solution to it is is a first-in first-out method. For 10 points, name this 
+problem of finding an optimal order for a series of events or processes. 
+ANSWER:  
+scheduling 
+ (accept pretty much anything that indicates that making a  
+schedule 
+ is involved) 
+001-09-12-05104 
+4. In her early career, this observer at Evian conference worked for the Histadrut Labour Council and 
+served as her country’s first ambassador to the Soviet Union. This leader’s early reign was marked by the 
+War of Attrition, and she formed the Labour party by uniting her country’s Rafi, Ahdut Haavoda and 
+Mapai parties. The fallout from the Agranat Commission forced this leader to resign; earlier she had 
+succeeded Levi Eshkol in her highest post. She authorized Operation Wrath of God following the atrocities 
+at the 1972 Summer Olympics Munich, although she fell from political grace after her country was taken 
+off guard during the Yom Kippur War. For 10 points, name this female Israeli prime minister of the 
+1970’s. 
+ANSWER: Golda  
+Meir 
+ [or Golda  
+Mebovitz 
+] 
+064-09-12-05105 
+National All-Star Academic Tournament     Round 5     Page  1 of 11 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+5. This figure recited an incantation over his sleeping wife to exchange faces with her. This god named his 
+four brothers and briefly earned their ire because he was allowed to sleep in his mother's bed. In one 
+version, he died when the laughter of a fan tail caused the ruler of the underworld to crush him between her 
+legs. This god was wrapped in the top-knot of Taranga, then nursed by seaweed before proceeding to use a 
+jaw-bone of his ancestor to beat the sun. This figure transformed Irawaru into a dog, which distressed his 
+sister Hina. Known for using a fishhook to haul up islands in the Pacific, for 10 points, name this trickster 
+in Polynesian myth. 
+ANSWER:  
+Maui 
+003-09-12-05106 
+6. This writer complained about his audience being distracted by a rope-dancer in the prologue to one of his 
+plays. In the prologue to his last work, this author admits plagiarizing  
+Linked By Death 
+, a work of Diphilus. 
+In that play, Micio raises his nephew Aeschinus and Demea brings up Ctesiphon. This author of  
+The 
+Mother-in-Law 
+ wrote a play in which Parmeno introduces Chaerea to the title character, and Pamphila is a 
+gift for Thais from Phaedria and Thraso. For 10 points, name this Roman playwright of  
+The Eunuch 
+ who 
+was brought from Carthage as a slave, who often adapted the plots of Menander and wrote for a more 
+sophisticated audience than his predecessor Plautus. 
+ANSWER:  
+Terence 
+ [or Publius  
+Terentius 
+ Afer] 
+063-09-12-05107 
+7. This man’s special car was called the “Blue Moose.” After World War I, he became addicted to 
+morphine and was placed in the violent ward at Langbro asylum. During World War II, this man was 
+mocked as “Mister Meier” in regards to a boast he had earlier made. Near the end of the war, this man sent 
+a telegram to Hitler in which he announced he would take control of the Reich, prompting Hitler to angrily 
+change his will. A winner of the Blue Max award, this man used potassium cyanide hidden in skin cream to 
+avoid having to face the humiliation of a public execution. For 10 points, name this man who committed 
+suicide before his hanging at Nuremberg, a rotund Nazi in charge of the Luftwaffe. 
+ANSWER: Hermann  
+Goering 
+052-09-12-05108 
+8. In one story by this author, Tom King regretfully remembers humiliating the old prizefighter Stowsher 
+Bill after losing a fight to Sandel. In a dystopian novel by this author, Avis and Ernest Everhard fight 
+against the fascist Oligarchy. This author of the short story \"A Piece of Steak\" wrote a novel contrasting the 
+love between Maud and Humphrey with the lack of morality of the title character, the captain of the  
+Ghost 
+. 
+The protagonist of another of this author's novels kills his rival Spitz after being kidnapped from the estate 
+of Judge Miller, and loses his ties to civilization after discovering the death of John Thornton. For 10 
+points, name this American author of  
+The Iron Heel The Sea Wolf 
+,  , and  
+The Call of the Wild 
+. 
+ANSWER: Jack  
+London 
+030-09-12-05109 
+9. Important to the virulence of this organism is the gene PfEMP1, and surface markers on those organisms 
+include the vaccine candidate MSP-1. This organism's genome has one of the most AT rich genomes 
+sequenced, and it uses the glycophorin-C protein on its host cells. This organism also has apicoplasts. 
+Different phases of it see populations of schizonts, merozoites, and sporozoites. At various stages of the 
+disease caused by this organism, both red blood cells and liver cells are infected, and it is transmitted 
+through the Anopheles mosquito. For 10 points, name this genus of protozoan which causes malaria. 
+ANSWER:  
+Plasmodium 
+ [or  
+Plasmodium  vivax 
+,  
+Plasmodium  falciparum 
+, etc.] 
+001-09-12-05110 
+National All-Star Academic Tournament     Round 5     Page  2 of 11 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+10. An incident discussing the consumption of strangled meat in this book is used to explain why Christians 
+do not have to keep kosher. One couple in this book withholds a portion of profit from a land sale and 
+presents it as the entire amount. This book describes the story of Sapphira and Ananias and contains 
+prohibitions against worshiping idols and fornicating. Most famously, this book describes the stoning to 
+death of Stephen by a mob, a crime approved by Saul, who himself is converted to Christianity in its pages. 
+For 10 points, name this Biblical book written by Luke, that recounts what happened to the twelve 
+followers of Jesus Christ. 
+ANSWER:  
+Acts 
+ of the Apostles 
+032-09-12-05111 
+11. One general at this battle personally led the 57th Brigade into battle, after which General Rapp feared 
+him dead and assumed command until General Davout reappeared alive. The center of the defender's lines 
+in this battle contained a huge cannon-protecting earthworks called the Raevsky Redoubt. An important 
+stronghold for the eventual losers of this battle was the left-flank \"Bagration flèches.\" Prince Eugene 
+commanded the Italy Corps in this battle, the defending forces at which were organized by Count Barclay 
+de Tolly. The victors at the battle failed to take the offensive after they scattered Mikhail Kutuzov's troops. 
+For 10 points, name this final offensive in Napoleon's invasion of Russia, a massive battle fought outside of 
+Moscow in 1812. 
+ANSWER: Battle of  
+Borodino 
+ [or  
+Borodinskaya 
+ bitva; or  
+Moskva River 
+] 
+026-09-12-05112 
+12. This opera parodies the bel canto style of singing in the serenade \"Di rigori armato di seno,\" which is 
+cut short by a character arguing with a notary about a dowry. This opera's main love triangle is resolved in 
+its third act trio \"Hab’ mir’s gelobt,\" which is followed by two young lovers singing the duet \"Ist ein 
+traum.\" This opera's mezzo-soprano is assisted by the intriguers Valzacchi and Annina, and disguises 
+himself as the maid Mariandel to avoid being caught in the chambers of the Marshallin. Hugo von 
+Hofmansthal wrote the libretto for this opera, in which the lecherous Baron Ochs is foiled in his plans to 
+marry Sophie, who instead falls in love with Octavian. For 10 points, name this comic opera by Richard 
+Strauss, whose title refers to Octavian's presentation of a silver flower. 
+ANSWER:  
+Der  Rosenkavalier 
+ [or  
+The  Knight of the Rose 
+] 
+024-09-12-05113 
+13. In this election, Dick Gregory was a write-in candidate for the Peace and Freedom Party. George 
+Romney dropped from the Republican primaries of this year after claiming the military had \"brainwashed\" 
+him. Volunteers for a Democratic candidate in this election shaved their facial hair to go \"clean for Gene.\" 
+The winner of this election used the \"Southern strategy,\" although southern states voted for the American 
+Independent Party. The incumbent announced he would not seek a second term after a surprising showing 
+in the New Hampshire primary by Eugene McCarthy. For 10 points, name this presidential election that 
+Hubert Humphrey lost to Richard Nixon. 
+ANSWER: Election of  
+1968 
+004-09-12-05114 
+14. One mathematician with this last name developed an algebra in which the most general associativity 
+relations are x and y x times y equals y times x and quantity x-squared times y, close quantity times x 
+equals x-squared times quantity y times x. Another mathematician with this last name proved the theorem 
+that a simple, closed curve divides the plain disjoint interior and exterior regions; such curves also bear his 
+name. Still another mathematician with this last is the second namesake of a method in which a matrix is 
+inverted by reducing it reduced row-echelon form. For 10 points, give this last name of mathematician 
+Wilhelm, who names a form of matrix elimination with Carl Friedrich Gauss. 
+ANSWER:  
+Jordan 
+064-09-12-05115 
+National All-Star Academic Tournament     Round 5     Page  3 of 11 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+15. Johan Halvorsen arranged a version this composer's Passacaglia in G minor for viola and violin. One of 
+this composer's works features the \"Hailstone chorus,\" and is usually performed as its second and third 
+movements, \"Exodus\" and \"Moses' Song.\" His works are organized by HWV numbers, and he composed 
+\"The Arrival of the Queen of Sheba\" for his oratorio  
+Solomon 
+. The aria \"Ombra mai fù\" is known as his 
+\"Largo.\" Another of his oratorios is set to a libretto by Charles Jennens, and includes the choruses \"I know 
+my redeemer liveth\" and \"For unto us a child is born.\" For 10 points, name this German-born Baroque 
+composer of  
+Israel in Egypt 
+, who wrote the \"Hallelujah chorus\" for his oratorio  
+Messiah 
+. 
+ANSWER: George Frideric  
+Handel 
+ [or Georg Friedrich  
+Haendel 
+] 
+023-09-12-05116 
+16. For coordination complexes the value of this quantity for the whole complex, known as the stability 
+constant, is equal to the product of the stepwise values. The derivative of the natural log of this value with 
+respect to the inverse temperature is equal to the negative change in enthalpy over R. Activities are 
+approximated by using concentrations in the standard definition of this quantity in the law of mass action, 
+and it is equal to the ratio of the rate of the forward and reverse reaction. For 10 points, name this chemical 
+value equal to an expression involving the concentrations of products over reactants, symbolized K. 
+ANSWER:  
+Equilibrium 
+ Constant [or   before mentioned] 
+K 
+048-09-12-05117 
+17. Steve Hilton works as a strategist for this man, who defeated David Davis in a 2005 party election. 
+Opposition to this man refers to him as a chameleon and he generated controversy after it was revealed he 
+made a 1989 vacation trip to apartheid era South Africa. His cabinet consists of individuals as William 
+Hague and Kenneth Clarke. In 2005, he succeeded Michael Howard as head of his party. Nick Clegg serves 
+as this man’s deputy, and he reached his highest position after a coalition was formed between the 
+Conservatives and the Liberal Democrats. For 10 points, name this new Prime Minister of Great Britain. 
+ANSWER: David  
+Cameron 
+064-09-12-05118 
+18. This writer posited that places which concentrate work, sleep, and recreation into the same physical 
+space and are demarcated by a physical barrier constitute \"total institutions,\" which include everything 
+from Nazi camps to the title places of his work  
+Asylums. 
+ Passing and voluntary disclosure are involved in 
+the five-phase model of how deviance is shamed, according to his book  
+Stigma. 
+ He identified the 
+\"backstage\" and \"frontstage\" areas of public spaces in another work, which identifies life as a series of 
+\"encounters\" which are performed. For 10 points, name this Canadian sociologist who used the 
+dramaturgical approach and symbolic interactionism to explain  
+The Presentation of Self in Everyday Life. 
+ANSWER: Erving  
+Goffman 
+019-09-12-05119 
+19. Several characters in this poem steal a \"frightened look\" at \"the gray wizard's conjuring book,\" referring 
+to Cornelius Agrippa's  
+Occult Philosophy 
+, which supplies the first of this poem's two epigraphs. The 
+author's note to this poem explains that its \"not unfeared, half-welcome guest\" was Harriet Livermore, 
+although it does not identify \"the master of the district school,\" who is described as one of \"Freedom's 
+young apostles\" who will \"Uplift the black and white alike\" after the Civil War. Near the beginning of this 
+poem, the call \"Boys, a path!\" leads the central family to dig a tunnel to their barn, before that family tells 
+stories by the fireplace in order to wait out the results of a storm. Subtitled \"A Winter Idyl,\" for 10 points, 
+name this John Greenleaf Whittier poem about a New England blizzard. 
+ANSWER: \" 
+Snow-Bound 
+: A Winter Idyl\" 
+004-09-12-05120 
+National All-Star Academic Tournament     Round 5     Page  4 of 11 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+20. After the poor preparation of this man’s military in a war, he commissioned the Henderson-Brooks 
+report to investigate. In his preface to his country’s report on nuclear weapons, this man called them 
+“frightful engines of destruction.” Upon taking his most noted office, this man gave the “A Tryst With 
+Destiny” speech. He set up the “Five Principles of Peaceful Coexistence” with China, although war would 
+later break out in 1962. Along with Tito and Nasser, this man founded the Non-Aligned Movement. Other 
+people to hold this man’s position included his grandson, Rajiv, and his daughter, Indira. For 10 points, 
+name this Indian statesman, the first prime minister of independent India. 
+ANSWER: Jawaharlal  
+Nehru 
+052-09-12-05121 
+21. In one story from this work, a man who spends all of his money wooing his lover is forced to cook his 
+prized falcon when he has her over for supper. In another of its stories, Alessandro runs the businesses of 
+his uncles in London before traveling to Rome to get the pope’s permission to marry the princess of 
+England. Other works in this collection include one in which the generous Nathan is stabbed by Mitridanes, 
+and one which inspired Lessing in which Melchizedek tells Saladin the story of the three rings when asked 
+which religion is the truth. Another of its stories concerns the Marquis of Saluzzo who tricks Griselda into 
+thinking her two children are dead, inspiring Chaucer’s  
+Clerk’s Tale 
+. For 10 points, name this collection in 
+which Panfilo, Fiametta, and eight other Florentines tell ten stories each while escaping the plague, a work 
+of Boccaccio. 
+ANSWER:  
+The  Decameron 
+015-09-12-05122 
+22. One type of this device relies on an overlap between the valence and conduction bands to keep the 
+Fermi level constant and operates by inducing a current across a narrow depletion region. Four of these 
+elements are connected in a bridge to produce a full-wave rectifier. Voltage regulators are often designed 
+using a specific type of this circuit element in which the current is independent of the applied voltage once 
+the breakdown voltage is exceeded. The varactor type of these circuit elements is used to implement a 
+variable capacitance. Seemingly negative resistance is exhibited by a variety of these devices named for 
+Esaki; simpler ones consist of single PN junctions. For 10 points, identify these circuit elements which also 
+exist in Schottky and Zener varieties and that typically pass current in only one direction. 
+ANSWER:  
+diode 
+s 
+043-09-12-05123 
+23. One section of this collection responds to the fears voiced by \"Brutus\" by claiming that the judiciary is 
+\"least dangerous\" to political rights because it has \"neither FORCE nor WILL, but merely judgment.\" Its 
+tenth section argues that a large republic is best suited to control the effects of factions. The fifty-first 
+section of this collection asserts \"If men were angels, no government would be necessary,\" and that 
+\"Ambition must be made to counteract ambition\" in the form of checks and balances. Published under the 
+pseudonym Publius, for 10 points, name this group of essays arguing in favor of ratifying the Constitution, 
+which were written by John Jay, Alexander Hamilton, and James Madison. 
+ANSWER: the  
+Federalist Papers 
+ [or  
+The  Federalist 
+] 
+004-09-12-05124 
+National All-Star Academic Tournament     Round 5     Page  5 of 11 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+National All-Star Academic Tournament 
+Round 5 
+Bonuses 
+1. This figure tells the title character of the novel in which he appears that the Shaper is just another human 
+being and gives him the advice “seek out gold and sit on it.” For 10 points each: 
+[10] Name this omniscient pessimist whose dialogue with that title character makes up most of the chapter 
+“Leo.” 
+ANSWER: the  
+dragon 
+[10] The dragon is a major character in this novel. It is named for the monster whose raids on the mead hall 
+Heorot are ended by Beowulf in an Old English epic. 
+ANSWER:  
+Grendel 
+[10] This American author of  
+Vlemk the Box Painter 
+ and  
+On Moral Fiction 
+ wrote  
+Grendel 
+. 
+ANSWER: John  
+Gardner 
+015-09-12-05201 
+2. This musician's signature song was \"When It's Sleepy Time Down South.\" For 10 points each: 
+[10] Name this trumpeter who helped popularize jazz by recording albums with his \"Hot Five\" and \"Hot 
+Seven.\" He also sang \"What a Wonderful World.\" 
+ANSWER: Louis  
+Armstrong 
+ [or  
+Satchmo 
+] 
+[10] Armstrong helped popularize this style of singing on the song \"Heebie Jeebies.\" In this style of 
+singing, performers improvise nonsense syllables that complement the melody. 
+ANSWER:  
+scat 
+ singing 
+[10] This pianist claimed that he pioneered scat singing in 1907 and invented jazz in 1902. He formed a 
+band called his \"Red Hot Peppers\" and composed standards like \"King Porter Stomp,\" \"Black Bottom 
+Stomp,\" and \"Wolverine Blues.\" 
+ANSWER: Ferdinand \"Jelly Roll\"  
+Morton 
+004-09-12-05202 
+3. This philosopher argued that a moving arrow merely occupies a series of static spaces, and therefore 
+does not move. For 10 points each: 
+[10] Name this Greek philosopher from Elea, who argued against plurality in his many paradoxes, such as 
+one in which Achilles fails to overtake a tortoise. 
+ANSWER:  
+Zeno 
+ of Elea 
+[10] Zeno devised his paradoxes to support this philosopher's argument that the world never changes. In a 
+Platonic dialogue named for this monist, he presents the Third Man argument to critique the theory of 
+forms. 
+ANSWER:  
+Parmenides 
+ of Elea 
+[10] In response to Parmenides's denial of multiplicity, this philosopher developed the theory that the world 
+is made up of atoms, which was popularized by his student Democritus. 
+ANSWER:  
+Leucippus 
+004-09-12-05203 
+National All-Star Academic Tournament     Round 5     Page  6 of 11 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+4. The Bhagavad Gita describes the “Karma” and “Gnana” versions of this practice. For 10 points each: 
+[10] Name this meditative practice important in various Eastern religions, including Hinduism, Buddhism, 
+and Jainism. The familiar “Hatha” version involves physical and breathing exercises which are practiced 
+by non-believers as well. 
+ANSWER:  
+yoga 
+[10] The Bhagavad Gita also describes this form of yoga. This word is more commonly used in Hinduism 
+to denote the active involvement in one’s faith. It is translated as “devotion” or “participation” and stresses 
+strong relationships and love. 
+ANSWER:  
+Bhakti 
+[10] In yoga, breathing exercises are known as “pranayama,” while the spiritual hand or finger gestures are 
+known as these. Basic examples involve positioning one’s fingers in a certain way while placing the hands 
+palm-down on the thighs. 
+ANSWER:  
+Mudra 
+s 
+052-09-12-05204 
+5. Serjeant Buzfuz successfully prosecutes this novel's title character for not marrying Mrs. Bardell. For 10 
+points each: 
+[10] Name this novel about the adventures of the title character and his friends Tracy Tupman, Augustus 
+Snodgrass, and Nathaniel Winkle. 
+ANSWER:  
+The  Pickwick Papers 
+[10] This author wrote  
+The Pickwick Papers 
+ after publishing his collected  
+Sketches by Boz 
+. He criticized 
+the institutions of Victorian England in his novels  
+Little Dorrit 
+ and  
+Bleak House 
+. 
+ANSWER: Charles  
+Dickens 
+[10]  
+The Pickwick Papers 
+ became hugely popular because of this character, the Cockney servant of 
+Pickwick, who is first seen blacking boots at the White Hart Inn. His comic sayings, such as \"'Out with it,' 
+as the father said to the child when he swallowed a farthing,\" became known as his namesake \"isms.\" 
+ANSWER: Sam  
+Weller 
+ [or  
+Sam 
+uel Weller] 
+064-09-12-05205 
+6. Out of revenge for being thrown from Mount Olympus, this god sent Hera a golden throne which trapped 
+her when she sat on it. For 10 points each: 
+[10] Name this god of the forge, who fashioned a magical net to catch his wife Aphrodite in bed with Ares. 
+ANSWER:  
+Hephaestos 
+ [or  
+Vulcan 
+] 
+[10] Hephaestus created this singly-veined, living bronze statue, who guarded Europa by wandering around 
+Crete and throwing rocks at pirate ships. 
+ANSWER:  
+Talos 
+[10] Hephaestos also used bronze to craft the hooves of two bulls for King Aeëtes, who ruled this location, 
+where Jason yoked the bulls and sowed dragon teeth in his quest for the Golden Fleece. 
+ANSWER:  
+Colchis 
+004-09-12-05206 
+National All-Star Academic Tournament     Round 5     Page  7 of 11 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+7. This phenomenon sees the complete alignment of all of a material's molecular magnetic dipoles. For 10 
+points each: 
+[10] Name this most familiar form of magnetism present in nickel and cobalt. 
+ANSWER:  
+ferromagnet 
+ism 
+[10] This is the temperature above which a material cannot be ferromagnetic. 
+ANSWER: the  
+Curie 
+ temperature [prompt on  
+Tc 
+] 
+[10] This is the decrease in electron density in ferromagnetic materials when electron spins align. It results 
+in a free energy decrease that explains ferromagnetism. So-called biasing of this mechanism can be 
+achieved by layering ferro- and antiferromagnets and underpins computer hard drives. 
+ANSWER: the  
+exchange 
+ mechanism [accept  
+exchange 
+ energy or  
+exchange 
+ bias] 
+022-09-12-05207 
+8. During the rule of his predecessor, this man assented to the shooting-down of Korean Airlines Flight 007 
+and the invasion of Afghanistan. For 10 points each: 
+[10] Name this Soviet General Secretary who was succeeded by Konstantin Chernenko, and who, as KGB 
+director, ordered PROGRESS to crush Prague Spring, among his other dissent-suppressing policies. 
+ANSWER: Yuri Vladimirovich  
+Andropov 
+[10] Andropov succeeded this manm who presided over a period of stagnation and signed SALT I with 
+Richard Nixon, signaling the start of détente despite his namesake interventionist doctrine. 
+ANSWER: Leonid Ilyich  
+Brezhnev 
+[10] During Andropov’s bed-ridden days, he regularly met with this diplomat nicknamed \"Mr. Nyet\" for 
+being difficult to deal with. Nonetheless, he negotiated the ABM and Nuclear Test Ban Treaties during his 
+nearly forty years as Soviet foreign minister. 
+ANSWER: Andrei Andreyevich  
+Gromyko 
+020-09-12-05208 
+9. The amount of this substance in the atmosphere is quantified in Dobson units. For 10 points each: 
+[10] Name this gas that, in the stratosphere, absorbs ultraviolet radiation. 
+ANSWER:  
+ozone 
+ [or  
+O 
+3 
+] 
+[10] The relative lack of ozone is responsible for the temperature decrease with increasing altitude in this 
+atmospheric layer above the stratosphere. 
+ANSWER:  
+mesosphere 
+[10] The mechanism of ozonolysis involves the formation of molozonide and ozonide intermediates, both 
+of which contain a ring with this many members. 
+ANSWER:  
+five 
+003-09-12-05209 
+10. James K. Polk was famously the only President to keep all of his campaign promises. For 10 points 
+each: 
+[10] Perhaps the thorniest issue of the Polk administration was this act of territorial expansion, which ended 
+the Presidential career of Anson Jones and raised the ire of Mexico. 
+ANSWER: the  
+annexation of 
+ the Republic of  
+Texas 
+ by the United States [or obvious equivalents] 
+[10] Illinois Congressman Abraham Lincoln introduced these bills, demanding that President Polk show 
+exactly where American blood was spilled in skirmishes with Mexico over the Texas border, in an attempt 
+to forestall war. 
+ANSWER: the  
+Spot Resolutions 
+[10] Polk's promise to settle the Oregon dispute in the U.S.'s favor led to this latitudinal slogan, which 
+would have created an American land border with the Russian Empire had it been achieved. 
+ANSWER: \" 
+fifty-four forty or fight 
+\" 
+019-09-12-05210 
+National All-Star Academic Tournament     Round 5     Page  8 of 11 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+11. Answer these questions about muckrakers, for 10 points each. 
+[10] This work by muckraker Jacob Riis used photographs to show the squalor found in New York 
+tenements. 
+ANSWER:  
+How the Other Half Lives : Studies Among the Tenements of New York  
+[10] Riis often walked the night beat with this New York City police commissioner who popularized the 
+term muckraker. As president, this man used the Sherman Antitrust Act to enact his policy of trustbusting 
+and signed the Pure Food and Drug Act into law. 
+ANSWER:  heodore  
+T Roosevelt 
+ [or  
+TR 
+; or  
+Teddy Roosevelt 
+; prompt on  
+Roosevelt 
+] 
+[10] The Pure Food and Drug Act was partially inspired by this author of a series of articles for  
+Collier's 
+Weekly 
+ on dangerous medicines, \"The Great American Fraud.\" 
+ANSWER: Samuel Hopkins  
+Adams 
+059-09-12-05211 
+12. After Cerdanya was ceded to France in this treaty, the Reaper’s War ended as Catalonia was split in 
+two. For 10 points each: 
+[10] Name this treaty that was signed on Pheasant Island between France and Spain. Its failure at ensuring 
+the payment of a marriage dowry led to the War of the Devolution. 
+ANSWER: Peace of the  
+Pyrenees 
+[10] This negotiator for the French in the Peace of the Pyrenees was a gambler who hated Jansenists and 
+was co-regent with Anne of Austria before he was succeeded by Richelieu. 
+ANSWER: Cardinal Jules  
+Mazarin 
+ [or Giulio Raimondo  
+Mazarino 
+] 
+[10] Mazarin ruled during the early years of this French monarch who built Versailles (VURR sigh) and 
+styled himself the Sun King. 
+ANSWER:  
+Louis XIV 
+ [prompt on  
+Louis 
+] 
+020-09-12-05212 
+13. These ironclads could be powered by twenty oars, had spikes on their roofs to deter boarding parties, 
+and had dragons' heads that could emit smoke on their prows. For 10 points each: 
+[10] Name these brainchildren of Admiral Sun-shin Yi, which twice destroyed a Japanese fleet. 
+ANSWER:  
+turtle ship 
+s [or  
+turtle boat 
+s] 
+[10] The turtle ship thus prevented two campaigns by Toyotomi Hideyoshi attempting to conquer this 
+peninsula. 
+ANSWER:  
+Korea 
+n Peninsula 
+[10] The successful repulse of Japan extended the rule of this dynasty, under which the Hangul alphabet 
+was created. It ruled until Japan finally conquered the peninsula in 1910. 
+ANSWER:  
+Choson 
+ Dynasty [or  
+Joseon 
+ Dynasty; prompt on  
+Yi 
+] 
+003-09-12-05213 
+14. This character is cared for by F. Alexander after his prison sentence and he leads a gang composed of 
+his “droogs” Georgie, Pete, and Dim. For 10 points each: 
+[10] Name this character who loves both classical music and ultraviolence, the protagonist of a 1962 
+dystopian novel. 
+ANSWER:  
+Alex 
+[10] The Nadsat speaking Alex is the protagonist of this novel by Anthony Burgess. 
+ANSWER:  
+A  Clockwork Orange 
+[10] In  
+A Clockwork Orange 
+, Dr. Brodsky subjects Alex to this treatment, which causes him to associate 
+classical music with violence and become unbearably sick whenever he hears it. 
+ANSWER:  
+Ludovico 
+ technique 
+015-09-12-05214 
+National All-Star Academic Tournament     Round 5     Page  9 of 11 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+15. For bacteria, these elements can be conjugative if they are lengthy or mobilizable if they are smaller. 
+For 10 points each: 
+[10] Name these mobile DNA sequences. 
+ANSWER:  
+transposons 
+ [or  
+transposable element 
+s; or  
+jumping genes 
+] 
+[10] This scientist discovered transposons in maize in the 1940s and received a Nobel Prize in 1983 for that 
+discovery. 
+ANSWER: Barbara  
+McClintock 
+[10] These transposons in  
+Drosophila melanogaster 
+ often insert at sites containing the octamer 
+GGCCAGAC and can cause hybrid dysgenesis. Molecular biologists often use them in mutagenesis. 
+ANSWER:  
+P element 
+s 
+023-09-12-05215 
+16. {yo: don't read the non-underlined portion of the answer to the second part if the team gets it wrong, 
+lest you reveal the answer to part three} 
+It is located about ten miles into the Atlantic from the mouth of the Kourou River, just up the coast from 
+Cayenne. For 10 points each: 
+[10] Name this smallest member of the Îles du Salut, which was formerly both a leper and penal colony. 
+ANSWER:  
+Devil's Island 
+ [or  
+Île Du Diable 
+] 
+[10] Devil's Island is part of this South American political unit, whose current head of state is Nicholas 
+Sarkozy. 
+ANSWER: Overseas Department of  
+French Guyana 
+ [or Département d’Outre-Mer de la  
+Guyane 
+française 
+] 
+[10] Like Martinique, Réunion, and Gaudeloupe, French Guyana is one of these political units of France, 
+which have equal status to areas on the European mainland despite being located elsewhere. 
+ANSWER:  
+overseas department 
+019-09-12-05216 
+17. This composer included a \"Ritual Fire Dance\" in his ballet  
+El Amor Brujo 
+. For 10 points each: 
+[10] Name this composer of  
+The Three-Cornered Hat 
+. 
+ANSWER: Manuel de  
+Falla 
+ [FAH-yah] y Matheu 
+[10] Manuel de Falla used melodies from this country to compose a series of \"symphonic impressions\" 
+depicting nights in the gardens of this country. Isaac Albéniz [all-BAY-neath] incorporated flamenco 
+rhythms into his piano suite about this country,  
+Iberia 
+. 
+ANSWER:  
+Spain 
+ [or  
+Espana 
+] 
+[10] This Spanish violinist adapted gypsy melodies into his composition  
+Zigeunerweisen 
+. Lalo's  
+Symponie 
+espagnole 
+ is dedicated to this violinist, for whom Saint-Saens composed  
+Introduction and Rondo 
+Capriccioso 
+. 
+ANSWER: Pablo de  
+Sarasate 
+024-09-12-05217 
+National All-Star Academic Tournament     Round 5     Page  10 of 11 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+18. This field of chemistry was developed by John Warner and Paul Anastas. For 10 points each: 
+[10] Name that field of chemistry that as its name suggests attempts to be sustainable and avoid using 
+hazardous products. 
+ANSWER:  
+green 
+ chemistry 
+[10] One of the focuses of green chemistry is using the supercritical form of this compound as a solvent. 
+That supercritical form is being considered as a way to decaffeinate coffee. 
+ANSWER:  
+carbon dioxide 
+ [or  
+CO 
+2 
+] 
+[10] Green chemistry uses atom economy as a measure of reaction efficiency, as opposed to this more 
+common quantity proportional to the ratio of actual quantity of desired products to theoretically possible 
+quantity of desired products. 
+ANSWER:  
+percent yield 
+064-09-12-05218 
+19. This story titles a collection that includes \"The Wife Killer\" and a story about the emigrations of the 
+seven sons of Abba. For 10 points each: 
+[10] Name this story about a poor baker who is bullied by children, marries the promiscuous Elka, and who 
+is advised by the Spirit of Evil to urinate in his bread dough. 
+ANSWER: \" 
+Gimpel the Fool 
+\" [or \" 
+Gimpel Tam 
+\"] 
+[10] \"Gimpel the Fool\" was written by this Polish-born Yiddish author, whose other stories include  
+The 
+Topsy-Turvy Emperor of China 
+ and  
+The Family Moskat 
+. 
+ANSWER: Isaac Bashevis  
+Singer 
+[10] In this Singer novel, the title character Yasha Mazur has an affair with Emilia Chrabotzky, who, along 
+with Magda and Zeftel, he meets on his travels away from his wife Esther. 
+ANSWER:  
+The  Magician of Lublin 
+ [or  
+Der  Kuntsnmakher fun Lublin 
+] 
+020-09-12-05219 
+20. This man painted a row of storefronts on a deserted street in  
+Early Sunday Morning 
+. For 10 points each: 
+[10] Name this artist who also painted a man and woman working late in his  
+Office at Night 
+ and another 
+pair out on a house porch in  
+Summer Evening 
+. 
+ANSWER: Edward  
+Hopper 
+[10] This Hopper painting shows a sign for five cent Phillies cigars above three customers sitting in a diner. 
+ANSWER:  
+Nighthawks 
+[10] In this Hopper painting, which is similar to  
+Chop Suey 
+, a woman sits alone at a table in the title 
+location with a cup of coffee in her hand. 
+ANSWER:  
+Automat 
+023-09-12-05220 
+21. Saint Augustine died during this tribe's siege of Hippo. For 10 points each: 
+[10] Name this Germanic tribe which invaded Roman territory in North Africa in 428 CE. Under the 
+leadership of Genseric, they sacked Rome in 455 CE. 
+ANSWER:  
+Vandal 
+s 
+[10] In 439, the Vandals successfully invaded this city, and made it the capital of their territory in North 
+Africa. This city was destroyed by Scipio Aemilianus in 146 BCE during the Third Punic War. 
+ANSWER:  
+Carthage 
+[10] The Vandals invaded North Africa during the reign of Emperor Valentinian III, who ordered the death 
+of Flavius Aetius in 454 CE. While Aetius never got a chance to fend off the Vandals, he had earlier 
+defeated Attila and the Huns at this battle in present-day France. 
+ANSWER:  
+Chalons 
+ [or  
+Catalaunian Plains 
+; or  
+Catalaunian Fields 
+] 
+004-09-12-05221 
+Powered by TCPDF (www.tcpdf.org) 
+National All-Star Academic Tournament     Round 5     Page  11 of 11 
+© 2010 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 

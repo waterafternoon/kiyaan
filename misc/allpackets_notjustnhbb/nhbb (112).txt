@@ -1,0 +1,733 @@
+Tournament 15 
+Round 4 
+Tossups 
+1.  
+Along with the state to its north, this state contains the Front Range Urban Corridor. The highest 
+incorporated town in America, Leadville, is also found here. It is home to Mount Elbert and the 
+Western Slope, which is the location of (*) 
+ Telluride, Vail, Aspen, and other ski resorts. This state, which 
+forms the northeastern part of the Four Corners, contains Pike's Peak and cities such as Pueblo and Boulder. 
+For 10 points, name this state whose capital is Denver. 
+ANSWER:  
+Colorado 
+024-10-19-04102 
+2.  
+One leader of this nation, Klement Gottwald, achieved power by driving Eduard Benes (BEN-esh) 
+from the political scene in 1948. One founding document of this nation was the Pittsburgh 
+Convention, which was brokered by Tomas Masaryk (MAZ-uh-rick). A leader of this country 
+unsuccessfully attempted to reform this nation in 1968 by bringing about \"socialism with a human 
+face.\" That man was (*) 
+ Alexander Dubcek (DOOB-check). For 10 points, name this defunct central 
+European nation whose peaceful end to Communist rule was known as the Velvet Revolution, and which 
+was the location of 1968's Prague Spring. 
+ANSWER:  
+Czechoslovakia 
+ [prompt on  
+Slovakia 
+; prompt on  
+Czech Republic 
+] 
+030-10-19-04103 
+3.  
+This poet wrote \"It so happens I am sick of being a man\" in the poem \"Walking Around.\" One of 
+his collections contains a poem beginning \"I like for you to be still: it is as though you were absent,\" 
+and one beginning \"Tonight I can write the saddest lines.\" \"The Heights of Machu (*) 
+ Picchu\" is one 
+section of his poetic history of Latin America,  
+Canto General 
+. For 10 points, name this Chilean poet of  
+Twenty Love Poems and a Song of Despair 
+. 
+ANSWER: Pablo  
+Neruda 
+ [or Neftali Ricardo  
+Reyes 
+ Basoalto] 
+024-10-19-04104 
+4.  
+This person's protest of a reserved number of seats for the \"harijan\" led to a compromise called 
+the Poona Pact. One event initiated by this man was ended by the signing of a pact between Lord 
+Irwin and him. This man led a walk from Sabarmati to Dandi in protest of a tax in the Salt March. 
+His time in politics began when he worked as a (*) 
+ lawyer in South Africa and continued until he was 
+assassinated by Nathuram Godse. For 10 points, name this leader of the \"satyagraha\" movement who used 
+nonviolent resistance to achieve Indian independence. 
+ANSWER: Mahatma  
+Gandhi 
+ [or Mohandas Karamchand  
+Gandhi 
+] 
+019-10-19-04105 
+5.  
+This figure is told to bury an oar in a land without access to the ocean, where a “seaborn death” 
+will come to him. Aided by the swineherd Eumaeus (yoo-MAY-us), he kills Antinous after stringing 
+his bow and shooting an arrow through twelve (*) 
+ axeheads. This figure tells his crew to tie him to the 
+mast so he can listen to the Sirens. His adventures include sailing Scylla and escaping the cave of 
+Polyphemus. For 10 points, name this husband of Penelope who takes ten years to return from Troy to 
+Ithaka in a namesake Homeric epic. 
+ANSWER:  
+Odysseus 
+080-10-19-04106 
+Tournament 15     Round 4     Page  1 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+6.  
+The narrator of this story informs another character that the motto of his family is \"Nemo me 
+impune lacessit\" (NAY-mo may im-POO-nay lah-KESS-it), which is the actual motto of the Order of 
+the Thistle. The final words of the story are \"In pace requiescat!\" A misunderstood gesticulation of 
+one character, after consuming a draught of Medoc, prompts the narrator to produce a (*) 
+ trowel as a 
+sign of his membership in the masons. Fortunato is entombed alive by Montresor in, for 10 points, what 
+short story named after a bottle of wine by Edgar Allan Poe? 
+ANSWER: \"The  
+Cask of Amontillado 
+\" 
+084-10-19-04107 
+7.  
+One type of these objects that can be used to determine the longest palindrome in a string is 
+referred to as \"suffix\". A version of this structure in which all the vertices are connected is a 
+minimum spanning one. Another variety allows each node to have a maximum of (*) 
+ two child nodes 
+with all nodes on the left being less than the value of the parent and all on the righter having a greater value 
+than the parent. That is the binary search one. For 10 points, name this data structure whose lowest nodes 
+are referred to as leaves. 
+ANSWER:  
+tree 
+s 
+081-10-19-04108 
+8.  
+One of these compositions by a certain composer has a theme that begins with three repetitions of 
+E-flat, D, D, then a higher B-flat. That one, and the “little G minor” one, which is the twenty-fifth of 
+them, are the only compositions of this type by that composer in a minor key. The last of them has a 
+five-voice fugato as well as a double fugue in its finale. The “Haffner” and “Linz” ones are not as well 
+known as the fortieth of them, known as the “great,” and the final one, nicknamed the (*) 
+ “Jupiter.\" 
+For 10 points, identify this set of forty-one works for orchestra by Wolfgang Amadeus Mozart. 
+ANSWER:  
+Symphonies 
+ by Wolfgang Amadeus  
+Mozart 
+ [only  
+symphonies 
+ required after mention of 
+Mozart, but prompt on  
+symphonies 
+ before that] 
+020-10-19-04109 
+9.  
+Calculating this quantity using the time elapsed for a traveling object yields a quantity sometimes 
+known as celerity (suh-LAIR-it-ee). Force times this quantity equals power. The instantaneous value 
+of this quantity is equal to the first derivative of (*) 
+ position. Multiplying this quantity by an object's 
+mass gives linear momentum. For 10 points, name this vector quantity, whose magnitude is the scalar 
+quantity known as \"speed,\" and which is typically measured in meters per second. 
+ANSWER:  
+velocity 
+ [do not accept or prompt on \"speed\"] 
+026-10-19-04110 
+10.  
+This artist created a sculpture of Moses with horns on his head for the tomb of Julius II, as well 
+as a  Rebellious Slave  and a  Dying Slave . One of his most famous marble works depicts a standing 
+male nude with a barely visible slingshot and another, located in St. Peter's, shows (*) 
+ Mary holding 
+the dead body of Jesus. For 10 points, name this sculptor of the  
+Pietà 
+ and a notable  
+David 
+, who also painted 
+the ceiling of the Sistine Chapel. 
+ANSWER:  
+Michelangelo 
+ Buonarroti 
+001-10-19-04111 
+Tournament 15     Round 4     Page  2 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+11.  
+One of this author's plays features Mildred Douglas, who is repulsed by Yank after seeing him 
+speak crudely; that work ends with Yank likened to a gorilla in the zoo. In addition to  The Hairy Ape , 
+he wrote about the farmer Phil Hogan in  A Moon for the Misbegotten , which was intended as the 
+sequel to a play in which the sickly Edmund is the brother of Jamie, who is an alcoholic. Edmund 
+and Jamie are the sons of Mary and James (*) 
+ Tyrone in that play,  
+Long Day's Journey Into Night 
+. For 
+10 points, name this American playwright of  
+The Iceman Cometh 
+. 
+ANSWER: Eugene  
+O'Neill 
+040-10-19-04112 
+12.  
+After invading a neighboring country, this man promised to initiate the \"mother of all battles\" if 
+other nations interfered. This man's crimes include launching the genocidal \"Anfal\" campaign and 
+using biochemical weapons on the village of Halabjah. When the Baath party took power, this man 
+became vice-president. This man's invasion of Kuwait prompted the UN to launch Operation Desert 
+Storm. This man was (*) 
+ captured when he was found hiding in a spider hole near Al-Awja. For 10 points, 
+name this longtime Iraqi dictator deposed in Operation Iraqi Freedom. 
+ANSWER: Saddam  
+Hussein 
+ al-Tikriti 
+080-10-19-04113 
+13.  
+In one poem, this man lamented loving a woman “as black as hell, as dark as night”; that poem is 
+one of the twenty-eight poems he addressed to the “dark lady.” This poet wrote that “music hath a 
+far more pleasing sound” than the voice of his lover, whose “eyes are nothing like the sun.” Another 
+of this man’s poems notes that “every fair from fair sometime declines” after calling the addresse 
+“more beautiful and more (*) 
+ temperate.” For 10 points, name this Elizabethan poet of “Shall I Compare 
+Thee to a Summer’s Day?” and 153 other sonnets. 
+ANSWER: William  
+Shakespeare 
+080-10-19-04114 
+14.  
+The CXADR receptor is utilized by adeno ones which are icosahedral. Classifications schemes for 
+them include ICTV and the Baltimore scheme. They can have single or double (*) 
+ stranded genetic 
+material which can be composed of DNA or RNA. Lysogenic ones integrate their genetic material into the 
+host. Common components include spikes, envelopes, and capsids. Reverse transcriptase is used by retro 
+ones such as HIV. For 10 points, name these infectious agents that require a host cell to replicate. 
+ANSWER:  
+virus 
+es 
+001-10-19-04115 
+15.  
+Don DeLillo’s “Pafko At The Wall” is named for this team’s 1951 center fielder. While some of 
+their old nicknames included “Bridegrooms” and “Superbas,” they eventually settled on a name 
+inspired by the local abundance of trolley lines. One notable GM of this franchise refused to attend 
+Sunday games, and that man, Branch Rickey, also signed (*) 
+ Jackie Robinson to this team, an act which 
+broke Major League Baseball’s color barrier in 1947. For 10 points, name this baseball team which moved 
+in 1958 from Ebbets Field in Brooklyn to its current home of Los Angeles. 
+ANSWER: Brooklyn  
+Dodgers 
+ [or Los Angeles  
+Dodgers 
+; prompt on  
+Los Angeles 
+] 
+082-10-19-04116 
+Tournament 15     Round 4     Page  3 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+16.  
+One atom of this element is found in the ring of a furan, and an atom of it is bound to two carbons 
+in an epoxide. Reactive species of this element are due to unpaired electrons, making them radicals. 
+Three atoms of this element make up a compound that absorbs (*) 
+ ultraviolet light in the atmosphere. 
+Another form of this element is added to hydrocarbons in combustion reactions. For 10 points, name this 
+element, number eight on the periodic table, which has a diatomic form that is required for aerobic cellular 
+respiration. 
+ANSWER:  
+oxygen 
+ [or  ] 
+O 
+001-10-19-04117 
+17.  
+This ruler's commander Marshall Turenne lost at the Battle of the Dunes. The attempts of the 
+Grand Alliance to undermine this ruler during the Nine Years' War ended in the Treaty of Ryswick. 
+His country’s economy was managed by Jean-Baptiste Colbert. His schemes to extend the House of 
+Bourbon sparked the War of Spanish Succession. He solidified his power following the death of 
+Cardinal (*) 
+ Mazarin. This ruler claimed \"I am the state\" and moved his court to the palace at Versailles. 
+For 10 points, name this long reigning French monarch known as the \"Sun King.\" 
+ANSWER:  
+Louis XIV 
+ of France [prompt on  
+Louis 
+] 
+064-10-19-04118 
+18.  
+This philosopher argued that a large number of religious groups decreases civil unrest in  A Letter 
+Concerning Toleration.  In the first part of another work, he attacks Robert Filmer’s defense of a 
+king’s divine right. He also posited that the human mind at birth is a blank slate, or a (*) 
+tabula rasa 
+. 
+For 10 points, name this English Enlightenment philosopher, the author of  
+Two Treatises of Government 
+and  
+An Essay Concerning Human Understanding 
+. 
+ANSWER: John  
+Locke 
+083-10-19-04119 
+19.  
+Two men holding a club and a net hide behind a wall waiting for the titular figure in this artist’s 
+painting  The Menaced Assassin . An easel displaying a painting of the outside view characterizes his  
+The Human Condition , while his  The Son of Man  depicts a man in a bowler hat with an apple 
+obscuring his face. He also depicted a train coming out a (*) 
+ fireplace in  
+Time Transfixed 
+. For 10 points, 
+name this Belgian Surrealist who in  
+The Treachery of Images 
+ depicted a pipe captioned with the words, 
+\"This is not a pipe.\" 
+ANSWER: Rene François Ghislain  
+Magritte 
+003-10-19-04120 
+20.  
+This man sent packages to random individuals in Omaha and Wichita with instructions to send to 
+targets in Boston, in a study which attempted to calcuate the average path length of social networks. 
+In addition to conducting the “small world” experiment, this researcher also conducted a study in 
+which two-thirds of the “teachers” were willing to administer potentially fatal (*) 
+ electric shocks to the 
+“learners” simply because they were told to. For 10 points, name this psychologist best known for his 
+namesake obedience experiment. 
+ANSWER: Stanley  
+Milgram 
+082-10-19-04121 
+Tournament 15     Round 4     Page  4 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+21.  
+This man rose to prominence as the head of a namesake \"Senate Committee to Investigate the 
+National Defense Program.\" His Vice-President, Alben Barkley, was nicknamed the \"Veep.\" This 
+President unsuccessfully vetoed the Taft-Hartley Act, attacked the \"Do-Nothing Congress,\" and 
+promoted his \"Fair Deal.\" A Chicago Tribune headline falsely claimed that (*) 
+ Thomas Dewey had 
+defeated this man. This President integrated the armed forces and entered the U.S. into the Korean War. For 
+10 points, name this President who authorized the use of atomic bombs in World War II. 
+ANSWER: Harry S.  
+Truman 
+080-10-19-04122 
+22.  
+The equation describing the relativistic form of this effect includes a factor equal to the square 
+root of quantity one minus v over c, all over the square root of one plus v over c. Applications of this 
+effect include echocardiography (ECK-oh-car-dee-AW-gruh-fee), in which it measures blood flow, 
+and (*) 
+ radar, which uses it to calculate the speed of an incoming or outgoing object. For 10 points, name 
+this effect in which the frequency of a sound increases as a sound source moves toward an observer, which 
+is commonly exemplified by ambulance sirens. 
+ANSWER:  
+Doppler 
+-Fizeau Effect 
+003-10-19-04123 
+23.  
+One character in this novel, Old Salamano, constantly beats his dog. In one scene from this novel, 
+the protagonist is coaxed into writing a letter in the guise of his friend to that friend's girlfriend in 
+order to persuade her to return despite her supposed infidelity. It opens at the protagonist's mother's 
+funeral, where the protagonist is strangely unemotional. Later, having taken a gun from Raymond 
+(*) 
+ Sintes, the protagonist shoots an Arab on a beach when he thinks he is in danger. For 10 points, name 
+this novel in which Meursault is executed, a work of Albert Camus. 
+ANSWER:  
+The  Stranger 
+040-10-19-04124 
+Tournament 15     Round 4     Page  5 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+Tournament 15 
+Round 4 
+Bonuses 
+1. The 2010 American League Rookie of the Year race features several deserving candidates. For 10 points 
+each: 
+[10] Perhaps the leading candidate is this AL West-leading team's closer, Neftali Feliz, who has set the 
+rookie saves record. 
+ANSWER:  
+Texas 
+ Rangers [or Texas  
+Rangers 
+] 
+[10] Another top contender for AL Rookie of the Year is Austin Jackson, the center fielder for this 
+Central-Division club, which traded Curtis Granderson to the Yankees for Jackson in the offseason. 
+ANSWER:  
+Detroit 
+ Tigers [or Detroit  
+Tigers 
+] 
+[10] The 2008 American League Rookie of the Year was this current AL MVP candidate, a third baseman 
+for the Tampa Bay Rays who shouldn't be confused with Spurs point guard Tony Parker's wife. 
+ANSWER: Evan Michael  
+Longoria 
+026-10-19-04201 
+2. This province is home to Simon Fraser University and the annual Williams Lake Stampede. For 10 
+points each: 
+[10] Name this Canadian province which contains the Okanagan Valley and the Sunshine Coast. 
+ANSWER:  
+British Columbia 
+ [or  
+BC 
+] 
+[10] This largest city in British Columbia was the host of the 2010 Winter Olympics. 
+ANSWER:  
+Vancouver 
+[10] This city, which is located at the eastern end of the Juan de Fuca Strait and the southern tip of 
+Vancouver Island, is the capital of British Columbia. 
+ANSWER:  
+Victoria 
+004-10-19-04202 
+3. Their capital was located at Carthage. For 10 points each: 
+[10] Name this East Germanic tribe of the 400s CE led by rulers such as Gunderic and Geiseric, the latter 
+of whom attacked a former ally and looted that ally's capital. 
+ANSWER:  
+Vandal 
+s 
+[10] The Vandals sacked this city in 455 that was at the time ruled by Petronius Maximus. 
+ANSWER:  
+Rome 
+[10] Rome was also sacked ninety-one years later in 546 by Totila and this Germanic tribe, also once led by 
+Theodoric the Great. 
+ANSWER:  
+Ostrogoth 
+s [prompt  
+Goths 
+; do not accept or prompt \"Visigoths\"] 
+079-10-19-04203 
+4. When the Greeks first encountered this god, they adopted him as an aspect of Hermes called “Hermes 
+Trismegistos,” and credited him as the source of philosophy. For 10 points each: 
+[10] Name this Egyptian god of learning and the moon, who is also said to have invented writing and 
+healed Horus during that deity’s battle with Seth. 
+ANSWER:  
+Thoth 
+[10] Thoth was depicted artistically as a human with the head of a baboon or, more commonly, this bird. 
+ANSWER:  
+ibis 
+[10] Thoth and Horus’s attempt to defeat Seth was in revenge for Seth’s murder and dismemberment of 
+this chief underworld god and brother-husband of Isis. 
+ANSWER:  
+Osiris 
+019-10-19-04204 
+Tournament 15     Round 4     Page  6 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+5. It wonders, “Should old acquaintance be forgot and never brought to mind?” For 10 points each: 
+[10] Name this Scottish poem and folk song traditionally sung on New Year’s Eve. 
+ANSWER: “ 
+Auld Lang Syne 
+” 
+[10] “Auld Lang Syne” was written by this foremost Scottish poet who authored “To a Mouse” and “Tam 
+O’Shanter.” 
+ANSWER: Robert  
+Burns 
+[10] In one poem, Robert Burns declares, “O, my love’s like a red, red” one of these things “that’s newly 
+sprung in June.” 
+ANSWER:  
+rose 
+s 
+079-10-19-04205 
+6. This character's half-brother Evgraf publishes his poetry after his death. For 10 points each: 
+[10] Name this character, who marries Tonia Gromeka, but falls in love with the nurse Lara during World 
+War I. 
+ANSWER: Dr.  
+Yuri  Zhivago 
+   [accept either name] 
+[10] Dr. Zhivago was created by this Soviet author, who defined poetry as \"Figaro like hot hail hurled\" in 
+his collection  
+My Sister, Life 
+. 
+ANSWER: Boris  
+Pasternak 
+[10] Pasternak \"voluntarily\" turned down this international literary prize, whose 2009 recipient was Herta 
+Muller. It was instituted by the inventor of dynamite. 
+ANSWER: the  
+Nobel 
+ Prize in Literature 
+080-10-19-04206 
+7. The energy of a photon is equal to this constant times its frequency. For 10 points each: 
+[10] Name this constant equal to approximately 6.63 times 10 to -34 joule-seconds. 
+ANSWER:  
+Planck 
+'s (\"PLONK's\") constant 
+[10] These are one dimensional vibrating objects whose namesake theory is a theory of quantum gravity 
+that attempts to describe the universe at the Planck scale. 
+ANSWER:  
+string 
+s 
+[10] This eleven-dimensional theory that attempts to unify different string theories has a one-letter name. 
+ANSWER:   theory 
+M 
+001-10-19-04207 
+8. An example of ukiyo-e (uu-kee-oh-ay) art, this work depicts several men dressed in blue crouching in 
+three long boats as the title object towers above them. For 10 points each: 
+[10] Name this woodcut print depicting the titular object, which some believe is part of a tsunami. It is part 
+of its artist’s series  
+Thirty-six Views of Mt. Fuji 
+. 
+ANSWER:  
+The  Great Wave  off Kanagawa 
+ [prompt on  
+The  Wave 
+] 
+[10]  
+The Great Wave off Kanagawa 
+ was create by this prominent Japanese artist and printmaker of the Edo 
+period. 
+ANSWER: Katsushika  
+Hokusai 
+ (hoe-KOO-sai) 
+[10] A large wave is also featured in this Dutch artist’s  
+The Storm on the Sea of Galilee 
+. He is better known 
+for  
+The Anatomy Lesson of Dr. Tulp 
+ and  
+The Night Watch 
+. 
+ANSWER:  
+Rembrandt 
+ van Rijn 
+083-10-19-04208 
+Tournament 15     Round 4     Page  7 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+9. They are formed when neutron stars reach a certain mass. For 10 points each: 
+[10] Name this type of astronomical object that is so massive not even light can escape. Falling into one 
+will theoretically produce a \"spaghettification\" effect. 
+ANSWER:  
+black hole 
+[10] Black holes may be created if a star exceeds this limit named for an Indian astrophysicist. It is about 
+1.4 solar masses. 
+ANSWER:  
+Chandrasekhar 
+ limit 
+[10] In this type of eponymous radiation produced by certain black holes, a matter-antimatter pair of 
+particles is created, with one of the two particles becoming trapped in the hole. 
+ANSWER:  
+Hawking 
+ radiation 
+081-10-19-04209 
+10. The protagonist of this novel chooses Osmond over her other two suitors, Goodwood and Lord 
+Warburton. For 10 points each: 
+[10] Name this novel about Isabel Archer. 
+ANSWER:  
+The  Portrait of a Lady 
+[10]  
+The Portrait of a Lady 
+ was written by this author of  
+The Wings of the Dove 
+ and  
+Daisy Miller 
+. 
+ANSWER: Henry  
+James 
+[10] Henry James also wrote this novella in which the governess of Miles and Flora is haunted by the ghost 
+of Quint. 
+ANSWER:  
+The  Turn of the Screw 
+024-10-19-04210 
+11. In a certain species, red flowers are coded for by an allele denoted by big R, while white flowers are 
+coded by allele denoted by little r. For 10 points each: 
+[10] This is the term for organisms with genotype big R little r, which have one copy of each allele. 
+ANSWER:  
+heterozygote 
+s 
+[10] If heterozygotes have pink flowers, then the gene for flower color expresses this type of dominance, in 
+which heterozygotes have a phenotype in between that of the two homozygotes. 
+ANSWER:  
+incomplete 
+ dominance 
+[10] A big R big R organism can have white flowers if a second gene coding for the ability to make a red 
+pigment is absent. The organism then exhibits this phenomenon in which one gene \"masks\" the phenotype 
+of a second gene. 
+ANSWER:  
+epistasis 
+003-10-19-04211 
+12. It was exposed after an anonymous letter was sent to William Parker encouraging him to avoid 
+attending Parliament. For 10 points each: 
+[10] Name this 1605 conspiracy that intended to destroy that building and overthrow James I in England. 
+ANSWER:  
+Gunpowder 
+ Plot [or  
+Gunpowder 
+ Treason] 
+[10] This most famous member of the Gunpowder conspiracy was arrested and tortured after he was found 
+guarding a pile of explosives underneath Parliament. He is traditionally burned in effigy to commemorate 
+the anniversary of the plot's failure. 
+ANSWER: Guy  
+Fawkes 
+[10] Half a century later, Titus Oates manufactured this fake Catholic conspiracy that was allegedly 
+attempting to assassinate Charles II. 
+ANSWER:  
+Popish 
+ Plot 
+081-10-19-04212 
+Tournament 15     Round 4     Page  8 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+13. This work is flanked by donor portraits of \"witnesses\" of the title action. For 10 points each: 
+[10] Identify this centerpiece of the Cornaro Chapel, a depiction of gleaming light rays falling upon a saint 
+pierced with the spear of an arrow. 
+ANSWER:  
+The  Ecstasy of Saint Teresa 
+ [or  
+Saint Teresa in Ecstasy 
+; or  
+The  Transverberation of Saint 
+Teresa 
+] 
+[10]  
+The Ecstasy of Saint Teresa 
+ was sculpted by this Baroque sculptor, who designed the Piazza in front of 
+St. Peter's Basilica, which contains his  
+Baldachino 
+. 
+ANSWER: Gian Lorenzo  
+Bernini 
+[10] Bernini also sculpted this mythological figure chasing Daphne, who is transforming into a tree. 
+Another Classical sculpture of this god was placed in Belvedere. 
+ANSWER:  
+Apollo 
+020-10-19-04213 
+14. Taking the log of this value will give the pH at which a conjugate base has the same concentration as 
+another molecule. For 10 points each: 
+[10] Name this equilibrium constant, whose smaller values indicate weak and larger values indicate strong 
+substances of a certain type. 
+ANSWER: acid  
+dissociation 
+ constant [or  
+acid 
+ constant; or  
+ionization 
+ constant; or  
+K 
+a 
+; prompt on  
+pK 
+a 
+] 
+[10] The dissociation constant shows up in this equation that is used to find the pH of a solution with 
+concentrations of an acid and its conjugate base. 
+ANSWER:  
+Henderson-Hasselbalch 
+ (HOSS-el-bock) equation 
+[10] Solutions made up of a weak acid and conjugate base or a weak base and its conjugate acid are called 
+this type of solution due to their resistance to change in pH. 
+ANSWER:  
+buffer 
+ solutions 
+023-10-19-04214 
+15. While a prisoner, this ruler witnessed the killing of unarmed subjects during a celebration in the 
+Massacre in the Main Temple. For 10 points each: 
+[10] Name this ruler during the Spanish invasion of his empire, whose nephew Cuauhtémoc 
+(KWOH-TAY-moc) later became the last emperor of their people. 
+ANSWER:  
+Montezuma 
+ II [or  
+Moctezuma 
+ II] 
+[10] Montezuma ruled over this empire that covered parts of central Mexico and was conquered by Hernán 
+Cortés. 
+ANSWER:  
+Aztec 
+ civilization 
+[10] This city served as the capital of the Aztec civilization. It was originally built on islands in the middle 
+of Lake Texcoco. 
+ANSWER:  
+Tenochtitlan 
+023-10-19-04215 
+Tournament 15     Round 4     Page  9 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+16. Name these contemporary American novelists, for 10 points each. 
+[10] After releasing his 2010 suburban satire  
+Freedom, 
+ this author of  
+The Corrections 
+ reconciled with 
+Oprah Winfrey. 
+ANSWER: Jonathan  
+Franzen 
+[10] Though he became known in literary circles for the historically-inspired novels  
+Everything Is 
+Illuminated 
+ and  
+Extremely Loud and Incredibly Close 
+, his more recent work has been polemics about 
+vegetarianism, such as  
+Eating Animals. 
+ANSWER: Jonathan  
+Safran Foer 
+[10] This author of the mammoth  
+Infinite Jest 
+ killed himself in 2008, leaving his novel about a man with 
+mental powers who works for the IRS,  
+The Pale King, 
+ unfinished. 
+ANSWER: David Foster  
+Wallace 
+019-10-19-04216 
+17. The  
+en passant 
+ move in this game can only be performed immediately after one's opponent has moved 
+a pawn two spaces forward from its opening square. For 10 points each: 
+[10] Name this board game whose other pieces include diagonally moving bishops. 
+ANSWER:  
+chess 
+[10] This most common chess opening involves a White pawn moving to e4 followed by a Black response 
+to c5. 
+ANSWER:  
+Sicilian 
+ Defense 
+[10] Since 2007, this Indian player has been the World Chess Champion, which included his defense of the 
+title in the spring of 2010 against Veselin Topalov. 
+ANSWER: Viswanathan  
+Anand 
+ [or Vishy  
+Anand 
+] 
+023-10-19-04217 
+18. This goddess invented the flute, but threw it away because it marred her beauty. For 10 points each: 
+[10] Name this “grey-eyed” Greek goddess of wisdom. 
+ANSWER:  
+Athena 
+ [accept  
+Minerva 
+] 
+[10] Athena carried this shield made of goatskin, upon which she placed the head of Medusa. 
+ANSWER: the  
+aegis 
+[10] In Greek art, Athena was often represented as this bird, which symbolized wisdom. 
+ANSWER: the  
+owl 
+080-10-19-04218 
+19. This work’s chorus sings “I know That My Redeemer Liveth” and “His Yoke is Easy.” For 10 points 
+each: 
+[10] Name this oratorio about the life of Christ that includes the “Hallelujah Chorus.” 
+ANSWER:  
+Messiah 
+[10]  
+Messiah 
+ is a work of this Baroque German-British composer also responsible for  
+Music For The Royal 
+Fireworks 
+ and  
+The Harmonious Blacksmith 
+. 
+ANSWER: Georg Friedrich  
+Handel 
+[10] Handel also composed this set of three suites, which feature bourees and hornpipes. They are so named 
+due to being performed on a floating barge for George I. 
+ANSWER:  
+Water Music 
+079-10-19-04219 
+Tournament 15     Round 4     Page  10 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+20. This incident led to likely-erroneous public anger at the Knights of Labor, and to Illinois governor John 
+Peter Altgeld pardoning several of those convicted for throwing the initial bomb. For 10 points each: 
+[10] Identify this 1886 riot, in which demonstrators for an eight-hour workday clashed with police in 
+Chicago. 
+ANSWER:  
+Haymarket 
+ Square riot 
+[10] The demonstrators were on strike from a plant that manufactured harvesting equipment, which was 
+founded and named for this inventor of the first practical mechanical reaper. 
+ANSWER: Cyrus Hall  
+McCormick 
+[10] Altgeld’s pardons caused a rift with this Democratic President, and led to Altgeld joining a coalition 
+to block him from receiving a fourth Presidential nomination in 1896. 
+ANSWER: Stephen Grover  
+Cleveland 
+019-10-19-04220 
+21. One of the problems with sending up all that junk into space is that it all has to come down sometime. 
+For 10 points each: 
+[10] This former Russian space station is the heaviest man-made object to have come back to Earth, 
+burning up in the atmosphere in 2001 and scattering over 1500 pieces of debris around the Pacific Ocean. 
+ANSWER:  
+Mir 
+[10] In 1979, the U.S. Government received a littering fine from a town in Western Australia after this only 
+U.S. Space Station crashed down, spilling debris across the Indian Ocean. 
+ANSWER:  
+Skylab 
+[10] In 1965, this man lost a spare glove while performing the first-ever American spacewalk. He died, less 
+than a year later, in the Apollo 1 accident along with Gus Grissom and Roger Chaffee. 
+ANSWER: Edward Higgins  
+White 
+, Jr. 
+003-10-19-04221 
+Powered by TCPDF (www.tcpdf.org) 
+Tournament 15     Round 4     Page  11 of 11 
+© 2011 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 

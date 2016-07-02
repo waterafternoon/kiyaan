@@ -1,0 +1,484 @@
+VHSL Regular Season 
+Round 22 
+First Period, Fifteen Tossups 
+1. A \"bidirectional\" variation of this algorithm passes through the list twice per iteration and is also called \"shuttle\" or \"cocktail,\" 
+and \"odd-even\" sort is a parallel-processing optimized alteration; the first method eliminates the problem of small elements at the 
+big-element end, which are called \"turtles\" since they uniquely must travel the full length of the list. For 10 points, name this naïve 
+big-oh-of-n-squared sorting algorithm, in which repeated passes are made swapping adjacent out-of-order elements, such that the 
+small elements float to the top. 
+ANSWER:  
+bubble 
+ sort 
+022-09-2-07101 
+2. Archbishop Raul Silva Henriquez brokered an agreement that allowed for the succession to this man's regime, and he was 
+succeeded by Patricio Aylwin Azocar. This man oversaw Operation Columbo and his government coordinated with other regional 
+countries in Operation Condor. He was arrested in Great Britain in 1998 upon Spain's request for the extradition of this man. For 
+10 points name this man who overthrew the government of Salvador Allende to become the longtime dictator of Chile. 
+ANSWER:  Augusto  
+Pinochet 
+030-09-2-07102 
+3. The potential of these phenomena can be determined by the six Doodson numbers. These phemonena can be modeled as a sheet 
+flow using Laplace's equations for these occurrences, and Ballantine created a scale to measure the exposure of organisms in areas 
+impacted by these phenomena. Bores related with these phenomena can travel against the direction of current, and reduced forms 
+of these events are labeled neap. For 10 points, name these natural phenomena caused by the gravitational forces of the sun and 
+the moon on the Earth's oceans. 
+ANSWER:  
+Tides 
+036-09-2-07103 
+4. The narrator of this novel finds a notebook with the sentence “What has our government done to make life easier for the 
+Alaskan Eskimos?” written inside. A few days earlier in this work, an accusation of “giving her the time” causes the narrator to 
+fight with Stradlater. In 2009, this book’s author filed suit against an unauthorized sequel entitled  
+60 Years Later 
+. This book 
+follows the narrator’s reunion with his sister Phoebe and ambiguous encounter with Mr. Antolini after leaving Pencey Prep. For 
+10 points, name this novel about the phony-hating Holden Caulfield by J.D. Salinger. 
+ANSWER:    
+The  Catcher in the Rye 
+019-09-2-07104 
+5. This god is sometimes known as the \"drowned one,\" as he drifted in a sarcophagus across the Mediterranean Sea to Byblos. 
+After being found again by his wife, his brother became jealous, and cut this god into fourteen pieces. Dead pharaohs were 
+associated with this god, who is depicted as the god of the underworld. For 10 points, name this Egyptian god, who fathered Horus 
+with his wife and sister Isis. 
+ANSWER:   
+Osiris 
+003-09-2-07105 
+6. Meliton Kantaria was the subject of a famous photograph taken at the conclusion of this battle. Vasily Chuikov accepted the 
+losing side's surrender at this battle's conclusion. The Volkssturm played a major role in this battle. This battle ended with the 
+raising of the Soviet flag above the Reichstag and with Karl Dönitz (DUHr-nitz) becoming the last Führer (FYUHr-er) of the 
+Third Reich. For 10 points, name this battle that concluded World War II in Europe, during which Adolf Hitler committed suicide 
+in a bunker underneath the namesake city. 
+ANSWER:  Battle of  
+Berlin 
+030-09-2-07106 
+7. One character in this show changed the past by preventing his sister's favorite dress from being covered in Slushie. Another 
+character returned to being himself after being forced to impersonate a US Senator he had killed. Ali Larter's character, assumed 
+dead after being shattered, was shown to have returned at the start of Season Four. Claire and Noah Bennet are both adjusting to 
+living on their own in this series. For 10 points, name this NBC series in which the title people, such as Hiro Nakamura, save the 
+world from characters like Sylar. 
+ANSWER:    
+Heroes 
+002-09-2-07107 
+VHSL Regular Season     Round 22     Page  1 of 7 
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+8. This composer used strings to accompany the words of Jesus, creating a so-called \"halo\" effect, in his setting of the sufferings 
+of Christ. This composer wrote fifteen Two-Part Inventions for his pupils, as well as choral works such as the  
+St. Matthew Passion 
+. Glenn Gould specialized in playing works of this composer, such as  
+The Art of the Fugue 
+ and the  
+Goldberg Variations 
+. For 10 
+points, name this eighteenth-century German composer of  
+The Well-Tempered Clavier 
+ and the  
+Brandenburg Concertos 
+. 
+ANSWER:      ohann  ebastian  
+J S Bach 
+ [prompt on  
+Bach 
+; prompt on  ohann  
+J Bach 
+] 
+004-09-2-07108 
+9. Howard Hyde Russell was the first superintendent of a league whose name stated that it was anti- these locations. Several of 
+these institutions were subject to \"hatchetations\" from Carrie Nation. The Number 10 one of these in Deadwood, South Dakota, 
+was where Wild Bill Hickok played his last game of poker. These establishments were often entered through swinging doors still 
+sometimes named after them. For 10 points, name these buildings where a man in the Old West could find both entertainment and 
+alcohol. 
+ANSWER:   
+saloon 
+s 
+003-09-2-07109 
+10. When one of these constructs is traced out pictorially, there will exist one or two Dandelin Spheres tangent to the plane that 
+traced it out.  Studied in antiquity by Apollonius of Perga, in the two body problem, if the center of mass is assumed to be at rest, 
+the paths of the bodies will follow one of these paths.  In polar coordinates, they take the form of   over the quantity one plus  
+l e 
+times cosine of theta, where   is the semi-latus rectum and   is the eccentricity.  For 10 points, name these mathematical curves 
+l e 
+that include the ellipse, parabola, and hyperbola. 
+ANSWER:   
+Conic Sections 
+040-09-2-07110 
+11. In one story by this author, the mute Lucynell is married off to Tom Shiftlet and observes the title admonition on a billboard. 
+Enoch Emery briefly joins the \"Church Without Christ,\" run by Hazel Motes, in a novel by this author of  
+Everything that Rises 
+Must Converge 
+. This woman wrote a story about a family that dines at Red Sammy's on a road trip. That road trip in a work by 
+this author is diverted when The Grandmother gives faulty directions and the car rolls into the ditch. For 10 points, name this 
+Southern gothic author who created the serial killer The Misfit in \"A Good Man is Hard to Find.\"  
+ANSWER:    Mary Flannery  
+O'Connor 
+020-09-2-07111 
+12. This entity was involved in the court case that established the need for public figures or officials to prove actual malice to win 
+a libel suit after being sued by Montgomery, Alabama, police commissioner L.B. Sullivan. In another case involving this 
+newspaper, a government report leaked by Daniel Ellsberg to the Washington Post and this newspaper resulted in the Supreme 
+Court knocking down prior restraint. For 10 points, name this newspaper owned by the Sulzberger family and nicknamed \"The 
+Gray Lady.\" 
+ANSWER: The  
+New York Times 
+049-09-2-07112 
+13. This piece includes an \"extra\" movement between its scherzo and finale, and its long title describes this work as \"the 
+expression of feeling rather than painting.\" Its second movement has the flute, oboe, and clarinet representing the nightingale, 
+quail and cuckoo, respectively, and its third movement includes a peasant dance that is interrupted by a thunderstorm. For 10 
+points, name this Beethoven symphony about scenes from rural life. 
+ANSWER:   
+Pastoral  Symphony 
+ [or Symphony No.   by  
+6 Beethoven 
+; or  
+Beethoven's Sixth 
+ Symphony; or  
+Beethoven's Op. 68 
+; or 
+Symphony No.   by Beethoven after \"Beethoven\"] 
+6 
+030-09-2-07113 
+14. This man was defeated by the forces of Alvaro Obregon at the Battle of Celaya. This man formed the Division of the North 
+following the assassination of Francisco Madero. This leader was assassinated at his hacienda in Hidalgo del Parral. This rebel 
+executed dozens of U.S. citizens in Santa Isabel and Columbus, New Mexico. For 10 points, name this Mexican bandit who was 
+unsuccessfully pursued by General John J. Pershing in a 1916 expedition. 
+ANSWER:  Pancho  
+Villa 
+ [or Francisco  
+Villa 
+; or Doroteo  
+Arango 
+] 
+030-09-2-07114 
+15. This poet asked \"Who breaks a butterfly upon a wheel?\" in a poem defending his use of satire. This author wrote a poem in 
+which the goddess Dulness crowns Colley Cibber as the King of Dunces. This author of \"Epistle to Dr. Arbuthnot\"  wrote \"A little 
+learning is a dangerous thing\" and \"fools rush in where angels fear to tread\" in his  
+An Essay on Criticism 
+. For 10 points, name this 
+seventeenth-century British poet of  
+The Dunciad 
+ and  
+The Rape of the Lock 
+.  
+ANSWER:   Alexander  
+Pope 
+004-09-2-07115 
+VHSL Regular Season     Round 22     Page  2 of 7 
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+VHSL Regular Season 
+Round 22 
+Directed Round 
+1A. The structure of what organic compound allegedly was revealed to Frederick Kekule when he had a dream about a snake 
+eating its own tail? 
+ANSWER:    
+benzene 
+ [or  
+benzol 
+] 
+1B. What man failed to avoid a runoff in his August 2009 reelection bid to maintain Afghanistan's presidency? 
+ANSWER:   Hamid  
+Karzai 
+2A. What Massachusetts Senator passed away in August 2009 after suffering from a brain tumor? 
+ANSWER:   Edward Moore \"Ted\"  
+Kennedy 
+2B. What form of understatement is exemplified by saying \"not unattractive\" instead of \"attractive?\" 
+ANSWER:    
+litotes 
+3A. The Bonneville Flats are near what body of water that is at the base of the Wasatch Range and whose namesake city is the 
+capital of Utah? 
+ANSWER:   The  
+Great Salt Lake 
+ [do not accept \"Salt Lake City\"] 
+3B. What sculptor created the first freestanding nude since antiquity with his bronze  
+David 
+, and also sculpted the equestrian  
+Gattamelata 
+. 
+ANSWER:    
+Donatello 
+ [or Donato di Niccolo di Betto  
+Bardi 
+] 
+4A. This is a 10-second calculation question. What is the sum of the infinite series beginning 1, 1/2, 1/4,...? 
+ANSWER:      
+2 
+4B. This is a 10-second calculation question. What is the sum of the exterior angles of a dodecagon? 
+ANSWER:      
+360 
+5A. What type of volcano is exemplified by the gently sloping sides of the Hawaiian island volcanoes? 
+ANSWER:    
+shield 
+ volcano 
+5B. What model organism is a type of insect that was first extensively used by Thomas Hunt Morgan? 
+ANSWER:    
+fruit flies 
+ [or  
+Drosophila  melanogaster 
+; or  
+D. melanogaster; or  
+pomace fly 
+; or  
+vinegar fly 
+; or  
+wine fly_] 
+6A. This is a 20-second calculation question. Factor the following expression: x squared plus 23 x plus 130. 
+ANSWER:      
+(x+10)(x+13) 
+6B. This is a 20-second calculation question. How much money is 3 quarters, 5 dimes, 7 nickels, and 9 pennies? 
+ANSWER:      
+1.69 
+7A. Along with \"estar,\" what is the other infinitive form of the verb \"to be\" in Spanish? 
+ANSWER:    
+ser 
+7B. What baseball player attended Maple Woods Community College and currently stars as the first baseman for the St. Louis 
+Cardinals? 
+ANSWER:   Albert  
+Pujols 
+ [or Jose Alberto Pujols Alcantara] 
+8A. Philip Nolan is the Aaron Burr-befriending title character of what Edward Everett Hale short story about a person with no 
+homeland? 
+ANSWER:   \"The  
+Man without a Country 
+\" 
+8B. Who invented the automatic stock ticker and the phonograph? 
+ANSWER:   Thomas Alva  
+Edison 
+9A. This is a 30-second calculation question. In their first year of college, students must take one or two of the following classes: 
+VHSL Regular Season     Round 22     Page  3 of 7 
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+Freshman English, Freshman Calculus, and Freshman Chemistry. In a group of 200 students surveyed, 150 took English, 100 took 
+Calculus, and 75 took Chemistry. If 50 students took both English and Calculus, but not Chemistry, and 25 students took both 
+Calculus and Chemistry, but not English, how many students did not take Calculus? 
+ANSWER:      
+100 
+ students 
+9B. This is a 30-second calculation question. In his Algebra class, Timmy's final grade is based upon his score on 3 midterm tests 
+and 1 final exam. Each test is worth 20 percent and the exam is worth 40 percent of his grade. Assuming a passing grade is 70 
+percent, what grade must Timmy make on his final exam to pass, given that on the three midterms, Timmy's scores were 75, 40, 
+and 65 respectively? 
+ANSWER:       percent 
+85 
+10A. What artist is noted for songs like \"Shake Ya Tailfeather,\" \"Country Grammar,\" and \"Hot in Here?\" 
+ANSWER:    
+Nelly 
+ [or Cornell  
+Haynes 
+ Jr.] 
+10B. In economics, give the term that refers to the ratio of the percent change in one variable to the percent change in another. 
+ANSWER:    
+elasticity 
+026-09-2-07116 
+VHSL Regular Season     Round 22     Page  4 of 7 
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+VHSL Regular Season 
+Round 22 
+Third Period, Fifteen Tossups 
+1. One statement of opposition to these laws was the Suffolk Resolves. One component of these laws introduced French civil law 
+and toleration of Catholics to a certain region. Another of these laws installed Thomas Gage as military governor, revoking the 
+colonial charter of Massachussets. Other laws in this group required the quartering of troops in private homes and closed the port 
+of Boston until payment was received for destroyed tea. For 10 points, name this set of four laws that were issued by the British 
+cabinet in 1774 in response to the Boston Tea Party, and which American colonists could not bear obeying. 
+ANSWER:   
+Intolerable 
+ Acts [or  
+Coercive 
+ Acts] 
+019-09-2-07117 
+2. One title used for this man is \"Father of Dust,\" and during the Battle of Khaybar, this man tore off the door of a fort and used it 
+as a shield. This man's forces were victorious at the Battle of the Camel. This man slept in Muhammad's bed as a decoy to 
+Muhammad's attempted assassins during the Hegira. Some sources claim that this man was the only person born in the Ka'bah, 
+and after Khadijah, he is said to be the second convert to Islam. For 10 points, name this husband of Muhammad's daughter 
+Fatima, the first Imam of Shia Islam. 
+ANSWER:  
+Ali 
+ [or  
+Ali 
+ ibn Abi Talib] 
+030-09-2-07118 
+3. This writer focused on his survival after being imprisoned on false evidence in his prison memoir  
+The Man Died 
+. This author 
+wrote about the clash between Oba Danlola and the title dictator in his work  
+Kongi’s Feast 
+. In another work by this man, Simon 
+Pilkings causes a panic in the village of Oyo when he prevents Elesin from fulfilling his duty towards the alafin. He also wrote 
+about Sidi, a beautiful girl lusted after by the village chief Baroka. For 10 points, name this first African winner of the Nobel 
+Prize, a Nigerian playwright of  
+Death and the King’s Horseman 
+ and  
+The Lion and the Jewel 
+. 
+ANSWER:   Akinwande Oluwole  
+Soyinka 
+034-09-2-07119 
+4. This ruler faced opposition when he attempted to levy the ship money tax inland during peacetime. A list of grievances, the 
+Grand Remonstrance, was presented to this monarch by John Pym. This king appointed William Laud as Archbishop of 
+Canterbury. This man's disregard of the Petition of Right during the Eleven Years Tyranny eventually contributed to the outbreak 
+of the Bishops War and another conflict. For 10 points, name this monarch who fought with parliament in the English Civil War, 
+only to be defeated by the forces of Oliver Cromwell and beheaded. 
+ANSWER:   
+Charles I 
+ of England, Ireland, and Scotland [prompt on  
+Charles 
+] 
+035-09-2-07120 
+5. This book ends with the protagonist dreaming about African lions. One character in this book fears that the Cleveland Indians 
+will defeat the Yankees, but the protagonist reminds him that the Yankees have \"the great DiMaggio.\" That character, Manolin, is 
+an apprentice to the title character, who has gone eighty-four days without catching a fish. The title character, Santiago, battles 
+with a marlin on the eighty-fifth day. For 10 points, name this novella by Ernest Hemingway. 
+ANSWER:    
+The  Old Man and the Sea 
+024-09-2-07121 
+6. When \"pellucidum\" is appended to this word, it describes a brain structure that runs from the corpus callosum to the fornix.  A 
+defect of another structure with this name allows blood to pass from the left to right atrium. Another structure with this name can 
+potentially deviate enough to cause abnormal breathing.  For 10 points, give this term that comes from the Latin for \"wall,\" which 
+describes the divider between the two nostrils of the nose. 
+ANSWER:   
+septum 
+003-09-2-07122 
+7. One of these conflicts was incited by the surprise at Meaux, which followed the Edict of St. Germain. One of the namesake 
+figures of one war in this series was the Duke of Guise, one of the \"Three Henrys.\" Catherine de Medici ordered one brutal 
+occurrence during this series of conflicts. These conflicts were ended by Henry IV's conversion to Catholicism. For 10 points, 
+name this series of 16th-century wars, which included the St. Barthlomew's Day Massacre, between Huguenots and Catholics. 
+ANSWER:  French  
+Wars of Religion 
+038-09-2-07123 
+VHSL Regular Season     Round 22     Page  5 of 7 
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+8. Current lags voltage in these circuit components by ninety degrees. The potential energy stored in one of these devices is equal 
+to \"one-half current squared times\" a namesake quantity. These devices create a reactance proportional to \"2 pi times the 
+frequency,\" causing them to resist the flow of alternating current. These devices often consist of a coiled wire, and Faraday's Law 
+describes how electric current through one of these creates a magnetic field. For 10 points, name these devices which have a 
+namesake property symbolized L and measured in Henries. 
+ANSWER:  
+inductor 
+s 
+028-09-2-07124 
+9. This author imagined Satan as a three-faced demon chewing on the heads of Cassius, Brutus, and Judas Iscariot. In one work, 
+this author described riding the back of Geryon to reach Malebolge and meeting the adulterous lovers Paolo and Francesca. In that 
+work, this author is guided by Virgil and Beatrice through hell, purgatory, and heaven. For 10 points, name this medieval Italian 
+poet who wrote the  
+Paradiso 
+ and  
+Inferno 
+ sections of his  
+The Divine Comedy 
+. 
+ANSWER:    
+Dante 
+ Alighieri [or Dante  
+Alighieri 
+] 
+004-09-2-07125 
+10. Idmon joined this group although he knew it would lead to his own death. This group encountered the seer Phineus, whose 
+food was eaten by Harpies until two members of this group, Calais and Zetes, drove them off. Heracles abandoned this group to 
+search for Hylas, and Orpheus kept this group from being enticed by the sirens. Their leader, Jason, married Medea on their 
+voyage back from Colchis. For 10 points, name this group of Greek adventurers, who set off in their namesake ship to find the 
+Golden Fleece. 
+ANSWER:  
+Argonauts 
+003-09-2-07126 
+11. In Tintoretto's version of this painting, fire flowing from a lamp in the upper left illuminates swirling spirits. Salvador Dali's 
+version of this painting shows the central character blond, and features a transparent torso floating above the scene. This painting 
+emerged from a twenty one year restoration in 1999. The central figure's head is the vanishing point for all the perspective lines in 
+this painting, in which one of the thirteen figures holds a knife and two point at the same loaf of bread. For 10 points, name this 
+Leonardo da Vinci work depicting the final meal of Jesus. 
+ANSWER:   
+The  Last Supper 
+015-09-2-07127 
+12. This author included his \"Big Space\" and \"The King of Harlem\" in a collection inspired by his visit to the United States,  
+The 
+Poet in New York 
+. This man elegized Ignacio Sánchez Mejías (ig-NAH-shee-oh SAHN-chez meh-HEE-ahs), a renowned matador, 
+in his \"Lament for the Death of a Bullfighter.\" One of his plays describe a period of enforced mourning in the title abode. In 
+another of his plays, Leonardo and the Bridegroom kill each other under the full moon. For 10 points, what Spanish author of  
+The 
+House of Bernarda Alba 
+ and  
+Blood Wedding 
+ was killed by Fascists in 1936? 
+ANSWER:    Federico Garcia  
+Lorca 
+019-09-2-07128 
+13. This body's necrosis due to blood loss from childbirth is known as Sheehan's syndrome. In developing embryos, part of this 
+structure forms from Rathke's pouch, and it is located in a depression known as the sella turcica, which is found in the sphenoid 
+bone. Herring bodies are found in the axons that connect this entity to the hypothalamus. It regulates the body's water content by 
+releasing vasopressin from its posterior lobe. For 10 points, name this \"master gland\" that releases prolactin and sits at the base of 
+the brain. 
+ANSWER:   
+pituitary 
+ gland 
+026-09-2-07129 
+14. One short story by this author explains how Mrs. Sommers spends fifteen dollars. This author wrote a novel about Therese 
+Lafirme's love for David Hosmer in Natchitoches. A short story by this author is about Louise's reaction when she discovers 
+Brentley Mallard isn't actually dead. In addition to \"A Pair of Silk Stockings,\"  
+At Fault 
+, and \"Story of An Hour,\" this author wrote 
+about a woman who has an affair with Alcée Arobin in another novel. In that novel by this author, the protagonist vacations at 
+Grande Isle and loves Robert LeBrun. For 10 points, name this author who wrote about Edna Pontellier in  
+The Awakening 
+. 
+ANSWER:   Kate  
+Chopin 
+ [or Catherine  
+O'Flaherty 
+] 
+036-09-2-07130 
+15. Along with table salt, ammonia, and carbon dioxide, this compound is an input in the Solvay process.  It is a byproduct of the 
+Ostwald process used to make nitric acid, and this compound notably has explosive reactions with several pure alkali metals.  
+Combustion of hydrocarbons produces carbon dioxide and this compound, which reacts with strong acids to form hydronium ions. 
+For 10 points, name this compound sometimes jokingly referred to as \"dihydrogen monoxide.\" 
+ANSWER:  
+water 
+ [or  
+H2O 
+] 
+003-09-2-07131 
+VHSL Regular Season     Round 22     Page  6 of 7 
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 
+VHSL Regular Season 
+Round 22 
+Tiebreaker Questions 
+1. The Dan River flows into this river in the Hulah Valley, and the Yarmouk River connects the Hauran Plateau to this river's 
+watershed. A main source of this river is melting snow from Mount Hermon, and this river flows just west of the Golan Heights. 
+This river plunges below sea level before reaching the Sea of Galilee and forming the border of the West Bank. For 10 points, 
+name this river that flows into the Dead Sea, which separates Israel and a nation of this river's name. 
+ANSWER:  
+Jordan 
+ River 
+036-09-2-07132 
+2. This author wrote \"there is neither East nor West, Border, nor Breed, nor Birth / When two strong men stand face to face, tho' 
+they come from the ends of the earth!\" in a poem asserting \"East is East, and West is West, and never the twain shall meet.\" This 
+author wrote a poem about a British soldier who tells a water-carrier \"you're a better man than I am,\" as well as several stories 
+about the tiger Shere Khan and the wolf-child Mowgli. For 10 points, name this British author who wrote about India in \"Gunga 
+Din\" and The Jungle Book.  
+ANSWER:   Rudyard  
+Kipling 
+004-09-2-07133 
+3. PSI+, one of these structures in yeast, may be evolutionarily beneficial. The creation of these entities is related to gene CD230, 
+which is located on the short arm of chromosome 20. PrP becomes mutated in diseases related to these entities, and they can create 
+tissue deposits that resemble amyloidosis (AM-ill-oy-DOSE-iss). They cause diseases like kuru, scrapie, and Creutzfeld-Jakob 
+disease. For 10 points, name these misfolded proteins that can also cause \"mad cow\" disease. 
+ANSWER:   
+prion 
+s [or  
+proteinaceous infectious 
+ agent] 
+026-09-2-07134 
+4. This quantity is modeled for different groups substituted on a benzene ring via the Hammett equation. One measure for this 
+quantity takes the average energy of a free atom's valence electrons and is named for Allen. A simple measure for this quantity is 
+equal to the mean of first ionization energy and electron affinity, named for Mulliken, though it is more often measured on the 
+Pauling scale, which gives fluorine a value of 3.98. For 10 points, give this quantity that represents the degree to which an atom or 
+group attracts electron density. 
+ANSWER:  
+electronegativity 
+022-09-2-07135 
+5. The written form of this language uses the letter combination \"s z\" to represent the English \"s\" sound. Because it is a Uralic 
+language, it exhibits a phenomenon that is also characteristic of Turkish, vowel harmony. This language shares a group with 
+Mansi, Khanty, and the Ob-Ugric languages within the Finno-Ugric family. This language is not Indo-European, though its 
+speakers are normally surrounded by speakers of Germanic and Slavic languages in Central Europe. For 10 points, identify this 
+language, which was the native tongue of Leo Szilard, Bela Bartok, and Franz Liszt. 
+ANSWER:  
+Hungarian 
+ [or  
+Magyar 
+] 
+019-09-2-07136 
+VHSL Regular Season     Round 22     Page  7 of 7 
+© 2009 HSAPQ. Questions may be distributed to teams in attendance at this tournament only, in paper form only. 

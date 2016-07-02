@@ -1,0 +1,768 @@
+NASAT 2012 
+Round 15 
+Tossups 
+1. Predicting war, this work’s title character says, “The new world has begun and the new world will be 
+terrible for those clinging to the old. What will you do?” Earlier, the protagonist inadvertently paints the 
+title character’s face while attempting to depict a woman he dubs Beatrice. The protagonist of this novel 
+stares at a fire with an organist he first listens to while sitting on a street curb. The protagonist befriends 
+Pistorius before he is introduced to the worship of Abraxas by the title schoolmate and fellow bearer of the 
+mark of Cain. For 10 points, name this novel about Emil Sinclair’s youth, a work of Hermann Hesse. 
+ANSWER:  
+Demian 
+014-12-59-15102 
+2. Shortly after coming to power, this leader gave a speech at Bordeaux saying that his government \"means 
+peace.\" This leader approved the Falloux Law, which gave the Catholic Church power over education. His 
+Saint-Simonian supporters created the Credit Mobilier Bank. This ruler was targeted for assassination by 
+one of the Carbonari, Felice Orsini. By marrying the Spanish noblewoman Eugenie de Montijo \"for love,\" 
+this man gained popularity. In a move that angered the Russians, he claimed to be the protector of 
+Christians in the Ottoman Empire. His rule collapsed after he was captured at the Battle of Sedan, which 
+cemented his defeat in the Franco-Prussian War. For 10 points, name this man who ended the Second 
+Republic to become emperor of France. 
+ANSWER:  
+Napoleon III 
+ of France [or Charles  
+Louis-Napoleon 
+ Bonaparte; do not accept \"Napoleon\" or 
+\"Napoleon Bonaparte\"] 
+080-12-59-15103 
+3. To treat patients' phobia of serpents, this man had them watch an actor pretend to fear a snake, but 
+succeed in taking it out of a cage. This man came up with a triangular model in which behavior, 
+environment, and personality all influence one another, which he called \"reciprocal determinism.\" He listed 
+attention, retention, motor reproduction, and motivation as four conditions for effective modeling, and he 
+developed the idea of \"self-efficacy.\" In his most famous experiment, this proponent of \"social learning 
+theory\" showed children a video in which adults were either rewarded, punished, or not given any feedback 
+after beating up the namesake object. For 10 points, name this psychologist, who conducted the Bobo Doll 
+Experiment. 
+ANSWER: Albert  
+Bandura 
+080-12-59-15104 
+4. This composer included a passage beginning \"Oh for the Wings of a Dove\" in a setting of Psalm 55 
+popular in Victorian England,  
+Hear My Prayer 
+. His compositions for solo piano include \"Bee's Wedding\" 
+and \"Spring Song.\" Ferdinand David was the dedicatee of a work by this man that opens with a melody that 
+\"gave [him] no peace,\" the  
+Violin Concerto in E minor 
+. An overture ending with a flute solo begins his 
+suite of incidental music to a Shakespeare play, which also contains the \"Wedding March.\" For 10 points, 
+name this 19th-century German composer of  
+Songs Without Words 
+ and  
+A Midsummer Night's Dream 
+. 
+ANSWER: Felix  
+Mendelssohn 
+080-12-59-15105 
+NASAT 2012     Round 15     Page  1 of 13 
+5. Regarding this man’s allegations of the Pentagon misstating funding requirements, Joint Chiefs 
+Chairman Martin Dempsey wrote that he was \"calling us, collectively, liars.\" This man was a former 
+consultant for his family’s eathmoving business and represents Janesville in Congress. He was the target of 
+a letter signed by ninety faculty members at Georgetown, where he gave a speech defending his 
+concordance with Catholic social teaching. This man requires his staff to read  
+Atlas Shrugged 
+ and is the 
+principle architect of the “Roadmap for America’s Future” as an alternative to President Obama’s 
+proposed budget. For 10 points, name this chairman of the House Budget Committee, a Wisconsin 
+Republican. 
+ANSWER: Paul  
+Ryan 
+030-12-59-15106 
+6. The von Mangoldt function returns this value if the input is not a power of a prime. The Legendre 
+symbol returns this value if the numerator is a multiple of the prime denominator. The Mobius function 
+returns this value if the input is not square-free. This value is used to denote the absorbing element of a 
+semigroup or semiring. The Riemann zeta fuction takes this value at all negative even integers, though it is 
+an open question whether all of the other such values all have real part one-half. This value is returned 
+when a number is added to its additive inverse. For 10 points, name this only non-positive and non-negative 
+integer, the additive identity. 
+ANSWER:  
+zero 
+048-12-59-15107 
+7. Immediately after this event, its performer traveled to Capernaum, then to the capital to confront some 
+sellers of oxen and doves. The person responsible for this event stated “Woman, what have I to do with 
+thee?” and “My time has not yet come” while performing it. One person noted that “you have saved the 
+best til now” to evaluate the product of this event, which was drawn out of six stone containers used for 
+ritual cleansing. Appearing only in the Gospel of John, this event is considered the first miracle of Jesus. 
+For 10 points, identify this feat which took place at a wedding-feast at Cana, and was the miraculous 
+creation of an alcoholic beverage. 
+ANSWER: Jesus turning  
+water into wine 
+ [or obvious equivalents; or the  
+marriage at Cana 
+ or equivalents 
+before it is mentioned; do not accept the miracle of the loaves and fishes, which is different] 
+019-12-59-15108 
+8. In one of this author's poems, the universe replies to a man's claim to existence with the statement, \"The 
+fact has not created within me a sense of obligation.\" This author also wrote a poem in which \"many red 
+devils ran from my heart and out upon the page.\" This writer wrote a poem in which a \"naked, bestial\" 
+creature claims to like eating his heart, \"because it is bitter, and because it is my heart.\" This poet wrote 
+\"Do Not Weep, Maiden, for War Is Kind\" and the poetry collection  
+The Black Riders. 
+ In one of his novels, 
+\"the tattered man\" and Jim Conklin are among the companions of Henry Fleming. For 10 points, identify 
+this author of  
+The Red Badge of Courage. 
+ANSWER: Stephen  
+Crane 
+126-12-59-15109 
+NASAT 2012     Round 15     Page  2 of 13 
+9. Computational tools for finding these entities include the synchronous transit and nudged elastic band 
+methods. A theory named after them breaks down when explaining quantum tunneling below a crossover 
+temperature. This entity will resemble the species that it is closest to in energy, according to the Hammond 
+Postulate. This species is found at a local maximum enthalpy and is represented by a double dagger. One 
+theory of these entities gives rise to the Eyring equation, a common alternative to the Arrhenius equation. 
+An activated complex must become one of these entities before reactants can turn into products. For 10 
+points, name this hypothetical species that corresponds to the activation energy of a reaction and is the 
+point where the reaction is irreversible. 
+ANSWER:  
+transition state 
+ [prompt on  
+activated complex 
+] 
+003-12-59-15110 
+10. During World War II, this region was held by the \"Gin Drinker's Line\" and was the site of the St. 
+Stephen's College Massacre of wounded soldiers at a field hospital. This region was called a \"barren island 
+with hardly a house upon it\" by Lord Palmerston, expressing disdain at Charles Elliot's choice to become its 
+administrator. This region, which saw the outbreak of a namesake 1968 flu, saw an influx of traders from a 
+neighboring protectionist country that transformed it into an \"economic tiger.\" Per the Treaty of Nanjing, 
+this region was ceded to the British, who gave up their lease in 1997. For 10 points, name this wealthy 
+island city-state that is one of the two Special Administrative Regions controlled by the People's Republic 
+of China. 
+ANSWER:  
+Hong Kong 
+ Special Administrative Region [or  
+Xianggang 
+ Tebie Xingzhengqu] 
+020-12-59-15111 
+11. This state’s vacation spot of Candlewood Lake was created by hydroelectric damming. Its two most 
+populous cities contain shuttered gun factories from the Remington and Winchester companies. A town in 
+this state whose Union Station clock tower reflects a historical clock company is Waterbury, and its most 
+southwesterly county is Fairfield County. It formerly hosted America’s Lego brick factory in its town of 
+Enfield, and P.T. Barnum got his start in this state’s most populous city, a site of urban decay called 
+Bridgeport. For 10 points, name this state where Old Saybrook sits by the terminus of a namesake river, 
+whose cities include New Haven and Hartford. 
+ANSWER:  
+Connecticut 
+104-12-59-15112 
+12. In this novel, riots break out when the black activist Uhuru Simba dies, wrongly imprisoned for the 
+\"Granny Ripper Murders.\" One of its protagonists struggles to reconcile with his cancer-ridden father 
+Changez, who forces a maid/concubine to dress up as his dead wife. In this novel, a character who fails to 
+make money turning his vivid dreams into movies kills himself after throwing his girlfriend, Allie Cone, 
+off a cliff. The two main characters of this novel begin to take on characteristics of Satan and the Archangel 
+Gabriel after falling from an exploding plane into the English Channel. For 10 points, name this 
+controversial book about Saladin Chamcha and Gibreel Farishta, which earned Salman Rushdie a fatwa 
+from Ayatollah Khomeini. 
+ANSWER:  
+The  Satanic Verses 
+080-12-59-15113 
+NASAT 2012     Round 15     Page  3 of 13 
+13. During this king's reign, barons lost the right of shrievalty and new taxes replaced the danegeld. Pope 
+Adrian IV gave this man Ireland, to which this man sent Richard de Clare. He made every man responsible 
+for the defense of England through the Assize of Arms. His claim to the throne was established by the 
+Treaty of Wallingford. The use of juries replaced that of ordeals in one law passed by this man. Both the 
+Constitution and Assizes of Clarendon were passed under this king. This man appointed his son, John of 
+Lackland, as lord of Ireland. This man's reign saw the murder of Thomas Becket. For 10 points, name this 
+husband of Eleanor of Aquitaine and father of Richard the Lionheart. 
+ANSWER:  
+Henry II 
+ of England [or  
+Henry of Anjou 
+; or  
+Henry FitzEmpress 
+; or  
+Henry Curtmantle 
+; 
+prompt on  
+Henry 
+] 
+149-12-59-15114 
+14. Subtypes of this vocal range included the Falcon and Dugazon in nineteenth-century France. A singer 
+with this vocal range sings the aria “Casta diva” in Bellini's  
+Norma. 
+ In  
+Gianni Schicci, 
+ this type of singer 
+threatens to commit suicide if not allowed to marry as they wish in the aria “O mio babbino caro.” Mozart's 
+Exsultate, jubilate 
+ was written for a castrato of this type, and another castrato of this type was Farinelli. 
+Mozart's  
+Magic Flute 
+ requires a singer of this type to sing an F6 in the role of the Queen of the Night. For 
+10 points, Natalie Dessay, Joan Sutherland, and Maria Callas are examples of what highest female voice 
+type? 
+ANSWER:  
+soprano 
+121-12-59-15115 
+15. A coefficient named for this phenomenon multiples the difference of the oncotic pressures across a 
+capillary membrane in Starling’s equation. One version of this phenomenon is governed by the Lambert 
+cosine law, and it occurs when moving from high to low impedance in a transmission line. Along with the 
+transmittance, the amount of power lost to this phenomenon is calculated using the transfer-matrix method, 
+which is more general than the Fresnel equation. When occurring against a denser material, it changes the 
+phase by one-hundred-eighty degrees, and when occurring on rough surfaces, this phenomenon is called 
+diffuse. For 10 points, name this phenomenon whose namesake angle is equal to the angle of incidence, 
+which occurs when a wave bounces off a surface. 
+ANSWER:  
+reflection 
+048-12-59-15116 
+16. After being exiled, this man became leader of the Encheleans in Illyria and sacrilegiously plundered a 
+temple of Apollo. This hero served Ares as a slave for eight years. This man traveled to Samothrace as part 
+of a quest that he and his brothers Cilix and Phoenix ultimately gave up on. According to a prophecy by 
+Dionysus, this man and his wife became snakes as punishment for his killing of the snake that guarded the 
+Castalian Spring. At his wedding, his wife received a necklace that brought misfortune on its possessor. 
+This Phoenician husband of Harmonia sowed the teeth of a dragon to create the Spartoi, who populated a 
+city in Boeotia. For 10 points, name this founder of Thebes. 
+ANSWER:  
+Cadmus 
+ [or  
+Kadmos 
+] 
+149-12-59-15117 
+NASAT 2012     Round 15     Page  4 of 13 
+17. Krogan and Weisserman developed a hypomorph library of these organisms, for which a library with 
+all 6000 reading frames deleted is available. The sec proteins, which regulate vesicular transport, were 
+originally discovered in it. Growing them on histidine-lacking media ensures that only those with a bait 
+vector binding to a fish vector survive in a \"two-hybrid\" system named for them. Haploid cells in these 
+organisms have mating type a or alpha. Hartwell and Nurse won a Nobel for their discovery of CDC genes 
+in these organisms. A eukaryotic \"artificial chromosome\" can be produced using genes from these 
+organisms. This model organism was the first eukaryote to have its genome sequenced. For 10 points, name 
+this fungal model organism also known as baker's yeast. 
+ANSWER:  accharomyces  
+S cerevisiae 
+ [accept  
+baker's yeast 
+ before it is read; prompt on  
+yeast 
+ before it is 
+read; prompt on  
+fungi 
+] 
+003-12-59-15118 
+18. This man killed Joseph Chouinard in a duel for the hand of Singing Grass. This man was once 
+employed as a hunter by William Bent, and he led forces against the Kiowa and Comanche at the Battle of 
+Adobe Walls. During the Civil War, he organized the New Mexico Volunteer Infantry, which fought at the 
+Battle of Valverde. Following an 1864 victory, he ordered 8,000 Navajo to march to Bosque Redondo in 
+the Long Walk. This man gained national fame and was attributed with superhuman abilities after being 
+celebrated in the journals of John C. Fremont, whom he guided to Oregon and California. For 10 points, 
+identify this frontiersman who is the namesake of the capital of Nevada. 
+ANSWER: Kit  
+Carson 
+ [or Christopher Houston  
+Carson 
+] 
+030-12-59-15119 
+19. Because this man slandered Guido Reni, Reni used his face as the model for a devil being crushed by 
+St. Michael. Another depiction of this person was inspired by a still photograph of a nurse with broken 
+glasses, blood running down the right side of her face, from  
+The Battleship Potemkin 
+. He allowed a 
+different artist to paint his portrait after seeing that artist's painting of the servant Juan de Pareja. This 
+patron of Gian Lorenzo Bernini wears a red cap and holds a letter in a portrait that inspired a series of 
+\"screaming\" figures by Francis Bacon. For 10 points, name this pope depicted in a portrait by Diego 
+Velazquez. 
+ANSWER: Pope  
+Innocent X 
+ [or Giovanni Battista  
+Pamphili 
+] 
+020-12-59-15120 
+20. In one work by this man, the protagonist kills a reporter conducting a newspaper contest and marries a 
+waitress to keep her from talking. That novel's title refers to a type of candy whose name “appears at the 
+end of the stick at no matter what point it is broken off.” In another of this man's works, the narrator 
+discusses Pascal with the police officer interrogating him about his role in the murder of the title character, 
+whose innocence the narrator compares to a “dumb leper who has lost his bell.” In another work, \"the 
+lieutenant\" eventually catches the man he is hunting by waiting near a dying American bandit, to whom the 
+protagonist administers the last rites. For 10 points, name this author of  
+The Quiet American 
+ who created an 
+unnamed \"whiskey priest\" in  
+The Power and the Glory. 
+ANSWER: Henry Graham  
+Greene 
+121-12-59-15121 
+NASAT 2012     Round 15     Page  5 of 13 
+21. In one account, this substance originated from the blood of a giant killed by Helios and took its name 
+from the difficulty of that battle. Described as having a black portion and a white portion, this substance 
+can be gathered only by gods. This substance enabled one figure to force his opponent at sword point to 
+swear to his safety before he went to bed with her. This substance saved that figure from being transformed 
+into a pig along with his men. For 10 points, name this magical herb which Hermes gave to Odysseus so he 
+would be immune to the drugs and magic of Circe. 
+ANSWER:  
+moly 
+014-12-59-15122 
+22. This man's liberalism was the product of his Swiss tutor, Frédéric César de La Harge, and resulted in 
+his lifting a ban on citizens of his country traveling abroad. He replaced the \"colleges\" system of 
+governance with the Private Committee. This man's government was employing August von Kotzebue 
+when Kotzebue's assassination sparked Austria to issue the Carlsbad Decrees. He sent an army to aid 
+Prussia, which lost at Friedland, leading to this man's boarding a raft in the Niemen River, where he agreed 
+to join the Continental System. For 10 points, name this signer of the Treaty of Tilsit who ruled Russia 
+during the Napoleonic Wars and was succeeded upon his mysterious 1825 death by Nicholas I. 
+ANSWER:  
+Alexander I 
+ of Russia [or  
+Aleksandr Pavlovich 
+; prompt on  
+Alexander 
+] 
+019-12-59-15123 
+23. This object belongs to a boy named Kenneth in the unpublished short story, \"The Ocean Full of 
+Bowling Balls.\" One character throws an essay on this object in the trash because it was on the wrong 
+subject, leading to a fight between him and his roommate. Jane Gallagher is the only non-family member to 
+have seen this object, which is covered by poems written in green ink. This object belonged to a 
+left-handed boy who died on July 18, 1946 of leukemia. That night, his brother, who now treasures this 
+object, broke all the windows in the garage. For 10 points, name this object kept by Holden Caulfield and 
+which was presumably used by his brother Allie to catch fly balls. 
+ANSWER: Allie Caulfield's baseball  
+mitt 
+ [or Allie Caulfield's baseball  
+glove 
+] 
+003-12-59-15124 
+NASAT 2012     Round 15     Page  6 of 13 
+NASAT 2012 
+Round 15 
+Bonuses 
+1. This programming paradigm is based on data structures that are instances of classes. For 10 points each: 
+[10] Name this programming paradigm that is used by such languages as Java. While Objective-C is in this 
+paradigm, C does not conform to this paradigm. 
+ANSWER:  
+object-oriented 
+ programming [or  
+OOP 
+] 
+[10] This statement in object oriented design states that a subclass should be able to stand in for the class 
+from which it was derived. For example, if I make a Matt Bollinger with rocket wheels, then the wheeled 
+Bollinger should be able to replace the original formula Bollinger on a quizbowl team without any problem. 
+ANSWER: Liskov  
+substitution 
+ principle 
+[10] This feature of object-orientated programming allows the coder to restrict a user’s access to an 
+object’s information. In Java it is accomplished by allowing the user to declare data as “public” or 
+“private.” 
+ANSWER:  
+encapsulation 
+149-12-59-15201  
+2. Name these ranks within Islam, for 10 points each: 
+[10] This term refers to the body of Islamic scholars learned enough to interpret  
+shari'a 
+. Their consensus is 
+called  
+ijma 
+. 
+ANSWER:  
+ulama 
+[10] These Islamic judges use  
+fiqh 
+ to decide cases involving  
+shari'a 
+ law. They are not to be confused with  
+muftis 
+. 
+ANSWER:  
+qadi 
+s 
+[10] A particularly respected Shiite cleric might attain this title, meaning \"sign of God.\" Current examples 
+include Ali Khamenei, Ali al-Sistanti, and a woman, Zohreh Sefati. 
+ANSWER: Grand  
+Ayatollah 
+080-12-59-15202  
+3. This man claimed that the reinforced concrete of one of his buildings helped him to control illumination. 
+For 10 points each: 
+[10] Name this designer of a holy building that, during the morning, is illuminated naturally through the 
+shape of a crucifix that is left open in its east wall. He designed that Church of the Light in Osaka. 
+ANSWER: Tadao  
+Ando 
+[10] This man designed the Kansai International Airport in Osaka, but collaborated with Richard Rogers on 
+his best-known work. 
+ANSWER: Renzo  
+Piano 
+[10] Piano and Richard Rogers designed this Paris building that includes a modern art museum and a 
+library. It was named for a former French president and includes color-coded pipes. 
+ANSWER:  
+Pompidou Center 
+040-12-59-15203  
+NASAT 2012     Round 15     Page  7 of 13 
+4. One work in this collection is written from the point of view of a prostitute buying paint from a vendor to 
+redden her cheeks. For 10 points each: 
+[10] Name this cantata based on twenty-four poems from a medieval collection, such as \"Chramer, gip die 
+varwe mir\" and \"Ave Formosissima.\" 
+ANSWER:  
+Carmina Burana : Cantiones profanae cantoribus et choris cantandae comitantibus 
+instrumentis atque imaginibus magicis 
+ [or  
+Songs of Beuern : Secular songs for singers and choruses to be 
+sung together with instruments and magic images. 
+] 
+[10] Orff's Carmina Burana is best known for a movement in which a goddess representing this trait, 
+variable as the moon, always waxes and wanes. 
+ANSWER:  
+fortune 
+ [or \" 
+O Fortuna 
+\"] 
+[10]  
+Carmina Burana 
+ is grouped into three major sections; this middle section lies between \"On the Lawn\" 
+and \"The Court of Love.\" It contains the pieces \"Olim Lacus Colueram\" and \"Estuans Interius.\" 
+ANSWER: \" 
+In the Tavern 
+\" [or \" 
+In Taberna 
+\"] 
+020-12-59-15204  
+5. Name these figures of speech employed in Latin literature, for 10 points each. 
+[10] In this technique, a poet uses extreme exaggeration for rhetorical effect. 
+ANSWER:  
+hyperbole 
+[10] This technique, similar to metonymy, is the use of a part to refer to the whole. An example is Ovid 
+using the word \"wheels\" to indicate a chariot. 
+ANSWER:  
+synecdoche 
+[10] This device is the use of a phrase that puts a more important idea before something that 
+chronologically precedes it. Virgil uses it in the sentence, \"Let us die, and charge into the middle of the 
+fight.\" 
+ANSWER:  
+hysteron proteron 
+080-12-59-15205  
+6. This member of the Holy League gained Tournay following his wife's victory at the Battle of Flodden 
+Field against James IV of Scotland. For 10 points each: 
+[10] Name this British monarch whose minister, Thomas Wolsey, fell out of favor for refusing to annul this 
+man's marriage to Catherine of Aragon. 
+ANSWER:  
+Henry VIII 
+ of England [prompt on  
+Henry 
+ Tudor] 
+[10] Robert Aske was executed for helping lead this uprising against Henry VIII following his break with 
+the Catholic Church and his dissolution of the monasteries. Pope Paul III tasked Reginald Pole with 
+organizing assistance to this uprising. 
+ANSWER:  
+Pilgrimage of Grace 
+[10] This man, who resigned following the confiscation of the annates, was executed for failing to take the 
+oath of supremacy. This author of  
+Confutation of Tyndale's Answer 
+ was succeeded by Thomas Audley as 
+Lord Chancellor. 
+ANSWER: Saint Thomas  
+More 
+149-12-59-15206  
+NASAT 2012     Round 15     Page  8 of 13 
+7. This philosopher proposed that material objects were \"suggested\" by sensations rather than being the 
+direct objects of perception themselves. For 10 points each: 
+[10] Name this Scottish enlightenment philosopher who wrote an  
+Essay on the Intellectual Powers of Man 
+. 
+ANSWER: Thomas  
+Reid 
+[10] Reid wrote  
+An Inquiry into the Human Mind on the Principles of 
+ this faculty. Thomas Paine claimed 
+that it was absurd for an island to rule a continent in a pamphlet titled for this faculty. 
+ANSWER: \" 
+common sense 
+\" 
+[10] Reid took the term \"sensus communis\" from this classical philosopher, who wrote the  
+Tusculan 
+Disputations 
+ and  
+De Amicitia 
+. 
+ANSWER: Marcus Tullius  
+Cicero 
+080-12-59-15207  
+8. This man helped institute detente with the U.S.S.R. For 10 points each: 
+[10] Name this Secretary of State who served under Richard Nixon and Gerald Ford. 
+ANSWER: Henry Alfred  
+Kissinger 
+ [or Heinz Alfred  
+Kissinger 
+] 
+[10] Kissinger and Nixon supported this Chilean dictator, who, in 1976, ordered the assassination of 
+Orlando Letelier in Washington, D.C. 
+ANSWER: Augusto  
+Pinochet 
+ Ugarte 
+[10] Kissinger's Nobel Peace Prize win was to be shared with this Vietnamese diplomat; this man declined 
+his part of the prize, as at the time there was no peace agreement. 
+ANSWER: Le Duc  
+Tho 
+088-12-59-15208  
+9. Answer the following about war poetry, for 10 points each. 
+[10] This poet collected many of his war poems in  
+Rhymes of a Red Cross Man 
+. This \"bard of the Yukon\" 
+also wrote a bunch of poems with folksy titles like \"The Cremation of Sam McGee\" and \"The Shooting of 
+Dan McGrew.\" 
+ANSWER: Robert  
+Service 
+[10] A mute soldier observes \"posturing giants dissolved in drifts of smoke\" in this World War I poem by 
+Siegfried Sassoon. 
+ANSWER: \" 
+Counter-Attack 
+\" 
+[10] This Tennyson poem immortalizing a doomed attack during the Crimean War contains the refrain, 
+\"Into the valley of Death rode the six hundred.\" 
+ANSWER: \"The  
+Charge of the Light Brigade 
+\" 
+020-12-59-15209  
+10. This quantity is greater than or equal to the molecularity of a reaction’s slowest step. For 10 points 
+each: 
+[10] Name this quantity, which equals one for exponential decay and zero for a concentration-independent 
+reaction. 
+ANSWER: reaction  
+order 
+[10] The overall order of a reaction is equal to the sum of exponents in the expression for this quantity, the 
+rapidity with which a reaction occurs. 
+ANSWER: reaction  
+rate 
+ [accept similar answers that mention  
+rate 
+] 
+[10] For a first-order reaction, the half-life is equal to this dimensionless constant divided by the rate 
+constant. 
+ANSWER: the  
+natural logarithm of 2 
+ [or  
+ln 2 
+; or  
+natural log of 2 
+; prompt on partial; prompt on  
+log 2 
+] 
+132-12-59-15210  
+NASAT 2012     Round 15     Page  9 of 13 
+11. Volund the Smith and his two brothers captured three of these beings and married them. For 10 points 
+each: 
+[10] Name these women from Norse myth, who took fallen warriors to Valhalla. 
+ANSWER:  
+Valkyries 
+[10] The Valkyries served mead to these warriors in Valhalla. They feed on the self-resurrecting boar 
+Saehrimnir while preparing for the final battle at Ragnarok. 
+ANSWER:  
+Einherjar 
+[10] The Valkyries had the power to come to earth in the form of these animals. Achilles pummeled a son 
+of Poseidon who was invulnerable to weapons until he turned into this animal. 
+ANSWER: a  
+swan 
+080-12-59-15211  
+12. For 10 points each, answer the following related to electrostatics. 
+[10] The law describing the direct relationship between charge quantity and electric force and the inverse 
+square relationship between distance and electric force was discovered by what namesake of the SI unit for 
+charge? 
+ANSWER: Charles  
+Coulomb 
+[10] This effect, wherein two objects with different electric affinities like rubber and fur are rubbed 
+together and acquire net charge, was first described by Thales. 
+ANSWER:  
+triboelectric 
+ effect 
+[10] This type of electrostatic generator, in contrast with the Van de Graaff, utilizes electrostatic induction 
+as two large vertical disks rotate in opposite directions to build up charge in Leyden jars. 
+ANSWER:  
+Wimshurst 
+ machine 
+147-12-59-15212  
+13. Josephine Bonaparte was from this island. For 10 points each: 
+[10] Name this Caribbean island of the Lesser Antilles, a French overseas  
+departement. 
+ This island and 
+Guadeloupe were the only French possessions left in the Caribbean after the 1763 Treaty of Paris. 
+ANSWER:  
+Martinique 
+[10] This volcano on Martinique erupted in 1902. A black man named Ludger Sylbaris survived this 
+volcano due to his location in a prison cell. 
+ANSWER: Mount  
+Pelée 
+[10] A pyroclastic flow from that eruption obliterated everyone in this former capital of Martinique. This 
+rebuilt town on Martinique’s west coast is north of Le Charbet. 
+ANSWER:  
+Saint-Pierre 
+104-12-59-15213  
+14. In this painting, the N-word is scrawled on a wall splattered with tomato juice. For 10 points each: 
+[10] Name this painting that deals with racial integration. It shows three U.S. Marshals escorting the young 
+Ruby Bridges. 
+ANSWER:  
+The  Problem We All Live With 
+[10] One entry in this other series depicts a lone dissenter at a town meeting, while another one shows a 
+family eating a merry Thanksgiving dinner. They were published in  
+The Saturday Evening Post 
+. 
+ANSWER:  
+Four Freedoms 
+[10] The  
+Four Freedoms 
+ series and  
+The Problem We All Live With 
+ were painted by this man, noted for his 
+iconic depictions of American culture. 
+ANSWER: Norman  
+Rockwell 
+052-12-59-15214  
+NASAT 2012     Round 15     Page  10 of 13 
+15. In this novel, a group of children are transferred away from a correctional facility in a city to avoid air 
+raids. For 10 points each: 
+[10] Name this novel in which the children are trapped in a village full of animals killed by an epidemic 
+and are shot at when they try to escape. 
+ANSWER:  
+Nip the Buds, Shoot the Kids 
+ [or  
+Memushiri Ko-Uchi 
+] 
+[10] This other novel by the same author follows the brothers Mitsusaburo and Takashi, including the 
+latter’s revolt against the Emperor. Its author won the 1967 Tanizaki Prize. 
+ANSWER:  
+The  Silent Cry 
+ [or  
+Man'en Gan'nen no Futtoboru 
+] 
+[10]  
+Nip the Buds, Shoot the Kids 
+ and  
+The Silent Cry 
+ were written by this Japanese novelist of  
+A Personal 
+Matter 
+ who was influenced by his brain-damaged son Hikari. 
+ANSWER: Kenzaburo  
+Oe 
+147-12-59-15215  
+16. Sometimes, Romans and Christians didn't get along. For 10 points each: 
+[10] To commemorate the thousandth anniversary of the founding of Rome, this Roman emperor, who 
+ruled from 249 to 251, demanded that all citizens of the empire make a public sacrifice to the Roman gods. 
+Many Christians who refused to obey his edict were tortured and killed. 
+ANSWER: Trajan  
+Decius 
+ [or Gaius Messius Quintus  
+Decius 
+ Augustus] 
+[10] The apex of the persecutions came under the reigns of Galerius and this emperor, who divided the 
+Roman empire into two halves. 
+ANSWER: Gaius Aurelius Valerius  
+Diocletian 
+us Augustus 
+[10] This work graphically describes Nero's persecutions of Christians, along with other events between the 
+reigns of Tiberius and Nero in the first century. 
+ANSWER:  
+Annals 
+ of Tacitus [or  
+Annales 
+] 
+020-12-59-15216  
+17. One person who wrote about these places proposed that a Statue of Responsibility be built on the West 
+Coast. For 10 points each: 
+[10] Victor Frankl's  
+Man’s Search for Meaning 
+ was inspired by a World War II experience in what sort of 
+place, which also inspired Bruno Bettelheim's  
+Individual and Mass Behavior in Extreme Situations? 
+ANSWER:  
+concentration camp 
+s 
+[10] Frankl’s “logotherapy” is sometimes called the “third Viennese school,” following Freud’s 
+psychoanalysis and the individual psychology preached by this man, who broke with Freud and developed 
+the theory of the inferiority complex. He wrote the book  
+The Neurotic Character 
+. 
+ANSWER: Alfred  
+Adler 
+[10] This existential psychologist argued that logotherapy was too authoritarian. He discussed the 
+importance of the awareness of death in his book  
+Love and Will 
+, while his first book was  
+The Meaning of 
+Anxiety 
+. 
+ANSWER: Rollo  
+May 
+052-12-59-15217  
+NASAT 2012     Round 15     Page  11 of 13 
+18. One member of this family wrote \"A Plea for the West.\" For 10 points each: 
+[10] Name this family into which the author of  
+Uncle Tom's Cabin 
+ was born. Another member of this 
+family sent rifles to Kansas, which were known as this family's \"Bibles.\" 
+ANSWER:  
+Beecher 
+ [or  
+Beecher 
+'s Bibles] 
+[10] Lyman Beecher and Charles Finney were prominent figures in this religious movement. During this 
+movement, western New York became known as the \"burnt over district\" due to the number of revivals 
+hosted there. 
+ANSWER:  
+Second Great Awakening 
+[10] Lyman Beecher founded the Lane Theological Seminary with the help of two of these brothers who 
+also established the  
+Journal of Commerce 
+. Two of these brothers went on to found the American and 
+Foreign Anti-Slavery Society after breaking with William Garrison. 
+ANSWER: Arthur and Lewis  
+Tappan 
+ [or Arthur, Lewis, and Benjamin  
+Tappan 
+] 
+149-12-59-15218  
+19. For 10 points each, identify the following about cellular protein transport. 
+[10] Proteins are transported through a \"pore complex\" in this organelle's membrane using importins. Other 
+important factors in transporting proteins here include the GTPase Ran and NTF2. 
+ANSWER:  
+nucleus 
+[10] The TIM and TOM complexes transport proteins in and out of this organelle. Though it has its own 
+DNA, many of the proteins it uses, such as ATP synthase, are coded for by genes in nuclear DNA. 
+ANSWER:  
+mitochondrion 
+ [or  
+mitochondria 
+] 
+[10] This sequence, found by Munro and Pelham to be a C-terminal KDEL, marks proteins that need to 
+stay in the endoplasmic reticulum. 
+ANSWER:  
+retention 
+ sequence 
+003-12-59-15219  
+20. Maria Gostrey attempts to persuade one character in this novel to remain in Paris after his failure. For 
+10 points each: 
+[10] Name this novel in which Mrs. Newsome sends Lambert Strether to retrieve her son Chad. Chad's 
+sister Sarah ultimately succeeds in bringing him home to Massachusetts. 
+ANSWER:  
+The  Ambassadors 
+[10] This author of  
+The Ambassadors 
+ also described a governess who attempts to save Miles and Flora 
+from alleged ghosts in  
+The Turn of the Screw. 
+ANSWER: Henry  
+James 
+[10] In this short story by Henry James, John Marcher befriends May Bartram and spends his entire life 
+waiting for something extraordinary to happen. 
+ANSWER: \"The  
+Beast in the Jungle 
+\" 
+105-12-59-15220  
+NASAT 2012     Round 15     Page  12 of 13 
+21. The antics of Dougal Douglas delay the wedding of Humphrey Place and Dixie Morse in this author's  
+The Ballad of Peckham Rye. 
+ For 10 points each: 
+[10] Name this author who described the May of Teck Club in  
+The Girls of Slender Means. 
+ANSWER: Muriel Sarah  
+Spark 
+[10] This Spark novel is set at the Marcia Blaine School for Girls, where Sandy Stranger has an affair with 
+the art teacher Teddy Lloyd. The title teacher encourages Joyce Emily Hammond to fight in the Spanish 
+Civil War. 
+ANSWER:  
+The  Prime of Miss Jean Brodie 
+[10] This author included Spark's  
+The Mandelbaum Gate 
+ in a list of his favorite English novels. He created 
+the ultraviolent Alex in  
+A Clockwork Orange. 
+ANSWER: Anthony  
+Burgess 
+ [or Joseph  
+Kell 
+; or John Anthony Burgess  
+Wilson 
+] 
+079-12-59-15221  
+Powered by TCPDF (www.tcpdf.org) 
+NASAT 2012     Round 15     Page  13 of 13 

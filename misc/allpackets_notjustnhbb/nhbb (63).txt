@@ -1,0 +1,769 @@
+NASAT 2012 
+Round 2 
+Tossups 
+1. The ability to re-target these systems is aided by the use of intermediate representation. A popular book 
+on these programs is affectionately known as the  
+Dragon Book 
+. Backtracking during one phase of these 
+programs can be mostly eliminated by eliminating left recursion and performing left factoring. The first 
+step of these programs creates atoms of information called tokens. The result of their \"cross-\" type can be 
+used on different architectures than the one used. These programs have five major phases: lexical analysis, 
+parsing, semantic analysis, optimization and code generation. For 10 points, identify these programs that 
+generate machine code from a source program and are contrasted with interpreters. 
+ANSWER:  
+compiler 
+s 
+066-12-59-02102 
+2. This poet ended one sonnet with the image of “the swan’s great white neck, with its questions, its 
+grace.” He addressed a shift in his style, noting, “I am an aged tree that, when I was growing, uttered a 
+vague, sweet sound when the breeze caressed me,” in his poem “In Autumn.” The speaker claims, “When 
+the giant yawns and stretches, the earth feels a tremor rippling through the enormous vertebrae of the 
+Andes,” in his poem addressed to a man who can only be reached by “Biblical tones” or the poetry of Walt 
+Whitman. This poet wrote “To Roosevelt” and the collection  
+Azul. 
+ For 10 points, name this Modernismo 
+poet from Nicaragua. 
+ANSWER: Ruben  
+Dario 
+ [or Felix Ruben Garcia  
+Sarmiento 
+] 
+014-12-59-02103 
+3. Luigi Pasinetti created a fifteen-equation mathematical model of this economist's views. He noted that 
+taxation of land rents would be the only kind of tax actually paid by property owners and not passed on to 
+tenants or consumers. This economist influenced the author of  
+Production of Commodities by Means of 
+Commodities, 
+ Piero Sraffa, who was a member of the \"Neo-\" school of this economist. This economist 
+gave an example involving wine and cloth production in England and Portugal to explain one famous 
+theory. For 10 points, identify this economist, the author of  
+Principles of Political Economy and Taxation, 
+and formulator of the theory of comparative advantage and law of diminishing returns. 
+ANSWER: David  
+Ricardo 
+126-12-59-02104 
+4. This king was pushed off his horse in the Battle of Karansebes during a war against the Turks. He 
+changed the language of education from Latin to German. He allowed non-Catholic Christians to perform 
+religious rituals in the Patent of Toleration. He appointed Mozart as his chamber composer. This ruler tried 
+to exchange part of the Netherlands for Bavaria, which was stopped by the Fuerstenbund organized by 
+Frederick the Great. This ruler was succeeded by his brother, Leopold II, who undid or lessened certain acts 
+of this ruler, such as his abolition of serfdom. For 10 points, name this Holy Roman Emperor and 
+enlightened despot, the son of Maria Theresa. 
+ANSWER:  
+Joseph II 
+ of Austria [prompt on  
+Joseph 
+] 
+048-12-59-02105 
+NASAT 2012     Round 2     Page  1 of 12 
+5. In this work, the English horn adds a dissonant note to the final chord played by the trombones after the 
+repetition of the word  
+ewig, 
+ which concludes a set of lines written by the composer. The refrain  
+Dunkel ist 
+das Leben, ist der Tod 
+ is transposed from G minor to A-flat minor to A minor in the first movement. This 
+work’s second movement is called “The Lonely One in Autumn,” and its sixth, final, and longest 
+movement is “The Farewell.” This work sets to music several of Hans Bethge’s translations of poems by 
+Li Bo. For 10 points, name this unnumbered symphony by Gustav Mahler. 
+ANSWER:  
+Das  Lied von der Erde 
+ [or  
+The  Song of the Earth 
+] 
+014-12-59-02106 
+6. This woman is the mother of a witch, who was turned into a bird for enchanting Zeus to fall in love with 
+Io. This mother of Iynx spent most of her life in glens and said \"Alas! Alas!\" as a man plunged a knife into 
+his breast right next to her. This woman was punished for entertaining Hera with long stories while 
+mountain nymphs cavorted with Zeus. She was torn to pieces by Pan's followers after having turned him 
+down. Earlier in life, this nymph pleaded \"lie with me!\" after a conceited youth rebuffed her advances. For 
+10 points, name this nymph who loved Narcissus and could only repeat what others had said. 
+ANSWER:  
+Echo 
+020-12-59-02107 
+7. One abrasive character in this novel hangs herself, jealous of the protagonist’s closeness with his fellow 
+art student Lawson. In this novel, Hayward leaves to fight in the Boer War, leading the protagonist to lose 
+his money and begin working in a department store. In this novel, the death of the protagonist’s Uncle 
+William allows him to return to medical school. The protagonist of this novel tries many times to help the 
+prostitute Mildred before giving up and marrying Sally Athelny. For 10 points, name this novel about the 
+club-footed orphan Philip Carey, a work of W. Somerset Maugham. 
+ANSWER:  
+Of Human Bondage 
+105-12-59-02108 
+8. This man was convicted of the assassination of a rival politician who was shot while brushing his teeth. 
+After he topped the bar exam in prison, he was acquitted by the Supreme Court of murdering that 
+politician, Julio Nalundasan. This man's rule was opposed by the New People's Army, and he rose to power 
+by defeating Diosdado Macapagal. His wife, nicknamed the Steel Butterfly, held several positions in his 
+administration. That wife, Imelda, owned thousands of shoes. This ruler ordered the assassination of 
+Benigno Aquino, whose widow Corazon and her supporters forced him into exile in 1986. For 10 points, 
+name this dictator who served for 21 years as President of the Philippines. 
+ANSWER: Ferdinand Edralin  
+Marcos 
+014-12-59-02109 
+9. At every point P in the domain of a function f of x comma y, this function is normal to the level curve 
+through P. This function is orthogonal to a surface at any point. The dot product of this function and a 
+vector is known as a directional derivative. When applied to scalar functions, this operation yields a vector 
+field. This operator gives the direction of greatest change. In two dimensions, this operator is defined as the 
+partial of f with respect to x of x-hat plus the partial of f with respect to y of y-hat. For 10 points, identify 
+this operator symbolized del. 
+ANSWER:  
+grad 
+ient [prompt on  
+del 
+] 
+066-12-59-02110 
+NASAT 2012     Round 2     Page  2 of 12 
+10. This artist received a job in Rome on the recommendation of Giulio Clovio, but had to leave after 
+criticizing Michelangelo's  
+Last Judgment 
+. His only mythological painting shows the Trojan Horse in the 
+background and includes two gods who watch serpents attack Laocoon and his sons. He may have inspired 
+Picasso's  
+Les Demoiselles d'Avignon 
+ with a painting in which angels give robes to seven naked souls while 
+St. John experiences a vision. In another of his paintings, St. Stephen and St. Augustine are carrying the 
+armored corpse of the title nobleman. For 10 points, name this painter of  
+The Opening of the Fifth Seal 
+ and  
+The Burial of Count Orgaz 
+, a Mannerist from Crete who came to live in Toledo. 
+ANSWER:  
+El Greco 
+ [or Domenikos  
+Theotokopoulos 
+] 
+064-12-59-02111 
+11. The law of this system states that n times p is equal to n-sub-i squared times e to the q times V-sub-A 
+over k T. A hyperabrupt form of this system is used in varactors. This system undergoes two types of 
+capacitance: diffusion and its namesake type. A plot of the current density of this system looks like a pair 
+of scissors. It contains a single space-charge region. The first solar cells were based on this system. 
+Increasing the doping on one side of this system pushes the depletion region further into the other side. This 
+system can be in equilibrium or forward or reverse bias. For 10 points, identify this system upon which 
+simple diodes are based. 
+ANSWER: p-n  
+junction 
+066-12-59-02112 
+12. This story begins by describing processions of troops with such names as “Citizens of the Tomb” and 
+“Brethren in Death.” In one scene, a nun explains how she would not hesitate to kill her parents if she had 
+received a divine order to do so. One character in this story resembling Henry IV is the Comte de Breville. 
+In this story’s final scene, Cornudet irritates everyone by loudly whistling the Marseillaise. It ends with the 
+title character crying as no one offers her food, even though she had earlier shared her picnic basket. This 
+story climaxes with Elisabeth Rousset sleeping with a Prussian officer, allowing the coach to leave. For 10 
+points, name this Guy de Maupassant story about an obese prostitute. 
+ANSWER: \" 
+Ball of Fat 
+\" [or \" 
+Boule de Suif 
+\"] 
+052-12-59-02113 
+13. During this event, Violet Sharp killed herself to avoid another round of questioning. John Condon tried 
+to help mediate this event and put an ad in the paper reading \"Money is Ready. Jafsie.\" One person 
+implicated in it possessed gold certificates supposedly left in a shoebox by Isidor Finch; that man was also 
+accused of constructing a ladder to be placed under a bedroom window. This event was investigated by H. 
+Norman Schwarzkopf. The body of the victim of this event was discovered in Hopewell, New Jersey, and, 
+several years later, Bruno Richard Hauptman was executed for his supposed role in it. For 10 points, name 
+this 1932 crime that led to the Federal Kidnapping Act and involved the abduction and murder of the son of 
+a famous aviator. 
+ANSWER:  
+Lindbergh 
+ kidnapping [or any synonym for kidnapping; or  
+Lindbergh 
+ murder; or  
+Lindbergh 
+case] 
+052-12-59-02114 
+14. This city’s Hann Park contains a national zoo, and its tourist attractions include the bizarrely pink Lake 
+Retba. A huge bronze monument outside this city depicts a black man holding a woman in his right arm 
+and looking towards a pointing baby he holds up in his left. The historical “House of Slaves” lies off the 
+coast of this city’s mainland on the isle of Gorée. This capital city is home to the African Renaissance 
+Monument and lies on the Cap-Vert peninsula, which juts into the Atlantic. For 10 points, name this 
+westernmost city of mainland Africa, the capital city of Senegal. 
+ANSWER:  
+Dakar 
+104-12-59-02115 
+NASAT 2012     Round 2     Page  3 of 12 
+15. This sculpture was given an oval-shaped base despite Renaissance artists' usual avoidance of that 
+figure. Scholars speculate that this sculpture originally included a kneeling, defeated barbarian. It was 
+moved into a trapezoidal plaza near the Palazzo dei Conservatori and the Museo Capitolino as the 
+centerpiece of Michelangelo's reorganization of the Capitoline Hill. This sculpture inspired Verrochio's 
+depiction of Bartolommeo Colleoni, as well as Donatello's  
+Gattamelata 
+. This sculpture depicts a man in 
+bronze raising his right arm and riding without stirrups. For 10 points, name this equestrian statue of a wise 
+Roman emperor. 
+ANSWER: the Equestrian Statue of  
+Marcus Aurelius 
+ [or any equivalents that mention Marcus Aurelius 
+but do not give incorrect information] 
+080-12-59-02116 
+16. In Babylonian myth, King Etana freed one of these creatures so that it would guide him to the plant of 
+birth. Another of these animals stole the cap of Tarquinius Priscus, but returned it, foreshadowing his later 
+rule. Loki accidentally got his staff stuck in the body of a particularly greedy one of these creatures, which 
+turned out to be a giant in disguise and forced him to steal the apples of Idunn. Vethrfolnir sits between the 
+eyes of one of these creatures, the mortal enemy of the serpent Nidhogg. The Aztecs decided on the 
+location of Tenochtitlan after seeing one of these animals on a cactus. For 10 points, name this non-vulture 
+bird, one of which eats Prometheus' liver. 
+ANSWER:  
+eagle 
+s [prompt on  
+bird 
+s; do not accept \"hawks,\" \"falcons,\" or any other kind of bird] 
+080-12-59-02117 
+17. This modern-day country was once home to a majority of the Dal Riata kingdom. King Calgacus gave a 
+rousing speech before losing at the Battle of Mons Graupius in this country, where Saint Columba founded 
+a monastery at Iona. This region signed the Treaty of Falaise with its southern neighbor under the 
+leadership of William the Lion. The Antonine Wall crosses this country, which was known in Roman times 
+as Caledonia. Men appointed to rule this country include John Balliol. For 10 points, name this place from 
+which the Stone of Scone (\"SCOON\") was stolen, whose independent monarchs included Robert the Bruce. 
+ANSWER:  
+Scotland 
+ [prompt on  
+United Kingdom 
+ or  
+Great Britain 
+; do not accept or prompt on 
+\"England\"] 
+124-12-59-02118 
+18. Prep school students submit poems to a contest for a private audience with this author at the beginning 
+of Tobias Wolff's  
+Old School. 
+ This poet described how an \"interrupted cry came over houses from another 
+street, but not to call me back or say goodbye\" in a poem in which the speaker says, \"I have outwalked the 
+furthest city light.\" In another poem, the speaker claims that \"one could do worse than be a swinger of\" the 
+title trees. This poet of \"Acquainted with the Night\" and \"Birches\" contrasted two ways that the world 
+might end in \"Fire and Ice.\" For 10 points, name this American poet who concluded, \"And that has made 
+all the difference,\" in \"The Road Not Taken.\" 
+ANSWER: Robert Lee  
+Frost 
+080-12-59-02119 
+19. The aberrant activation of this pathway causes paroxysmal nocturnal hemoglobinuria. Cleavage of a 
+thioester bond causes basal activation of this pathway, a phenomenon termed tickover. People with 
+deficiencies in this pathway are susceptible to repeated meningococcus infections. This pathway can be 
+activated by mannan-binding lectins or antigen-antibody complexes. In this pathway, the membrane attack 
+complex is assembled by C5 through C9 after the formation of C3 and C5 convertase, and this pathway is 
+responsible for destroying bacteria independent of cell-mediated immunity. For 10 points, name this 
+cascade, a part of the innate immune system named for the fact that it adds to the defense provided by the 
+adaptive immune system. 
+ANSWER:  
+complement 
+ system [or  
+complement 
+ cascade; or  
+complement 
+ pathway] 
+048-12-59-02120 
+NASAT 2012     Round 2     Page  4 of 12 
+20. This work praises bees as an example of an animal that has learned no more than what they were taught 
+by nature. After attacking the pursuit of happiness by Christians as a type of madness, this book states that 
+there will be no epilogue, as the author hates a man who remembers what he hears. This work is prefaced 
+with a letter defending the right to criticize other men, written to a friend who himself was later executed. 
+The title character of this work claims to be the offspring of Plutus, the god of wealth, and a beautiful 
+nymph called Youth. This work was written while the author was at the residence of his close friend Sir 
+Thomas More. For 10 points, name this 1509 text by Erasmus. 
+ANSWER:  
+In Praise of Folly 
+ [or  
+Morias Enkomion 
+] 
+064-12-59-02121 
+21. This man once claimed to have dodged an assassin's bullet by diving over a fence, eliciting accusations 
+that he was lying in what is called the Observatory Affair. His loss of a legislative seat in 1958 began a 
+period referred to as the \"desert crossing.\" In another office, he appointed his country's first female prime 
+minister, Edith Cresson. This leader abolished the death penalty with his first prime minister, Pierre 
+Mauroy. After a legislative election during his first term, he was forced into cohabitation with RPR leader 
+Jacques Chirac. For 10 points, name this Socialist and longest-serving president of France. 
+ANSWER: Francois Maurice-Marie  
+Mitterrand 
+014-12-59-02122 
+22. The speaker of this poem compares the title creature to a \"high-born maiden in a palace tower\" and a 
+\"glow-worm golden in a dell of dew.\" This work's stanzas consist of four iambic trimeter lines followed by 
+a long iambic hexameter line. The speaker of this poem wishes for \"half the gladness\" of the title creature 
+so that \"harmonious madness\" could flow from his lips. This poem describes how the title figure pours 
+\"profuse strains of unpremeditated art,\" and it opens, \"Hail to thee, blithe spirit!\" For 10 points, name this 
+poem about a bird by Percy Bysshe Shelley. 
+ANSWER: \" 
+To a Skylark 
+\" 
+080-12-59-02123 
+23. One species from this phylum begins life in the bipinnaria stage, which is usually followed by a 
+brachiolaria stage. Members of this phylum possess an opening to filter water called the madreporite, which 
+is a feature of this phylum's water vascular system. The act of harvesting one class of organisms in this 
+phylum is called \"trepanging.\" This phylum is the second-largest grouping of deuterostomes after Chordata. 
+For 10 points, identify this phylum of marine animals possessing radial symmetry, examples of which 
+include sea urchins and starfish. 
+ANSWER:  
+Echinoderm 
+ata [or  
+echinoderm 
+s] 
+126-12-59-02124 
+NASAT 2012     Round 2     Page  5 of 12 
+NASAT 2012 
+Round 2 
+Bonuses 
+1. Albert Einstein called his introduction of this quantity his “greatest mistake.” For 10 points each: 
+[10] Name this constant that Albert Einstein introduced to create a static universe. This quantity is equal to 
+three times the curvature of the vacuum. 
+ANSWER:  
+cosmological 
+ constant 
+[10] Einstein introduced the cosmological constant into this theory of his that claims that gravity warps 
+spacetime. The Pound-Rebka experiment verified this theory’s prediction of gravitational redshift. 
+ANSWER:  
+general relativity 
+ [accept  ; prompt on  
+gr relativity 
+] 
+[10] When caused by the cosmological constant, this quantity is equal to the negative vacuum density or 
+the opposite of the mass density of the cosmological constant times c squared. This quantity’s “force” is 
+perpendicular to isobars, which represent constant values of this quantity, and causes winds. 
+ANSWER:  
+pressure 
+149-12-59-02201  
+2. Answer these questions about classical Chinese poetry, for 10 points each. 
+[10] This Tang Dynasty poet of \"Drinking Alone by Moonlight\" was the rival of Du Fu. 
+ANSWER:   Bo [or   Po; or   Bai] 
+Li Li Li 
+[10] This anthology, one of the Five Classics, comprises many works written during the Shang and Zhou 
+Dynasties. 
+ANSWER: the  
+Shijing 
+ [or the  
+Book of Odes 
+; or the  
+Book of Songs 
+; or the  
+Classic of Poetry 
+] 
+[10] This author wrote the poem \"Though the Tortoise Lives Long\" during the Battle of White Wolf 
+Mountain. He may be better known as the ruler of Wei in  
+Romance of the Three Kingdoms. 
+ANSWER:  
+Cao 
+ Cao [or Cao  
+Cao 
+] 
+080-12-59-02202  
+3. During this festival, the president, \"armed with the Flame of Truth,\" approached a basin that was meant 
+to symbolize \"that monster, Atheism.\" For 10 points each: 
+[10] Name this Jacques Louis David-planned French religious festival that saw the construction of a 
+mountain on the Champs du Mar. It celebrated the cult started by a revolutionary leader. 
+ANSWER: Festival of the  
+Supreme Being 
+[10] This promulgator of the Cult of the Supreme Being was the head of the Committee of Public Safety. 
+He was executed following the Thermidorian Reaction. 
+ANSWER: Maximilien Francois-Marie-Isidore de  
+Robespierre 
+[10] Robespierre was a member of this anti-slave trade group that was led by Jacques-Pierre Brissot. This 
+group was opposed by the planter-composed Massiac club. 
+ANSWER: Society of the  
+Friends of the Blacks 
+ [or Societe des  
+Amis des Noirs 
+] 
+149-12-59-02203  
+NASAT 2012     Round 2     Page  6 of 12 
+4. These texts include the Vohu-Khshathra and the Ahuna Vairya, which mandates the choice of the lord, 
+or  
+ahu, 
+ the judgment, or  
+ratush, 
+ and the rule, or  
+xshathra. 
+ For 10 points each: 
+[10] Name this set of verse hymns which frequently address Ahura Mazda. 
+ANSWER:  
+Gathas 
+[10] The Gathas comprise part of the Avesta, the primary sacred text of this religion founded by a 
+namesake Persian prophet. 
+ANSWER:  
+Zoroastrian 
+ism 
+[10] The Gathas are a subset of this larger body of Zoroastrian liturgical texts. The twelfth one, the  
+Fravarane 
+ creed, begins, “I curse the Daevas. I declare myself a Mazda-worshipper.” 
+ANSWER:  
+Yasna 
+014-12-59-02204  
+5. Examples of this type of composition by J.S. Bach include  
+Ascension Easter 
+,  , and  
+Christmas 
+. For 10 
+points each: 
+[10] Name these compositions for an orchestra and large choir, exemplified by Handel’s  
+Messiah 
+. 
+ANSWER:  
+oratorio 
+s 
+[10] Adapted from a Cardinal Newman poem, this Edward Elgar oratorio tells the story of a man’s soul as 
+it travels to Purgatory. It includes the “Praise of the Holiest” chorus. 
+ANSWER:  
+The  Dream of Gerontius 
+[10] This British composer adapted Psalm 137 and the Book of Daniel into the oratorio  
+Belshazzar’s Feast 
+. 
+He also composed  
+Façade 
+, a setting of Edith Sitwell’s poetry. 
+ANSWER: William  
+Walton 
+079-12-59-02205  
+6. Xenophon wrote an embellished biography of this ruler. For 10 points each: 
+[10] Name this first of the Achaemenids who made his capital at Pasargadae after founding the Persian 
+Empire. 
+ANSWER:  
+Cyrus 
+ the Great [or  
+Cyrus 
+ II] 
+[10] This son and successor of Cyrus launched a successful invasion of Egypt and a less successful attack 
+on Kush. Herodotus claims he lost a massive army to a sandstorm. 
+ANSWER:  
+Cambyses II 
+ [prompt on  
+Cambyses 
+] 
+[10] Cyrus started off by defeating Astyages and conquering this empire, which had its capital at Ecbatana. 
+ANSWER:  
+Medes 
+ [or  
+Median 
+ Empire] 
+015-12-59-02206  
+7. This character marries Narcissa, the niece of his employer to whom he reads Tasso’s poetry, and he 
+meets his long-lost father Don Rodrigo while on a voyage with Tom Bowling. For 10 points each: 
+[10] Name this title character of a picaresque novel who frequently supports himself by serving as a ship’s 
+surgeon. 
+ANSWER: Roderick  
+Random 
+ [or  
+Roderick 
+ Random] 
+[10]  
+The Adventures of Roderick Random 
+ was written by this Scottish novelist of  
+The Expedition of 
+Humphry Clinker 
+ and  
+The Adventures of Peregrine Pickle. 
+ANSWER: Tobias  
+Smollett 
+[10] Smollett translated into English this Spanish novel about a delusional man known for tilting at 
+windmills. 
+ANSWER:  
+Don Quixote 
+014-12-59-02207  
+NASAT 2012     Round 2     Page  7 of 12 
+8. Answer the following about foreign relations between Japan and the United States, for 10 points each. 
+[10] This commodore opened Japan to foreign relations. He first arrived in July 1853 and signed the 
+Convention of Kanagawa the following year. His older brother, Oliver, won the battle of Lake Erie in the 
+War of 1812. 
+ANSWER: Matthew Calbraith  
+Perry 
+[10] In 1907, Japan and the United States agreed that San Francisco would end segregation of Japanese 
+students in schools, and Japan would not allow further emigration to the U.S. That decision was known by 
+this name. 
+ANSWER:  
+Gentlemen's Agreement 
+ of 1907 
+[10] Japanese-American internment was declared constitutional in the 1944  
+Korematsu 
+ case. This justice 
+wrote a dissent arguing that \"military decisions are not susceptible of intelligent judicial appraisal.\" He 
+went on to become the chief American prosecutor at the Nuremberg trials. 
+ANSWER: Robert Houghwout  
+Jackson 
+052-12-59-02208  
+9. The initial substance in this process is dissolved in molten cryolite in order to decrease the melting point 
+of the Al O . 10 points each: 
+2 3 
+[10] Name this process that uses electrolysis to obtain aluminum from alumina. 
+ANSWER:  
+Hall-Heroult 
+ process 
+[10] The Hall-Heroult process is often preceded by the Bayer process, which obtains the alumina from this 
+ore. It is the main source of aluminum used in industry. 
+ANSWER:  
+bauxite 
+[10] The Castner-Kellner process is another electrolytic method that can be used for aluminum extraction. 
+It produces an alkali hydroxide from the alkaline metal compounded with this second lightest halogen. 
+ANSWER:  
+chlorine 
+ [or  
+Cl 
+] 
+127-12-59-02209  
+10. For 10 points each, answer the following about UNESCO Natural World Heritage Sites that are found 
+in Australia. 
+[10] This collection of over 400 species of coral is also a major nesting ground for green and loggerhead 
+turtles. It is the world's largest coral reef. 
+ANSWER:  
+Great Barrier 
+ Reef 
+[10] This largest sand island in the world is home to \"acid frogs\" and one of the purest dingo populations in 
+Australia. It was renamed from \"Great Sandy Island\" after a shipwreck survivor who ended up on it. 
+ANSWER:  
+Fraser 
+ Island 
+[10] Both the Great Barrier Reef and Fraser Island are found off the coast of this northeastern Australian 
+state whose tropical rainforests are also a Natural World Heritage Site. 
+ANSWER:  
+Queensland 
+003-12-59-02210  
+NASAT 2012     Round 2     Page  8 of 12 
+11. The area enclosed by one of these curves is equal to a material-dependent power of the flux density 
+times the Steinmetz coefficient, and represents the energy loss in one cycle. For 10 points each: 
+[10] Name this type of \"loop\" used to characterize the response of elastic and some magnetic materials to 
+changes in the magnetic field strength. 
+ANSWER:  
+hysteresis 
+ loop 
+[10] Classically, metals which exhibit this behavior undergo hysteresis. This property exists below the 
+Curie point, and occurs when domains align parallel to each other, creating a permanent magnet. 
+ANSWER:  
+ferromagnetism 
+[10] The positive y-axis intercept of the hysteresis loop represents the amount of magnetization still present 
+in the presence of zero magnetic field. 
+ANSWER:  
+remanence 
+003-12-59-02211  
+12. Name the following Czech authors, for 10 points each. 
+[10] Ludvik writes “optimism is the opium of the people” on a postcard in this author’s novel  
+The Joke. 
+ He 
+also wrote about Tomas, Tereza, and Sabina in  
+The Unbearable Lightness of Being. 
+ANSWER: Milan  
+Kundera 
+[10] This man wrote a satire centering on a soldier in World War I in a novel illustrated by George Grosz,  
+The Good Soldier Schweik. 
+ANSWER: Jaroslav  
+Hasek 
+[10] This Nobel laureate, the first Czech to win the prize, wrote  
+Mozart in Prague: Thirteen Rondels 
+ as 
+well as  
+On the Waves of T.S.F. 
+ANSWER: Jaroslav  
+Seifert 
+127-12-59-02212  
+13. This term refers to achieved status, whose social cohesion is more susceptible to class conflict. For 10 
+points each: 
+[10] Name this German term which is often translated as “society.” It refers to an association where 
+individuals work out of self interest, as opposed to its contrasting term, which denotes individuals’ 
+loyalties to the larger community. 
+ANSWER:  
+Gesellschaft en 
+ [do not accept “gemeinschaft”] 
+[10] The concept of  
+gesellschaften 
+ was devised by Ferdinand Tonnies, who studied human association, 
+much like this man, who theorized the role of religion in society in  
+The Protestant Ethic and the Spirit of 
+Capitalism 
+. 
+ANSWER: Maximilian Karl Emil  
+Weber 
+[10] An American conceptualist of the community is Robert Putnam, who wrote this 2000 book in which 
+he analyzed the decline of social capital in America, including the deterioration of social organizations like 
+the ones dedicated to the title activity. 
+ANSWER:  
+Bowling Alone : The Collapse and Revival of American Community 
+ [or  
+Bowling Alone : 
+America’s Declining Social Capital 
+] 
+052-12-59-02213  
+NASAT 2012     Round 2     Page  9 of 12 
+14. The current holder of this position played professional basketball in Australia’s NBA. For 10 points 
+each: 
+[10] Name this Cabinet position which during the Bush administration’s second term was held by Margaret 
+Spellings, who succeeded Rod Paige. 
+ANSWER: Secretary of  
+Education 
+[10] The current Secretary of Education, Arne Duncan, was formerly CEO of this city’s public schools. 
+The current mayor of this city is former White House Chief of Staff Rahm Emanuel. 
+ANSWER:  
+Chicago 
+[10] This NYU professor is a critic of No Child Left Behind and the charter school system. She is the 
+author of such books as  
+The Language Police 
+ and  
+The Death and Life of the Great American School 
+System. 
+ANSWER: Diane Silvers  
+Ravitch 
+052-12-59-02214  
+15. This woman gave a fidelity charm to her husband, causing him to ejaculate serpents and scorpions. For 
+10 points each: 
+[10] Name this woman, the mother of Ariadne. Under a curse from Poseidon, she mated with a certain 
+white animal he sent to her kingdom. 
+ANSWER:  
+Pasiphae 
+[10] After mating with the white bull, Pasiphae gave birth to this monster, otherwise known as Asterion. 
+This man-bull was placed inside the labyrinth. 
+ANSWER:  
+Minotaur 
+[10] The Athenians had to send youths to be eaten by the Minotaur as punishment for killing this son of 
+Minos and Pasiphae, who apparently had won too many prizes at a feast. 
+ANSWER:  
+Androgeos 
+052-12-59-02215  
+16. In this painting, a man sitting on a window sill appears about to defecate on a globe with its cross 
+pointing downwards. For 10 points each: 
+[10] Name this painting also depicting such tropes as a man knocking his head against a wall and a big fish 
+eating a little fish. 
+ANSWER:  
+Netherlandish Proverbs 
+[10]  
+Netherlandish Proverbs 
+ was painted by this Flemish artist of  
+Landscape with the Fall of Icarus 
+ and  
+The Triumph of Death. 
+ANSWER: Pieter  
+Bruegel 
+ the Elder 
+[10] This Bruegel painting shows the influence of Hieronymus Bosch, as the retreating title characters are 
+in the middle of transforming into butterflies, fish, gnomes, and other bizarre creatures. 
+ANSWER:  
+The  Fall of the Rebel Angels 
+014-12-59-02216  
+NASAT 2012     Round 2     Page  10 of 12 
+17. The Danish king Christian VIII died in this year, which led to mass protests for a constitutional 
+monarchy. For 10 points each: 
+[10] Name this year known as the \"Year of Revolutions\" in Europe because of numerous popular protests. 
+During this year, Louis-Philippe abdicated the throne in France and a briefly autonomous Hungarian 
+government was set up under Lajos Kossuth. 
+ANSWER:  
+1848 
+[10] This king of Prussia in 1848 initially opposed the revolution, but then supported it and German 
+unification for a time for his own security. In 1849, this ruler refused the crown offered to him by the 
+Frankfurt Assembly. 
+ANSWER:  
+Frederick William IV 
+ of Prussia [or  
+Friedrich Wilhelm IV 
+; prompt on  
+Frederick William 
+; 
+prompt on  
+Friedrich Wilhelm 
+] 
+[10] In 1848, the year after the Sonderbund War, this modern-day country devised a new constitution that 
+created a federal state. 
+ANSWER:  
+Switzerland 
+ [or  
+Swiss 
+ Confederation; or  
+Schweiz 
+erische Eidgenossenschaft; or Confederation  
+Suisse 
+; or Confederazione  
+Svizerra 
+; or Confederaziun  
+Svizra 
+] 
+052-12-59-02217  
+18. Answer the following about novels with strong homosexual themes, for 10 points each. 
+[10] This author wrote about the teenager Joel Knox, who comes to live at a mansion owned by the 
+homosexual cross-dresser Randolph. Besides  
+Other Voices, Other Rooms, 
+ he wrote the novella  
+Breakfast at 
+Tiffany’s 
+ and the crime novel  
+In Cold Blood. 
+ANSWER: Truman  
+Capote 
+ [or Truman Streckfus  
+Persons 
+] 
+[10] This female author wrote about the homosexual Captain Weldon Penderton, who becomes attracted to 
+Private Williams, in her work  
+Reflections in a Golden Eye. 
+ She also wrote about a deaf man named John 
+Singer in another novel. 
+ANSWER: Carson  
+McCullers 
+ [or Lula Carson  
+Smith 
+] 
+[10] In this controversial 1936 Djuna Barnes novel, Robin Vote marries Baron Felix Volkbein, but then 
+ends up having relationships with Nora Flood and Jenny Petherbridge. It is considered one of the first 
+explicit depictions of homosexuality in American prose. 
+ANSWER:  
+Nightwood 
+052-12-59-02218  
+19. One person killed in this incident was Hector Pieterson. For 10 points each: 
+[10] Name this event that began on June 16, 1976. It began with students protesting the requirement of 
+schools to use the Afrikaans language and led to about 176 deaths. 
+ANSWER:  
+Soweto 
+ Uprising [or equivalents such as  
+Soweto 
+ Rebellion] 
+[10] The Soweto Uprising took place in this country, where many students associated the Afrikaans 
+language with the official policies of apartheid. 
+ANSWER: Republic of  
+South Africa 
+[10] This South African student leader founded the Black Consciousness Movement. He was killed in 1977 
+after being arrested and sent to Pretoria prison, and his friend, journalist Donald Woods, used the death as a 
+rallying cry against apartheid. 
+ANSWER: Steve  
+Biko 
+ [or Bantu Stephen  
+Biko 
+] 
+052-12-59-02219  
+NASAT 2012     Round 2     Page  11 of 12 
+20. Prokaryotic ones have two nucleotide sequences at the minus 10 and minus 35 sites, and eurokaryotic 
+ones contain a TATA box. For 10 points each: 
+[10] Name these parts of DNA where gene transcription begins. 
+ANSWER:  
+promoter 
+s 
+[10] This promoter element located in the -5 to -10 region helps orient prokaryotic polymerases. This 
+element is usually some variant of TATAAT and is the Eukaryotic analog of the TATA box. 
+ANSWER:  
+Pribnow 
+ box 
+[10] This technique is used to assay for the level of several different genes at once. It uses a glass slide 
+printed with a series of oligos that hybridize to a sample. 
+ANSWER: DNA  
+microarray 
+ [or DNA  
+chip 
+] 
+079-12-59-02220  
+21. This author wrote the “No Name Series,” which included the novel  
+Mercy Philbrick’s Choice. 
+ For 10 
+points each: 
+[10] Name this author who wrote about a part Scottish, part American Indian orphan in  
+Ramona 
+ and also 
+documented government abuse of American Indians in the nonfiction  
+A Century of Dishonor. 
+ANSWER: Helen Hunt  
+Jackson 
+ [or Helen  
+Fiske 
+] 
+[10]  
+Ramona 
+ is set in this American state. Jackson was an activist there for the so-called “Mission 
+Indians,” who were forcibly converted and taken to missions, such as Mission San Juan Capistrano and 
+Mission Santa Barbara. 
+ANSWER:  
+California 
+[10] In this novel also set in California, Danny inherits two houses from his grandfather. Danny’s buddies 
+are Pablo, Pilon, and Jesus Maria, and Danny ultimately dies when he falls into a gulch. 
+ANSWER:  
+Tortilla Flat 
+052-12-59-02221  
+Powered by TCPDF (www.tcpdf.org) 
+NASAT 2012     Round 2     Page  12 of 12 

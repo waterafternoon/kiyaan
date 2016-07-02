@@ -1,0 +1,710 @@
+2014 OAC 
+Packet 9 
+CATEGORY ROUND 
+American Literature: Comic Writers 
+Team A: What playwright wrote about ill-matched roommates in  
+The Odd Couple? 
+ANSWER: Neil  
+Simon 
+Team B: What poet said \"Candy is dandy, but liquor is quicker\" and wrote \"Custard the Dragon?\" 
+ANSWER: Ogden  
+Nash 
+Tossup: A story by this man is named for a phrase used by Brooklyn Dodgers announcer Red Barber. That 
+story of his features Erwin Martin's attempt to orchestrate the firing of Ulgine Barrows for upsetting office 
+efficiency. This author of  
+My Life and Hard Times 
+ and \"The Catbird Seat\" wrote about a title character who 
+daydreams that he is a surgeon, a marksman, and a fighter pilot. Name this humorist who wrote \"The Secret 
+Life of Walter Mitty.\" 
+ANSWER: James  
+Thurber 
+Mathematics: Rules and Theorems 
+Team B: This is a 30-second calculation question. What is the percentage of data in a normal distribution 
+that is at least one standard deviation away from the mean? Express your answer to the nearest integer. 
+ANSWER:  
+32% 
+Team A: This is a 30-second calculation question. What is the percentage of data in a normal distribution 
+with a z-score greater than 0 and less than 1? Express your answer to the nearest integer. 
+ANSWER:  
+34 
+% 
+Tossup: This theorem is a special case of an extended version proven by Cauchy, which replaces the 
+identity function with a more general differentiable function. When applied to integration, this theorem can 
+be used to prove the first fundamental theorem of calculus. Rolle's theorem is a special case of this 
+theorem. Name this theorem which states that for any two points on a differentiable curve, there exists a 
+point between them whose derivative is equal to the slope of the secant line. 
+ANSWER:  
+mean value 
+ theorem [reverse prompt on  
+Rolle 
+'s theorem until it is 
+read] 
+2014 OAC     9     Page  1 of 17 
+World History: Colonialism 
+Team A: What European country departed its largest colony in 1947, an event marked by the \"Tryst With 
+Destiny\" speech? 
+ANSWER: the  
+United Kingdom 
+ [or  
+Great Britain 
+; or  
+Britain 
+; or  
+England 
+; or 
+the  
+UK 
+] 
+Team B: What country lost its colony of Mozambique along with the Carnation Revolution? 
+ANSWER:  
+Portugal 
+Tossup: This leader described Vietnam as \"the rotten country\" and started a boycott of the European 
+Economic Community that led to the Empty Chair Crisis. He pulled his country out of NATO in 1966, four 
+years after he escaped an assassination attempt engineered by the Secret Army Organization. His 
+presidency was weakened by a series of protests in May of 1968. This leader's government signed the 
+Evian Accords to grant Algeria independence. Name this first president of France's Fifth Republic, who led 
+the Free French forces during World War II. 
+ANSWER: Charles Andre Joseph Marie  
+de Gaulle 
+Fine Arts: Italian Artists 
+Team B: Name the Italian painter who's better known for his series of biographies, the  
+Lives of the Artists. 
+ANSWER: Giorgio  
+Vasari 
+Team A: Name the Baroque painter of  
+The Seven Works of Mercy 
+ and a five-person  
+Entombment of Christ 
+that appears to be taking place on an elevated slab. 
+ANSWER: Michelangelo Merisi o Amerighi da  
+Caravaggio 
+Tossup: This artist faced a roadblock when the pope forbade him from dissecting cadavers. This artist 
+painted a mistress of Ludovico Sforza holding a stoat in  
+Lady with an Ermine 
+. He drew an image of a man 
+superimposed over an image of the same man with arms and legs in different positions in his sketch of the  
+Vitruvian Man 
+. One of his portraits, also known as  
+La Gioconda 
+, depicts a woman with a famously 
+enigmatic smile. Name this Renaissance artist and inventor, who painted  
+The Last Supper 
+ and the  
+Mona 
+Lisa 
+. 
+ANSWER: Leonardo  
+da Vinci 
+ [ or  
+Leonardo 
+ da Vinci] 
+2014 OAC     9     Page  2 of 17 
+Life Sciences: Biological Elements 
+Team A: What metal is found in the active site of hemoglobin, and can bind to oxygen reversibly? 
+ANSWER:  
+iron 
+ [or  
+Fe 
+] 
+Team B: What metal's plus-2 cation, stored in cells's sarcoplasmic reticulum, is used as a secondary 
+messenger to signal muscle contractions? 
+ANSWER:  
+calcium 
+ [or  
+Ca 
+2+] 
+Tossup: Although not carbon, the ring in the structure of lipoic acid contains two atoms of this element 
+bonded to each other. Aconitase is an example of an enzyme in which atoms of this element form 
+complexes with iron. The tertiary structure of proteins is helped in part by bonds between two atoms of this 
+element, which is found in the amino acids methionine and cysteine. Anaerobic respiration in some bacteria 
+releases a rotten-smelling molecule comprised of an atom of this element bonded to two hydrogens. Name 
+this element with atomic symbol S. 
+ANSWER:  
+sulfur 
+ [or   until it is read] 
+S 
+World Literature: Foreign Languages 
+Team B: What was the language used by authors such as Isak Dinesen and Henrik Pontoppidan? 
+ANSWER:  
+Danish 
+ [or  
+Dansk 
+] 
+Team A: What genre of poetry is used in the collection  
+The Seashell Game? 
+ANSWER:  
+haiku 
+Tossup: In a novel written in this language, the dog Karenin dies of cancer while Tomas cheats on Sabina 
+with Tereza. That novel written in this language is  
+The Unbearable Lightness of Being. 
+ A play written in 
+this language describes Hugo Pludek's rise to the head of the Liquidation Office. That play in this language 
+was written by a prominent politician and is titled  
+The Garden Party. 
+ Name this language used by Vaclav 
+Havel and Milan Kundera, who set many of their writings in Prague. 
+ANSWER:  
+Czech 
+ language [or  
+Bohemian 
+; do not accept \"Slovak\" or 
+\"Czechoslovakian\"] 
+2014 OAC     9     Page  3 of 17 
+US Government/Economics: Effects 
+Team A: The \"sow's ear effect\" restrains countries with problems in what macroeconomic phenomenon, 
+which is also the active factor in Say's Law and the namesake of a 1980s economic policy? 
+ANSWER:  
+supply 
+ [or the  
+supply 
+ side, etc.] 
+Team B: What is name of the ratio of change in national income to the causative change in autonomous 
+spending, an effect that measures the effectiveness of fiscal policy in Keynesian economics? 
+ANSWER: fiscal  
+multiplier 
+ effect 
+Tossup: A Giffen good can arise when this effect's counterpart is significantly stronger than this effect, 
+allowing the good to have an upward-sloping demand curve. This effect occurs when two goods have a 
+positive cross elasticity of demand. This effect applies to goods like margarine and butter, or hot dogs and 
+hamburgers, that are easily replaced by one another. Name this effect in which a buyer's relative demand 
+for two goods changes with a change in their relative prices, often paired with the income effect 
+ANSWER:  
+substitution 
+ effect 
+Physical Sciences: SI Units 
+Team B: What SI unit is equal to one kilogram meter per second squared? 
+ANSWER: one  
+Newton 
+Team A: What base SI unit is defined as one Coulomb per second, and was named for a physicist who 
+determined how currents create magnetic fields? 
+ANSWER:  
+ampere 
+s 
+Tossup: One over j times angular frequency times this quantity is a formula for impedance. This quantity 
+equals the derivative of charge with respect to potential. This quantity can be increased by adding barium 
+titanate or other dielectrics, and for two thin plates it is proportional to area and inversely proportional to 
+their separation. This quantity adds in parallel, unlike resistance and inductance. Identify this electrical 
+quantity, measured in farads. 
+ANSWER:  
+capacitance 
+2014 OAC     9     Page  4 of 17 
+World Geography: Disputed Territory 
+Team A: What country disputed control of the Ogaden with its neighbor Ethiopia, and has consistently 
+topped the Failed States Index? 
+ANSWER: Federal Republic of  
+Somalia 
+ [or Jamhuuriyadda Federaalkaa  
+Soomaaliya 
+] 
+Team B: What country was invaded by Turkey in 1974, leading to the creation of a buffer zone on it called 
+the Green Line? 
+ANSWER: Republic of  
+Cyprus 
+ [or  
+Kypros 
+; or  
+Kypriaki Dimokratia 
+; or  
+Kibris 
+ Cumhuriyeti] 
+Tossup: This country's southeastern Chirac Pastures are claimed by the left-wing opposition party in a 
+neighboring country. This country claims control over Leila Island as well as Melilla (meh-LEE-yah) and 
+Ceuta (say-OO-tah), which are currently under the de facto control of Spain. This country's southern half 
+has long been run by the breakaway Polisario (poh-lee-SAH-ree-oh) Front under the name Western Sahara. 
+Name this country, the home of Tangiers and Casablanca. 
+ANSWER: Kingdom of  
+Morocco 
+ [or Al Mamlakah al  
+Maghrib 
+iyah] 
+American History: Letter Writers 
+Team B: Name the person who wrote \"it is wrong to use immoral means to attain moral ends\" in the “Letter 
+from Birmingham Jail.\" 
+ANSWER: Martin Luther  
+King 
+, Jr. [or  
+MLK 
+J] 
+Team A: Name the First Lady who wrote a letter to her husband asking him to “remember the ladies.” 
+ANSWER:  bigail  
+A Adams 
+ [or Abigail  
+Smith 
+; prompt on  
+Adams 
+] 
+Tossup: This man wrote a four-thousand word love letter to the English artist Maria Cosway. He invented a 
+revolving book stand that could hold five books at once, and, after the burning of Washington, he offered to 
+sell his over six thousand books to the Library of Congress. At a private 1790 dinner, this man agreed to his 
+rival's plan of federal assumption of war debts. This politician was accused of fathering children by his 
+slave, Sally Hemings, who lived at his plantation, Monticello. Name this author of the Declaration of 
+Independence. 
+ANSWER: Thomas  
+Jefferson 
+2014 OAC     9     Page  5 of 17 
+Alphabet Round - Letter B 
+1. What curve, a hypothetical Greek-named path which moves a particle in the least time, was found to be identical to an 
+inverted cycloid in the eighteenth century? 
+2. What early promoter of the scientific method wrote about the four Idols in the  
+Novum Organum? 
+3. What president helped write the Ostend Manifesto when minister to England? 
+4. What actor starred as Sam Spade in  
+The Maltese Falcon 
+ and as Rick in  
+Casablanca? 
+5. What country lost its coast after being defeated by Chile in the War of the Pacific? 
+6. On what saints feast day were thousands of Hugenots killed during the French Wars of Religion? 
+7. Who invented the telephone? 
+8. What are viruses that infect bacteria called? 
+9. What circus owner displayed the dwarf Tom Thumb and allegedly said “There's a sucker born every minute?” 
+10. What is the nickname for English policemen that comes from the name of prime minister Robert Peel? 
+11. What longtime advisor to Democratic Presidents on financial matters chaired both the War Industries Board in World War I 
+and the War Production Board in World War II? 
+12. On what Filipino peninsula were American prisoners-of-war forced on a death march to Camp O'Donnell during World War 
+II? 
+13. What is the second letter of the Greek alphabet? 
+14. At what temperature does the vapor pressure of a liquid equal the pressure of the surrounding system? 
+15. What French prison's storming is celebrated every year on July 14? 
+16. What German state's largest city is Munich? 
+17. What jurist nominated for the Supreme Court by Ronald Reagan was not confirmed by the Senate? 
+18. What type of wetland contains peat? 
+19. What Republican lost to Grover Cleveland in 1884 and was attacked as “the continental liar from the state of Maine?” 
+20. What sport does Roy Hobbs play in  
+The Natural? 
+2014 OAC     9     Page  6 of 17 
+Alphabet Round - Letter B ANSWERS 
+1.  
+brachistochrone 
+ curve 
+2. Francis  
+Bacon 
+3. James  
+Buchanan 
+4. Humphrey  
+Bogart 
+5.  
+Bolivia 
+6. Saint  
+Bartholomew 
+ [or Saint- 
+Barthélemy 
+] 
+7. Alexander Graham  
+Bell 
+8.  
+bacteriophage 
+s 
+9. Phineas Taylor  
+Barnum 
+10.  
+Bobby 
+ [or  
+Bobbies 
+] 
+11. Bernard  
+Baruch 
+12.  
+Bataan 
+ Peninsula 
+13.  
+beta 
+14.  
+boiling 
+ point 
+15. the  
+Bastille 
+16.  
+Bavaria 
+ [or  
+Bayern 
+] 
+17. Robert  
+Bork 
+18.  
+bog 
+19. James Gillespie  
+Blaine 
+20.  
+baseball 
+2014 OAC     9     Page  7 of 17 
+FINAL ROUND 
+1. The first and last coefficients of an integer polynomial can be used to guess solutions to the polynomial 
+with this property. Dividing one polynomial by another gives a function described by this adjective. The 
+Greeks proved that the square root of two did not have this property. It is possessed by any number with a 
+terminating decimal expansion, and any integer, but not any real number. Identify this type of number 
+which can be expressed as a fraction of two integers. 
+ANSWER:  
+rational 
+ [or  
+rational 
+ number; or  
+rational 
+ function] 
+132-14-103-09101 
+2. This painting was originally dismissed as a \"hodgepodge of body parts that any four-year-old could have 
+painted.\" On the bottom of this painting, a dying man holds in his right hand a flower and a broken sword, 
+below a woman who pokes her head out a window and holds out a lamp. This painting originally shown at 
+the Paris Exposition in 1937 depicts a bird, a bull, and a screaming horse. Name this painting inspired by 
+the German bombing of a town during the Spanish Civil War, painted by Pablo Picasso. 
+ANSWER:  
+Guernica 
+023-14-103-09102 
+3. The second verse of one of this man's songs states that \"Mermaids are chanting the wild lorelei.\" In 
+another of his songs a man admonishes a woman, \"...don't you cry for me/For I come from Alabama with a 
+banjo on my knee.\" This man wrote many songs for the Christy's Minstrels, including one traditionally 
+sung before an annual event at Churchill Downs. Another of his songs includes the refrain, \"Doo dah, doo 
+dah.\" Name this American songwriter of \"My Old Kentucky Home,\" \"Camptown Races,\" and \"Oh! 
+Susanna.\" 
+ANSWER: Stephen  
+Foster 
+030-14-103-09103 
+4. The reaction of these substances to stressful forces is called tenacity. Adding a drop of hydrochloric acid 
+and seeing whether these substances fizz can be used to test whether they contain carbonate. The color 
+these substances display in a powdered form is called streak. Their crystal lattice determines their 
+properties of parting, fracture, and cleavage. The vast majority of Earth's crust is made up of the silicate 
+type of these substances. Name these constituents of rocks. 
+ANSWER:  
+mineral 
+s [prompt on  
+crystal 
+s until \"crystal lattice\" is read] 
+066-14-103-09104 
+5. The tat protein in HIV patients greatly increases the rate of this process, which is also enhanced in the 
+presence of acetyl transferases. Although not methylation, this process is initiated from CpG islands in 
+some eukaryotes. This process does not occur from Barr bodies because they have been highly methylated. 
+The product of this process is capped with methyl-guanosine and gets a poly-A tail. Retroviruses can do 
+this process in reverse. This process is initiated at a promoter and is mostly catalyzed by RNA polymerase. 
+Name this process of making messenger RNAs from DNA. 
+ANSWER:  
+transcription 
+ [do not accept \"translation\"] 
+190-14-103-09105 
+6. One of this man’s novels describes a group of counterrevolutionaries known as the Black Hundreds who 
+work for the title totalitarian government. That novel is supposedly based on a manuscript written by Avis 
+Everhard and is  
+The Iron Heel 
+. This man also wrote a novel in which the main character was originally 
+cared for by Judge Miller, develops a rivalry with Spitz, and supposedly visits the grave of John Thornton 
+according to Yeehat legend. Name this author who wrote about Buck in  
+The Call of the Wild 
+. 
+ANSWER: Jack  
+London 
+030-14-103-09106 
+2014 OAC     9     Page  8 of 17 
+7. A smaller-scale version of this event occurred in 541-542 AD during Justinian's reign. The peak of this 
+event coincided with the peak of the flagellant movement. Popular explanations for this event included the 
+miasma theory and the poisoning of wells by Jews. This event began after a siege of Caffa in Crimea and 
+its victims' bodies were often piled onto death carts. Name this pandemic that killed between 30-60% of 
+Europe's population in the 14th century. 
+ANSWER:  
+Black Death 
+ [or  
+bubonic plague 
+; or  
+black plague 
+] 
+020-14-103-09107 
+8. One poem by this man describes, “All nations striving strong to make/Red war yet redder.” Another 
+poem by this man is subtitled “Lines on the loss of the ‘Titanic.’” In addition to “Channel Firing” and 
+“Convergence of the Twain,” this man wrote a novel in which Michael Henchard drunkenly sells his wife 
+and child to a sailor. In another of his novels, a stonecutter falls in love with Sue Bridehead. Name this 
+British author of  
+The Mayor of Casterbridge 
+ and  
+Jude the Obscure 
+. 
+ANSWER: Thomas  
+Hardy 
+030-14-103-09108 
+9. The work function of a metal can be found by taking Planck's constant times frequency for the absorbed 
+photon and subtracting this quantity for the emitted electron. The equipartition theorem sets it equal to 
+three-halves times Boltzmann's constant times temperature. Its rotational component is proportional to the 
+angular velocity squared. It is conserved in elastic, but not inelastic, collisions. Its change is equal to the 
+work done on the system. Name this quantity equal to half of mass times velocity squared, the energy of 
+motion. 
+ANSWER:  
+kinetic 
+ energy [or  
+KE 
+; or  
+E sub k 
+] 
+190-14-103-09109 
+10. This thinker posited that material, formal, efficient, and final causes were present in all things. He 
+claimed that the only non-material form was the \"Prime Mover.\" This man suggested that \"eudaemonia\" 
+could be found by pursuing moderation in a manual named after his son, the  
+Nichomachean Ethics. 
+ Name 
+this tutor of Alexander the Great and most influential philosopher of Classical Greece, who wrote the  
+Politics 
+ and  
+Poetics. 
+ANSWER:  
+Aristotle 
+019-14-103-09110 
+11. This region was the subject of a Marjory Stoneman Douglas book which referred to it as the \"river of 
+grass,\" and it contains the almost entirely uninhabited Ten Thousand Islands. The Tamiami Trail, 
+eventually known as \"Calle (KAI-yay) Ocho,\" runs through it. Over twelve hundred invasive Burmese 
+pythons have been removed from this region since 2009. Napoleon Bonaparte Broward proposed draining 
+it. This region is fed by the Kissimmee River, which empties directly into Lake Okeechobee. Name this 
+large tropical wetlands region in southern Florida. 
+ANSWER:  
+Everglades 
+052-14-103-09111 
+12. This language is most closely related to Khanty and Mansi, which are spoken along the Ob river in 
+Russia. It uses many Turkish words relating to horse riding. Its two difficult palatal stop consonants are 
+written \"t-y\" and \"g-y.\" This language has over two dozen noun cases, and it follows vowel harmony. Like 
+Finnish and Estonian, this European language is part of the Finno-Ugric (OO-grik) family. Name this 
+most-spoken non-Indo-European language of Europe, often heard in Budapest. 
+ANSWER:  
+Hungarian 
+ [or  
+Magyar 
+] 
+021-14-103-09112 
+2014 OAC     9     Page  9 of 17 
+13. Early rulers of this empire were called \"labarna\" after its apocryphal founder, and it reached its apex 
+under the reigns of Suppiluliumas I and Mursilis II. Bogazkoy served as the capital of this empire, that 
+fought Ramses II at Kadesh, and its power began to wane with attacks from the Assyrians and the Sea 
+Peoples. Name this fourteenth century BCE empire in Turkey that crafted iron artifacts. 
+ANSWER:  
+Hittite 
+ empire 
+144-14-103-09113 
+14. In patients with this disease, levels of hemoglobin A1C are often monitored. A sizable proportion of 
+patients with this disease develop ulcers in their feet, and other complications include retinopathy and 
+nephropathy. An autoimmune attack causes unpredictable bouts of hypo- and hyper-glycemia in one form 
+of this disease, which results in the destruction of the beta cells in the islets of Langerhans, stopping the 
+production of insulin. Name this disease whose type I and type II forms both involve an elevated level of 
+blood sugar. 
+ANSWER:  
+diabetes 
+ mellitus 
+020-14-103-09114 
+15. In a novel by this author, Captain Winterbottom stops a fight involving a village led by Ezeulu. This 
+author complained about the \"dehumanization of Africa and Africans\" by a \"bloody racist\" in his essay \"An 
+Image of Africa\" about the book  
+Heart of Darkness 
+. A character created by this author beats his wife 
+during the Week of Peace and lives in Umuofia. Name this Nigerian author who wrote  
+Arrow of God 
+ and a 
+novel about Okonkwo called  
+Things Fall Apart 
+. 
+ANSWER: Albert Chinualumogu  
+Achebe 
+023-14-103-09115 
+16. This composer hated the recording industry and coined the term \"canned music\" to describe recorded 
+pieces. He wrote a piece for the awards ceremony of an essay contest being run by the  
+Washington Post. 
+While serving as the leader of \"The President's Own,\" this composer wrote the song \"Semper Fidelis,\" 
+which was made the official song of the Marine Corps. Name this American \"March King\" who composed 
+\"The Stars and Stripes Forever\" and is the namesake of a tuba-like brass instrument. 
+ANSWER: John Philip  
+Sousa 
+023-14-103-09116 
+17. As a wind god, he was shown with a mask with two tubes, and he was sometimes identified as the 
+planet Venus. He had a dog-headed companion named Xolotl (shuh-LOT-ul) who descended into Mictlan 
+to gather the bones of the dead. He was the god of the morning and evening star. One of this god's 
+personalites was known as Ehecatl (eh-heh-COT-ul). This god's rival was Tezcatlipoca 
+(tez-CAT-lee-POE-kuh), and he was exiled on a raft made of snakes. Name this feathered serpent god of 
+Aztec mythology. 
+ANSWER:  
+Quetzalcoatl 
+030-14-103-09117 
+18. The Melian Dialogue takes place between representatives of Melos and this city hoping to conquer 
+Melos. It was connected by the long walls to the port of Piraeus. Tribute given to this city allowed it to 
+build up a powerful navy. It was the most powerful member of the Delian League, which fought against a 
+league of city-states allied with Sparta in the Peloponnesian War. Name this city whose Acropolis contains 
+the Parthenon. 
+ANSWER:  
+Athens 
+121-14-103-09118 
+2014 OAC     9     Page  10 of 17 
+19. During John Adams's lame duck period, this man served as Secretary of State after Timothy Pickering 
+was fired. This man, Elbridge Gerry, and Charles Pinckney made up the delegation to France during the 
+XYZ Affair. He wrote, \"The power to tax involves the power to destroy\" in his highest office, in which he 
+followed Oliver Ellsworth. In that role, he also opined that the Judiciary Act of 1789 was unconstitutional, 
+laying the groundwork for judicial review. Name this Supreme Court Chief Justice who presided over  
+Marbury v. Madison. 
+ANSWER: John  
+Marshall 
+190-14-103-09119 
+20. In one story by this author, the title character is tricked into thinking his garments are invisible until a 
+boy notes that he is wearing nothing. In another story by this author of “The Emperor’s New Clothes,” a 
+girl sees a vision of her grandmother as she ascends into heaven. This author wrote a story in which a 
+prince is saved from a shipwreck by a creature that tries to obtain a human soul. Name this author of fairy 
+tales, such as “The Little Match Girl” and “The Little Mermaid.” 
+ANSWER: Hans Christian  
+Andersen 
+140-14-103-09120 
+2014 OAC     9     Page  11 of 17 
+Alphabet Round - Letter B 
+1. What curve, a hypothetical Greek-named path which moves a particle in the least time, was found to be identical to an 
+inverted cycloid in the eighteenth century? 
+2. What early promoter of the scientific method wrote about the four Idols in the  
+Novum Organum? 
+3. What president helped write the Ostend Manifesto when minister to England? 
+4. What actor starred as Sam Spade in  
+The Maltese Falcon 
+ and as Rick in  
+Casablanca? 
+5. What country lost its coast after being defeated by Chile in the War of the Pacific? 
+6. On what saints feast day were thousands of Hugenots killed during the French Wars of Religion? 
+7. Who invented the telephone? 
+8. What are viruses that infect bacteria called? 
+9. What circus owner displayed the dwarf Tom Thumb and allegedly said “There's a sucker born every minute?” 
+10. What is the nickname for English policemen that comes from the name of prime minister Robert Peel? 
+11. What longtime advisor to Democratic Presidents on financial matters chaired both the War Industries Board in World War I 
+and the War Production Board in World War II? 
+12. On what Filipino peninsula were American prisoners-of-war forced on a death march to Camp O'Donnell during World War 
+II? 
+13. What is the second letter of the Greek alphabet? 
+14. At what temperature does the vapor pressure of a liquid equal the pressure of the surrounding system? 
+15. What French prison's storming is celebrated every year on July 14? 
+16. What German state's largest city is Munich? 
+17. What jurist nominated for the Supreme Court by Ronald Reagan was not confirmed by the Senate? 
+18. What type of wetland contains peat? 
+19. What Republican lost to Grover Cleveland in 1884 and was attacked as “the continental liar from the state of Maine?” 
+20. What sport does Roy Hobbs play in  
+The Natural? 
+2014 OAC     9     Page  12 of 17 
+Alphabet Round - Letter B 
+1. What curve, a hypothetical Greek-named path which moves a particle in the least time, was found to be identical to an 
+inverted cycloid in the eighteenth century? 
+2. What early promoter of the scientific method wrote about the four Idols in the  
+Novum Organum? 
+3. What president helped write the Ostend Manifesto when minister to England? 
+4. What actor starred as Sam Spade in  
+The Maltese Falcon 
+ and as Rick in  
+Casablanca? 
+5. What country lost its coast after being defeated by Chile in the War of the Pacific? 
+6. On what saints feast day were thousands of Hugenots killed during the French Wars of Religion? 
+7. Who invented the telephone? 
+8. What are viruses that infect bacteria called? 
+9. What circus owner displayed the dwarf Tom Thumb and allegedly said “There's a sucker born every minute?” 
+10. What is the nickname for English policemen that comes from the name of prime minister Robert Peel? 
+11. What longtime advisor to Democratic Presidents on financial matters chaired both the War Industries Board in World War I 
+and the War Production Board in World War II? 
+12. On what Filipino peninsula were American prisoners-of-war forced on a death march to Camp O'Donnell during World War 
+II? 
+13. What is the second letter of the Greek alphabet? 
+14. At what temperature does the vapor pressure of a liquid equal the pressure of the surrounding system? 
+15. What French prison's storming is celebrated every year on July 14? 
+16. What German state's largest city is Munich? 
+17. What jurist nominated for the Supreme Court by Ronald Reagan was not confirmed by the Senate? 
+18. What type of wetland contains peat? 
+19. What Republican lost to Grover Cleveland in 1884 and was attacked as “the continental liar from the state of Maine?” 
+20. What sport does Roy Hobbs play in  
+The Natural? 
+2014 OAC     9     Page  13 of 17 
+Alphabet Round - Letter B 
+1. What curve, a hypothetical Greek-named path which moves a particle in the least time, was found to be identical to an 
+inverted cycloid in the eighteenth century? 
+2. What early promoter of the scientific method wrote about the four Idols in the  
+Novum Organum? 
+3. What president helped write the Ostend Manifesto when minister to England? 
+4. What actor starred as Sam Spade in  
+The Maltese Falcon 
+ and as Rick in  
+Casablanca? 
+5. What country lost its coast after being defeated by Chile in the War of the Pacific? 
+6. On what saints feast day were thousands of Hugenots killed during the French Wars of Religion? 
+7. Who invented the telephone? 
+8. What are viruses that infect bacteria called? 
+9. What circus owner displayed the dwarf Tom Thumb and allegedly said “There's a sucker born every minute?” 
+10. What is the nickname for English policemen that comes from the name of prime minister Robert Peel? 
+11. What longtime advisor to Democratic Presidents on financial matters chaired both the War Industries Board in World War I 
+and the War Production Board in World War II? 
+12. On what Filipino peninsula were American prisoners-of-war forced on a death march to Camp O'Donnell during World War 
+II? 
+13. What is the second letter of the Greek alphabet? 
+14. At what temperature does the vapor pressure of a liquid equal the pressure of the surrounding system? 
+15. What French prison's storming is celebrated every year on July 14? 
+16. What German state's largest city is Munich? 
+17. What jurist nominated for the Supreme Court by Ronald Reagan was not confirmed by the Senate? 
+18. What type of wetland contains peat? 
+19. What Republican lost to Grover Cleveland in 1884 and was attacked as “the continental liar from the state of Maine?” 
+20. What sport does Roy Hobbs play in  
+The Natural? 
+2014 OAC     9     Page  14 of 17 
+Alphabet Round - Letter B 
+1. What curve, a hypothetical Greek-named path which moves a particle in the least time, was found to be identical to an 
+inverted cycloid in the eighteenth century? 
+2. What early promoter of the scientific method wrote about the four Idols in the  
+Novum Organum? 
+3. What president helped write the Ostend Manifesto when minister to England? 
+4. What actor starred as Sam Spade in  
+The Maltese Falcon 
+ and as Rick in  
+Casablanca? 
+5. What country lost its coast after being defeated by Chile in the War of the Pacific? 
+6. On what saints feast day were thousands of Hugenots killed during the French Wars of Religion? 
+7. Who invented the telephone? 
+8. What are viruses that infect bacteria called? 
+9. What circus owner displayed the dwarf Tom Thumb and allegedly said “There's a sucker born every minute?” 
+10. What is the nickname for English policemen that comes from the name of prime minister Robert Peel? 
+11. What longtime advisor to Democratic Presidents on financial matters chaired both the War Industries Board in World War I 
+and the War Production Board in World War II? 
+12. On what Filipino peninsula were American prisoners-of-war forced on a death march to Camp O'Donnell during World War 
+II? 
+13. What is the second letter of the Greek alphabet? 
+14. At what temperature does the vapor pressure of a liquid equal the pressure of the surrounding system? 
+15. What French prison's storming is celebrated every year on July 14? 
+16. What German state's largest city is Munich? 
+17. What jurist nominated for the Supreme Court by Ronald Reagan was not confirmed by the Senate? 
+18. What type of wetland contains peat? 
+19. What Republican lost to Grover Cleveland in 1884 and was attacked as “the continental liar from the state of Maine?” 
+20. What sport does Roy Hobbs play in  
+The Natural? 
+2014 OAC     9     Page  15 of 17 
+Alphabet Round - Letter B 
+Team Name: _________________________________________________ 
+1.   _________________________________________________ 
+2.   _________________________________________________ 
+3.   _________________________________________________ 
+4.   _________________________________________________ 
+5.   _________________________________________________ 
+6.   _________________________________________________ 
+7.   _________________________________________________ 
+8.   _________________________________________________ 
+9.   _________________________________________________ 
+10. _________________________________________________ 
+11. _________________________________________________ 
+12. _________________________________________________ 
+13. _________________________________________________ 
+14. _________________________________________________ 
+15. _________________________________________________ 
+16. _________________________________________________ 
+17. _________________________________________________ 
+18. _________________________________________________ 
+19. _________________________________________________ 
+20. _________________________________________________ 
+2014 OAC     9     Page  16 of 17 
+Alphabet Round - Letter B 
+Team Name: _________________________________________________ 
+1.   _________________________________________________ 
+2.   _________________________________________________ 
+3.   _________________________________________________ 
+4.   _________________________________________________ 
+5.   _________________________________________________ 
+6.   _________________________________________________ 
+7.   _________________________________________________ 
+8.   _________________________________________________ 
+9.   _________________________________________________ 
+10. _________________________________________________ 
+11. _________________________________________________ 
+12. _________________________________________________ 
+13. _________________________________________________ 
+14. _________________________________________________ 
+15. _________________________________________________ 
+16. _________________________________________________ 
+17. _________________________________________________ 
+18. _________________________________________________ 
+19. _________________________________________________ 
+20. _________________________________________________ 
+Powered by TCPDF (www.tcpdf.org) 
+2014 OAC     9     Page  17 of 17 
