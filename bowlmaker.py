@@ -19,9 +19,9 @@ q2q=8
 q3q=3
 q4q=8
 
-packetsneeded = 8
+packetsneeded = 1
 packetnameheader = "Stockholm"
-desireddifficulty = "CA"
+desireddifficulty = "CB"
 #CA = A level
 #CB = B level
 #CC = C level
@@ -118,7 +118,7 @@ def extract_bonus(bonus):
 	
 	bonus = remove_double(bonus)
 
-	filehandle=open(".\\bowltest\\ayy2.txt","a")
+	filehandle=open(".\\testfolder\\ayy2.txt","a")
 #	filehandle.write(bonus)
 	filehandle.close()	
 	
@@ -206,12 +206,12 @@ def strip_number(listofqs):
 	return listofqs2
 	
 def writetest(teststring):
-	filehandle=open(".\\bowltest\\ayy.txt","w+")
+	filehandle=open(".\\testfolder\\ayy.txt","w+")
 	filehandle.write(teststring)
 	filehandle.close()	
 
 def appendtest(testlist):
-	filehandle=open(".\\bowltest\\ayy.txt","w+")
+	filehandle=open(".\\testfolder\\ayy.txt","w+")
 	for item in testlist:
 		filehandle.write("%s\n\r" % item)
 	#i have to admit, i copy-pasted the above two lines of code from stackoverflow. I don't know how this works.
@@ -219,7 +219,7 @@ def appendtest(testlist):
 	print("appendtest is being accessed")
 
 def listtofile(filename,list):
-	tfln = ".\\bowltest\\"+filename+".txt"
+	tfln = ".\\testfolder\\"+filename+".txt"
 	filehandle=open(tfln,"w+")
 	for item in testlist:
 		filehandle.write("%s\n\r" % item)
@@ -231,7 +231,7 @@ for filepath in packlist:
 	x=x+1
 	print("accessing file",filepath,x)
 #	print("using the following file as a test")
-#	filepath = r".\\bowltest\\nhbb (121).txt"
+#	filepath = r".\\testfolder\\nhbb (121).txt"
 	textfile = open(filepath,"r+")
 	difficulty = id_difficulty(textfile)
 	textfile.close()
@@ -317,3 +317,8 @@ for x in range(numberofpackets):
 	filehandle.close()	
 	
 print("Created " + str(nop) + " packets, leveled " + desireddifficulty)
+
+#well I can't stand to look at you now
+#this revelation's out of my hands
+#still I can't bear the thought of you now
+#this complication's leaving me scared
