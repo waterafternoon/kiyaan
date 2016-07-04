@@ -1,25 +1,11 @@
-This folder has three .py files, one of which is ready to go, out of the box. 
-That file is named bowlparser.py. It can technically be used to create bee packets, but it requires a lot of reworking.
-Running bowlparser.py requires a few things beforehand.
+This folder has two .py files, both of which is ready to go, out of the box. 
+Those files are named bowlmaker.py and beemaker.py, and they require python 3.
 
-1. Download python 3. Don't download Python 2.
+-run 
 
-2. Have Windows. 
+-By default, this will create A-level bowl packets. These packets won't have any repeating questions.
 
-	2a.If you're considering running this on any apple product, do the following:
-
-	2b.trade it in for a pc, you spoiled little princess.
-
-	2c.seriously though Jason or Srivaths or someone i don't know, the script should still work.
-	
-3.Open up your terminal or command prompt. On windows, it's cmd.exe
-
-4.Navigate to this folder within the command prompt, then run the file with:
-	python bowlparser.py
-	
-5.By default, this will create 2 A-level bowl packets. These packets won't have any repeating questions.
-
-6. These packets will be in the .txt file format in this folder, named Stockholm0, Stockholm1, and so on.
+-These packets will be in the .txt file format in the folder, named Stockholm0, Stockholm1, and so on.
 
 
 
