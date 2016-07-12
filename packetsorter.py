@@ -69,3 +69,12 @@ for packfile in movelist:
 	
 print("done. nothing happened? try making sure the folders have the right names. also, keyword is case-sensitive.")
 
+"""
+Stay when you think you want me
+Pray when you need advice
+Hey, keep your sickness off me (i'm trying to get through)
+
+Blame all your weakness on me
+Shame that i'm so contrite
+Hey, keep your fingers off me (why can't I get through?)
+"""
