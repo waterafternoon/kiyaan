@@ -9,6 +9,10 @@ import random
 foldername = "bee"
 #donefolder = "generatedbeepackets"
 
+createpacket = False
+#above lets you toggle actually creating packets. usefull if you want to debug or test someting.
+
+
 #below is the number of questions per category, in the case of q3q, it's the number of categories
 #confused about q3q? think about it for a second.
 numberofquestions = 32
@@ -16,11 +20,11 @@ q1q= numberofquestions
 
 
 packetsneeded = 1
-desireddifficulty = "CB"
+desireddifficulty = "CC"
 #CA = A level
 #CB = B level
 #CC = C level
-#CN = Nationals
+#CN = Nationals, apparently there aren't any National packets
 packetnameheader = "Bee" + desireddifficulty + "_"
 
 
@@ -146,15 +150,16 @@ def listtofile(filename,list):
 	print("listtofile is being used")
 	
 for filepath in packlist:
-	x=x+1
-	print("accessing file",filepath,x)
+#	print("accessing file",filepath,x)
 #	print("using the following file as a test")
 #	filepath = r".\\testfolder\\nhbb (121).txt"
 	textfile = open(filepath,"r+")
 	difficulty = id_difficulty(textfile)
 	textfile.close()
 
-	if difficulty == desireddifficulty: pass
+	if difficulty == desireddifficulty: 
+		print("adding this file to question pool",filepath,str(x+1))
+		x=x+1
 	else: continue
 	
 	filestring = presanitize(filepath)
@@ -180,25 +185,31 @@ packetnameheader = packetnameheader
 nop = numberofpackets
 samtossups = random.sample(alltossups,q1q*nop)
 
-print("there are "+str(len(alltossups)) + "tossups possible based on your criteria of difficulty")
-
+print("there are "+str(len(alltossups)) + " tossups.")
+print(str(len(alltossups)/q1q)+ " packets can be created.")
 #appendtest(alltossups)
 
 #listofcreatedfiles = list()
 	
 for x in range(numberofpackets):
-	filename = packetnameheader + str(x) + ".txt"
+	tempx = x + 1
+	if tempx < 10: tempx = "0" + str(tempx)
+	else: pass
+	filename = str(tempx) + packetnameheader + ".txt"
 	filehandle = open(filename,'w+')
 
 	packettossups = samtossups[(x*q1q):((x+1)*q1q)]
 	
 	packettossups = assign_numbers(packettossups)
 	
-	for item in packettossups: filehandle.write("%s\n" % item)
+	if createpacket == True: 
+		for item in packettossups: filehandle.write("%s\n" % item)
+	else: pass
 	filehandle.close()
 	
-print("Created " + str(nop) + " packets, leveled " + desireddifficulty)
-
+	
+if createpacket == True: print("Created " + str(nop) + " packets, leveled " + desireddifficulty)
+else: print(desireddifficulty + " packets were processed.\nNo packets have been created. Change createpacket to = True if you want to make packets.")
 
 #I keep on thinking that it's all done and all over now
 #You keep on thinking you can save me, save meeee
