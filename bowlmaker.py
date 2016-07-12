@@ -12,9 +12,6 @@ import random
 foldername = "bowl"
 #donefolder = "donefolder"
 
-createpacket = False
-#above lets you toggle actually creating packets. usefull if you want to debug or test someting.
-
 #below is the number of questions per category, in the case of q3q, it's the number of categories
 #confused about q3q? think about it for a second.
 q1q=10
@@ -23,8 +20,8 @@ q3q=3
 q4q=8
 
 packetsneeded = 1
-packetnameheader = "_Camioneto"
-desireddifficulty = "CA"
+packetnameheader = "Stockholm"
+desireddifficulty = "CB"
 #CA = A level
 #CB = B level
 #CC = C level
@@ -231,16 +228,15 @@ def listtofile(filename,list):
 	print("listtofile is being accessed")
 	
 for filepath in packlist:
-#	print("accessing file",filepath,x)
+	x=x+1
+	print("accessing file",filepath,x)
 #	print("using the following file as a test")
 #	filepath = r".\\testfolder\\nhbb (121).txt"
 	textfile = open(filepath,"r+")
 	difficulty = id_difficulty(textfile)
 	textfile.close()
 
-	if difficulty == desireddifficulty: 
-		print("adding this file to question pool",filepath,str(x+1))
-		x=x+1
+	if difficulty == desireddifficulty: pass
 	else: continue
 	
 	filestring = presanitize(filepath)
@@ -271,31 +267,26 @@ numberofpackets = int(numberofpackets)
 packetnameheader = packetnameheader
 	
 nop = numberofpackets
-
 samtossups = random.sample(alltossups,q1q*nop)
-print("there are "+str(len(alltossups)) + " tossups")
+
+print("there are "+str(len(alltossups)) + "tossups")
 #appendtest(samtossups)
 
 sambonus = random.sample(allbonus,q2q*nop)
-print("there are "+str(len(allbonus)) + " bonuses")
+print("there are "+str(len(allbonus)) + "bonuses")
 #print(sambonus)
 
 samlightning = random.sample(alllightning,q3q*nop)
-print("there are "+str(len(alllightning)) + " lightning categories")
+print("there are "+str(len(alllightning)) + "lightning categories")
 #print(samlightning)
 
 samtiered = random.sample(alltiered,q4q*nop)
-print("there are "+str(len(alltiered)) + " tiered questions")
+print("there are "+str(len(alltiered)) + "tiered questions")
 
-#appendtest(alllightning)
-
-print(str(min(len(alltiered)/q4q,len(alllightning)/q3q,len(allbonus)/q2q,len(alltossups)/q1q)) + " packets can be created.")
+appendtest(alltiered)
 	
 for x in range(numberofpackets):
-	tempx = x + 1
-	if tempx < 10: tempx = "0" + str(tempx)
-	else: pass
-	filename = str(tempx) + packetnameheader + ".txt"
+	filename = packetnameheader + str(x) + ".txt"
 	filehandle = open(filename,'w+')
 	
 	fc,sc = 0,0	#0-9, 10-19, 20-29
@@ -305,7 +296,7 @@ for x in range(numberofpackets):
 	packetlightning = samlightning[((x*q3q)+fc):((x+1)*q3q+sc)]
 	packettiered = samtiered[((x*q4q)+fc):((x+1)*q4q+sc)]
 	#it's not that complicated. the constants i added, fc and sc, were there because I don't understand lists.
-	#feel free to take them out later, future me or some poor history club buddy that has to comb through my terrible code.
+	#feel free to take them out later, future me or some poor history bowl buddy that has to comb through my terrible code.
 	
 #	packettossups = random.sample(alltossups,10)
 #	packetbonus = random.sample(allbonus,8)
@@ -322,13 +313,11 @@ for x in range(numberofpackets):
 	
 	packet = packettossups + packetbonus + packetlightning + packettiered
 	
-	if createpacket == True: 
-		for item in packet: filehandle.write("%s\n" % item)
-	else: pass
+	for item in packet: filehandle.write("%s\n" % item)
 	filehandle.close()	
 	
-if createpacket == True: print("Created " + str(nop) + " packets, leveled " + desireddifficulty)
-else: print(desireddifficulty + " packets were processed.\nNo packets have been created. Change createpacket to = True if you want to make packets.")
+print("Created " + str(nop) + " packets, leveled " + desireddifficulty)
+
 #well I can't stand to look at you now
 #this revelation's out of my hands
 #still I can't bear the thought of you now
