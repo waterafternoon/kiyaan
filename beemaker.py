@@ -9,8 +9,8 @@ import random
 foldername = "bee"
 #donefolder = "generatedbeepackets"
 
-createpacket = False
-#above lets you toggle actually creating packets. usefull if you want to debug or test someting.
+createpacket = True
+#above lets you toggle actually creating packets. useful if you want to debug or test someting.
 
 
 #below is the number of questions per category, in the case of q3q, it's the number of categories
@@ -196,7 +196,7 @@ for x in range(numberofpackets):
 	tempx = x + 1
 	if tempx < 10: tempx = "0" + str(tempx)
 	else: pass
-	filename = str(tempx) + packetnameheader + ".txt"
+	filename = ".\\export\\" + str(tempx) + packetnameheader + ".txt"
 	filehandle = open(filename,'w+')
 
 	packettossups = samtossups[(x*q1q):((x+1)*q1q)]

@@ -13,7 +13,7 @@ foldername = "bowl"
 #donefolder = "donefolder"
 
 createpacket = True
-#above lets you toggle actually creating packets. usefull if you want to debug or test someting.
+#above lets you toggle actually creating packets. useful if you want to debug or test someting.
 
 #below is the number of questions per category, in the case of q3q, it's the number of categories
 #confused about q3q? think about it for a second.
@@ -296,7 +296,7 @@ for x in range(numberofpackets):
 	tempx = x + 1
 	if tempx < 10: tempx = "0" + str(tempx)
 	else: pass
-	filename = str(tempx) + packetnameheader + ".txt"
+	filename = ".\\export\\" + str(tempx) + packetnameheader + ".txt"
 	filehandle = open(filename,'w+')
 	
 	fc,sc = 0,0	#0-9, 10-19, 20-29
