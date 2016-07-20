@@ -5,11 +5,17 @@ import fileinput
 import random
 
 foldername = "altpackets\\2015 PACE NSC"
-packetnameheader = "Camioneto" + "_"
+packetnameheader = "_PACE Shuffle"
 all_extracted_questions = "question_cutter_all.txt"
 
-dirpath = ".\\"+ foldername + "\\*"
-packlist = glob.glob(dirpath)
+automaxpackets = True 
+#if true, ignores numberofpackets
+#and finds the max amt of packets
+#that can be created
+numberofpackets = 10
+
+questionsperpacket = 8
+createpackets = True
 
 def presanitize(filepath):
 	filehandle=open(filepath,"r",encoding="utf8")
@@ -24,6 +30,8 @@ def presanitize(filepath):
 	for i in range(5): filestring = re.sub(r"  "," ",filestring)
 	filestring = re.sub(r".*Round \d{1,2}","",filestring)
 	filestring = re.sub(r"\\\"","\"",filestring)
+	filestring = re.sub(r"\x0C","",filestring)
+	filestring = re.sub(r"- Page \d{1,2} of \d{1,2}",r"\r\n",filestring)
 	for i in range(5): filestring = re.sub(r"\n|\r\r|\r\r\r|\r\r\r\r|\r \r",r"\r",filestring)
 	for i in range(5): filestring = re.sub(r"\r ",r"\r",filestring)
 	for i in range(5): filestring = re.sub("^ ","",filestring)
@@ -37,12 +45,18 @@ def extract_questions(tossup):
 	tossup = remove_double(tossup)
 	tossup = re.sub(r"\d{1,69}-\d{1,69}-\d{1,69}.*?(\r|$)", r" \r",tossup)
 	tossup = remove_double(tossup)
+#	tossup = re.sub(r"\<.*?\>", " ", tossup)
+	tossup = remove_double(tossup)
 	
 	tossuplist = re.findall(r"\d{1,2}\..*?\rANSWER:.*?\r",tossup)
 	tossuplist = strip_number(tossuplist)
 	
+	tossuplist2 = list()
+	for item in tossuplist: 
+		item2 = re.sub(r"\<.*?\>", " ", item)
+		tossuplist2.append(item2)
 #	appendtest(tossuplist)
-	return tossuplist
+	return tossuplist2
 
 def remove_double(thestring):
 	#double spaces and double lines
@@ -59,6 +73,15 @@ def strip_number(listofqs):
 		listofqs2.append(item)
 	#that's right, take off those numbers.
 	return listofqs2
+
+def assign_numbers(packetquestions):
+	questionnumber = 1
+	numberedquestions = list()
+	for x in packetquestions:
+		numberedquestions.append(str(questionnumber) + ". " + x)
+		questionnumber = questionnumber +1
+		if questionnumber >= 24601: print("http://i2.kym-cdn.com/photos/images/original/000/878/073/2a2.gif")
+	return numberedquestions
 	
 def writetest(teststring):
 	filehandle=open(".\\testfolder\\ayy.txt","w+")
@@ -73,7 +96,10 @@ def appendtest(testlist):
 	filehandle.close()	
 	print("appendtest is being used")
 
+dirpath = ".\\"+ foldername + "\\*"
+packlist = glob.glob(dirpath)
 print("using files from this directory:", dirpath)
+
 questionlist = list()
 
 for filepath in packlist:
@@ -87,4 +113,28 @@ aeq_path = ".\\export\\" + all_extracted_questions
 with open(aeq_path,"w+",encoding="utf8") as aeq_handle: 
 	for q in questionlist:
 		aeq_handle.write("%s\n" % q)
-print("exported all extracted questions to", aeq_path)
+print("exported all", len(questionlist) ,"extracted questions to", aeq_path)
+
+if automaxpackets == True:
+	numberofpackets = int(round(len(questionlist)/questionsperpacket,0) - 1)
+	print("automatically creating maximum amount of packets:",numberofpackets)
+
+nop = numberofpackets
+q1q = questionsperpacket
+samtossups = random.sample(questionlist,q1q*nop)
+for x in range(numberofpackets):
+	namesuffix = x + 1
+	if namesuffix < 10: namesuffix = "0" + str(namesuffix)
+	else: pass
+	filename = ".\\export\\" + str(namesuffix) + packetnameheader + ".txt"
+	filehandle = open(filename,'w+',encoding="utf8")
+	
+	fc,sc = 0,0	#0-9, 10-19, 20-29
+	packettossups = samtossups[((x*q1q)+fc):((x+1)*q1q+sc)]
+	packettossups = assign_numbers(packettossups)
+	packet = packettossups
+	
+	if createpackets == True: 
+		for item in packet: filehandle.write("%s\n" % item)
+	else: pass
+	filehandle.close()

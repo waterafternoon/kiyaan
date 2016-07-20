@@ -185,6 +185,7 @@ def presanitize(filepath):
 	for i in range(5): filestring = re.sub(r"  "," ",filestring)
 	filestring = re.sub(r".*Round \d{1,2}","",filestring)
 	filestring = re.sub(r"\\\"","\"",filestring)
+	filestring = re.sub(r"\x0C","",filestring)
 	for i in range(5): filestring = re.sub(r"\n|\r\r|\r\r\r|\r\r\r\r|\r \r",r"\r",filestring)
 	for i in range(5): filestring = re.sub(r"\r ",r"\r",filestring)
 	for i in range(5): filestring = re.sub("^ ","",filestring)
