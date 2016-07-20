@@ -25,8 +25,9 @@ desireddifficulty = "CC"
 #CB = B level
 #CC = C level
 #CN = Nationals, apparently there aren't any National packets
-packetnameheader = "Bee" + desireddifficulty + "_"
+#PACE = 2015 PACE National Scholastic Championship set, the first 28 questions from each packet
 
+packetnameheader = "Bee" + desireddifficulty + "_"
 
 dirpath = ".\\"+ foldername + "\\*"
 packlist = glob.glob(dirpath)

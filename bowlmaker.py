@@ -12,7 +12,7 @@ import random
 foldername = "bowl"
 #donefolder = "donefolder"
 
-createpacket = False
+createpacket = True
 #above lets you toggle actually creating packets. usefull if you want to debug or test someting.
 
 #below is the number of questions per category, in the case of q3q, it's the number of categories
@@ -213,7 +213,7 @@ def writetest(teststring):
 	filehandle.write(teststring)
 	filehandle.close()	
 
-def appendtest(testlist):
+def append(testlist):
 	filehandle=open(".\\testfolder\\ayy.txt","w+")
 	for item in testlist:
 		filehandle.write("%s\n\r" % item)
