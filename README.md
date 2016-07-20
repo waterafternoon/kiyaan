@@ -1,4 +1,4 @@
-This folder has two .py files, both of which is ready to go, out of the box. 
+This folder has two .py files, both of which are ready to go, out of the box. 
 Those files are named bowlmaker.py and beemaker.py, and they require python 3.
 
 -run 
@@ -7,13 +7,10 @@ Those files are named bowlmaker.py and beemaker.py, and they require python 3.
 
 -These packets will be in the .txt file format in the folder, named Stockholm0, Stockholm1, and so on.
 
+questioncutter.py is a script to extract relevant question formats from otherwise incompatible packets. it creates an exported file.
 
 
-
-
-
-
-6.Want to change...
+### Want to change...
 
 the number of tossups?
 	change q1q =
@@ -35,3 +32,10 @@ the level of the packets?
 
 the fileprefix to something other than Stockholm?
 	change packetnameheader = 
+
+### Todo
+	Reformat the damn README.
+	
+### Timeline
+
+2016-7-19 Added questioncutter.py

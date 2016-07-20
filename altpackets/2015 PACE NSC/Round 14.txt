@@ -1,0 +1,619 @@
+2015 NSC - Official Scoresheet
+Round
+
+14
+
+Room
+
+Bracket
+Reader
+
+Team
+
+Team
+
+Player
+Names
+
+Q#
+
+Bonus
+
+Steals
+
+Ques.
+Total
+
+Run.
+Score
+
+Bonus
+
+Steals
+
+Ques.
+Total
+
+Run.
+score
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+TB1
+TB2
+TB3
+SD
+Player
+20s
+Player
+10s
+Point
+totals
+
+Final
+score
+Out:
+Out:
+
+Substitutions before Tossup 11
+In:
+In:
+
+Out:
+Out:
+
+Substitutions before Tossup 11
+In:
+In:
+
+Circle winning team above. Clearly mark if game goes to OT/SD. Fill out “Point totals” row completely.
+If there are substitutions, please note tossups by each player in “20s” and “10s” rows. Below is for Tab Room use only:
+
+RH
+
+RS
+
+BH
+
+BS
+
+Left
+
+Right
+
+BH
+
+BS
+
+RH
+
+RS
+
+PACE NSC 2015 - Round 14 - Page 1 of 13
+
+PACE NSC 2015 - Round 14 - Tossups
+1. In the worst case, this function is the tight asymptotic lower bound of the median of medians algorithm
+to select the kth largest element. For a word size of k, the worst case performance of radix sort is big O of
+k times this function with respect to the elements being sorted. Searching an unbalanced binary search
+tree has a worst case runtime tightly bounded by this function. This function is the best case time
+complexity of (*) bubble sort. Algorithms that traverse from the first to last element in a singly linked list without
+a tail pointer and ones that iterate through a one-dimensional array in a for loop are bounded by this function. For
+10 points, name this function that dominates algorithms that run in Big O of n time.
+ANSWER: linear function [or linear time; or Big O of n until it is read] <Bentley>
+2. At the end of this novel, the protagonist thinks "Zero hour...time to go" after habitually checking his
+broken watch. A flashback describes how its protagonist's father pursues a relationship with the lab tech
+Ramona after the protagonist's mother Sharon abandoned him, taking his pet rakunk Killer. In a narrative
+thread of this novel, the protagonist travels from the "pleeblands" to the ruins of Paradice. A character in
+this novel who attends the Watson-Crick Institute and gets a job with (*) RejoovenEsense took his nickname
+from the game Extinctathon. This novel's sequel in the MaddAddam trilogy is The Year of the Flood. For 10 points,
+name this 2003 novel in which Snowman's flashbacks detail his pre-apocalypse life with the two title characters, by
+Margaret Atwood.
+ANSWER: Oryx and Crake <Carson>
+3. Nusselt film theory describes this process. The working fluid undergoes this process after it is turbined,
+before it is pumped, in a Rankine cycle. An exit stream undergoes this process, and then a recycle, during
+reflux. This process shares its name with a method of polymerization contrasted with addition. Cold
+fingers are used to effect this process, which often occurs in glassware named for (*) Liebig. Silver iodide
+serves as a nucleus for this process to occur during cloud seeding. This process begins to happen as temperature
+dips below the dew point. This process occurs in the tube leading to the receiving flask in a distillation. This
+exothermic process is the inverse of vaporization. For 10 points, name this process in which a vapor is converted
+into a liquid.
+ANSWER: condensation [or condensation polymerization; prompt on cooling or subcooling or
+supercooling] <Silverman>
+4. An unfinished piece by this composer contains a central "Purgatorio" movement surrounded by two
+scherzos. Another of his pieces ends with an alto or baritone repeating "Ewig… ewig" (ay-vig), or
+"Forever… forever." The opening adagio was the only movement of his tenth symphony that he fully
+orchestrated before his death. Leonard Bernstein was the first to record the complete set of this
+composer's symphonies and song cycles, one of which opens with "The (*) Drinking Song of Earth's
+Misery." This composer's eighth symphony sets the hymn "Veni Creator Spiritus" in the first part and the finale
+from Goethe's Faust in the second, and is nicknamed for the many musicians required. For 10 points, name this
+composer of Das Lied von der Erde and the "Symphony of a Thousand."
+ANSWER: Gustav Mahler <Rosenberg>
+
+PACE NSC 2015 - Round 14 - Page 2 of 13
+
+5. This event largely did not affect institutions which belonged to the Suffolk system. A cartoon depicting
+"The Times" of this event shows a shining hat subtitled "GLORY" in the sky above a city street. During
+this event, thousands of New Yorkers attacked hoarding merchants in the Flour Riots. This event inspired
+the unsuccessful Divorce Bill and the narrowly-passed Independent Treasury Act. This event is often
+blamed on an order issued by Levi Woodbury which prevented (*) public lands from being bought with
+"wildcat currency." This event was partly caused by the Specie Circular and by the credit policies of "pet banks." For
+10 points, name this economic crisis, a financial panic that began in the first year of Martin Van Buren's term.
+ANSWER: Panic of 1837 <Brownstein>
+6. A body movement called "arc de cercle" affected people diagnosed with this condition by Jean-Martin
+Charcot. The idea of pressing a doctor's thumb to the patient's forehead to relieve this condition was
+relayed in a text co-written by Josef Breuer. In the late 19th century, physicians like George Taylor induced
+what they called "paroxysm" to treat this condition, often using mechanical (*) vibrators. Bertha
+Pappenheim, known as "Anna O," was the main case study in Sigmund Freud's 1896 Studies on this disorder. The
+Greek-derived name for this condition reflects the ancient view that it stemmed from an internally-wandering
+uterus. For 10 points, name this now-discredited mental diagnosis usually given to women, whose purported "mass"
+form causes society-wide panic.
+ANSWER: hysteria [or conversion disorder] <Jackson>
+7. This deity transforms Nyctimene, who had been raped by her father, into a symbolic animal. During the
+Gigantomachy, this deity hurls the island of Sicily at the fleeing Enceladus. This deity gives Heracles a
+Hephaestus-crafted rattle with which to frighten the Stymphalian Birds. This deity assists Telemachus in
+the disguise of Mentor. According to Ovid, this goddess angrily tears up the winning (*) tapestry of
+Arachne before turning her into a spider. She is born after her mother is turned into a fly and swallowed by Zeus,
+who suffers an enormous headache and calls for Hephaestus to cleave his skull, from which this goddess emerges
+fully armed. For 10 points, name this daughter of Metis and Zeus, the martial Olympian goddess of wisdom.
+ANSWER: Athena [or Minerva; or Athene; or Pallas Athena] <Gupta>
+8. This author wrote a short story in which Mr. Swaffer gives a house to the title character and her husband
+Yanko Goorall, the latter of whom calls out for water in his native tongue and is abandoned before his
+death. In another of his stories, a captain decides to help the deserter Leggatt escape from the HMS
+Sephora. Another character created by this author describes his trip to a "whited sepulchre" to accept a
+job from the (*) Company to replace Fresleven. This author wrote a book about a journey made to the Central
+Station that is part of a framed narrative told onboard the Nellie. For 10 points, name this Polish-born British author
+of the short stories "Amy Foster" and "The Secret Sharer" who wrote about Marlow's search for Kurtz in Heart of
+Darkness.
+ANSWER: Joseph Conrad [or Josef Teodor Konrad Korzeniowski] <Gehring>
+9. In China, statues of this animal often appear as the pedestal of monuments like the Nestorian Stele.
+According to legend, a golden one of these animals took a sword called Heaven's Will back from
+Vietnamese freedom fighter Le Loi. Objects named for this animal were used in a "crane formation" to
+win the Battle of Hansan Island and the Battle of Sacheon during the Imjin War. Admiral Yi invented that
+type of (*) vessel named for this animal, which was used to thwart Toyotomi Hideyoshi's attempted invasion of the
+Joseon kingdom. Along with ox scapulae, a notable part of these animals were inscribed with questions then heated
+to make oracle bones. For 10 points, name these animals, which name a sort of Korean ship with a shelled exterior.
+ANSWER: turtles [or tortoises; or bixi] <Brownstein>
+
+PACE NSC 2015 - Round 14 - Page 3 of 13
+
+10. A prominent visitor center in this region is named for Ernest Coe, whose advocacy for this region
+alienated pretty much everyone. The Bear Lake Mounds are in this ecological region, where humans built
+the Mud Lake Canal between 750 and 1200 AD. HM-69, a Nike Hercules Missile base, is located in this
+region. The Calusa people once inhabited this region which is cut through by the (*) Tamiami Trail. Marjory
+Stoneman Douglas advocated for saving this region, which is afflicted by invasive species such as the melaleuca tree
+and the Burmese python. It held an early ballistic anti-nuke system to defend against the Cuban nuclear threats. For
+ten points, name this so-called "River of Grass," a protected wetlands between Lake Okeechobee and Biscayne Bay
+in southern Florida.
+ANSWER: Florida Everglades [or Everglades National Park; prompt on "Florida"] <Gupta>
+11. The most common region used in animal DNA barcoding is a stretch of 600 base pairs encoding a
+subunit of one of these proteins. After being released into the cytoplasm, one of these proteins binds to
+Apaf-1, initiating the instrinsic apoptosis pathway. In phase I of drug metabolism, polar groups are
+introduced to chemicals by the P450 oxidase type of these proteins. One of these proteins in the thylakoid
+membrane transfers electrons between (*) photosystems II and I. One of these proteins gets reduced by the
+oxidation of coenzyme Q in Complex III, and four of them each transfer an electron to one oxygen molecule to
+make water in Complex IV. For 10 points, name these heme-containing proteins whose "c" variety plays a key role
+in the electron transport chain.
+ANSWER: cytochromes [accept cytochrome c oxidase; accept cytochrome b6f; accept cytochrome bc1]
+<Gupta>
+12. In one work by this man, a judge named Bridoye reveals that he has always doled out sentences by
+rolling dice. This author was said to have employed the trope of the "grotesque body" to critique the wars
+of his time in a Mikhail Bakhtin study named after this man "and his world". Another of this man's
+characters determines whether or not he should get married by making a journey to (*) Bacbuc, where he is
+told to "drink!" One of this author's title characters builds a religious institution which has the motto "Do what
+thou wilt". This author satirized contemporary religion by creating the Oracle of the Holy Bottle and the Abbey of
+Theleme in a series of satirical novels named for two giants. For 10 points, name this French creator of Gargantua
+and Pantagruel.
+ANSWER: Francois Rabelais [or Alcofribas Nasier] <Jose>
+13. The lands belonging to these people were partitioned during a period known as "The Ruin." These
+people formed a vassal state after rebelling against the rule of foreign magnates in the Khmelnytsky
+Uprising, which marked the beginning of The Deluge. The words "Volga, Volga" begin a popular folk
+song about a leader of these people named Stenka Razin. These people formed a (*) "hetmanate" called the
+Zaporizhian host. One of their leaders impersonated Peter III and led a 1773 rebellion against Catherine the Great.
+Yemelyan Pugachev was a member of these people, many of whom lived around the Don or Dnieper River. For 10
+points, name these nomadic warrior people who alternately rebelled against or fought for Russia.
+ANSWER: Cossacks <Wang>
+14. In statistical mechanics, the expected number of these particles in a given state is inversely
+proportional to an exponential weight minus one. Composite particles that belong to this general class are
+the basis for the BCS theory of superconductivity. These particles leave the sign of the wavefunction
+unchanged upon particle exchange and include (*) Cooper pairs. They do not obey the Pauli exclusion
+principle because they obey a set of statistics named for their namesake and Einstein. Photons are an example of the
+"gauge" type of these particles that have integer spin. For 10 points, name this particle whose Higgs type was
+discovered at the Large Hadron Collider.
+ANSWER: bosons <Eltinge>
+
+PACE NSC 2015 - Round 14 - Page 4 of 13
+
+15. The Getty Museum contains a portrait study by this artist of a model from Santo Domingo named
+Joseph with upturned eyes. During a trip to Rome, he painted a nude man holding back a terrified horse
+before it takes off down the Corso. The psychiatrist Étienne-Jean Georget commissioned him to make
+Portrait of a Kleptomaniac, for which this artist visited an (*) insane asylum. In another painting, a military
+officer is seated almost completely turned around on his rearing horse, and brandishes a curved sword. This artist of
+Race of the Riderless Horses and The Charging Chasseur also painted a black man standing atop a human pyramid and
+waving a rag to attract a distant ship. For 10 points, name this French painter of The Raft of the Medusa.
+ANSWER: Jean Louis Theodore Gericault <Bentley>
+16. Frank Ramsey translated this book into English at Cambridge while its author was allegedly twisting
+kids' ears as a provincial schoolteacher. According to this book, facts can be combined into a "picture"
+which has a "representing relation" to reality, though the limits of one's language are the limits of one's
+world. This book's author later rejected that theory in favor of a "family resemblances" theory of meaning.
+This book, which inspired the pro-science (*) Vienna Circle, has a title paralleling a book on religion by Baruch
+Spinoza. It starts by asserting "The world is everything that is the case" and ends "What we cannot speak of, we
+must pass over in silence." For 10 points, name this attempt to solve all of philosophy, a short early work by Ludwig
+Wittgenstein.
+ANSWER: Tractatus Logico-Philosophicus [prompt on Ludwig Wittgenstein's Tractatus] <Jackson>
+17. The Cave of Ramban in this place is considered the final resting place of Nachmanides. In the birkat
+hamazon, a set of blessings said after consuming bread, the third blessing concerns this place. The
+Talmudic legend about Akiva being a "lyre for all your songs" inspired a popular song about this place
+"of Gold." Many Passover services end with the participants singing the song (*) "Next Year in" this place.
+A pair of historical tragedies in this city is remembered on the Ninth of Av. Its "Old City" includes a popular site of
+lamentation, the Western Wall, as well as the Temple Mount, the place where the Tabernacle was kept within the
+Holy of Holies. For 10 points, name this city where many Jews believe a Third Temple will be built in end times.
+ANSWER: Jerusalem [or Yerushalayim; or Old City until mentioned; accept Upper Kidron Valley until "this
+city" is read; accept Wadi al-Joz until "this city" is read] <Gupta>
+18. In this novel, a character promotes healthy living with initiatives like Banish the Booze Week and
+Better Babies Week. Joyce Lanyon enters a loveless marriage with this novel's main character before he
+moves to Vermont at this book's end. A woman in this novel dies after smoking a half-finished cigarette
+while on St. Hubert. This novel's title character hosts a lunch to which he invites his two fiancees, of
+whom he eventually chooses a native of Wheatsylvania, North Dakota named (*) Leora Tozer. The
+protagonist of this book grows up in Elk Mills in the state of Winnemac, and discovers the X Principle while
+working with fellow scientists Terry Wickett and Max Gottlieb. For 10 points, name this novel by Sinclair Lewis,
+whose title character is a doctor named Martin.
+ANSWER: Arrowsmith <Sy>
+19. One player of this instrument collaborated on the album At Basin Street with Clifford Brown. Another
+player of this instrument played on a duet with Sonny Rollins on the song The Surrey with the Fringe on
+Top. Two players of this instrument collaborated on an album that contains tracks of each of their
+"blues". In 1952, those two players "battled" at a Carnegie Hall concert. Another player of this instrument
+recorded the album (*) Moanin along with his Jazz Messengers. Played by Max Roach and Art Blakey, this
+instrument joins the piano and a bass in the normal lineup of a jazz trio. Players of this instrument frequently use
+the hi-hat and sometimes use brushes. For ten points, name this instrument played by Gene Krupa and Buddy Rich,
+a percussion instrument.
+ANSWER: drums [ or drum kit; prompt on percussion] <Puma>
+
+PACE NSC 2015 - Round 14 - Page 5 of 13
+
+20. The Haldane Mission attempted to curb the spending on these objects. Horace de Vere Cole
+pretended to be part of a delegation from Abyssinia so that he and his friends, including Virginia Woolf,
+could visit one of these objects. This was the less common of the two objects that the country meeting the
+"two-power standard" built more of. Alfred von Tirpitz urged the construction of both the normal and (*)
+pocket type of these objects. A 5:5:3 ratio of these objects was fixed at the 1921-22 Washington Arms Conference.
+A generation of these objects known as "dreadnoughts" were revolutionary for their steam turbines and all-big-gun
+armaments. For 10 points, name these vehicles that the Germans and British competed to build in an early 20th
+century naval arms race.
+ANSWER: battleships [prompt on ships; prompt on warships] <Gupta>
+
+PACE NSC 2015 - Round 14 - Page 6 of 13
+
+21. The protagonist of a novel by this author receives a letter containing a $5000 bill, which he refers to as a
+"portrait of Madison". An affair with Linda Loring and threats from Mendy Menendez complicate the plot
+of a novel by this author in which the protagonist attempts to keep Roger Wade sober and eventually
+learns that Paul Marston and Terry Lennox are the same person. The blackmail efforts of Arthur Geiger
+prompt General Sternwood to hire the protagonist, who learns that Eddie (*) Mars helped Vivian Sternwood
+conceal her sister Carmen's murder of Rusty Regan, in a novel by this author titled for a euphemism for death. For
+10 points, name this author of hardboiled novels like The Long Goodbye and The Big Sleep, which both star his
+detective Philip Marlowe.
+ANSWER: Raymond Chandler [or Raymond Thornton Chandler] <Carson>
+22. Edmund Morris wrote a semi-fictional biography of this man titled Dutch. This man signed the US's
+first no-fault divorce law into law. This man asked "Will [future generations] look back with appreciated
+and say, 'Thank God for those people … who headed off that loss of freedom?’” in his “A Time for
+Choosing" speech. During a debate against an incumbent president, this man asked the audience, "Are
+you better off than you were four years ago?" As president, this man defeated an (*) air traffic controller
+strike, launched Operation Urgent Fury against Grenada, and survived an assassination attempt from John
+Hinckley. For 10 points, name this president who defeated Jimmy Carter to become president in the election of
+1980.
+ANSWER: Ronald Wilson Reagan <Bentley>
+23. Madin-Darby canine cells from this organ are commonly used for vaccine manufacture. Drugs like
+ethacrynic acid and furosemide act on this organ to treat edema and hypertension. Foot processes link
+podocytes to this organ's basement membrane. Intercalated cells in this organ strongly express sodiumproton antiporters. Calcium oxalate is the major component of a namesake (*) mineral concretion that forms
+in this organ. ADH stimulates this organ's collecting ducts to express aquaporins for osmoregulation.
+Countercurrent exchange in this organ through two tubules, an ascending limb, and the descending limb of the loop
+of Henle moderates glucose, sodium, and water concentration. For 10 points, name this organ whose nephrons
+filter blood.
+ANSWER: kidneys [or glomerulus] <Silverman>
+24. In both of these two countries, a football chant was co-opted into a slogan denouncing a political
+leader as a "dickhead." The colloquial term "little green men" refers to masked soldiers in one of these
+two countries armed with military equipment provided by the other. One of these two countries routinely
+demonizes the far-right wing Right Sector party in the other. One of these two countries issued passports
+to members of the secret police force (*) Berkut after it was dissolved by the other country. Both of these two
+countries have been blamed for shooting down Malaysian Airlines Flight 17 during their ongoing war in the region
+of Donbass. For 10 points, name these two countries whose relationship soured when one annexed Crimea from
+the other.
+ANSWER: Russia and Ukraine [or Russian Federation and Ukraine; or Rossiya and Ukrayina; accept answers
+listing the countries in either order] <Gupta>
+
+PACE NSC 2015 - Round 14 - Page 7 of 13
+
+PACE NSC 2015 - Round 14 - Bonuses
+1. This man proposed that an apple falls from the tree because its nature compels it to return to earth and fulfill its
+final cause, or telos. For 10 points each:
+[10] Name this Greek philosopher who analyzed why things are the way they are in terms of "four causes." He
+tutored Alexander the Great and founded the Lyceum a generation after Plato's Academy.
+ANSWER: Aristotle of Stagira [or Aristoteles]
+[10] In discussing material versus formal causes, Aristotle claimed the claim that you can't make one of these places
+by just dumping a pile of bricks somewhere. In an ancient Greek polis, each male citizen ran an oikos centered
+around one of these places.
+ANSWER: household [or homes; or estates; prompt on buildings]
+[10] When people today say the verb "cause," they mean this third of Aristotle's four causes, the actual instigator
+which brings about an event. When building a house, the work of a builder to assemble the bricks is this type of
+cause.
+ANSWER: efficient causes <Jackson>
+2. Answer the following about the economic history of sandalwood, for 10 points each.
+[10] In the early 19th century, sandalwood was the chief export of this kingdom, which the Chinese called "Tan
+Heong Shan," meaning "fragrant sandalwood mountains". Sugar planters backed the Bayonet Constitution in the
+final years of this kingdom's independence.
+ANSWER: Kingdom of Hawai'i [or Hawaiian Empire]
+[10] Sandalwood, silver and this other good were practically the only goods China imported during the 19th century.
+Unease about British smugglers of this narcotic, which the British grew in India, led to its two namesake wars in
+China.
+ANSWER: opium [or poppy tears; or Opium Wars]
+[10] Americans first traded sandalwood obtained from this island group, which was once dominated by King
+Cakobau of the Bau Kingdom. Mahendra Chaudhry was the first person of Indian ancestry to become prime
+minister of this Commonwealth nation.
+ANSWER: Republic of Fiji [or Viti] <Bentley>
+3. Kenneth Clark wrote that this sculpture ushered in a new age where "the pleasure in the human body once more
+became a permissible subject of art". For 10 points each:
+[10] Identify this first bronze sculpture of an unsupported nude cast since antiquity. It was commissioned by
+Cosimo de Medici in 1440.
+ANSWER: David
+[10] David was sculpted by this Renaissance master. An earlier statue of David by this artist stood in the Palazzo
+Vecchio but was later overshadowed by a bigger David by Michelangelo.
+ANSWER: Donatello
+[10] Donatello also made sculptures of Saints Mark and George for the niches of this Florentine church, which was
+once used as a grain storehouse. Nanni di Banco's Four Crowned Saints occupies another niche here.
+ANSWER: Orsanmichele [or "Kitchen Garden of St. Michael"] <Bentley>
+
+PACE NSC 2015 - Round 14 - Page 8 of 13
+
+4. This equation relates the Hamiltonian operator to the energy operator, the latter of which is given by i times hbar times d over d-t. For 10 points each:
+[10] Name this equation whose Austrian creator also names a thought experiment involving a cat.
+ANSWER: Schroedinger wave equation
+[10] The Schroedinger equation is an example of this general class of equations, which involves the derivatives of
+functions of more than one variable. Other examples from physics include the heat equation and the general wave
+equation.
+ANSWER: partial differential equation [or PDE; prompt on partial answer]
+[10] One can solve the Schroedinger equation using this semiclassical method, in which the wavefunction is
+described by an exponential with slowly changing amplitude and phase.
+ANSWER: WKB approximation [or Wentzel-Kramers-Brillouin approximation; or LG method; or LiouvilleGreen method] <Neithalath>
+5. This man rallies his followers by repeatedly asking "is there still powder in your flasks?" in a battle that sees the
+death of the hetman Kukubenko. For 10 points each:
+[10] Name this Cossack who shoots his son Andriy for betraying him for a Polish girl. He burns numerous towns in
+revenge for the killing of his son Ostap, before being burned alive himself.
+ANSWER: Taras Bulba [accept either name]
+[10] "Taras Bulba" is a story by this Ukrainian author of "The Nose", who wrote about Chichikov's scheme to
+acquire the rights to deceased serfs in his novel Dead Souls.
+ANSWER: Nikolai Vasilievich Gogol
+[10] In this other Gogol story, the ghost of Akaky Akakievich wanders St. Petersburg stealing the title garment after
+he dies from being ridiculed by a high-ranking official.
+ANSWER: "The Overcoat" [or "Shinel"] <Yu>
+6. This person was sent an anonymous e-mail stating, "You asked why I chose you. I didn't. You chose yourself".
+For 10 points each:
+[10] Identify this documentarian who opened her Oscar-winning 2014 film, Citizenfour, by reading those and other emails concerning government surveillance.
+ANSWER: Laura Poitras
+[10] The aforementioned e-mail was sent by this NSA whistleblower. With the help of journalists such as Glenn
+Greenwald, this former sysadmin publicized the PRISM program.
+ANSWER: Edward Snowden [or Ed Snowden or Edward Joseph Snowden]
+[10] Greenwald published some of the first stories based on Snowden's information in this newspaper, which also
+broke the News of the World phone hacking scandal.
+ANSWER: The Guardian <Bentley>
+7. In the Exclusion Crisis, Parliament tried to remove this king's brother from the lines of succession due to his
+Catholicism. For 10 points each:
+[10] Name this king of England who came to power in 1660 and presided over the Restoration of the English
+monarchy.
+ANSWER: Charles II [or the Merry Monarch; prompt on Charles]
+[10] The Exclusion Crisis unfolded after the Anglican clergyman Titus Oates lied about this conspiracy by claiming
+that Catholics were planning to kill Charles. This plot gained little traction until Edmund Godfrey, the magistrate to
+whom Oates gave his "evidence," was found murdered.
+ANSWER: Popish Plot
+[10] This early Whig politician arrested five Catholic Lords pinpointed by Oates as being in on the plot, and cooked
+up the plan to exclude Charles's brother James. He also furthered the philosophical career of his secretary, John
+Locke.
+ANSWER: Anthony Ashley Cooper [or Anthony Ashley Cooper, 1st Earl of Shaftesbury; or Sir Anthony Ashley
+Cooper, 2nd Baronet; or The Lord Ashley] <Gupta>
+PACE NSC 2015 - Round 14 - Page 9 of 13
+
+8. This man takes care of Adele Varens, who was abandoned by her mother, a French dancer. For 10 points each:
+[10] Name this husband of Bertha Mason, who marries the title character of a novel after she returns from the
+house of St. John Rivers.
+ANSWER: Edward Rochester [accept either underlined portion]
+[10] Edward Rochester marries Jane Eyre, the protagonist of this woman's most famous novel. This author of
+Villette is the eldest of her sisters.
+ANSWER: Charlotte Bronte [prompt on Bronte; prompt on "Currer Bell"]
+[10] This seamstress, another woman employed by Mr. Rochester, is who Jane originally believes is the source of the
+sounds on the third floor. This woman turns out to be the caretaker of Bertha Mason.
+ANSWER: Grace Poole [accept either underlined portion] <Sy>
+9. This equation could be used to estimate the extent of ionization of ferrous ions to ferric ions in solution. For 10
+points each:
+[10] Name this equation which can be used to calculate very dilute concentrations of ions, which is why it is applied
+by glucose sensors and sensitive pH meters. A constant factor of 0.059 is included in this equation at standard
+conditions.
+ANSWER: Nernst equation
+[10] The concentrations are included in this term of the Nernst equation. When this quantity is larger than the
+equilibrium constant, Le Chatelier's principle predicts the equilibrium will shift towards the reactants.
+ANSWER: reaction quotient [or Q]
+[10] The shift occurs to minimize this quantity at equilibrium. This form of free energy is symbolized G.
+ANSWER: Gibbs free energy <Silverman>
+10. This monster has four eyes, six necks, twelve legs, a cat's tail, and four to six dog heads around its waist. For 10
+points each:
+[10] Name this woman loved by the fish-like Glaucus. Circe, who loves Glaucus, transforms this woman into a
+monster in jealousy.
+ANSWER: Scylla
+[10] Scylla eats six crew-members of this hero during his ten-year journey back from Troy chronicled in a namesake
+epic by Homer.
+ANSWER: Odysseus [or Ulysses]
+[10] In some accounts, Scylla was never a beautiful woman, but is spawned in her monster form by this couple, who
+also beget the Gorgons, the Graeae, and Echidna.
+ANSWER: Phorcys and Ceto [accept in either order; prompt on partial answer] <Kim>
+11. A "fleshy" structure of this kind called the galbulus is produced by junipers and cypresses. For 10 points each:
+[10] Name these geometrically-elegant reproductive structures consisting of scales arranged spirally in accordance to
+the Fibonacci ratio, that are produced by the most abundant group of gymnosperms.
+ANSWER: cones
+[10] Conifer cones produce these structures, consisting of an embryonic plant and surrounding stored food,
+encapsulated in a coat. Flowering plants use fruits to disseminate these objects.
+ANSWER: seeds
+[10] This living fossil, a unique species of tree in its own order within the gymnosperms, is native to China and has
+unusually fan-shaped leaves growing on erratic branches.
+ANSWER: Ginkgo biloba [or gingko; or maidenhair tree] <Gupta>
+
+PACE NSC 2015 - Round 14 - Page 10 of 13
+
+12. One symphonic poem by this composer contrasts a theme representing the Sultan with a winding theme first
+introduced in a violin solo. For 10 points each:
+[10] Name this Russian composer, a member of The Five who wrote Scheherazade and used hymns from the Obikhod
+in Russian Easter Festival Overture.
+ANSWER: Nikolai Andreyevich Rimsky-Korsakov
+[10] This five-movement orchestral suite by Rimsky-Korsakov, which imitates music of the title nationality, has a
+"Scena e canto gitano" that opens with five cadenzas. It ends with a "Fandango asturiano."
+ANSWER: Capriccio Espagnol [or Spanish Capriccio]
+[10] The first and third movements of Capriccio Espagnol are this kind of piece played during sunrises. Ravel included
+one of these "del Gracioso" in Miroirs.
+ANSWER: alborada [or aubade] <Kothari>
+13. In probability theory, an event is defined as a subset of this space. For 10 points each:
+[10] Name this space, which consists of all possible outcomes. For flipping a coin twice, there are four entries in this
+space.
+ANSWER: sample space
+[10] Since the set of outcomes for flipping a coin twice has this property, one defines a probability mass function
+over it, and not a density function. This word is often considered to be the opposite of continuous.
+ANSWER: discreteness [accept word forms]
+[10] This quantity is defined as the sum over all elements of the probability that an event occurs times the event's
+value. The square of this quantity and a squared random variable's value for this quantity appears in the definition
+for variance.
+ANSWER: expected value [accepted word forms, such as expectation value; do not accept or prompt on the
+"mean"] <Jose>
+14. Song dynasty scholar Su Shi contemplates a poem about the "bright moon" in the first of his fu titled for this
+place, which he often traveled to while in exile. For 10 points each:
+[10] Name this site of a climactic battle in which Liu Bei's advisor Zhuge ("joo-guh") Liang supposedly uses magic
+to summon an out-of-season southeasterly wind, and Sun Quan's ("chwan's") general Huang Gai pretends to
+defect in order to set fire to the villain's navy.
+ANSWER: Red Cliffs [or Chi Bi]
+[10] The losing side at the battle of Red Cliffs was led by this villainous general, whose son Pi founds the kingdom
+of Wei later in the novel.
+ANSWER: Cao Cao [prompt on partial answer; pronounced "tsow tsow" but accept a literal English reading like
+"cow cow"; accept Cao Mengde]
+[10] The Battle of Red Cliffs is fictionalized in this 14th century Chinese novel by Luo Guanzhong about the wars
+at the end of and after the Han dynasty. Its major focus is on the battles between Wei, Wu, and Shu.
+ANSWER: The Romance of the Three Kingdoms [or Sanguo yanyi; accept ROTK] <Yu>
+15. The News of the World ran an editorial claiming that this "evil star" deliberately French kissed his Dynasty co-star
+Linda Evans in order to give her his disease. For 10 points each:
+[10] Identify this Hollywood star whose 1985 death helped draw attention to the AIDS epidemic.
+ANSWER: Rock Hudson [or Roy Harold Scheer, Jr.; or Roy Harold Fitzgerald]
+[10] Hudson managed to avoid this fate of many other Hollywood professionals at the height of the Red Scare. This
+term refers to bans on employing people with suspected ties to Communism.
+ANSWER: blacklisting [or being put on the Hollywood Blacklist]
+[10] Dalton Trumbo was among a set of this many Hollywood screenwriters who were blacklisted for refusing to
+answer questions at a HUAC hearing. The Constitutional amendment of this number reserves powers not delegated
+by the Constitution to the states or the people.
+ANSWER: ten [or Hollywood Ten; or Tenth Amendment to the United States Constitution] <Bentley>
+
+PACE NSC 2015 - Round 14 - Page 11 of 13
+
+16. The "second wave" of this movement included anti-pornography advocates Andrea Dworkin and Catherine
+MacKinnon, who described the world power structure as a "patriarchy". For 10 points each:
+[10] Name this movement for greater political, economic, and social equality, whose pioneers included Mary
+Wollstonecraft.
+ANSWER: feminism [or women's rights movement; or women's liberation movement]
+[10] This conservative woman fought against feminist efforts for an Equal Rights Amendment to the US
+Constitution. Her son Andrew runs Conservapedia.
+ANSWER: Phyllis Schlafly
+[10] This black author of Sisters of Yam, who used a Sojourner Truth quote to title her book Ain't I a Woman, writes
+about the intersection of black and third-world identities with feminism using an uncapitalized pen name.
+ANSWER: bell hooks [or Gloria Jean Watkins] <Jackson>
+17. Paul O'Rourke, a man in this profession, has his identity stolen by a religious group that thinks that he's an
+"Ulm" in Joshua Ferris' novel To Rise Again at a Decent Hour. For 10 points each:
+[10] Identify this profession shared by an inhabitant of San Francisco who kills his wife Trina to access her lottery
+winnings and ultimately dies of exposure after being handcuffed to Marcus Schouler in Death Valley.
+ANSWER: dentists [accept word forms like dentistry]
+[10] The latter dentist is the title character of McTeague, a novel by this American naturalist. His planned Epic of the
+Wheat trilogy includes a novel in which Laura Dearborn marries Curtis Jadwin, who becomes obsessed with grain
+speculation and trading, called The Pit.
+ANSWER: Frank Norris [or Benjamin Franklin Norris, Jr.]
+[10] This first novel in the Epic of the Wheat was inspired in part by the Mussel Slough Tragedy. In it, Magnus
+Derrick leads a league of wheat farmers opposed to the expansion of the Pacific & Southwestern Railroad, which is
+analogized to the title animal.
+ANSWER: The Octopus <Bentley>
+18. Answer the following about 17th century artists who used dramatic lighting, for 10 points each.
+[10] Light emerges from an unseen window to the right of the canvas in this Italian Baroque artist's The Calling of
+Saint Matthew.
+ANSWER: Caravaggio [or Michelangelo Merisi; do not prompt on just "Michelangelo"]
+[10] Caravaggio and Artemisia Gentileschi both painted eerily lit versions of this bloody scene from the Apocrypha,
+in which one title character decapitates the other after seducing her way into his tent.
+ANSWER: Judith beheading Holofernes [or Judith and Holofernes; or Judith Slaying Holofernes]
+[10] Representative canvases by this French artist include St. Joseph the Carpenter and a painting where Saint Jerome
+holds a candle to the piece of paper he's reading.
+ANSWER: Georges de La Tour <Bentley>
+19. After each of these events, Moses would ask "Let my people go," and after all but the last one, Pharaoh would
+refuse. For 10 points each:
+[10] Name these divine punishments which preceded the Exodus of the Israelites. They included a swarm of
+locusts, a cloud of darkness so thick that people could touch it, and the death of every Egyptian first-born son.
+ANSWER: the ten plagues of Egypt
+[10] Before the tenth plague, Israelites marked their doors with this substance so that the Angel of Death would
+know to pass over them -- hence the term "Passover."
+ANSWER: lamb's blood [prompt on blood]
+[10] In the Book of Exodus, this metaphor describes what God did to make Pharaoh stubborn and unwilling to
+listen to Moses or Aaron each time they pleaded for the Israelites' freedom.
+ANSWER: his heart was hardened [or the LORD hardened Pharaoh's heart] <Jackson>
+
+PACE NSC 2015 - Round 14 - Page 12 of 13
+
+20. One account says that the losing commander in this battle perished when the hut he was hiding in burned
+down. For 10 points each:
+[10] Identify this battle where Valens was killed by forces under Fritigern.
+ANSWER: Battle of Adrianople [or Battle of Hadrianopolis]
+[10] The Romans at Adrianople were defeated by an army of the Eastern branch of these "barbarians," whose
+Western branch gained control of Italy under Theodoric the Great. A leader of these people, Alaric, sacked Rome in
+410.
+ANSWER: Goths [or Ostrogoths or Visigoths]
+[10] The successor of Valens, Theodosius, made this council's version of Christianity into Rome's official religion.
+This eucemenical council, held in 325, condemned Arianism and resulted in the creation of a namesake creed.
+ANSWER: First Council of Nicaea <Bentley>
+21. At one meeting, this faction's views were defended by their spokesman Thomas Rainsborough. For 10 points
+each:
+[10] Name this political movement prominently supported by John Lilburne, which published the Agreement of the
+People. They weren't as extreme as the Diggers, whose demands for equality among male Englishmen went even
+further.
+ANSWER: Levellers
+[10] The Agreement of the People was rejected by the New Model Army in favor of the more conservative Heads of
+Proposals at this series of debates in 1647.
+ANSWER: Putney Debates
+[10] The New Model Army fought for this legislative body, and against the king, in the English Civil War.
+ANSWER: English Parliament <Wang>
+22. This character wakes up thinking of the word "Shakespeare" after dreaming of a sunny pasture called the
+"Golden Country". For 10 points each:
+[10] Name this man who betrays his lover when he is threatened with a "common punishment in Imperial China," a
+wire cage full of rats.
+ANSWER: Winston Smith [accept either underlined portion]
+[10] Winston Smith is tortured by O'Brien in this dystopian novel by George Orwell.
+ANSWER: Nineteen Eighty-Four [or 1984]
+[10] During the torture, O'Brien presents Winston with a photo exonerating three former Inner Party members of
+the crimes for which they were executed, and Winston recalls seeing them in the Chestnut Tree Café before their
+deaths. Name any one of them.
+ANSWER: Jones [or Aaronson; or Rutherford] <Yu>
+23. The K type of these devices is composed of mainly chromium and aluminum. For 10 points each:
+[10] Name these sensitive temperature monitors that work according to the Seebeck effect. They register a voltage
+when the temperature is changed, due to an internal junction of two different conductors.
+ANSWER: thermocouples
+[10] The Seebeck effect is a result of a difference in this quantity for the two conductors. This quantity is the
+amount of energy required to excite an electron from the surface of a metal in the photoelectric effect.
+ANSWER: work function [prompt on phi]
+[10] The photoelectric effect was first identified by this German physicist, who placed a spark gap in a box and
+applied UV radiation. The SI unit of frequency is named for him.
+ANSWER: Heinrich Hertz <Silverman>
+
+PACE NSC 2015 - Round 14 - Page 13 of 13
+
+
