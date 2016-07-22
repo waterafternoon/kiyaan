@@ -5,6 +5,12 @@ import time
 import re
 import fileinput
 import random
+import os
+
+if os.name == 'nt':
+    Windows = True
+else:
+    Windows = False
 
 #import sqlite3
 #conn = sqlite3.connect('bowlquestions.db')
@@ -31,6 +37,7 @@ desireddifficulty = "CA"
 #CN = Nationals
 
 dirpath = ".\\"+ foldername + "\\*"
+if Windows == False: dirpath = "./"+foldername+"/*"
 packlist = glob.glob(dirpath)
 
 alltossups = list()
@@ -38,7 +45,6 @@ allbonus = list()
 alllightning = list()
 alltiered = list()
 
-#import random
 
 x=0
 
@@ -120,10 +126,6 @@ def extract_bonus(bonus):
 #	print(re.findall(r"\nANSWER.*\nANSWER.*",bonus))
 	
 	bonus = remove_double(bonus)
-
-	filehandle=open(".\\testfolder\\ayy2.txt","a")
-#	filehandle.write(bonus)
-	filehandle.close()	
 	
 #	writetest(bonus)
 	bonuslist = re.findall(r"\d{1,2}\..*?\rANSWER.*?\rBONUS.*?\rANSWER.*?\r",bonus)
@@ -172,7 +174,14 @@ def extract_tiered(tiered):
 	return tieredlist
 
 def presanitize(filepath):
-	filehandle=open(filepath,"r")
+	#filehandle=open(filepath,"r")
+	if Windows == True: 
+		filehandle = open(filepath,"r")
+	else:
+		filehandle = open(filepath,"r",encoding="ISO-8859-1")
+
+	
+	
 	filestring=filehandle.read()
 	filehandle.close()
 
@@ -210,32 +219,25 @@ def strip_number(listofqs):
 	return listofqs2
 	
 def writetest(teststring):
-	filehandle=open(".\\testfolder\\ayy.txt","w+")
+	if Windows == True: filehandle=open(".\\testfolder\\ayy.txt","w+")
+	else: filehandle=open("./testfolder/ayy.txt","w+")
 	filehandle.write(teststring)
 	filehandle.close()	
 
 def append(testlist):
-	filehandle=open(".\\testfolder\\ayy.txt","w+")
+	if Windows == True: filehandle=open(".\\testfolder\\ayy.txt","w+")
+	else: filehandle=open("./testfolder/ayy.txt","w+")
 	for item in testlist:
 		filehandle.write("%s\n\r" % item)
 	#i have to admit, i copy-pasted the above two lines of code from stackoverflow. I don't know how this works.
 	filehandle.close()	
 	print("appendtest is being accessed")
-
-def listtofile(filename,list):
-	tfln = ".\\testfolder\\"+filename+".txt"
-	filehandle=open(tfln,"w+")
-	for item in testlist:
-		filehandle.write("%s\n\r" % item)
-	#i have to admit, i copy-pasted the above two lines of code from stackoverflow. I don't know how this works.
-	filehandle.close()
-	print("listtofile is being accessed")
 	
 for filepath in packlist:
-#	print("accessing file",filepath,x)
-#	print("using the following file as a test")
-#	filepath = r".\\testfolder\\nhbb (121).txt"
-	textfile = open(filepath,"r+")
+	if Windows == True: 
+		textfile = open(filepath,"r+")
+	else:
+		textfile = open(filepath,"r+",encoding="ISO-8859-1")
 	difficulty = id_difficulty(textfile)
 	textfile.close()
 
@@ -296,8 +298,17 @@ for x in range(numberofpackets):
 	tempx = x + 1
 	if tempx < 10: tempx = "0" + str(tempx)
 	else: pass
-	filename = ".\\export\\" + str(tempx) + packetnameheader + ".txt"
-	filehandle = open(filename,'w+')
+
+	if Windows == True: 
+		filename = ".\\export\\" + str(tempx) + packetnameheader + ".txt"
+	else: 
+		filename = "./export/" + str(tempx) + packetnameheader + ".txt"
+	
+	
+	if Windows == True: 
+		filehandle = open(filename,'w+')
+	else: 
+		filehandle = open(filename,'w+',encoding="ISO-8859-1")
 	
 	fc,sc = 0,0	#0-9, 10-19, 20-29
 #	packettossups = samtossups[1]
@@ -324,7 +335,8 @@ for x in range(numberofpackets):
 	packet = packettossups + packetbonus + packetlightning + packettiered
 	
 	if createpacket == True: 
-		for item in packet: filehandle.write("%s\n" % item)
+		for item in packet: 
+			filehandle.write("%s\n" % item)
 	else: pass
 	filehandle.close()	
 	
