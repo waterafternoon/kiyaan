@@ -6,23 +6,18 @@ import re
 import fileinput
 import random
 import os
+import sys
 
 if os.name == 'nt':
     Windows = True
 else:
     Windows = False
 
-#import sqlite3
-#conn = sqlite3.connect('bowlquestions.db')
-
 foldername = "bowl"
-#donefolder = "donefolder"
 
 createpacket = True
-#above lets you toggle actually creating packets. useful if you want to debug or test someting.
 
 #below is the number of questions per category, in the case of q3q, it's the number of categories
-#confused about q3q? think about it for a second.
 q1q=10
 q2q=8
 q3q=3
@@ -107,7 +102,6 @@ def extract_tossup(tossup):
 	tossuplist = re.findall(r"\d{1,2}\..*?\rANSWER:.*?\r",tossup)
 	tossuplist = strip_number(tossuplist)
 	
-#	appendtest(tossuplist)
 	return tossuplist
 	
 def extract_bonus(bonus):
@@ -130,7 +124,6 @@ def extract_bonus(bonus):
 #	writetest(bonus)
 	bonuslist = re.findall(r"\d{1,2}\..*?\rANSWER.*?\rBONUS.*?\rANSWER.*?\r",bonus)
 	bonuslist = strip_number(bonuslist)
-#	appendtest(bonuslist)
 
 #	some stupid shortcut
 	return bonuslist
@@ -155,7 +148,7 @@ def extract_lightning(lng):
 	#i'm lazy. this line of code is probably going to bite me in the ass when i adapt this for bee and other types of packets
 	
 	lightninglist = re.findall(r"(CATEGORY.*?)ENDOFCAT",lng)
-#	appendtest(lightninglist)
+
 	return lightninglist
 
 def extract_tiered(tiered):
@@ -170,19 +163,24 @@ def extract_tiered(tiered):
 	tieredlist = re.findall(r"\d{1,2}\..*?\rANSWER:.*?\r",tiered)
 	tieredlist = strip_number(tieredlist)
 	
-#	appendtest(tieredlist)
 	return tieredlist
 
 def presanitize(filepath):
-	#filehandle=open(filepath,"r")
 	if Windows == True: 
 		filehandle = open(filepath,"r")
 	else:
-		filehandle = open(filepath,"r",encoding="ISO-8859-1")
+		filehandle = open(filepath,"r",encoding="cp1252")
 
 	
-	
+#	import chardet
 	filestring=filehandle.read()
+
+#	filestring = filestring.decode(encoding='latin-1')
+#	print(type(filestring))
+#	sys.exit()
+
+#	print(filestring)
+	
 	filehandle.close()
 
 	for i in range(5): filestring = re.sub(r"  "," ",filestring)
@@ -218,26 +216,11 @@ def strip_number(listofqs):
 	#that's right, take off those numbers.
 	return listofqs2
 	
-def writetest(teststring):
-	if Windows == True: filehandle=open(".\\testfolder\\ayy.txt","w+")
-	else: filehandle=open("./testfolder/ayy.txt","w+")
-	filehandle.write(teststring)
-	filehandle.close()	
-
-def append(testlist):
-	if Windows == True: filehandle=open(".\\testfolder\\ayy.txt","w+")
-	else: filehandle=open("./testfolder/ayy.txt","w+")
-	for item in testlist:
-		filehandle.write("%s\n\r" % item)
-	#i have to admit, i copy-pasted the above two lines of code from stackoverflow. I don't know how this works.
-	filehandle.close()	
-	print("appendtest is being accessed")
-	
 for filepath in packlist:
 	if Windows == True: 
 		textfile = open(filepath,"r+")
 	else:
-		textfile = open(filepath,"r+",encoding="ISO-8859-1")
+		textfile = open(filepath,"r+",encoding="cp1252")
 	difficulty = id_difficulty(textfile)
 	textfile.close()
 
@@ -290,7 +273,6 @@ print("there are "+str(len(alllightning)) + " lightning categories")
 samtiered = random.sample(alltiered,q4q*nop)
 print("there are "+str(len(alltiered)) + " tiered questions")
 
-#appendtest(alllightning)
 
 print(str(min(len(alltiered)/q4q,len(alllightning)/q3q,len(allbonus)/q2q,len(alltossups)/q1q)) + " packets can be created.")
 	
@@ -308,7 +290,7 @@ for x in range(numberofpackets):
 	if Windows == True: 
 		filehandle = open(filename,'w+')
 	else: 
-		filehandle = open(filename,'w+',encoding="ISO-8859-1")
+		filehandle = open(filename,'w+',encoding="cp1252")
 	
 	fc,sc = 0,0	#0-9, 10-19, 20-29
 #	packettossups = samtossups[1]
@@ -328,11 +310,18 @@ for x in range(numberofpackets):
 	packetbonus = assign_numbers(packetbonus)
 	packettiered = assign_numbers(packettiered)
 
-	packettossups.append("Quarter Two")
-	packetbonus.append("Quarter Three")
-	packetlightning.append("Quarter Four")
+	newpacketlightning = list()
+	for item in packetlightning:
+		newpacketlightning.extend([item,"\n"])
+
+	packetlightning = newpacketlightning
+
+	packettossups.insert(0,"Quarter One")
+	packetbonus.insert(0,"Quarter Two")
+	packetlightning.insert(0,"Quarter Three")
+	packettiered.insert(0,"Quarter Four")
 	
-	packet = packettossups + packetbonus + packetlightning + packettiered
+	packet = packettossups + ["\n\n"] + packetbonus + ["\n\n"] + packetlightning + ["\n\n"] + packettiered
 	
 	if createpacket == True: 
 		for item in packet: 
