@@ -5,6 +5,13 @@ import time
 import re
 import fileinput
 import random
+import os
+
+
+if os.name == 'nt':
+    Windows = True
+else:
+    Windows = False
 
 foldername = "bee"
 #donefolder = "generatedbeepackets"
@@ -29,6 +36,8 @@ desireddifficulty = "CC"
 packetnameheader = "Bee" + desireddifficulty + "_"
 
 dirpath = ".\\"+ foldername + "\\*"
+if Windows == False: dirpath = "./"+foldername+"/*"
+
 packlist = glob.glob(dirpath)
 
 alltossups = list()
@@ -90,7 +99,7 @@ def extract_tossup(tossup):
 	return tossuplist
 
 def presanitize(filepath):
-	filehandle=open(filepath,"r")
+	filehandle=open(filepath,"r",encoding="cp1252")
 	filestring=filehandle.read()
 	filehandle.close()
 
@@ -126,24 +135,9 @@ def strip_number(listofqs):
 	#that's right, take off those numbers.
 	return listofqs2
 
-#the next three functions are for debugging.
-#if you've taken liebenau's class, you still need another semester to understand this if you haven't studied by yourself.
-def writetest(teststring):
-	filehandle=open(".\\testfolder\\ayy.txt","w+")
-	filehandle.write(teststring)
-	filehandle.close()	
-	print("writetest is being used")
-
-def appendtest(testlist):
-	filehandle=open(".\\testfolder\\ayy.txt","w+")
-	for item in testlist:
-		filehandle.write("%s\n\r" % item)
-	filehandle.close()	
-	print("appendtest is being used")
-
 def listtofile(filename,list):
 	tfln = ".\\testfolder\\"+filename+".txt"
-	filehandle=open(tfln,"w+")
+	filehandle=open(tfln,"w+",encoding="cp1252")
 	for item in testlist:
 		filehandle.write("%s\n\r" % item)
 	#i have to admit, i copy-pasted the above two lines of code from stackoverflow. I don't know how this works.
@@ -154,7 +148,7 @@ for filepath in packlist:
 #	print("accessing file",filepath,x)
 #	print("using the following file as a test")
 #	filepath = r".\\testfolder\\nhbb (121).txt"
-	textfile = open(filepath,"r+")
+	textfile = open(filepath,"r+",encoding="cp1252")
 	difficulty = id_difficulty(textfile)
 	textfile.close()
 
@@ -197,7 +191,7 @@ for x in range(numberofpackets):
 	if tempx < 10: tempx = "0" + str(tempx)
 	else: pass
 	filename = ".\\export\\" + str(tempx) + packetnameheader + ".txt"
-	filehandle = open(filename,'w+')
+	filehandle = open(filename,'w+',encoding="cp1252")
 
 	packettossups = samtossups[(x*q1q):((x+1)*q1q)]
 	
