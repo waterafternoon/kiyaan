@@ -39,3 +39,4 @@ the fileprefix to something other than Stockholm?
 ### Timeline
 
 2016-7-19 Added questioncutter.py
+2016-8-7 Made things compatible with OSX and Linux
