@@ -3,8 +3,17 @@ import time
 import re
 import fileinput
 import random
+import os
+import sys
+
+if os.name == 'nt':
+    Windows = True
+else:
+    Windows = False
 
 foldername = "altpackets\\2015 PACE NSC"
+if Windows == False: foldername = "altpackets/2015 PACE NSC"
+
 packetnameheader = "_PACE Shuffle"
 all_extracted_questions = "question_cutter_all.txt"
 
@@ -82,21 +91,10 @@ def assign_numbers(packetquestions):
 		questionnumber = questionnumber +1
 		if questionnumber >= 24601: print("http://i2.kym-cdn.com/photos/images/original/000/878/073/2a2.gif")
 	return numberedquestions
-	
-def writetest(teststring):
-	filehandle=open(".\\testfolder\\ayy.txt","w+")
-	filehandle.write(teststring)
-	filehandle.close()	
-	print("writetest is being used")	
-
-def appendtest(testlist):
-	filehandle=open(".\\testfolder\\ayy.txt","w+")
-	for item in testlist:
-		filehandle.write("%s\n\r" % item)
-	filehandle.close()	
-	print("appendtest is being used")
 
 dirpath = ".\\"+ foldername + "\\*"
+if Windows == False: dirpath = "./"+foldername+"/*"
+
 packlist = glob.glob(dirpath)
 print("using files from this directory:", dirpath)
 
@@ -110,6 +108,8 @@ for filepath in packlist:
 	questionlist.extend(extracted_questions)
 
 aeq_path = ".\\export\\" + all_extracted_questions
+if Windows == False: aeq_path = "./export/" + all_extracted_questions
+
 with open(aeq_path,"w+",encoding="utf8") as aeq_handle: 
 	for q in questionlist:
 		aeq_handle.write("%s\n" % q)
@@ -127,6 +127,8 @@ for x in range(numberofpackets):
 	if namesuffix < 10: namesuffix = "0" + str(namesuffix)
 	else: pass
 	filename = ".\\export\\" + str(namesuffix) + packetnameheader + ".txt"
+	if Windows == False: filename = "./export/" + str(namesuffix) + packetnameheader + ".txt"
+	
 	filehandle = open(filename,'w+',encoding="utf8")
 	
 	fc,sc = 0,0	#0-9, 10-19, 20-29
